@@ -26,6 +26,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/8x11.pdf");
   eleventyConfig.addPassthroughCopy("./src/404.md");
 
+  eleventyConfig.addPassthroughCopy("./src/census-stats.pdf");
+  eleventyConfig.addPassthroughCopy("./src/ward-21.pdf");
+  eleventyConfig.addPassthroughCopy("./src/electoral-map.pdf");
+  eleventyConfig.addPassthroughCopy("./src/polling-stations.pdf");
+
   eleventyConfig.addPassthroughCopy("./src/assets/icons");
   eleventyConfig.addPassthroughCopy("./src/assets/images");
   eleventyConfig.addPassthroughCopy("./src/assets/sprite.svg");
