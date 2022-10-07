@@ -1,0 +1,17 @@
+{% set navItems = collections.all | eleventyNavigation %}
+<header role="banner">
+  <div class="wrapper">
+    <div class="logo">
+      <span>Kiri</span>
+    </div>
+    <nav role="navigation" aria-label="main navigation">
+      <ul>
+        {%- for item in navItems %}
+        <li class="nav__item{{ ' active' if page.url === item.url }}">
+          <a href="{{ item.url }}">{{ item.key }}</a>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+  </div>
+</header>

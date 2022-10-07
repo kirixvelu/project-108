@@ -1,0 +1,145 @@
+// Primary Features
+.intro {
+  display: grid;
+  place-items: center;
+}
+// blockquote
+blockquote {
+  padding: 0.25em;
+  font-size: var(--step-4);
+  width: min(100%, 40rem);
+  background-color: var(--neutral);
+  border-radius: var(--radius);
+  line-height: 1;
+  margin-bottom: 0.25em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+blockquote p {
+  margin-top: 0;
+}
+
+blockquote:nth-child(odd) {
+  border-left: 5px solid var(--theme);
+}
+
+blockquote:nth-child(even) {
+  border-right: 5px solid var(--theme);
+}
+
+cite {
+  display: block;
+  font-size: var(--step-1);
+  text-align: right;
+}
+
+// Images
+img,
+svg,
+figure,
+picture {
+  max-width: 100%;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid var(--theme);
+  border-radius: var(--radius);
+}
+
+main > img {
+  box-shadow: var(--i-shadow);
+}
+
+article > img {
+  margin-bottom: var(--spacing);
+}
+
+// Lists
+li::marker {
+  color: var(--link);
+}
+
+// Table
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 0.5em 0.75em;
+}
+
+th {
+  text-align: left;
+  color: var(--neutral);
+}
+
+td {
+  border-bottom: 1px solid;
+}
+
+th:first-child,
+td:first-child {
+  padding-left: 0.5em;
+}
+
+th:last-child,
+td:last-child {
+  padding-right: 0;
+}
+
+tr th {
+  border-bottom: 2px solid;
+}
+
+// Accordion
+details {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0.75em 1em;
+  margin-bottom: 0.5em;
+  border: 1px solid;
+  border-radius: 0.25em;
+  overflow: hidden;
+  position: relative;
+}
+
+summary {
+  display: list-item;
+  font-weight: 700;
+  cursor: pointer;
+  outline: none;
+  color: var(--link);
+}
+
+details summary::before,
+details summary::after,
+details[open] summary::before,
+details[open] summary::after {
+  position: absolute;
+  top: 0.5em;
+  right: 1em;
+  color: var(--neutral);
+}
+
+details[open] summary {
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid;
+}
+
+details summary::before {
+  content: "open";
+}
+
+details summary::after,
+details[open] summary::after {
+  content: " ";
+}
+
+details[open] summary::before {
+  content: "close";
+}

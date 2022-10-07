@@ -1,0 +1,51 @@
+// Misc Elements
+time,
+address {
+  font-style: italic;
+  padding-left: 0.5em;
+}
+
+audio,
+video,
+embed,
+object {
+  width: 100%;
+  display: block;
+}
+
+figure > img {
+  margin: auto;
+  padding: 0.5em;
+  max-width: 100;
+  border: 1px solid var(--theme);
+}
+
+figcaption {
+  text-align: center;
+}
+
+figure {
+  padding-block: var(--spacing);
+}
+
+::selection {
+  background-color: var(--theme);
+  color: var(--theme-text);
+}
+
+// Dialog
+dialog {
+  background-color: var(--theme);
+  color: var(--text);
+  border: none;
+  border-radius: var(--radius);
+  border-color: var(--border);
+  padding: var(--spacing);
+}
+
+dialog::backdrop {
+  background: var(--neutral);
+  backdrop-filter: blur(0.15em);
+  -webkit-backdrop-filter: blur(0.15em);
+  transition: backdrop-filter var(--time) var(--function);
+}

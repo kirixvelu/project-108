@@ -1,0 +1,30 @@
+# Security header/ Digital Designers 
+# Implemented for https://kiri-vadivelu.ca
+
+[build]
+  publish = "_site"
+  command = "eleventy"
+
+[[redirects]]
+  from = "/*"
+  to = "/blog/:splat"
+
+[[headers]]
+
+  for = "/*"
+
+[headers.values]
+  X-Frame-Options = "DENY"
+
+  X-Content-Type-Options = "nosniff"
+
+  Cross-Origin-Resource-Policy = "same-site"
+
+  Cross-Origin-Embedder-Policy = "same-origin"
+
+  Referrer-Policy = "strict-origin-when-cross-origin"
+
+  Content-Security-Policy = "upgrade-insecure-requests"
+
+  Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
+

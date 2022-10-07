@@ -1,0 +1,14 @@
+---
+layout: article
+title: Inflation Crisis or Economical Scam?
+date: 2022-06-05
+category: "pandemic"
+---
+
+COVID indicates that inflation is a not a natural cause but a planned economic disaster to make the rich get rich while poor get poor. Instead of being complicit, there are solutions to the problem that status quo leaders do not want people to know. The pandemic have transferred the wealth upwards and proved that the whole banking system is just a scam.
+
+<!-- excerpt -->
+
+{% image "src/assets/images/banking-scam.png", "Banking scam that keeps people poor", "image", [300, 600] %}
+
+We must redefine the problem and address the root causes rather than the symptoms. Our status quo leaders have no interest in solving social problems. It could not be anymore obvious. [Video](https://www.instagram.com/p/CcGTvBnF0gh/)

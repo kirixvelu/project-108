@@ -1,0 +1,16 @@
+---
+layout: page
+pagination:
+  data: collections.categoryList
+  size: 1
+  alias: cat
+permalink: "/blog/{{ cat.key }}/"
+eleventyComputed:
+  title: Journals of "{{ cat.name }}"
+---
+
+<h1>{{ title }}</h1>
+
+{% include "./_includes/components/categoryNav.njk" %} {% set articles =
+collections.categories[cat.key] | reverse %} {% include
+"./_includes/components/articleList.njk" %}

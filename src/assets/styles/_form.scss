@@ -1,0 +1,114 @@
+// Buttons, forms and input
+form {
+  width: min(100%, 60rem);
+  padding-inline: 1em;
+}
+
+.button,
+button,
+input[type="submit"],
+input[type="button"] {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: var(--surface);
+  color: var(--text);
+  border-radius: var(--radius);
+  border: 1px solid;
+  cursor: pointer;
+  transition: all var(--time) var(--function);
+}
+
+.button:focus:enabled,
+.button:hover:enabled,
+button:focus:enabled,
+button:hover:enabled,
+input[type="submit"]:focus:enabled,
+input[type="submit"]:hover:enabled,
+input[type="button"]:focus:enabled,
+input[type="button"]:hover:enabled {
+  background-color: var(--theme);
+  color: var(--theme-text);
+  outline: 0;
+}
+
+input,
+textarea {
+  border: 1px solid var(--neutral);
+  width: min(100%, 60rem);
+}
+input:focus,
+textarea:focus {
+  border: 1px solid var(--theme);
+}
+
+textarea {
+  resize: none;
+  line-height: 1.1;
+  height: 10rem;
+}
+
+textarea,
+select,
+input {
+  color: var(--neutral);
+  padding: 0.2em 0.6em;
+  background-color: var(--surface);
+  border: 1px solid var(--neutral);
+  border-radius: var(--radius);
+  box-shadow: none;
+}
+textarea:focus,
+select:focus,
+input:focus {
+  border: 1px solid var(--theme);
+  outline: 0;
+}
+
+input[type="checkbox"]:focus {
+  outline: 1px dotted var(--theme);
+}
+
+label,
+legend,
+fieldset {
+  display: block;
+  font-weight: 600;
+}
+
+input {
+  text-align: center;
+  accent-color: var(--theme);
+  border: 1px solid var(--neutral);
+}
+
+input:not(:focus):not(:placeholder-shown):invalid {
+  border-color: var(--error);
+}
+
+input:not(:focus):not(:placeholder-shown):valid {
+  border-color: var(--valid);
+}
+
+input:not(:focus):not(:placeholder-shown):invalid ~ .error {
+  display: block;
+}
+
+.error {
+  display: none;
+}
+
+[type="range"],
+meter,
+progress {
+  display: block;
+  width: 100%;
+  height: 2em;
+}
+
+[type="color"] {
+  height: 2em;
+  vertical-align: top;
+}

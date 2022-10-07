@@ -1,0 +1,54 @@
+//   Links
+
+a:link,
+a:visited {
+  color: var(--link);
+  text-underline-offset: 0.25em;
+  text-decoration: none;
+  transition: all var(--time) var(--type);
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+
+  &:active {
+    color: var(--neutral);
+  }
+}
+
+// Decorations
+a[href^="mailto"]::before {
+  content: " \2709";
+  font-size: 1.1em;
+  margin-right: 0.25em;
+}
+
+a[href^="tel"]::before {
+  content: " \260F";
+  font-size: 1.1em;
+  margin-right: 0.25em;
+}
+
+hr {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border: 1px solid;
+}
+
+mark {
+  padding: 0 0.25em;
+  background-color: var(--mark);
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+ul {
+  list-style: circle;
+}

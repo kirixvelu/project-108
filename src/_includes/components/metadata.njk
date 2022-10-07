@@ -1,0 +1,17 @@
+{% set socialImage = [metadata.url, metadata.image] | join %} {% set title =
+"Elect Kiri Vadivelu for Scarborough Centre, Ward 21" %}
+
+<meta name="description" content="{{ metadata.description }}" />
+<meta name="author" content="{{ metadata.author.name }}" />
+
+<meta property="og:title" content="{{ title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.kiri-vadivelu.ca" />
+<meta property="og:description" content="{{ metadata.description }}" />
+<meta property="og:image" content="{{ socialImage }}" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@kiri_vadivelu" />
+<meta name="twitter:title" content="{{ title }}" />
+<meta name="twitter:description" content="{{ metadata.description }}" />
+<meta name="twitter:image" content="socialImage" />

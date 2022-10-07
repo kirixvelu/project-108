@@ -1,0 +1,67 @@
+:root {
+  /* Theming */
+  --text: hsl(0, 0%, 5%);
+  --surface: hsl(0, 0%, 96%);
+  --surface-alt: hsl(0, 0%, 80%);
+  --surface-clear: transparent;
+  --theme: hsl(58, 100%, 50%);
+  --theme-text: hsl(0, 0%, 5%);
+  --valid: hsl(120, 100%, 50%);
+  --error: hsl(0, 100%, 60%);
+  --link: hsl(210, 100%, 35%);
+  --neutral: hsl(0, 0%, 80%);
+
+  /* Properties */
+  --time: 250ms;
+  --function: ease;
+  --radius: 0.5em;
+  --opacity: 0.85;
+  --border: 1px;
+  --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.2);
+  --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+  --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
+  --d-shadow: (0px 0px 10px rgba(0, 0, 0, 0.5));
+
+  /* Spacing */
+  --spacing: clamp(1em, 5%, 3em);
+  --spacing-lg: clamp(2em, 10%, 6em);
+  --spacing-sm: clamp(0.25em, 1.25%, 0.75em);
+
+  /* Fonts */
+  --sans: "Gill Sans", "Trebuchet MS", sans-serif;
+  --serif: "Baskerville", "Palatino", serif;
+  --mono: "Consolas", "Courier New", monospace;
+  --curs: "Brush Script MT", "Comic Sans MS", cursive;
+
+  /* Typography */
+  --step--1: clamp(0.75rem, calc(0.63rem + 0.63vw), 1.13rem);
+  --step-0: clamp(1rem, calc(0.83rem + 0.83vw), 1.5rem);
+  --step-1: clamp(1.33rem, calc(1.11rem + 1.11vw), 2rem);
+  --step-2: clamp(1.78rem, calc(1.48rem + 1.48vw), 2.67rem);
+  --step-3: clamp(2.37rem, calc(1.97rem + 1.97vw), 3.55rem);
+  --step-4: clamp(3.16rem, calc(2.63rem + 2.63vw), 4.74rem);
+  --step-5: clamp(4.21rem, calc(3.51rem + 3.51vw), 6.31rem);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: hsl(0, 0%, 98%);
+    --surface: hsl(0, 0%, 20%);
+    --surface-alt: hsl(0, 0%, 10%);
+    --theme: hsl(58, 100%, 45%);
+    --theme-text: hsl(0, 0%, 95%);
+    --valid: hsl(120, 100%, 30%);
+    --error: hsl(0, 100%, 30%);
+    --link: hsl(210, 100%, 55%);
+    --neutral: hsl(0, 0%, 40%);
+
+    --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+    --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
+    --d-shadow: (0px 0px 10px rgba(0, 0, 0, 0.5));
+    --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.25);
+  }
+
+  img {
+    filter: brightness(0.8) contrast(1.2);
+  }
+}

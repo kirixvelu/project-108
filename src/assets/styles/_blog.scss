@@ -1,0 +1,37 @@
+// Blog
+.article__item {
+  + .article__item {
+    margin-top: 2em;
+  }
+}
+
+// Article
+article {
+  .category {
+    display: inline-block;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 1em;
+    padding: 0 0.5em;
+    border-inline: 1px solid;
+    line-height: 1;
+
+    &:hover {
+      background-color: var(--theme);
+      text-decoration: none;
+      color: var(--theme-text);
+      transition: all var(--time) var(--function);
+    }
+  }
+
+  small {
+    display: inline-block;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    + * {
+      margin-top: 0.5em;
+    }
+  }
+}

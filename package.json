@@ -1,0 +1,42 @@
+{
+  "name": "project-108",
+  "version": "1.0.0",
+  "description": "Elect Kiri Vadivelu for Scarborough Centre, Ward 21",
+  "main": ".eleventy.js",
+  "scripts": {
+    "generate:sprite": "svg-icon-generate --folder=src/assets/icons --output=src/assets/sprite.svg",
+    "watch:eleventy": "eleventy --serve",
+    "watch:sass": "sass --watch src/assets/styles:_site/assets",
+    "build:eleventy": "eleventy",
+    "build:sass": "sass  --no-source-map --style=compressed src/assets/styles:_site/assets",
+    "start": "npm-run-all build:sass generate:sprite --parallel watch:*",
+    "build": "npm-run-all build:*",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiri-vadivelu/project-108.git"
+  },
+  "keywords": [
+    "\"Toronto\"",
+    "\"Election\"",
+    "\"Grassroots\""
+  ],
+  "author": "Kiri Vadivelu <kiri@digitaldesigners.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiri-vadivelu/project-108/issues"
+  },
+  "homepage": "https://github.com/kiri-vadivelu/project-108#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-img": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@11tyrocks/eleventy-plugin-emoji-readtime": "^1.0.1",
+    "luxon": "^3.0.4",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.55.0",
+    "svg-icon-sprite": "^1.1.1"
+  }
+}

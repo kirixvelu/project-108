@@ -1,0 +1,95 @@
+html {
+  color: var(--text);
+  background-color: var(--surface);
+  font-family: var(--sans);
+  font-size: var(--step-0);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-width: 320px;
+}
+
+footer {
+  margin-top: auto;
+  padding-block: var(--spacing-sm);
+  border-top: 1px solid;
+
+  & p {
+    font-size: 95%;
+  }
+}
+
+main {
+  flex: 0 1 100%;
+  padding-block: var(--spacing);
+
+  nav {
+    span {
+      font-size: 1.2em;
+      font-weight: 600;
+    }
+  }
+}
+
+header {
+  color: var(--theme-text);
+  background: var(--theme);
+}
+
+.wrapper {
+  width: min(100%, 80rem);
+  margin-right: auto;
+  margin-left: auto;
+  padding-inline: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+
+main,
+footer {
+  width: min(100% - 2em, 50rem);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section {
+  display: grid;
+  place-items: center;
+  padding-block: var(--spacing-sm);
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 1.1em;
+
+  + li {
+    margin-left: 1em;
+  }
+
+  &.active a {
+    font-weight: 600;
+    text-decoration: underline;
+  }
+
+  a {
+    display: inline-block;
+    text-decoration: none;
+    padding-bottom: 5px;
+    transition: color var(--time);
+  }
+}
+
+.sr-only {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  -webkit-clip-path: inset(50%) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+  white-space: nowrap !important;
+}

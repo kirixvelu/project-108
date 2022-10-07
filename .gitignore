@@ -1,0 +1,15 @@
+# npm dependencies
+node_modules
+
+# build artefacts
+_site
+
+# secrets and errors
+.env
+.log
+
+# macOS related files
+.DS_Store
+
+#IDE
+.idea

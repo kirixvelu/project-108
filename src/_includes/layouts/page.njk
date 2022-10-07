@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+  <head>
+    <!-- analytics (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-QNL8WBNJYD"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-QNL8WBNJYD");
+    </script>
+
+    <!-- content (HTML5) -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="robots"
+      content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    />
+    <meta name="subject" content="Kiri Vadivelu's campaign website'" />
+    <meta name="copyright" content="Digital Designers" />
+    <link
+      rel="shortcut icon"
+      href="https://kiri-vadivelu.ca/favicon.ico"
+      type="image/x-icon"
+    />
+    <link rel="canonical" href="https://kiri-vadivelu.ca/index.html" />
+    <meta
+      name="keywords"
+      content="Kiri Vadivelu, Toronto Elections, Scarborough Centre, Ward 21"
+    />
+
+    <!-- favicons (favicon.ico) -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- 11ty (11ty.dev) -->
+    <title>{{ title or metadata.title }}</title>
+    {% include "../components/metadata.njk" %}
+    <script type="module" src="/assets/svg-icon-sprite.js"></script>
+    <link rel="stylesheet" href="{{ '/assets/style.css' | url }}" />
+
+    <!-- verification (verify) -->
+    <meta name="yandex-verification" content="0e5a7d1a39fc2791" />
+    <meta
+      name="google-site-verification"
+      content="T-DI1gm3vZcLXPw35OnTPl7Ke7am206654WrBQBdzXo"
+    />
+    <meta name="p:domain_verify" content="dcbdfe521eb082dbb108a118efdbdde3" />
+  </head>
+
+  <body>
+    {% include "../components/header.njk" %}
+    <main role="main">
+      {{ content | safe }}
+    </main>
+    {% include "../components/footer.njk" %}
+  </body>
+</html>

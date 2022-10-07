@@ -1,0 +1,49 @@
+---
+layout: page
+title: "Blog"
+eleventyNavigation:
+  key: blog
+  order: 4
+pagination:
+  data: collections.blog
+  size: 10
+  alias: articles
+---
+
+<h1>Journals</h1>
+<h3>Land Acknowledgement for Scarborough</h3>
+<p>
+  The land I am standing on today is the traditional territory of many nations
+  including the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the
+  Haudenosaunee and the Wendat peoples and is now home to many diverse First
+  Nations, Inuit and Métis peoples. I also acknowledge that Toronto is covered
+  by Treaty 13 signed with the Mississaugas of the Credit, and the Williams
+  Treaties signed with multiple Mississaugas and Chippewa bands.
+</p>
+
+<p>
+  Using and participating in a land acknowledgement is a way to recognize the
+  enduring presence and resilience of Indigenous peoples in this area for time
+  immemorial. They are also a reminder that we are all accountable to these
+  relationships. I dedicate all of my journal entries to my daughter Katherine
+  and every child that never returned home from residential schools in Canada
+  through 1830 to 1996.
+</p>
+<p>
+  Meanwhile, I am grateful for your interest to learn more about my experiences
+  socially, economically and politically in the oppressed age of times. By
+  visiting the blog, you agree to respect Scarborough land acknowledgement and
+  access all of its content in the same spirit.
+  <a
+    href="http://scarboroughhistorical.ca/archives-2/the-archives-collection/tabor-hill/"
+    >Scarborough History &rarr;</a
+  >
+</p>
+{% image "src/assets/images/feast-of-the-dead-2.jpeg", "Feast of the Dead
+Ceremony", "image", [300, 600] %}
+
+<hr />
+{% include "./_includes/components/categoryNav.njk" %}
+<p>All journal entries from newest to oldest.</p>
+
+{% include "./_includes/components/articleList.njk" %}

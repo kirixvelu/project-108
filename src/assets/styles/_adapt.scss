@@ -1,0 +1,96 @@
+// Flexible Aside
+.side {
+  display: grid;
+  grid-template-columns: fit-content(20ch) minmax(min(50vw, 30ch), 1fr);
+}
+
+// Automatic Wrapping
+.grid {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20ch, 1fr)));
+}
+
+// Adaptable Wrapping
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.flex > * {
+  flex: 1 1 20ch;
+}
+
+// UL + Grid Cards
+.cards {
+  gap: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20ch), 1fr));
+}
+
+.cards > li {
+  border-radius: 0.5em;
+  box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.15);
+}
+
+// UL + Scroll Horizon
+.horizon {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 1em;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding: 0 0 1em;
+  -webkit-overflow-scrolling: touch;
+}
+
+.horizon > * {
+  width: min(45ch, 60vw);
+  scroll-snap-align: center;
+  scroll-snap-stop: always;
+}
+
+// CSS Cards
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.35);
+}
+
+.card > img {
+  aspect-ratio: 3/2;
+  object-fit: cover;
+  width: 100%;
+}
+
+.card > img:first-child {
+  border-radius: 0.5em 0.5em 0 0;
+}
+
+.card > img:last-child {
+  border-radius: 0 0 0.5em 0.5em;
+  margin-top: auto;
+}
+
+.card > :not(img) {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.card > :not(img):first-child {
+  margin-top: 1em;
+}
+
+.card > :last-of-type:not(img, h2, h3, h4) {
+  margin-bottom: 1em;
+}
+
+.card > :not(h2, h3, h4) {
+  font-size: 0.9em;
+}
+
+.card > a {
+  align-self: start;
+}
