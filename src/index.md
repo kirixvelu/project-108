@@ -11,7 +11,11 @@ eleventyNavigation:
 # Kiri Vadivelu
 
 <p align="center">
- &check; Scarborough Centre - Ward 21 </p>
+ &check; Scarborough Centre - Ward 21 <br>
+ <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/ward-21.pdf">Ward Map</a> |
+ <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/census-stats.pdf">Census Stats</a> |
+ <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/polling-stations.pdf">Polling Stations</a>
+ </p>
 
  <br>
 
