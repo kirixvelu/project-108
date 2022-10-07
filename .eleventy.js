@@ -22,8 +22,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/android-chrome-192x192.png");
   eleventyConfig.addPassthroughCopy("./src/android-chrome-512x512.png");
 
-  eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu-8x11.pdf");
-  eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu-4x5.pdf");
   eleventyConfig.addPassthroughCopy("./src/4x5.pdf");
   eleventyConfig.addPassthroughCopy("./src/8x11.pdf");
   eleventyConfig.addPassthroughCopy("./src/404.md");
