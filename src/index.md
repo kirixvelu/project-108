@@ -27,7 +27,7 @@ eleventyNavigation:
 
 > Housing is a human right. Eliminate wait
 
-> Defund the Police [&rarr;](https://kiri-vadivelu.ca/elect/)
+> De-fund the Police | [Full Recipe](https://municipal.socialistalliance.ca/program)
 
 <br>
 
