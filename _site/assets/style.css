@@ -219,7 +219,7 @@ footer {
   border-top: 1px solid;
 }
 footer p {
-  font-size: 95%;
+  font-size: 90%;
 }
 
 main {
@@ -227,7 +227,7 @@ main {
   padding-block: var(--spacing);
 }
 main nav span {
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: 600;
 }
 
@@ -263,7 +263,7 @@ nav ul li {
   font-size: 1.1em;
 }
 nav ul li + li {
-  margin-left: 1em;
+  margin-left: 0.7em;
 }
 nav ul li.active a {
   font-weight: 600;
