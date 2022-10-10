@@ -24,6 +24,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/4x5.pdf");
   eleventyConfig.addPassthroughCopy("./src/8x11.pdf");
+  eleventyConfig.addPassthroughCopy("./src/peoples-platform.pdf");
   eleventyConfig.addPassthroughCopy("./src/404.md");
 
   eleventyConfig.addPassthroughCopy("./src/census-stats.pdf");
