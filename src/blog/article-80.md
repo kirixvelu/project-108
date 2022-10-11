@@ -2,7 +2,7 @@
 layout: article
 title: Why Democracy is Failing in the West?
 date: 2022-09-15
-category: "politics"
+category: "democracy"
 ---
 
 People agree that democracy is failing is the west without any reservations. But, the reasoning of why decimate the debate even before the start. If one was to ask, do you know your city councillor in your ward or member of parliament? Most voters would respond yes but in reality, voters barely know the candidate name.
