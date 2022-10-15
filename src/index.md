@@ -27,7 +27,7 @@ eleventyNavigation:
 
 > Housing is a human right. Eliminate wait
 
-> De-fund the Police | [Full Recipe](https://municipal.socialistalliance.ca/program)
+> De-fund Police | Fund Schools [How?](https://municipal.socialistalliance.ca/program)
 
 <br>
 
