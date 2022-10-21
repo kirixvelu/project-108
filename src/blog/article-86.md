@@ -2,7 +2,7 @@
 layout: article
 title: Why Do NDP Support Apartheid Crimes?
 date: 2022-06-10
-category: "politics"
+category: "corruption"
 ---
 
 The Federal New Democratic Party (NDP) not only lost the mainstream elections in Canada since early 1990 but also lost its roots to serve the working people completely. Of course, corporate extremists eroded unions, labours and labour party but that is not an an excuse to tangle in internal politics to silence labour and human rights activists within the NDP. Sadly, NDP proved it has no interest in standing up for human rights inside or outside the borders through dropping an elected candidate in Vaughan.

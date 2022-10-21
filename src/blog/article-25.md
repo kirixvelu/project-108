@@ -2,7 +2,7 @@
 layout: article
 title: Contribution of Jeffrey Epstein to Philanthropy
 date: 2021-04-05
-category: "crime"
+category: "corruption"
 ---
 
 One primary reason American people are blind to injustice everywhere is because no one invaded America over a century. Instead of building relationship, American elites have been burning bridges internationally. Only way to have friendship with the elites of United States is to participate to commit crime against humanity such as philanthropy work; best defined as private pedophile projects (P3).

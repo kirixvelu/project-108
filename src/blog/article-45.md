@@ -10,6 +10,7 @@ New Democratic Party of Canada (NDP) represented more than 85 percent of Canadia
 <!-- excerpt -->
 
 {% image "src/assets/images/liberal-ndp.png", "Liberal NDP unification", "image", [300, 600] %}
+
 Officially, Canada has lost one and only left political party that suppose to represent the issues of all workers. NDP Singh propped up the failing Liberal Party at the most crucial times in Canadian history. The joint venture achieved nothing for Canadians but betrayal of working class people.
 
 The extraordinary silence of NDP during COVID19 crisis made many workers be exploited at the hands of big corporations. Challenges were compounded when those workers lost income only to be dragged through legal system to face eviction. Not only NDP lost its roots but revealed where the party stood the whole time, politically.
