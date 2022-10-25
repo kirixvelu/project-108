@@ -11,7 +11,7 @@ eleventyNavigation:
 # Kiri Vadivelu
 
 <p align="center">
- &check; Scarborough Centre - Ward 21 <br>
+ &check; Scarborough Centre - Ward 21 <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/statement-kiri-vadivelu.pdf">[statement]</a><br> 
  <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/ward-21.pdf">Ward Map</a> |
  <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/census-stats.pdf">Census Stats</a> |
  <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/polling-stations.pdf">Polling Stations</a>
@@ -19,7 +19,7 @@ eleventyNavigation:
 
  <br>
 
-> Say no to status quo, vote on Oct 24
+> Say no to status quo, vote on Oct 24 [[Result]](https://electionresults.toronto.ca/)
 
 > Free transit everyday; not just voting day
 
