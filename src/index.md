@@ -19,7 +19,7 @@ eleventyNavigation:
 
  <br>
 
-> Say no to status quo, vote on Oct 24 [[Result]](https://electionresults.toronto.ca/)
+> Say no to status-quo, vote Oct 24 [[Result]](https://electionresults.toronto.ca/)
 
 > Free transit everyday; not just voting day
 
@@ -27,7 +27,7 @@ eleventyNavigation:
 
 > Housing is a human right. Eliminate wait
 
-> De-fund Police | Fund Schools [How?](https://github.com/kiri-vadivelu/project-108/blob/main/src/peoples-platform.pdf)
+> De-fund Police | Fund Schools [[How]](https://github.com/kiri-vadivelu/project-108/blob/main/src/peoples-platform.pdf)
 
 <br>
 
