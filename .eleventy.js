@@ -24,7 +24,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/4x5.pdf");
   eleventyConfig.addPassthroughCopy("./src/8x11.pdf");
-  eleventyConfig.addPassthroughCopy("./src/peoples-platform.pdf");
   eleventyConfig.addPassthroughCopy("./src/404.md");
 
   eleventyConfig.addPassthroughCopy("./src/census-stats.pdf");
@@ -32,8 +31,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/electoral-map.pdf");
   eleventyConfig.addPassthroughCopy("./src/polling-stations.pdf");
 
+  eleventyConfig.addPassthroughCopy("./src/tamil-genocide.pdf");
+  eleventyConfig.addPassthroughCopy("./src/peoples-platform.pdf");
+
   eleventyConfig.addPassthroughCopy("./src/assets/icons");
   eleventyConfig.addPassthroughCopy("./src/assets/images");
+  eleventyConfig.addPassthroughCopy("./src/assets/videos");
   eleventyConfig.addPassthroughCopy("./src/assets/sprite.svg");
   eleventyConfig.addPassthroughCopy({
     "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
