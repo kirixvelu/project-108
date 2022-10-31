@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Either Stand for Justice or Support Injustice
 date: 2022-07-14
 category: "justice"

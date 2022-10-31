@@ -1,5 +1,4 @@
 ---
-layout: article
 title: What is Hypocrisy in Social Media?
 date: 2021-03-12
 category: "media"

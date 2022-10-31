@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Great Decline of Human Empathy in Society
 date: 2021-04-10
 category: "humanity"

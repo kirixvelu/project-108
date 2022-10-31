@@ -1,5 +1,4 @@
 ---
-layout: article
 title: The Tamil Genocide by Sri Lanka
 date: 2020-05-18
 category: "genocide"

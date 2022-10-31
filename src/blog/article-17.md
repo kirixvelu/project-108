@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Greed is Ugly, Lets not Glorify
 date: 2021-04-15
 category: "corporate"

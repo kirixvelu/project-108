@@ -1,6 +1,5 @@
 ---
-layout: article
-title: "Greatest failures of human civilization"
+title: "Greatest Failures of Human Civilization"
 date: 2021-02-26
 category: "humanity"
 ---

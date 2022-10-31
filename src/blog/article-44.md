@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Bollywood Politics to Real Democracy
 date: 2021-03-26
 category: "media"

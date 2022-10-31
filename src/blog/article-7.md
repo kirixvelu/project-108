@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "The Campaign for Socialism and Democracy in NDP"
 date: 2022-06-30
 category: "politics"

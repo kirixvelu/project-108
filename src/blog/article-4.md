@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Climate Crisis: Eco Socialism or Extinction"
 date: 2021-09-30
 category: "environment"

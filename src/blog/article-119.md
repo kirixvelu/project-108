@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Treatment of Migrant Workers in Ontario
 date: 2022-10-28
 category: "labour"

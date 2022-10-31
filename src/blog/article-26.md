@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Stand with Ukraine, Cancel the Debt
 date: 2021-04-04
 category: "politics"

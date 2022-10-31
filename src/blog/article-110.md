@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Corporate Misuse of Canadian Tax Revenue
 date: 2022-04-09
 category: "crime"

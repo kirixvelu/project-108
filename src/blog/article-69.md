@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Canadians are Not Totalitarians Joe
 date: 2021-02-24
 category: "genocide"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: The Real Enemy of Free Speech
 date: 2021-04-22
 category: "liberty"

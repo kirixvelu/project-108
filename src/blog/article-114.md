@@ -1,6 +1,5 @@
 ---
-layout: article
-title: NDP Corruption and Destruction of Public Trust
+title: Corruption and Destruction of NDP Trust
 date: 2022-10-20
 category: "corruption"
 ---

@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Rise of Palestine against Apartheid State
+title: Rise of Palestine Against Apartheid State
 date: 2021-03-06
 category: "crime"
 ---

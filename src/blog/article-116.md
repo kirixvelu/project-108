@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Victory in Difference; Not Numbers
 date: 2022-10-25
 category: "elections"

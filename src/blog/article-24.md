@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Expertise Method of Money Laundering
 date: 2021-04-06
 category: "crime"

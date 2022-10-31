@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Green-washing While Earth on Fire
 date: 2022-05-28
 category: "tech"

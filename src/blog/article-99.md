@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Corporate Media and the Manipulation
 date: 2022-08-14
 category: "media"

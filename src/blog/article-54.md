@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Cut the Chase, Get to the Point
 date: 2021-04-25
 category: "justice"

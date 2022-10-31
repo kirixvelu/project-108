@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Double Genocide of Ceylon Tamils
 date: 2022-07-22
 category: "genocide"

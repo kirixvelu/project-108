@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Thinking Process of Political Hierarchy
 date: 2021-03-22
 category: "corporate"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Left and Right to Connect the Dots
 date: 2021-02-24
 category: "liberty"

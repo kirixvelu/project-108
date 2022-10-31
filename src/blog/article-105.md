@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Brand Politics Legitimize Dictatorship
 date: 2022-05-24
 category: "politics"

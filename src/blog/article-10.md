@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Housing is Essential: No Covid Evictions"
 date: 2021-05-27
 category: "humanity"

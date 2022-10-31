@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Who Controls Toronto - People or Developers?
 date: 2021-11-14
 category: "economy"

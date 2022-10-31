@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Three Pillars of Social System
 date: 2021-04-27
 category: "politics"

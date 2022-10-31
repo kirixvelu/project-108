@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Hidden Agenda of Ukraine Crisis
 date: 2021-03-02
 category: "media"

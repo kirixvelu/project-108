@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Faith Business in the Name of Christ
 date: 2021-04-13
 category: "religion"

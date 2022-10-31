@@ -1,5 +1,4 @@
 ---
-layout: article
 title: No Pride in American Show Business
 date: 2021-04-09
 category: "politics"

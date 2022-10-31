@@ -1,5 +1,4 @@
 ---
-layout: article
 title: United Snakes Keep Americans Broke
 date: 2021-04-21
 category: "corporate"

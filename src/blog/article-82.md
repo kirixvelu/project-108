@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Canadian Garbage Trapped in Philippines
 date: 2020-03-23
 category: "environment"

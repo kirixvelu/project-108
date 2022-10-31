@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Reality of How People Get Rich
 date: 2021-03-14
 category: "culture"

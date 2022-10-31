@@ -1,5 +1,4 @@
 ---
-layout: article
 title: COVID Death Profit Using Science
 date: 2022-08-20
 category: "science"

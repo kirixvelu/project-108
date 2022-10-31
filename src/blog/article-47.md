@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Stop Wars, De-fund Military Complex
 date: 2021-04-02
 category: "war"

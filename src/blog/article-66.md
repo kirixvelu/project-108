@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Double Standards of Heroism in Hypocrisy
 date: 2021-02-28
 category: "media"

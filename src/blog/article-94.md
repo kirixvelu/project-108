@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Key Facts About Residential Schools
 date: 2022-05-20
 category: "religion"

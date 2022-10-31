@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Rest in Peace NDP Labour Party
 date: 2021-03-26
 category: "politics"

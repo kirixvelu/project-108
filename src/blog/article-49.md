@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Hidden Truth About Financial Investment
 date: 2021-04-05
 category: "crime"

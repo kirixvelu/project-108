@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Mullivaikkal Massacre in May 2009
 date: 2020-03-20
 category: "genocide"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: War Statistics from 1945 to 2001
 date: 2022-08-12
 category: "war"

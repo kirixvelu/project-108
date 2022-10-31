@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Radical Change is Necessary to Save Humanity
 date: 2021-03-27
 category: "crime"

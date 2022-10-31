@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Intelligence Drought of American Corporations
 date: 2021-03-30
 category: "economy"

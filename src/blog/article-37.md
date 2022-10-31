@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Vaccination Save Corporate Lives
 date: 2021-04-17
 category: "science"

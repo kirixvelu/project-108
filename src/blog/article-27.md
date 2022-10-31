@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Are You still Paying Taxes?
+title: Are You Still Paying Taxes to Monarchy?
 date: 2021-04-03
 category: "war"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: The Pandemic Story of Workers
 date: 2021-02-21
 category: "labour"

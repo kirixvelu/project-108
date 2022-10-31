@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Vaccine Mandates Unite Left and Right
 date: 2022-03-06
 category: "pandemic"

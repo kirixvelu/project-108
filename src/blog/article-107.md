@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Poverty, Crime and the Insanity
 date: 2022-07-12
 category: "crime"

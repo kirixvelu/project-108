@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Hypocrisy OUT, Democracy IN
 date: 2021-02-28
 category: "media"

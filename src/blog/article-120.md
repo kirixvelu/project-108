@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Jews Who Leave Israel for Good
 date: 2022-10-29
 category: "humanity"

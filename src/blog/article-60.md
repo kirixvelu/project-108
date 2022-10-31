@@ -1,5 +1,4 @@
 ---
-layout: article
 title: What is the Nature of Zionism?
 date: 2021-03-08
 category: "liberty"

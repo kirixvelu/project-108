@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Labour day with Kurdistan community at Thomason’s Park
+title: Labour day with Kurdistan Community at Thomason’s Park
 date: 2021-04-30
 category: "labour"
 ---

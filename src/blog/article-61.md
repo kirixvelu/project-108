@@ -1,5 +1,4 @@
 ---
-layout: article
 title: The Politics of Divide and Conquer
 date: 2021-03-03
 category: "race"

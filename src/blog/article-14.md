@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Theft without Stigma, Society without Answers
 date: 2021-04-16
 category: "labour"

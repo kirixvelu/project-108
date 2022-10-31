@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Eradicate Zionists to Save Humanity
 date: 2021-04-23
 category: "crime"

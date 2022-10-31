@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Demons of Peace - Sri Lanka to Ukraine
 date: 2021-03-06
 category: "genocide"

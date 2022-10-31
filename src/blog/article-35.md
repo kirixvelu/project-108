@@ -1,5 +1,4 @@
 ---
-layout: article
 title: What is Wrong with Our Society?
 date: 2021-04-27
 category: "genocide"

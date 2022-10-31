@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Destruction of English Language
 date: 2021-05-27
 category: "culture"

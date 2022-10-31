@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "The Purpose of LinkedIn Today"
 date: 2022-10-01
 category: "tech"

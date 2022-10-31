@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Some Children are More Important
 date: 2021-02-26
 category: "media"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: What Drives Me to Fight for Change?
 date: 2022-10-12
 category: "democracy"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Church, Government and the Corporation
 date: 2022-07-11
 category: "religion"

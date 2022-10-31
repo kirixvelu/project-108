@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Financial Facts on Canadian Prisons
 date: 2022-08-09
 category: "crime"

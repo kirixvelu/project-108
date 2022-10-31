@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Two Types of Negros - House and Field
 date: 2021-04-08
 category: "race"

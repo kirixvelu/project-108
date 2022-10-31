@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Pandemic CEOs and Fake Guru Market
 date: 2022-03-08
 category: "pandemic"

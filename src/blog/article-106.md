@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Inflation Gimmick in Status Quo Politics
 date: 2022-05-03
 category: "crime"

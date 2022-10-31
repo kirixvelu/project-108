@@ -1,5 +1,4 @@
 ---
-layout: article
 title: In Politics, Elect Policy; Not Personality
 date: 2022-10-18
 category: "democracy"

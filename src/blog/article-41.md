@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Believe the Lies to Avoid Prison
 date: 2021-03-04
 category: "media"

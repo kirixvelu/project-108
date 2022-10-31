@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Do not Abandon the Vulnerable. Act now!
+title: Do not Abandon the Vulnerable. Act Now!
 date: 2021-09-20
 category: "justice"
 ---

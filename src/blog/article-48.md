@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Good Samaritans are the Escape Goats
 date: 2021-04-14
 category: "justice"

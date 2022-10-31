@@ -1,5 +1,4 @@
 ---
-layout: article
 title: The Rapid Rise of Fascism in India
 date: 2021-03-18
 category: "culture"

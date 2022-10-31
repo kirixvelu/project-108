@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Progress of Brainwashing Culture in America
 date: 2021-04-03
 category: "culture"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: American Eagle is on Guard for Thee
 date: 2021-04-07
 category: "corporate"

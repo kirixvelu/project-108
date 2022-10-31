@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Racism in Modern Policing Culture
 date: 2021-03-11
 category: "race"

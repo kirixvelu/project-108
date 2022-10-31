@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Human Rights if You Can Afford
 date: 2021-03-12
 category: "law"

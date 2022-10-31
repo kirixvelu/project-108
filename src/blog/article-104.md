@@ -1,5 +1,4 @@
 ---
-layout: article
 title: The Lies, Deception and the Romance
 date: 2022-02-19
 category: "liberty"

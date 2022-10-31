@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Legal Prescription to Eliminate Crimes
 date: 2022-07-25
 category: "crime"

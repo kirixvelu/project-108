@@ -1,5 +1,4 @@
 ---
-layout: article
 title: And then, They Came for Me, Journalist
 date: 2021-04-11
 category: "genocide"

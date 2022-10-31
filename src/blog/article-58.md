@@ -1,5 +1,4 @@
 ---
-layout: article
 title: White Advantage of the Holocaust
 date: 2021-03-16
 category: "justice"

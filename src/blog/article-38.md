@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Canada Get Out of NATO War Machine
 date: 2021-03-25
 category: "war"

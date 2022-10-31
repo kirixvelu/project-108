@@ -1,6 +1,5 @@
 ---
-layout: article
-title: "Tabor Hill Scarborough 'Feast of the Dead'"
+title: "Tabor Hill Scarborough, Feast of the Dead"
 date: 2020-04-10
 category: "history"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: The Corporate Welfare Bums
 date: 2021-04-21
 category: "corporate"

@@ -1,6 +1,5 @@
 ---
-layout: article
-title: "Real Definition of 'Under Developed' phrase"
+title: "Real Definition of 'Under Developed' Phrase"
 date: 2021-03-10
 category: "economy"
 ---

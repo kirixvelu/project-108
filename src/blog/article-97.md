@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Labour History, more Important than Nutrition
 date: 2022-08-26
 category: "labour"

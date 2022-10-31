@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Barrier to Democracy, Status Quo Benefiters
 date: 2022-10-10
 category: "democracy"

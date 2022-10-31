@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Victims of Lies, Deception and Cruelty
 date: 2021-03-02
 category: "history"

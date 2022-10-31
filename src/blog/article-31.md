@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Root of All Conflicts ‘Apartheid’"
 date: 2021-03-07
 category: "humanity"

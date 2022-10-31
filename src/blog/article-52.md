@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Will Smith Slapped Chris Rock Nonsense
 date: 2021-04-27
 category: "media"

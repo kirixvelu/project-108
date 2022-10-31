@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Mutation of Toxic Racism in Ukraine Crisis
 date: 2021-03-10
 category: "race"

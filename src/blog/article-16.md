@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Circus of Hitler NAZI to NATO America
 date: 2021-04-12
 category: "war"

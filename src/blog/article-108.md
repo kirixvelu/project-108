@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Cruel nature of Faith Culture
+title: Cruel Nature of Faith Culture
 date: 2022-07-07
 category: "religion"
 ---

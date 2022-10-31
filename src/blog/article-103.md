@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Inflation Crisis or Economical Scam?
 date: 2022-06-05
 category: "pandemic"

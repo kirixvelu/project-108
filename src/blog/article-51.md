@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Rise and Fall of Great America
 date: 2021-04-30
 category: "humanity"

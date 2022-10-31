@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Kick the Can, Down the Road
 date: 2021-04-29
 category: "politics"

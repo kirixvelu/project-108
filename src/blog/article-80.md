@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Why Democracy is Failing in the West?
 date: 2022-09-15
 category: "democracy"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Exploring Social Class in Warfare
 date: 2021-03-21
 category: "war"

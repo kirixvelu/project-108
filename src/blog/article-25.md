@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Contribution of Jeffrey Epstein to Philanthropy
 date: 2021-04-05
 category: "corruption"

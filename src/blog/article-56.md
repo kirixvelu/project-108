@@ -1,5 +1,4 @@
 ---
-layout: article
 title: God is in the Details
 date: 2021-03-24
 category: "religion"

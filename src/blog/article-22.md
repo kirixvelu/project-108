@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Pandemic Exposure of Canadian Double standards
+title: Pandemic Exposure of Canadian Double Standards
 date: 2021-04-08
 category: "culture"
 ---

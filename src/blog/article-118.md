@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Slaves in Uniform with Big Dreams
 date: 2022-10-26
 category: "pandemic"

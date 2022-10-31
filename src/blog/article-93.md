@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Canada Must Rise to the Challenge
 date: 2022-09-29
 category: "economy"

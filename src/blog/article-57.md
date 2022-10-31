@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Apologies to Freedom Convey Canada
 date: 2021-03-23
 category: "liberty"

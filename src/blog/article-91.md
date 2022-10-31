@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Have Honest Conversations with Children
 date: 2022-09-20
 category: "war"

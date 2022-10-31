@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Who Votes in Municipal Elections?
 date: 2021-04-27
 category: "culture"

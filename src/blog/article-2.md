@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Report on ACORN-led protest against big bank fees
+title: Report on ACORN-led Protest Against Big Bank Fees
 date: 2021-07-13
 category: "economy"
 ---

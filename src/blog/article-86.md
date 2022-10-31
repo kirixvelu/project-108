@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Why Do NDP Support Apartheid Crimes?
+title: Why NDP Support Apartheid Crimes?
 date: 2022-06-10
 category: "corruption"
 ---

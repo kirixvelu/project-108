@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Alternative to Pandemic-Era Housing Crisis
 date: 2022-06-15
 category: "humanity"

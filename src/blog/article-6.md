@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Omicron Crisis: Workers' on the Frontline"
 date: 2022-01-30
 category: "justice"

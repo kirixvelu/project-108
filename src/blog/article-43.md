@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Deception is Disgust; Not Intelligence
 date: 2021-03-20
 category: "law"

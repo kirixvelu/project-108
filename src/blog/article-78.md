@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Stand with Ukraine people; Not NATO
+title: Stand with Ukraine People; Not NATO
 date: 2021-02-28
 category: "war"
 ---

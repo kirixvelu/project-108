@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Confronting Genocide in Canada Regretfully
 date: 2022-05-15
 category: "genocide"

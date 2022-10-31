@@ -1,5 +1,4 @@
 ---
-layout: article
 title: American Strategy to Mobile Wealth Upwards
 date: 2021-04-18
 category: "law"

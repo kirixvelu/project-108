@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Ruling Class, Far Greater Threat
 date: 2021-02-25
 category: "war"

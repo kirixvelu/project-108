@@ -1,5 +1,4 @@
 ---
-layout: article
 title: What is Real Challenge in Democracy?
 date: 2021-04-04
 category: "labour"

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: The Cash Cow in Action
 date: 2021-03-01
 category: "science"
