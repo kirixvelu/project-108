@@ -1,4 +1,4 @@
-# Elect Kiri Vadivelu for Scarborough Centre, Ward 21
+# Elect Socialist for Scarborough Centre
 
 Kiri Vadivelu is a social justice activist running with the Municipal Socialist Alliance for the seat in Scarborough Centre Ward 21. Kiri, who immigrated from Sri Lanka as a child, successfully resisted illegal eviction of his family at the Ontario Landlord and Tenant Board during the 2020 emergency lock down. He passionately strives to make housing a human right in Ontario.
 
@@ -6,4 +6,4 @@ A founding member of the Scarborough Tenants’ Union, Kiri is a leading voice o
 
 Kiri Vadivelu acquired a Bachelors of Arts (BA) in Criminology, Justice and Policy Studies at the University of Ontario in 2010. Learn more about Kiri's political resolution on the website.
 
-#toronto #politics #pandemic
+#toronto #socialist #pandemic
