@@ -14,7 +14,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("page", "layouts/page");
   eleventyConfig.addLayoutAlias("article", "layouts/article");
 
-  eleventyConfig.addWatchTarget("./src/assets/scss/");
+  eleventyConfig.addWatchTarget("./src/scss/");
+  eleventyConfig.addPassthroughCopy("./src/css");
 
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");

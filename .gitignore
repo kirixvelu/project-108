@@ -3,6 +3,7 @@ node_modules
 
 # build artefacts
 _site
+
 # secrets and errors
 .env
 .log
