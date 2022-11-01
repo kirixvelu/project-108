@@ -2,7 +2,7 @@
 node_modules
 
 # build artefacts
-_site
+README.md
 
 # secrets and errors
 .env
