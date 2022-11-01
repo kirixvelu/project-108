@@ -1,12 +1,12 @@
 {
-  "title": "Elect Kiri Vadivelu for Scarborough Centre",
+  "title": "Elect Socialist for Scarborough Centre",
   "url": "https://kiri-vadivelu.ca",
   "language": "en",
-  "description": "Official website for Kiri Vadivelu to represent people of Scarborough",
+  "description": "Official website for Kiri Vadivelu of Scarborough Centre",
   "author": {
     "name": "Kiri Vadivelu",
     "email": "office@kiri-vadivelu.ca"
   },
-  "image": "/assets/social-image.jpg",
+  "image": "/assets/images/kiri-vadivelu.jpeg",
   "feedUrl": "https://kiri-vadivelu.ca/feed.xml"
 }
