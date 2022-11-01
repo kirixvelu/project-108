@@ -14,6 +14,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("page", "layouts/page");
   eleventyConfig.addLayoutAlias("article", "layouts/article");
 
+  eleventyConfig.addWatchTarget("./src/assets/scss/");
+
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
   eleventyConfig.addPassthroughCopy("./src/favicon-16x16.png");
@@ -36,7 +38,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/assets/icons");
   eleventyConfig.addPassthroughCopy("./src/assets/images");
-  eleventyConfig.addPassthroughCopy("./src/assets/videos");
   eleventyConfig.addPassthroughCopy("./src/assets/sprite.svg");
   eleventyConfig.addPassthroughCopy({
     "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":

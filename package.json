@@ -1,14 +1,14 @@
 {
   "name": "project-108",
   "version": "1.0.0",
-  "description": "Elect Kiri Vadivelu for Scarborough Centre, Ward 21",
+  "description": "Elect Socialist for Scarborough Centre",
   "main": ".eleventy.js",
   "scripts": {
     "generate:sprite": "svg-icon-generate --folder=src/assets/icons --output=src/assets/sprite.svg",
     "watch:eleventy": "eleventy --serve",
-    "watch:sass": "sass --watch src/assets/styles:_site/assets",
+    "watch:sass": "sass --watch src/assets/scss:_site/assets",
     "build:eleventy": "eleventy",
-    "build:sass": "sass  --no-source-map --style=compressed src/assets/styles:_site/assets",
+    "build:sass": "sass  --no-source-map --style=compressed src/assets/scss:_site/assets",
     "start": "npm-run-all build:sass generate:sprite --parallel watch:*",
     "build": "npm-run-all build:*",
     "debug": "DEBUG=* npx eleventy"
