@@ -39,7 +39,7 @@ Since then, I passionately strive to make housing a human right in [Ontario](htt
 
 Accomplished Bachelors of Arts (BA) in [Criminology](https://ontariotechu.ca/programs/undergraduate/social-science-and-humanities/criminology-and-justice/), Justice and Policy Studies at the [University](https://ontariotechu.ca) of Ontario; meanwhile celebrating 20 years of residence in Scarborough.
 
-While we all agree that status quo can no longer serve the needs of our [communities](https://github.com/kiri-vadivelu/project-108/blob/main/src/peoples-platform.pdf), we can still have different point of views on different social issues. That is what makes us unique and stronger at the same time.
+While we all agree that status quo can no longer serve the [needs](https://github.com/kiri-vadivelu/project-108/blob/main/src/peoples-platform.pdf) of our community, we can still have different point of views on social issues. That is what makes us unique and bonded based on common principles of humanity.
 
 For instance, when I was fighting against a corporate landlord in the midst of a pandemic, my [community](https://tdotcommunity.ca/project/guarding-his-home/) came together to protect my family. It was people's defense that lead to my ultimate victory. Therefore, I can assure that we will at least agree of somethings that will help us move forward in the great social, economical and political transformation in history.
 
