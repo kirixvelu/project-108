@@ -15,36 +15,20 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("article", "layouts/article");
 
   eleventyConfig.addWatchTarget("./src/scss/");
-  eleventyConfig.addPassthroughCopy("./src/css/style.css");
+  eleventyConfig.addPassthroughCopy("./src/css");
+  eleventyConfig.addPassthroughCopy("./src/assets/");
 
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
   eleventyConfig.addPassthroughCopy("./src/favicon-16x16.png");
   eleventyConfig.addPassthroughCopy("./src/favicon-32x32.png");
-  eleventyConfig.addPassthroughCopy("./src/apple-touch-icon.png");
-  eleventyConfig.addPassthroughCopy("./src/android-chrome-192x192.png");
-  eleventyConfig.addPassthroughCopy("./src/android-chrome-512x512.png");
 
-  eleventyConfig.addPassthroughCopy("./src/4x5.pdf");
-  eleventyConfig.addPassthroughCopy("./src/8x11.pdf");
   eleventyConfig.addPassthroughCopy("./src/404.md");
 
-  eleventyConfig.addPassthroughCopy("./src/census-stats.pdf");
-  eleventyConfig.addPassthroughCopy("./src/ward-21.pdf");
-  eleventyConfig.addPassthroughCopy("./src/electoral-map.pdf");
-  eleventyConfig.addPassthroughCopy("./src/polling-stations.pdf");
-
-  eleventyConfig.addPassthroughCopy("./src/tamil-genocide.pdf");
-  eleventyConfig.addPassthroughCopy("./src/peoples-platform.pdf");
-
-  eleventyConfig.addPassthroughCopy("./src/assets/icons");
-  eleventyConfig.addPassthroughCopy("./src/assets/images");
-  eleventyConfig.addPassthroughCopy("./src/assets/sprite.svg");
   eleventyConfig.addPassthroughCopy({
     "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
       "assets/svg-icon-sprite.js",
   });
-  eleventyConfig.addPassthroughCopy("./src/assets/social-image.jpg");
 
   eleventyConfig.addNunjucksAsyncShortcode(
     "image",
