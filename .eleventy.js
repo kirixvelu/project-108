@@ -22,6 +22,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
   eleventyConfig.addPassthroughCopy("./src/favicon-16x16.png");
   eleventyConfig.addPassthroughCopy("./src/favicon-32x32.png");
+  eleventyConfig.addPassthroughCopy("./src/apple-touch-icon.png");
 
   eleventyConfig.addPassthroughCopy("./src/404.md");
 
