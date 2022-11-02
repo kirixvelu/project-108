@@ -24,8 +24,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/favicon-32x32.png");
   eleventyConfig.addPassthroughCopy("./src/apple-touch-icon.png");
 
-  eleventyConfig.addPassthroughCopy("./src/404.md");
-
   eleventyConfig.addPassthroughCopy({
     "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
       "assets/svg-icon-sprite.js",
@@ -44,7 +42,7 @@ module.exports = function (eleventyConfig) {
       .toLocaleString(DateTime.DATE_FULL);
   });
 
-  /* Creating a collection of blogposts by filtering based on folder and filetype */
+  /* Creating a collection of blog posts by filtering based on folder and filetype */
   eleventyConfig.addCollection("blog", (collectionApi) => {
     return collectionApi.getFilteredByGlob("./src/blog/*.md").reverse();
   });
