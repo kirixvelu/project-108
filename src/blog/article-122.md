@@ -19,3 +19,5 @@ Some key points that are worth considering in the fight for fair wages to educat
 3. There exists on our side a much greater power than Ford can muster but it has to be unleashed. This comes down to a readiness to defy and an ability to mobilize.
 
 4. The effort to slash real wages through the crudest form of legislated political thuggishness is creating shock and anger. If CUPE digs in and other unions act as the situation demands a great deal is possible.
+
+Credits: [John Clarke](https://www.facebook.com/john.clarke.771282)
