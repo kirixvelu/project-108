@@ -1,5 +1,5 @@
 ---
-title: Knowledge for Half Brained Freedom Fighter
+title: Dealing with Half Brained Freedom Fighter
 date: 2022-11-01
 category: "liberty"
 ---
