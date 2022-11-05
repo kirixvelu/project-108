@@ -16,7 +16,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addWatchTarget("./src/scss/");
   eleventyConfig.addPassthroughCopy("./src/css");
-  eleventyConfig.addPassthroughCopy("./src/assets/");
+  eleventyConfig.addPassthroughCopy("./src/assets/**/*");
 
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
