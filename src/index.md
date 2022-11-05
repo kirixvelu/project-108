@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 1
 ---
 
-{% image "src/assets/images/kiri-vadivelu.jpeg", "Picture of Scarborough Center, Ward 21 Candidate, Kiri Vadivelu",
+{% image "src/assets/images/kiri-vadivelu.jpeg", "Toronto Council Candidate, Kiri Vadivelu",
   "image", [300, 600] %}
 
 # Kiri Vadivelu
