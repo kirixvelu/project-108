@@ -14,9 +14,9 @@ On the revolutionary front, people yarn for great leaders but then disappointmen
 
 The most riskiest work in a capitalist society is community mobilization for the good of humanity. Those leaders do not get rich but often make unimaginable personal sacrifices for the benefit of society we live today. However, wild corporate cats view the great social work as threat to wealthy in society. Capitalism, a product of colonialism, supports military mobilization for war but demonize social unification that benefit workers and the oppressed.
 
-For instance, rapper Tupac Shakur was not a humanitarian but attempted to unite the divided African American people who were subject to systematic poverty in United States. Although, he pursued a risky hiphop lifestyle, he really inspired people using his music for the good of humanity. He shared knowledge and wisdom with intent to make life better for the people in the hood.
+For instance, rapper Tupac Shakur was not a humanitarian but attempted to unite the divided African American people who were subject to systematic poverty in United States. Although, he pursued a risky hiphop lifestyle, he really inspired people using his music for the good of humanity. He shared his knowledge, experience and wisdom with intent to make life better for the people in the hood.
 
-Let us examine few lyrics of Tupac that are still relevant today. Those lyrics highlight many social issues that we are up against the system that continue to benefit the few. Normally, I do not like foul language but Tupac is an exception.
+Let us examine few lyrics of Tupac that are still relevant today. Those lyrics really highlights many social issues that we are up against the system that continue to benefit the few. Normally, I do not like foul language in any form that disrespects people or nature but when Tupac does, I am irresistible.
 
 ### War
 
@@ -50,4 +50,6 @@ Let us examine few lyrics of Tupac that are still relevant today. Those lyrics h
 
 “So we live like caged beasts waitin’ for the day to let the rage free. Still me ’til they kill me.” (‘Holler If Ya Hear Me’ 1993)
 
-After reading Tupac’s lyrics, why would any police force employed by the corporate government would ever want to solve the murder of Rapper Tupac?
+The list is long but few handpicked examples are suffice to get the point across. After reading Tupac’s lyrics, why would any police force employed by the corporate government would ever want to solve the murder of Rapper Tupac? Since Tupac is too popular to provide a false closing, traitors of working class left the case unresolved long enough to please the ruling powers.
+
+While reasons for leaving early may vary for such an artist like Tupac due to place of living, choice of associations and type of lifestyles; however, that does not eliminate the possibilities of corporate employment.
