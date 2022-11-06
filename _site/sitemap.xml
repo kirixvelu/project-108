@@ -1012,7 +1012,7 @@
     
        
         <url>
-            <loc>/legal/land-acknowledgement/</loc>
+            <loc>/legal/acknowledge/</loc>
             <lastmod>2022-10-01T00:00:00.000Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
@@ -1021,7 +1021,7 @@
     
        
         <url>
-            <loc>/legal/cookies-policy/</loc>
+            <loc>/legal/cookies/</loc>
             <lastmod>2022-10-01T00:00:00.000Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
@@ -1030,7 +1030,7 @@
     
        
         <url>
-            <loc>/legal/disclaimer-notice/</loc>
+            <loc>/legal/disclaimer/</loc>
             <lastmod>2022-10-01T00:00:00.000Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
@@ -1039,7 +1039,7 @@
     
        
         <url>
-            <loc>/legal/privacy-policy/</loc>
+            <loc>/legal/privacy/</loc>
             <lastmod>2022-10-01T00:00:00.000Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
@@ -1048,7 +1048,7 @@
     
        
         <url>
-            <loc>/legal/terms-and-conditions/</loc>
+            <loc>/legal/terms/</loc>
             <lastmod>2022-10-01T00:00:00.000Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>

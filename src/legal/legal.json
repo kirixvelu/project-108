@@ -1,4 +1,3 @@
-{
-    "layout": "page",
-    "permalink": "/legal/{{ title | slugify }}/"
-  }
+{   
+  "layout": "page"
+}
