@@ -34,12 +34,8 @@ module.exports = function (eleventyConfig) {
     require("./src/_11ty/imageShortcode").imageShortcode
   );
 
-  eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {
-      zone: "America/Toronto",
-    })
-      .setLocale("en")
-      .toLocaleString(DateTime.DATE_FULL);
+  eleventyConfig.addFilter("readableDate", dateObj => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLL dd, yyyy");
   });
 
   /* Creating a collection of blog posts by filtering based on folder and filetype */
