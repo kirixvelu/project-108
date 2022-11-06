@@ -3,9 +3,20 @@
   "url": "https://kiri-vadivelu.ca",
   "language": "en",
   "description": "Official website for Kiri Vadivelu of Scarborough",
+  "feed": {
+    "subtitle": "Official website for Kiri Vadivelu of Scarborough",
+    "filename": "feed.xml",
+    "path": "/feed.xml",
+    "id": "https://kiri-vadivelu.ca/"
+  },
+  "jsonfeed": {
+    "path": "/feed.json",
+    "url": "https://kiri-vadivelu.ca/feed.json"
+  },
   "author": {
     "name": "Kiri Vadivelu",
-    "email": "office@kiri-vadivelu.ca"
+    "email": "office@kiri-vadivelu.ca",
+    "url": "https://kiri-vadivelu.ca/about/"
   },
   "image": "/assets/images/kiri-vadivelu.jpeg",
   "feedUrl": "https://kiri-vadivelu.ca/feed.xml"
