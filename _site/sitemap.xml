@@ -1120,7 +1120,7 @@
     
        
         <url>
-            <loc>/acknowledge/</loc>
+            <loc>/assets/legal/acknowledge/</loc>
             <lastmod>2022-11-01T16:46:48.864Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
@@ -1147,7 +1147,7 @@
     
        
         <url>
-            <loc>/cookies/</loc>
+            <loc>/assets/legal/cookies/</loc>
             <lastmod>2022-11-01T16:46:49.256Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
@@ -1156,7 +1156,7 @@
     
        
         <url>
-            <loc>/disclaimer/</loc>
+            <loc>/assets/legal/disclaimer/</loc>
             <lastmod>2022-11-01T16:46:49.257Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
@@ -1174,7 +1174,7 @@
     
        
         <url>
-            <loc>/privacy/</loc>
+            <loc>/assets/legal/privacy/</loc>
             <lastmod>2022-11-01T16:46:49.265Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
@@ -1183,7 +1183,7 @@
     
        
         <url>
-            <loc>/terms/</loc>
+            <loc>/assets/legal/terms/</loc>
             <lastmod>2022-11-01T16:46:49.275Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
