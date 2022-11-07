@@ -1,0 +1,5 @@
+#all feeds
+feed.njk
+json.njk 
+robots.njk
+sitemal.njk
