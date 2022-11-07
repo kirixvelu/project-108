@@ -25,17 +25,27 @@
     />
     <meta name="subject" content="Kiri Vadivelu's website'" />
     <meta name="copyright" content="Digital Designers" />
-    <link
-      rel="shortcut icon"
-      href="https://kiri-vadivelu.ca/favicon.ico"
-      type="image/x-icon"
-    />
+    <link rel="icon" href="{{ '/favicon.ico' | url }}" />
     <link rel="canonical" href="https://kiri-vadivelu.ca/index.html" />
     <meta name="keywords" content="Socialist, Toronto, Scarborough" />
 
     <!-- favicons (favicon.ico) -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- xml/ json feed -->
+    <link
+      rel="alternate"
+      href="{{ metadata.feed.path | url }}"
+      type="application/atom+xml"
+      title="{{ metadata.title }}"
+    />
+    <link
+      rel="alternate"
+      href="{{ metadata.jsonfeed.path | url }}"
+      type="application/json"
+      title="{{ metadata.title }}"
+    />
 
     <!-- 11ty (11ty.dev) -->
     <title>{{ title or metadata.title }}</title>
