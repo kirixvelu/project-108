@@ -1,4 +1,0 @@
-Sitemap: https://www.kiri-vadivelu.ca/sitemap.xml
-
-User-agent: *
-Disallow:

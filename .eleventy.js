@@ -20,8 +20,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
-  eleventyConfig.addPassthroughCopy("./src/favicon-16x16.png");
-  eleventyConfig.addPassthroughCopy("./src/favicon-32x32.png");
   eleventyConfig.addPassthroughCopy("./src/apple-touch-icon.png");
 
   eleventyConfig.addPassthroughCopy({
@@ -34,8 +32,10 @@ module.exports = function (eleventyConfig) {
     require("./src/_11ty/imageShortcode").imageShortcode
   );
 
-  eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLL dd, yyyy");
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+      "LLL dd, yyyy"
+    );
   });
 
   /* Creating a collection of blog posts by filtering based on folder and filetype */
