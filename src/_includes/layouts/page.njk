@@ -28,12 +28,8 @@
     <link rel="icon" href="{{ '/favicon.ico' | url }}" />
     <meta name="keywords" content="Socialist, democracy, Scarborough" />
 
-    <title>{ title or renderData.title or metadata.title }</title>
-    <meta
-      name="description"
-      content="{description or renderData.description}"
-    />
-    <link rel="canonical" href="{ page.url }" />
+    <link rel="canonical" href="{{ metadata.url + page.url }}" itemprop="url" />
+    <meta property="og:url" content="{{ metadata.url + page.url }}" />
     <meta name="robots" content="index, follow" />
 
     <!-- favicons (favicon.ico) -->
