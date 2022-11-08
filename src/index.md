@@ -4,6 +4,7 @@ title: "Elect Socialist Kiri Vadivelu for Scarborough Leadership"
 eleventyNavigation:
   key: home
   order: 1
+  date: 2022-10-05
 ---
 
 {% image "src/assets/images/kiri-vadivelu.jpeg", "Toronto Council Candidate, Kiri Vadivelu",
