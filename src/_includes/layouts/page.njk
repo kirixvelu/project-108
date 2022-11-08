@@ -25,16 +25,24 @@
     />
     <meta name="subject" content="Kiri Vadivelu" />
     <meta name="copyright" content="Digital Designers" />
-    <link rel="icon" href="{{ '/favicon.ico' | url }}" />
-    <meta name="keywords" content="Socialist, democracy, Scarborough" />
-
-    <link rel="canonical" href="{{ metadata.url + page.url }}" itemprop="url" />
-    <meta property="og:url" content="{{ metadata.url + page.url }}" />
-    <meta name="robots" content="index, follow" />
 
     <!-- favicons (favicon.ico) -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" sizes="48x48" href="{{ '/favicon.ico' | url }}" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="{{ '/apple-touch-icon.png' | url }}"
+    />
     <link rel="manifest" href="/site.webmanifest" />
+    <link rel="canonical" href="{{ metadata.url + page.url }}" itemprop="url" />
+
+    <!-- search (metadata)-->
+    <meta property="og:url" content="{{ metadata.url + page.url }}" />
+    <meta name="robots" content="index, follow" />
+    <meta
+      name="keywords"
+      content="socialism, democracy, equity, community, advocacy"
+    />
 
     <!-- xml/ json feed -->
     <link

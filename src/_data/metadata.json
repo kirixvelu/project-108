@@ -16,8 +16,17 @@
   "author": {
     "name": "Kiri Vadivelu",
     "email": "office@kiri-vadivelu.ca",
-    "url": "https://kiri-vadivelu.ca/about/"
+    "url": "https://kiri-vadivelu.ca/about/",
+    "twitter": "https://twitter.com/kiri_vadivelu",
+    "facebook": "https://facebook.com/kiri.vadivelu",
+    "instagram": "https://instagram.com/kiri_vadivelu/",
+    "linkedin": "https://linkedin.com/in/kiri-vadivelu/",
+    "hashnode": "https://hashnode.com/@kiri-vadivelu",
+    "tealfeed": "https://tealfeed.com/kiri_vadivelu",
+    "substack": "https://scarborough.substack.com/",
+    "tiktok": "https://tiktok.com/@kiri_vadivelu",
+    "dev": "https://dev.to/kiri_vadivelu"
   },
-  "image": "/assets/kiri-vadivelu.jpeg",
+  "image": "/assets/images/kiri-vadivelu.jpeg",
   "feedUrl": "https://kiri-vadivelu.ca/feed.xml"
 }
