@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Elect Socialist Kiri Vadivelu for Scarborough Leadership"
 eleventyNavigation:
   key: home
   order: 1
