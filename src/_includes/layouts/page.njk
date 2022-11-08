@@ -23,11 +23,18 @@
       name="robots"
       content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     />
-    <meta name="subject" content="Kiri Vadivelu's website'" />
+    <meta name="subject" content="Kiri Vadivelu" />
     <meta name="copyright" content="Digital Designers" />
     <link rel="icon" href="{{ '/favicon.ico' | url }}" />
-    <link rel="canonical" href="https://kiri-vadivelu.ca/index.html" />
-    <meta name="keywords" content="Socialist, Toronto, Scarborough" />
+    <meta name="keywords" content="Socialist, democracy, Scarborough" />
+
+    <title>{ title or renderData.title or metadata.title }</title>
+    <meta
+      name="description"
+      content="{description or renderData.description}"
+    />
+    <link rel="canonical" href="{ page.url }" />
+    <meta name="robots" content="index, follow" />
 
     <!-- favicons (favicon.ico) -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />

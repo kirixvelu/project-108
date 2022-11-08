@@ -6,8 +6,10 @@
   command = "eleventy"
 
 [[redirects]]
-  from = "/*"
-  to = "/blog/:splat"
+  from = "https://kiri-vadivelu.netlify.app"
+  to = "https://kiri-vadivelu.ca"
+  status = 301
+  force = true
 
 [[headers]]
 
