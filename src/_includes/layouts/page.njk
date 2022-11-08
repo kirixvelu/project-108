@@ -16,15 +16,25 @@
       gtag("config", "G-QNL8WBNJYD");
     </script>
 
-    <!-- content (HTML5) -->
+    <!-- view (HTML5) -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="robots"
-      content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     />
     <meta name="subject" content="Kiri Vadivelu" />
     <meta name="copyright" content="Digital Designers" />
+    <meta name="generator" content="{{ eleventy.generator }}" />
+    <title>"{{ title or metadata.title }}"</title>
+    <meta
+      name="description"
+      content="{{ description or metadata.description }}"
+    />
+    <meta
+      name="keywords"
+      content="socialism, democracy, equity, community, advocacy"
+    />
 
     <!-- favicons (favicon.ico) -->
     <link rel="icon" sizes="48x48" href="{{ '/favicon.ico' | url }}" />
@@ -36,15 +46,7 @@
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="canonical" href="{{ metadata.url + page.url }}" itemprop="url" />
 
-    <!-- search (metadata)-->
-    <meta property="og:url" content="{{ metadata.url + page.url }}" />
-    <meta name="robots" content="index, follow" />
-    <meta
-      name="keywords"
-      content="socialism, democracy, equity, community, advocacy"
-    />
-
-    <!-- xml/ json feed -->
+    <!-- feed xml/ json -->
     <link
       rel="alternate"
       href="{{ metadata.feed.path | url }}"

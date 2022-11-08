@@ -16,15 +16,25 @@
       gtag("config", "G-QNL8WBNJYD");
     </script>
 
-    <!-- content (HTML5) -->
+    <!-- view (HTML5) -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="robots"
-      content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     />
     <meta name="subject" content="Kiri Vadivelu" />
     <meta name="copyright" content="Digital Designers" />
+    <meta name="generator" content="Eleventy v1.0.2" />
+    <title>"Journals of &quot;tech&quot;"</title>
+    <meta
+      name="description"
+      content="Socialist solutions to capitalist crisis in modern democracy"
+    />
+    <meta
+      name="keywords"
+      content="socialism, democracy, equity, community, advocacy"
+    />
 
     <!-- favicons (favicon.ico) -->
     <link rel="icon" sizes="48x48" href="/favicon.ico" />
@@ -36,15 +46,7 @@
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="canonical" href="https://kiri-vadivelu.ca/blog/tech/" itemprop="url" />
 
-    <!-- search (metadata)-->
-    <meta property="og:url" content="https://kiri-vadivelu.ca/blog/tech/" />
-    <meta name="robots" content="index, follow" />
-    <meta
-      name="keywords"
-      content="socialism, democracy, equity, community, advocacy"
-    />
-
-    <!-- xml/ json feed -->
+    <!-- feed xml/ json -->
     <link
       rel="alternate"
       href="/feed.xml"
@@ -65,15 +67,19 @@
 <meta name="description" content="Socialist solutions to capitalist crisis in modern democracy" />
 <meta name="author" content="Kiri Vadivelu" />
 
-<meta property="og:title" content="Elect Socialist for Scarborough" />
+<meta property="og:title" content="{{
+  metadata.title
+}}" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.kiri-vadivelu.ca" />
+<meta property="og:url" content="https://kiri-vadivelu.ca/blog/tech/" />
 <meta property="og:description" content="Socialist solutions to capitalist crisis in modern democracy" />
 <meta property="og:image" content="https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpeg" />
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@kiri_vadivelu" />
-<meta name="twitter:title" content="Elect Socialist for Scarborough" />
+<meta name="twitter:site" content="https://twitter.com/kiri_vadivelu" />
+<meta name="twitter:title" content="{{
+  metadata.title
+}}" />
 <meta name="twitter:description" content="Socialist solutions to capitalist crisis in modern democracy" />
 <meta name="twitter:image" content="socialImage" />
 
