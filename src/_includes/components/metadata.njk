@@ -1,6 +1,5 @@
 <title>{{ title or metadata.title }}</title>
 <meta name="author" content="{{ metadata.author.name }}" />
-
 <meta name="description" content="{{ description or metadata.description }}" />
 <meta
   name="keywords"
@@ -9,18 +8,16 @@
 <meta name="publish_date" content="{{ page.date | readableDate }}" />
 
 <meta property="og:type" content="website" />
-<meta property="og:title" content="{{ title or metadata.title }}" />
 <meta property="og:url" content="{{ metadata.url + page.url }}" />
+<meta property="og:title" content="{{ title or metadata.title }}" />
 <meta
   property="og:description"
   content="{{ description or metadata.description }}"
 />
-
 <meta property="og:publish_date" content="{{ page.date | readableDate }}" />
-
 <meta property="og:image" content="{{ socialImage }}" />
 
-<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:card" content="{{ socialImage }}" />
 <meta name="twitter:site" content="{{ metadata.author.twitter }}" />
 <meta name="twitter:title" content="{{ title or metadata.title }}" />
 <meta
