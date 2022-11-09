@@ -4,6 +4,7 @@ node_modules
 # build artefacts
 README.md
 package-lock.json
+_site
 
 # secrets and errors
 .env
