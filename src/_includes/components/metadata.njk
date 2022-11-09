@@ -1,27 +1,23 @@
-<title>{{ title or metadata.title }}</title>
+<title>{{ title }}</title>
 <meta name="author" content="{{ metadata.author.name }}" />
-<meta name="description" content="{{ description or metadata.description }}" />
+<meta name="description" content="{{ description }}" />
 <meta
   name="keywords"
-  content="socialism, democracy, equity, community, advocacy"
+  content="economy, democracy, equality, justice, advocacy"
 />
 <meta name="publish_date" content="{{ page.date | readableDate }}" />
 
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ metadata.url + page.url }}" />
 <meta property="og:title" content="{{ title }}" />
-<meta
-  property="og:description"
-  content="{{ description or metadata.description }}"
-/>
+<meta property="og:description" content="{{ description }}" />
 <meta property="og:publish_date" content="{{ page.date | readableDate }}" />
 <meta property="og:image" content="{{ socialImage }}" />
+<meta property="og:image:alt" content="{{ socialImage }}" />
 
-<meta name="twitter:card" content="{{ socialImage }}" />
-<meta name="twitter:site" content="{{ metadata.author.twitter }}" />
+<meta name="twitter:card" content="{{ summary }}" />
+<meta name="twitter:creator" content="{{ @kiri_vadivelu }}" />
 <meta name="twitter:title" content="{{ title }}" />
-<meta
-  name="twitter:description"
-  content="{{ description or metadata.description }}"
-/>
+<meta name="twitter:description" content="{{ description }}" />
 <meta name="twitter:image" content="{{ socialImage }}" />
+<meta name="twitter:image:alt" content="{{ socialImage }}" />
