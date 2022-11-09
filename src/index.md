@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Elect Socialist Kiri Vadivelu for Scarborough Leadership"
+description: "Policy alternative to the norm of social, economical and political oppression of working people"
 eleventyNavigation:
   key: home
   order: 1
