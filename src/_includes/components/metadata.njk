@@ -1,11 +1,11 @@
 <title>{{ title or metadata.title }}</title>
-<meta name="author" content="{{ metadata.author.name }}" />
 <meta name="description" content="{{ description or metadata.description }}" />
-<meta name="og:image:secure_url" content="{{ socialImage }}" />
 <meta
   name="keywords"
   content="economy, democracy, equality, justice, advocacy"
 />
+<meta name="og:image:secure_url" content="{{ socialImage }}" />
+<meta name="author" content="{{ metadata.author.name }}" />
 <meta name="publish_date" content="{{ page.date | readableDate }}" />
 
 <meta property="og:type" content="website" />
