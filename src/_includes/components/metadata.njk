@@ -8,7 +8,7 @@
 <meta name="author" content="{{ metadata.author.name }}" />
 <meta name="publish_date" content="{{ page.date | readableDate }}" />
 
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
 <meta property="og:url" content="{{ metadata.url + page.url }}" />
 <meta property="og:title" content="{{ title }}" />
 <meta property="og:description" content="{{ description }}" />
@@ -16,6 +16,7 @@
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:creator" content="{{ metadata.author.twitter }}" />
+<meta name="twitter:url" content="{{ metadata.url + page.url }}" />
 <meta name="twitter:title" content="{{ title }}" />
 <meta name="twitter:description" content="{{ description }}" />
 <meta name="twitter:image" content="{{ socialImage }}" />
