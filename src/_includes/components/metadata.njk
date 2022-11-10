@@ -1,9 +1,7 @@
-<title>{{ title or renderData.title or metadata.title }}</title>
+<title>{{ title or metadata.title }}</title>
 <meta name="author" content="{{ metadata.author.name }}" />
-<meta
-  name="description"
-  content="{{ description or renderData.description }}"
-/>
+<meta name="description" content="{{ description or metadata.description }}" />
+<meta name="og:image:secure_url" content="{{ socialImage }}" />
 <meta
   name="keywords"
   content="economy, democracy, equality, justice, advocacy"
@@ -14,13 +12,10 @@
 <meta property="og:url" content="{{ metadata.url + page.url }}" />
 <meta property="og:title" content="{{ title }}" />
 <meta property="og:description" content="{{ description }}" />
-<meta property="og:publish_date" content="{{ page.date | readableDate }}" />
-<meta property="og:image" content="{{ socialImage }}" />
-<meta property="og:image:alt" content="{{ socialImage }}" />
+<meta property="og:image:secure_url" content="{{ socialImage }}" />
 
-<meta name="twitter:card" content="{{ summary }}" />
-<meta name="twitter:creator" content="{{ @kiri_vadivelu }}" />
+<meta name="twitter:card" content="{{ summary_large_image }}" />
+<meta name="twitter:creator" content="{{ metadata.author.twitter }}" />
 <meta name="twitter:title" content="{{ title }}" />
 <meta name="twitter:description" content="{{ description }}" />
 <meta name="twitter:image" content="{{ socialImage }}" />
-<meta name="twitter:image:alt" content="{{ socialImage }}" />
