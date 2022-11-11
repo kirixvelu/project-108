@@ -479,7 +479,6 @@ picture {
   object-fit: cover;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid var(--theme);
   border-radius: var(--radius);
 }
 
@@ -489,6 +488,14 @@ main > img {
 
 article > img {
   margin-block: var(--spacing);
+}
+
+figcaption {
+  text-align: center;
+}
+
+figure {
+  padding-block: var(--spacing-sm);
 }
 
 li::marker {
@@ -729,21 +736,6 @@ embed,
 object {
   width: 100%;
   display: block;
-}
-
-figure > img {
-  margin: auto;
-  padding: 0.5em;
-  max-width: 100;
-  border: 1px solid var(--theme);
-}
-
-figcaption {
-  text-align: center;
-}
-
-figure {
-  padding-block: var(--spacing);
 }
 
 ::selection {

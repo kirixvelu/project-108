@@ -13,21 +13,6 @@ object {
   display: block;
 }
 
-figure > img {
-  margin: auto;
-  padding: 0.5em;
-  max-width: 100;
-  border: 1px solid var(--theme);
-}
-
-figcaption {
-  text-align: center;
-}
-
-figure {
-  padding-block: var(--spacing);
-}
-
 ::selection {
   background-color: var(--theme);
   color: var(--theme-text);
