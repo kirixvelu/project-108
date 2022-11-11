@@ -3,8 +3,9 @@
   "description": "Socialist solutions to capitalist crisis in modern democracy",
   "keywords": "economy, democracy, equality, justice, advocacy",
   "site": "Kiri Vadivelu",
-  "type": "blog",
+  "type": "website",
   "language": "en",
+  "local": "en_CA",
   "city": "Toronto",
   "country": "Canada",
   "url": "https://kiri-vadivelu.ca",
@@ -13,11 +14,11 @@
   "feed": {
     "subtitle": "Socialist solutions to capitalist crisis in modern democracy",
     "filename": "feed.xml",
-    "path": "/feed.xml",
+    "path": "/feed/feed.xml",
     "id": "https://kiri-vadivelu.ca/"
   },
   "jsonfeed": {
-    "path": "/feed.json",
+    "path": "/feed/feed.json",
     "url": "https://kiri-vadivelu.ca/feed.json"
   },
   "author": {
@@ -30,6 +31,7 @@
     "instagram": "https://instagram.com/kiri_vadivelu/",
     "linkedin": "https://linkedin.com/in/kiri-vadivelu/"
   },
+  "legal": "https://kiri-vadivelu.ca/legal/",
   "developer": {
     "name": "Kiri Vadivelu",
     "company": "Digital Designers",

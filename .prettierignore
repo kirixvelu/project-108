@@ -2,4 +2,6 @@
 feed.njk
 json.njk 
 robots.njk
+humans.njk
+license.njk
 sitemap.njk
