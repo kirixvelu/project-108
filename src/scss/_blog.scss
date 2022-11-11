@@ -28,10 +28,4 @@ article {
     display: inline-block;
     margin-bottom: 0.5em;
   }
-
-  p {
-    + * {
-      margin-top: 0.5em;
-    }
-  }
 }
