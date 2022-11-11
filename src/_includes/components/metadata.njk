@@ -1,11 +1,10 @@
-{% set socialImage = [metadata.url, metadata.image] | join %}
 <title>{{ title }}</title>
 <meta name="description" content="{{ description or metadata.description }}" />
 <meta
   name="keywords"
   content="economy, democracy, equality, justice, advocacy"
 />
-<meta name="og:image:secure_url" content="{{ socialImage }}" />
+<meta name="og:image:secure_url" content="{{ metadata.url + socialImage }}" />
 <meta name="author" content="{{ metadata.author.name }}" />
 <meta name="publish_date" content="{{ page.date | readableDate }}" />
 
@@ -16,7 +15,10 @@
   property="og:description"
   content="{{ description or metadata.description }}"
 />
-<meta property="og:image:secure_url" content="{{ socialImage }}" />
+<meta
+  property="og:image:secure_url"
+  content="{{ metadata.url + socialImage }}"
+/>
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="{{ metadata.author.twitter }}" />
@@ -26,4 +28,4 @@
   name="twitter:description"
   content="{{ description or metadata.description}}"
 />
-<meta name="twitter:image" content="{{ socialImage }}" />
+<meta name="twitter:image" content="{{ metadata.url + socialImage }}" />
