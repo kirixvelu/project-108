@@ -1,25 +1,28 @@
 <title>{{ title }}</title>
-<meta name="description" content="{{ description }}" />
+<meta name="description" content="{{ description or metadata.description }}" />
 <meta
   name="keywords"
   content="economy, democracy, equality, justice, advocacy"
 />
-<meta name="og:image:secure_url" content="{{ socialImage }}" />
+<meta name="og:image:secure_url" content="" />
 <meta name="author" content="{{ metadata.author.name }}" />
 <meta name="publish_date" content="{{ page.date | readableDate }}" />
 
 <meta property="og:type" content="article" />
 <meta property="og:url" content="{{ metadata.url + page.url }}" />
 <meta property="og:title" content="{{ title }}" />
-<meta property="og:description" content="{{ description }}" />
-<meta property="og:image:secure_url" content="{{ socialImage }}" />
+<meta
+  property="og:description"
+  content="{{ description or metadata.description }}"
+/>
+<meta property="og:image:secure_url" content="" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="{{ metadata.author.twitter }}" />
 <meta name="twitter:url" content="{{ metadata.url + page.url }}" />
 <meta name="twitter:title" content="{{ title }}" />
-<meta name="twitter:description" content="{{ description }}" />
 <meta
-  name="twitter:image"
-  content="https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpeg"
+  name="twitter:description"
+  content="{{ description or metadata.description}}"
 />
+<meta name="twitter:image" content="" />
