@@ -1,10 +1,14 @@
 {
   "title": "Elect Socialist Kiri Vadivelu for Scarborough",
   "description": "Socialist solutions to capitalist crisis in modern democracy",
+  "keywords": "economy, democracy, equality, justice, advocacy",
+  "site": "Kiri Vadivelu",
+  "type": "blog",
   "language": "en",
+  "city": "Toronto",
+  "country": "Canada",
   "url": "https://kiri-vadivelu.ca",
   "image": "/assets/images/kiri-vadivelu.jpeg",
-  "cover": "https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpeg",
   "feedUrl": "https://kiri-vadivelu.ca/feed.xml",
   "feed": {
     "subtitle": "Socialist solutions to capitalist crisis in modern democracy",
@@ -20,6 +24,7 @@
     "name": "Kiri Vadivelu",
     "email": "office@kiri-vadivelu.ca",
     "url": "https://kiri-vadivelu.ca/about/",
+    "copyright": "https:/kiri-vadivelu.ca/legal",
     "twitter": "https://twitter.com/kiri_vadivelu",
     "facebook": "https://facebook.com/kiri.vadivelu",
     "instagram": "https://instagram.com/kiri_vadivelu/",
@@ -29,9 +34,6 @@
     "name": "Kiri Vadivelu",
     "company": "Digital Designers",
     "email": "office@digitaldesigners.ca",
-    "url": "https://digitaldesigners.ca",
-    "city": "Toronto",
-    "state": "Ontario",
-    "country": "Canada"
+    "url": "https://digitaldesigners.ca"
   }
 }

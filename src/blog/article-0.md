@@ -2,7 +2,6 @@
 title: "Tabor Hill Scarborough, Feast of the Dead"
 date: 2020-04-10
 category: "history"
-socialImage: /assets/images/feast-of-the-dead-3.jpeg
 ---
 
 In Scarborough, the Tabor Hill Site is the most well known archeological site. This section will refocus our attention to an important moment in Scarborough history and outcomes of the excavation conducted by archaeologist Walter Kenyon. Under the scholarship of University of Toronto Professor Walter Kenyon, an Indigenous burial site dating to the 13th century was discovered. Excerpt from Scarborough Historical Society.
