@@ -7,8 +7,10 @@ category: "history"
 In Scarborough, the Tabor Hill Site is the most well known archeological site. This section will refocus our attention to an important moment in Scarborough history and outcomes of the excavation conducted by archaeologist Walter Kenyon. Under the scholarship of University of Toronto Professor Walter Kenyon, an Indigenous burial site dating to the 13th century was discovered. Excerpt from Scarborough Historical Society.
 
 <!-- excerpt -->
-
+<figure>
 {% image "src/assets/images/feast-of-the-dead-3.jpeg", "Feast of the dead ceremony chief in 1960", "image", [300, 600] %}
+<figcaption>1.Feast of the dead ceremony chief in 1960</figcaption>
+</figure>
 
 The site contained an ossuary as well as the mass burial of approximately 472 individuals. According to Walter Kenyon and James Lovekins, the burial ritual were in accordance to Iroquois tradition (More information available in Archival – A023). Through the Feast of the Dead ceremony, Iroquois community members would wait 10 to 12 year intervals to bury their dead in a mass burial.
 
