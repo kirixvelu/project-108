@@ -62,11 +62,19 @@ figcaption {
   text-align: center;
 }
 
+figcaption::before {
+  content: " \27A5";
+  color: var(--link);
+}
+
 figure {
   padding-block: var(--spacing);
 }
 
 // Lists
+ul {
+  list-style: none;
+}
 li::marker {
   color: var(--link);
 }
