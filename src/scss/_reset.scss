@@ -18,6 +18,11 @@ dd {
   margin: 0;
 }
 
+ul {
+  margin-inline-start: 0;
+  padding-inline-start: 0;
+}
+
 ul[role="list"],
 ol[role="list"] {
   list-style: none;
