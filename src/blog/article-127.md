@@ -1,5 +1,5 @@
 ---
-title: Logic + Reasoning to Trump Fear + Fascism
+title: Logic + Reasoning to Defeat Fear + Fascism
 date: 2022-11-05
 category: "war"
 ---
@@ -24,8 +24,8 @@ The general public in North America have no real understanding of communism, the
 
 For most North Americans though, going to gym is good for health is understood but learning about political ideologies is still a no go zone and overridden by fear and anxiety. Upton Sinclair once said, “It is difficult to get a man to understand something, when his salary depends on his not understanding it” so barriers to democracy are everywhere.
 
-Like anything in life, Chinese Socialism or Russian Communism is not a perfect political ideology but that is not reason to marry colonial capitalism that promoted war and violence with no regard for people and planet for 500 plus years. Realistically, the social bankruptcy of political knowledge in Canada and America continue to allow to consume political propaganda; not seek factual information.
+Like anything in life, Chinese Socialism or Russian Communism is not a perfect political ideology but that is not reason to marry colonial capitalism that promoted war and violence with no regard for people and planet for 500 plus years. Realistically, the social bankruptcy of political knowledge in Canada and America continue to swallow Central Intelligence Agency (CIA) propaganda without exercising common sense.
 
-The relentless effort of war profiteers and business driven media to feed misinformation to general public only destroy the health and well being of our people. The merciless manufacturing of fear gives no room for rationality but to build hate and anger instead of love and compassion toward one another based on true understanding of our differences.
+The relentless effort of war profiteers and business driven media to feed misinformation to general public only destroy the health and well being of our people. Unlike CIA, I do not believe killing people overseas make anyone safer locally nor necessary. The merciless manufacturing of fear gives no room for rationality but to build hate and anger instead of love and compassion toward one another based on true understanding of fundamental differences.
 
 The butterfly effect is my dream but how we achieve that depends on our collective efforts. On a larger scale, I believe Canadians have the potential to walk a new path to freedom, justice and liberty instead of money, profit and bullshit; but will the status quo allow the change of direction?.
