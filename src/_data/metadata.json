@@ -9,7 +9,7 @@
   "city": "Toronto",
   "country": "Canada",
   "url": "https://kiri-vadivelu.ca",
-  "image": "/assets/images/kiri-vadivelu.jpeg",
+  "image": "https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpeg",
   "feedUrl": "https://kiri-vadivelu.ca/feed.xml",
   "feed": {
     "subtitle": "Socialist solutions to capitalist crisis in modern democracy",
