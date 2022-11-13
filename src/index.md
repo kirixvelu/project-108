@@ -2,10 +2,10 @@
 layout: page
 title: "Elect Socialist Kiri Vadivelu for Scarborough Leadership"
 description: "Policy alternative to the norm of social, economical and political oppression of working people"
+date: 2022-10-05
 eleventyNavigation:
   key: home
   order: 1
-  date: 2022-10-05
 ---
 
 {% image "src/assets/images/kiri-vadivelu.jpeg", "Toronto Council Candidate, Kiri Vadivelu",
