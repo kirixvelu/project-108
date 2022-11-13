@@ -18,6 +18,22 @@ a:visited {
 }
 
 // Decorations
+a[href^="https://"]::after
+{
+  content: " \21BA";
+  font-size: 1.1em;
+  // margin-right: 0.25em;
+}
+
+a[href^="/"] {
+  /* internal relative link */
+}
+
+a[href="https://vimeo.com"]
+{
+  /* link to specific website */
+}
+
 a[href^="mailto"]::before {
   content: " \2709";
   font-size: 1.1em;
@@ -26,6 +42,18 @@ a[href^="mailto"]::before {
 
 a[href^="tel"]::before {
   content: " \260F";
+  font-size: 1.1em;
+  margin-right: 0.25em;
+}
+
+a[href$=".pdf"]::after {
+  content: " \21F2";
+  font-size: 1.1em;
+  margin-right: 0.25em;
+}
+
+a[href$=".mp3"] {
+  content: " \266B";
   font-size: 1.1em;
   margin-right: 0.25em;
 }

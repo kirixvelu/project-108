@@ -14,7 +14,7 @@ eleventyNavigation:
 # Kiri Vadivelu
 
 <p align="center">
- &check; Scarborough Centre - Ward 21 <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/statement-kiri-vadivelu.pdf">[statement]</a><br> 
+ &check; Scarborough Centre - Ward 21 <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/statement-kiri-vadivelu.pdf">statement</a><br> 
  <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/ward-21.pdf">Ward Map</a> |
  <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/census-stats.pdf">Census Stats</a> |
  <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/polling-stations.pdf">Polling Stations</a>
@@ -22,7 +22,7 @@ eleventyNavigation:
 
  <br>
 
-> Say no to status-quo, vote Oct 24 [[Result]](https://electionresults.toronto.ca/)
+> Say no to status-quo, vote Oct 24 [Result](https://electionresults.toronto.ca/)
 
 > Free transit everyday; not just voting day
 
@@ -30,7 +30,7 @@ eleventyNavigation:
 
 > Housing is a human right. Eliminate wait
 
-> De-fund Police | Fund Schools [[How]](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/peoples-platform.pdf)
+> De-fund Police | Fund Schools [How](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/peoples-platform.pdf)
 
 <br>
 
