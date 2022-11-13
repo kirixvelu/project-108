@@ -311,40 +311,40 @@ a:visited:active {
   color: var(--neutral);
 }
 
-a[href^="https://"]::after {
-  content: " ↺";
-  font-size: 1.1em;
+main a[href^="https://"]::after {
+  content: " ↝";
+  font-size: 1em;
 }
-
-a[href^="/"] {
+main a[href^="/"] {
   /* internal relative link */
 }
-
-a[href="https://vimeo.com"] {
+main a[href="https://vimeo.com"] {
   /* link to specific website */
 }
-
-a[href^=mailto]::before {
+main a[href^=mailto]::before {
   content: " ✉";
-  font-size: 1.1em;
+  font-size: 1em;
   margin-right: 0.25em;
 }
-
-a[href^=tel]::before {
+main a[href^=tel]::before {
   content: " ☏";
-  font-size: 1.1em;
+  font-size: 1em;
   margin-right: 0.25em;
 }
-
-a[href$=".pdf"]::after {
+main a[href$=".pdf"]::after {
   content: " ⇲";
-  font-size: 1.1em;
+  font-size: 1em;
+  margin-right: 0.25em;
+}
+main a[href$=".mp3"] {
+  content: " ♫";
+  font-size: 1em;
   margin-right: 0.25em;
 }
 
-a[href$=".mp3"] {
-  content: " ♫";
-  font-size: 1.1em;
+.article__list > li a:hover::after {
+  content: " ⇾";
+  font-size: 1em;
   margin-right: 0.25em;
 }
 
