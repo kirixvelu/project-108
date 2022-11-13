@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 
 {% image "src/assets/images/kiri-vadivelu.jpeg", "Toronto Council Candidate, Kiri Vadivelu",
-  "image", [300, 600] %}
+  "image", [400, 700] %}
 
 # Kiri Vadivelu
 
