@@ -312,39 +312,45 @@ a:visited:active {
 }
 
 main h1::after {
-  content: " ✦";
+  content: "✦";
   font-size: 0.7em;
+  margin: 0.2em;
 }
 main time::before {
-  content: " ☭";
-  font-size: 1em;
+  content: "☭";
+  font-size: 0.9em;
   color: var(--link);
   border: 1px solid;
-  padding: 0 0.4em;
-  margin-right: 0.4em;
-  border-radius: 0.1em;
+  padding: 0 0.3em;
+  margin-right: 0.3em;
+  border-radius: 0.1em 0.3em 0.1em 0.3em;
   background: var(--theme);
 }
 main a[href^="https://"]::after {
-  content: " ↝";
-  font-size: 1em;
+  content: "➚";
+  font-size: 0.75em;
+  margin: 0.1em;
 }
 main a[href^=mailto]::before {
-  content: " ✉";
-  font-size: 1em;
+  content: "✉";
+  font-size: 0.9em;
+  margin: 0.2em;
 }
 main a[href^=tel]::before {
-  content: " ☏";
-  font-size: 1em;
+  content: "☏";
+  font-size: 0.9em;
+  margin: 0.2em;
 }
 main a[href$=".pdf"]::after {
-  content: " ⇲";
-  font-size: 1em;
+  content: "⇲";
+  font-size: 0.9em;
+  margin: 0.2em;
 }
 
 .article__list li a:hover::after {
-  content: " ⇾";
-  font-size: 1em;
+  content: "⇾";
+  font-size: 0.7em;
+  margin: 0.2em;
 }
 
 hr {

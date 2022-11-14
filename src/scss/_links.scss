@@ -19,47 +19,53 @@ a:visited {
 // Decorations/ Signatures
 main {
   h1::after {
-    content: " \2726";
+    content: "\2726";
     font-size: 0.7em;
+    margin: 0.2em;
   }
 
   time::before {
-    content: " \262D";
-    font-size: 1em;
+    content: "\262D";
+    font-size: 0.9em;
     color: var(--link);
     border: 1px solid;
-    padding: 0 0.4em;
-    margin-right: 0.4em;
-    border-radius: 0.1em;
+    padding: 0 0.3em;
+    margin-right: 0.3em;
+    border-radius: 0.1em 0.3em 0.1em 0.3em;
     background: var(--theme);
   }
 
   a[href^="https://"]::after
   {
-    content: " \219D";
-    font-size: 1em;
+    content: "\279A";
+    font-size: 0.75em;
+    margin: 0.1em;
   }
 
   a[href^="mailto"]::before {
-    content: " \2709";
-    font-size: 1em;
+    content: "\2709";
+    font-size: 0.9em;
+    margin: 0.2em;
   }
 
   a[href^="tel"]::before {
-    content: " \260F";
-    font-size: 1em;
+    content: "\260F";
+    font-size: 0.9em;
+    margin: 0.2em;
   }
 
   a[href$=".pdf"]::after {
-    content: " \21F2";
-    font-size: 1em;
+    content: "\21F2";
+    font-size: 0.9em;
+    margin: 0.2em;
   }
 }
 
 .article__list {
   li a:hover::after {
-    content: " \21FE";
-    font-size: 1em;
+    content: "\21FE";
+    font-size: 0.7em;
+    margin: 0.2em;
   }
 }
 
