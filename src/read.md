@@ -1,5 +1,5 @@
 ---
-permalink: "/readme.md"
+permalink: "/readme/"
 eleventyExcludeFromCollections: true
 ---
 
