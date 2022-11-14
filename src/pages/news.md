@@ -10,7 +10,9 @@ eleventyNavigation:
 
 # Ward 21 News
 
+<small>
 <time datetime="2022-10-25"> October 25, 2022 </time>
+</small>
 
 ### Victory in Difference; Not Numbers
 
@@ -23,7 +25,9 @@ immovable, please see my full [statement](https://github.com/kiri-vadivelu/proje
 
 ---
 
+<small>
 <time datetime="2022-10-22"> October 22, 2022 </time>
+</small>
 
 ### Beautiful Street Postering Day
 
@@ -39,7 +43,9 @@ I tweeted that because contingents deserve to know everything.
 
 ---
 
+<small>
 <time datetime="2022-10-21"> October 21, 2022 </time>
+</small>
 
 ### Day Off Campaigns for Office Work
 
@@ -56,7 +62,9 @@ myself, yeah really. Why does it feel like Kanye West when I say that?
 
 ---
 
+<small>
 <time datetime="2022-10-20"> October 20, 2022 </time>
+</small>
 
 ### Changing Gears, Started Street Postering
 
@@ -73,7 +81,9 @@ same role for 16 years even need to campaign?
 
 ---
 
+<small>
 <time datetime="2022-10-19"> October 19, 2022 </time>
+</small>
 
 ### Wet, Chilly and Slow Campaign Day
 
@@ -88,7 +98,9 @@ productive on a dull campaign day.
 
 ---
 
+<small>
 <time datetime="2022-10-18"> October 18, 2022 </time>
+</small>
 
 ### City of Toronto Appreciation 'Thanks to Educators'
 
@@ -106,7 +118,9 @@ affect the wealthy or powerful in the city.
 
 ---
 
+<small>
 <time datetime="2022-10-17"> October 17, 2022 </time>
+</small>
 
 ### Landlord Denied Entry to 12 Craigton Dr
 
@@ -127,7 +141,9 @@ housing laws in the past.
 
 ---
 
+<small>
 <time datetime="2022-10-16"> October 16, 2022 </time>
+</small>
 
 ### Busted Back Door at 6 Glamorgan Ave
 
@@ -142,7 +158,9 @@ do corporate slumlords collect rent anyway?
 
 ---
 
+<small>
 <time datetime="2022-10-15"> October 15, 2022 </time>
+</small>
 
 ### Corporate Greed at 879 Kennedy Rd
 
@@ -156,7 +174,9 @@ interest of corporate personals to place a barrier instead of bridge.
 
 ---
 
+<small>
 <time datetime="2022-10-14"> October 14, 2022 </time>
+</small>
 
 ### Memorial for 17 yr old at 31 Gilder
 
@@ -177,7 +197,9 @@ another being locked up in prison using tax payer dollars.
 
 ---
 
+<small>
 <time datetime="2022-10-13"> October 13, 2022 </time>
+</small>
 
 ### TCHC Nightmare at 400 McCowan Rd
 
@@ -194,7 +216,9 @@ city but exposes itself as the most disrespectful workplace culture.
 
 ---
 
+<small>
 <time datetime="2022-10-12"> October 12, 2022 </time>
+</small>
 
 ### Positive Campaign Moments at Bendale
 
@@ -213,7 +237,9 @@ line, the whole time.
 
 ---
 
+<small>
 <time datetime="2022-10-11"> October 11, 2022 </time>
+</small>
 
 ### Council Endorsement from Acorn Canada
 
@@ -227,7 +253,9 @@ justice at Toronto City Hall.
 
 ---
 
+<small>
 <time datetime="2022-10-10"> October 10, 2022 </time>
+</small>
 
 ### Dear Friends and Comrades
 
@@ -255,7 +283,9 @@ People united can never be defeated. Happy Thanksgiving 2022.
 
 ---
 
+<small>
 <time datetime="2022-10-09"> October 09, 2022 </time>
+</small>
 
 ### Denied Access to Birkdale Shelter
 
@@ -271,7 +301,9 @@ run by psychopaths.
 
 ---
 
+<small>
 <time datetime="2022-10-08"> October 08, 2022 </time>
+</small>
 
 ### The Print Shop Delivered on Promise
 
@@ -283,7 +315,9 @@ big run began with 10,000 copies.
 
 <hr />
 
+<small>
 <time datetime="2022-10-07"> October 07, 2022 </time>
+</small>
 
 ### First Day of Door Knocking with Prints
 
@@ -295,7 +329,9 @@ area.
 
 ---
 
+<small>
 <time datetime="2022-10-06"> October 06, 2022 </time>
+</small>
 
 ### Environment Friendly, Campaign Flyers
 
@@ -312,7 +348,9 @@ crying out-loud for update but I doubt we can anytime soon.
 
 ---
 
+<small>
 <time datetime="2022-10-05"> October 05, 2022 </time>
+</small>
 
 ### Campaign Website Launch at STU
 
@@ -328,7 +366,9 @@ think of bug fixes, that would be a party flopper.
 
 ---
 
+<small>
 <time datetime="2022-09-10"> Sept 10, 2022 </time>
+</small>
 
 ### Projects Offloaded, Begun Election Work
 
@@ -341,7 +381,9 @@ progress. Not radical enough to solve all social issues but a good start.
 
 ---
 
+<small>
 <time datetime="2022-08-08"> August 08, 2022 </time>
+</small>
 
 ### Nomination Papers for Ward 21 Council
 

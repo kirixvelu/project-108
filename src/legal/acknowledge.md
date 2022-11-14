@@ -1,12 +1,13 @@
 ---
 title: "Land Acknowledgement"
+description: "Recognizing the history of Indigenous people and their role in protecting the land and natural resources for human existence"
 ---
 
-<small>
-Last updated: October 01, 2022
-</small>
+# {{ title }}
 
-## Our Statement
+Updated: October 01, 2022
+
+### Our Statement
 
 The land I am standing on today is the traditional territory of many nations
 including the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the
