@@ -115,9 +115,9 @@ platform created by the people in the city just like you and me. See the [Progra
 <section>
 
 <a href="mailto:office@kiri-vadivelu.ca?subject = Feedback&body = Message">
-   EMAIL Office
+   EMAIL
 </a>
-<a href="tel:416-884-1879">CALL Directly</a>
+<a href="tel:416-884-1879">CALL</a>
 
 <address>945 Midland Avenue, Scarborough ON M1K 4G5<address>
 

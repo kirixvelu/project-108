@@ -108,7 +108,7 @@ affect the wealthy or powerful in the city.
 
 <time datetime="2022-10-17"> October 17, 2022 </time>
 
-### Property Manager Denied Entry to 12 Craigton
+### Landlord Denied Entry to 12 Craigton Dr
 
 Property manager from Hannah Group at 12 Craigton Dr. denied entry to the
 apartment building housing about 25 residences. The denial was illegal in the
@@ -129,7 +129,7 @@ housing laws in the past.
 
 <time datetime="2022-10-16"> October 16, 2022 </time>
 
-### Busted Back Door at 6 Glamorgan
+### Busted Back Door at 6 Glamorgan Ave
 
 Had no trouble entering 7 Glamorgan Ave. as the back door has been busted and
 remained ajar. A tenant who live at the apartment for three yrs said “Its
@@ -179,7 +179,7 @@ another being locked up in prison using tax payer dollars.
 
 <time datetime="2022-10-13"> October 13, 2022 </time>
 
-### TCHC Nightmare at 400 McCowan
+### TCHC Nightmare at 400 McCowan Rd
 
 Another city owned property at 400 Mccowan Road, Toronto Community Housing
 Corporation (TCHC) staff granted access with hesitance. Later asked, if my
@@ -215,7 +215,7 @@ line, the whole time.
 
 <time datetime="2022-10-11"> October 11, 2022 </time>
 
-### Endorsement from Acorn Canada
+### Council Endorsement from Acorn Canada
 
 From the time, I received eviction notice in the middle of a pandemic till my
 victory at the Ontario Landlord Tenant Board, Toronto ACORN was with me. When
@@ -275,7 +275,7 @@ run by psychopaths.
 
 ### The Print Shop Delivered on Promise
 
-The local print shop Copy Place always been the most dependable print service
+The local print shop 'Copy Place' always been the most dependable print service
 provider. Not only delivers on time but also catches mistakes before printing.
 Although local businesses have been exploited by the big corporations, the
 service of small business and connection to the community is unmatchable. The
