@@ -1,11 +1,18 @@
-# Elect Socialist for Scarborough Centre
+# DIGITAL DESIGNERS
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b9a85f2d-a0f0-4bb5-a8a1-c67cab24ba32/deploy-status)](https://app.netlify.com/sites/kiri-vadivelu/deploys)
 
-Kiri Vadivelu is a social justice activist running with the Municipal Socialist Alliance for the seat in Scarborough Centre Ward 21. Kiri, who immigrated from Sri Lanka as a child, successfully resisted illegal eviction of his family at the Ontario Landlord and Tenant Board during the 2020 emergency lock down. He passionately strives to make housing a human right in Ontario.
+- License [Project](https://kiri-vadivelu.ca/license.txt)
+- Build System [11TY](https://11ty.dev/)
+- Web Architecture [Principles](https://jamstack.org/)
+- Design Team [Digital Designers](https://digitaldesigners.ca)
 
-A founding member of the Scarborough Tenants’ Union, Kiri is a leading voice of Toronto ACORN and a committed member of Justice for Workers. He was a shop steward of the United Steelworkers Union where he fought for better working conditions, and was recipient of a 2019 leadership award from United Steelworkers (USW) headquarters in Pittsburgh, United States (USA).
+The project was researched, designed and developed by Digital Designers Team in the city of Toronto. Digital Designers is a web design company that specializes in deploying modern portfolio websites, search engine optimizations and social media marketing.
 
-Kiri Vadivelu acquired a Bachelors of Arts (BA) in Criminology, Justice and Policy Studies at the University of Ontario in 2010. Learn more about Kiri's political resolution on the website.
+As a creative design agency, Digital Designers innovate business operations in the market driven economy. Experts of analytical research, performance design and sustainable implementation of cloud technology. Diversity of creative talent enable Digital Designers to be a leading disrupter in the tech industries of Toronto.
 
-#toronto #socialist #pandemic
+If you are interested in creating an awesome digital showcase of your professional work, do not hesitate to reach out to Digital Designers. You may visit [Digital Designers](https://digitaldesigners.ca) to learn more about the team, projects and expertises.
+
+Should you find yourself sharing our values, principles or ethics of business, we want to hear from you. Market may be saturated but we often find ourselves lonely at the top.
+
+Email: hello@digitaldesigners.ca | Toronto.
