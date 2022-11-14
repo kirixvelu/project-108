@@ -15,9 +15,9 @@ eleventyNavigation:
 
 <p align="center">
  &check; Scarborough Centre - Ward 21 <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/statement-kiri-vadivelu.pdf">statement</a><br> 
- <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/ward-21.pdf">Ward Map</a> |
- <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/census-stats.pdf">Census Stats</a> |
- <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/polling-stations.pdf">Polling Stations</a>
+ <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/ward-21.pdf">ward map</a> |
+ <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/census-stats.pdf">census stats</a> |
+ <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/polling-stations.pdf">polling stations</a>
  </p>
 
  <br>

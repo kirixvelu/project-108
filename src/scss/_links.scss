@@ -23,6 +23,17 @@ main {
     font-size: 0.7em;
   }
 
+  time::before {
+    content: " \262D";
+    font-size: 1em;
+    color: var(--link);
+    border: 1px solid;
+    padding: 0 0.4em;
+    margin-right: 0.4em;
+    border-radius: 0.1em;
+    background: var(--theme);
+  }
+
   a[href^="https://"]::after
   {
     content: " \219D";
@@ -45,9 +56,11 @@ main {
   }
 }
 
-.article__list > li a:hover::after {
-  content: " \21FE";
-  font-size: 1em;
+.article__list {
+  li a:hover::after {
+    content: " \21FE";
+    font-size: 1em;
+  }
 }
 
 hr {

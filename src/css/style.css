@@ -315,6 +315,16 @@ main h1::after {
   content: " ✦";
   font-size: 0.7em;
 }
+main time::before {
+  content: " ☭";
+  font-size: 1em;
+  color: var(--link);
+  border: 1px solid;
+  padding: 0 0.4em;
+  margin-right: 0.4em;
+  border-radius: 0.1em;
+  background: var(--theme);
+}
 main a[href^="https://"]::after {
   content: " ↝";
   font-size: 1em;
@@ -332,7 +342,7 @@ main a[href$=".pdf"]::after {
   font-size: 1em;
 }
 
-.article__list > li a:hover::after {
+.article__list li a:hover::after {
   content: " ⇾";
   font-size: 1em;
 }

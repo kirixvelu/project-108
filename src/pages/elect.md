@@ -75,7 +75,7 @@ scalpers, housing profiteers, and parasitic oligarchs!
 There are many ways you can contribute to win democracy at city hall. Here
 are few. Make this election a priority event to help your family, friends
 and neighbors to exercise democratic rights. Save the date, election day on
-Monday, October 24, 2022. Posters [8x11](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/8x11.pdf) | [4x5](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/4x5.pdf).
+Monday, October 24, 2022.
 
 1. Get the word out
 
@@ -89,6 +89,8 @@ you proud. Please do not hesitate to contact. I am only an email away.
 Note that I did not ask for donation. I live amongst the hardest working
 community earning the lowest salary. It would be unfair for me to ask for
 donation from my community members who have nothing left at the end of the month. I would rather have them spend the hard earned dollars on them, their families and into our local businesses instead of my political campaign. That being said, if you have the means to support me financially, please do. I would greatly appreciate that.
+
+> Environment Friendly Posters, [8x11](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/8x11.pdf) | [4x5](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/4x5.pdf)
 
 ---
 
