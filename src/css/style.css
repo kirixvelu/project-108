@@ -326,7 +326,7 @@ main time::before {
   border-radius: 0.1em 0.3em 0.1em 0.3em;
   background: var(--theme);
 }
-main a[href^="https://"]::after {
+main a[href^="https://"]:hover::after {
   content: "➚";
   font-size: 0.75em;
   margin: 0.1em;
@@ -341,7 +341,7 @@ main a[href^=tel]::before {
   font-size: 0.9em;
   margin: 0.2em;
 }
-main a[href$=".pdf"]::after {
+main a[href$=".pdf"]:hover::after {
   content: "⇲";
   font-size: 0.9em;
   margin: 0.2em;
