@@ -1,5 +1,4 @@
 //   Links
-
 a:link,
 a:visited {
   color: var(--link);
@@ -17,53 +16,38 @@ a:visited {
   }
 }
 
-// Decorations
+// Decorations/ Signatures
 main {
+  h1::after {
+    content: " \2726";
+    font-size: 0.7em;
+  }
+
   a[href^="https://"]::after
   {
     content: " \219D";
     font-size: 1em;
-    // margin-right: 0.25em;
-  }
-
-  a[href^="/"] {
-    /* internal relative link */
-  }
-
-  a[href="https://vimeo.com"]
-  {
-    /* link to specific website */
   }
 
   a[href^="mailto"]::before {
     content: " \2709";
     font-size: 1em;
-    margin-right: 0.25em;
   }
 
   a[href^="tel"]::before {
     content: " \260F";
     font-size: 1em;
-    margin-right: 0.25em;
   }
 
   a[href$=".pdf"]::after {
     content: " \21F2";
     font-size: 1em;
-    margin-right: 0.25em;
-  }
-
-  a[href$=".mp3"] {
-    content: " \266B";
-    font-size: 1em;
-    margin-right: 0.25em;
   }
 }
 
 .article__list > li a:hover::after {
   content: " \21FE";
   font-size: 1em;
-  margin-right: 0.25em;
 }
 
 hr {
