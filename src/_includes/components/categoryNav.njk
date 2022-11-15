@@ -9,7 +9,7 @@
           >all</a>
     </li>
     {%- for category in categories %}
-    {% set catUrl = ["/blog/", category.key, "/" ] |  join %}
+    {% set catUrl = ["/", category.key, "/" ] |  join %}
     <li class="category__link {{ ' active' if page.url == catUrl }}">
       <a href="{{ catUrl }}"
       {{ "aria-current" if page.url == catUrl }}>

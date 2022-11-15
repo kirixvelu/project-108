@@ -4,7 +4,7 @@ pagination:
   data: collections.categoryList
   size: 1
   alias: cat
-permalink: "/blog/{{ cat.key }}/"
+permalink: "/{{ cat.key }}/"
 eleventyComputed:
   title: Journals of "{{ cat.name }}"
   description: Articles listed based on the category selection
