@@ -18,8 +18,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/css");
   eleventyConfig.addPassthroughCopy("./src/assets/**/*");
 
-  eleventyConfig.addPassthroughCopy("./src/read-me.md");
-  eleventyConfig.addPassthroughCopy("./src/greet.jpeg");
+  eleventyConfig.addPassthroughCopy("./src/error.jpeg");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/site.webmanifest");
   eleventyConfig.addPassthroughCopy("./src/apple-touch-icon.png");
