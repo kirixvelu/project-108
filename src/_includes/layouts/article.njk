@@ -8,7 +8,7 @@ layout: page
   <small>
     Published: <time>{{ date | readableDate }}</time> <br />
     by {{ metadata.author.name }} | {{ content | emojiReadTime }}
-    <a class="category" href="/{{ category }}">{{ category }}</a>
+    <a class="category" href="/{{ category }}/">{{ category }}</a>
   </small>
   {{ content | safe }}
 </article>
