@@ -8,7 +8,7 @@
       <p>{{ article.data.excerpt }}</p>
       <small>
         <time>{{ article.data.date | readableDate }}</time>
-        <a class="category" href="/blog/{{ article.data.category }}">{{
+        <a class="category" href="/{{ article.data.category }}/">{{
           article.data.category
         }}</a>
       </small>
