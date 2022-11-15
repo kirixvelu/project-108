@@ -7,10 +7,27 @@ pagination:
 permalink: "/blog/{{ cat.key }}/"
 eleventyComputed:
   title: Journals of "{{ cat.name }}"
+  description: Articles listed based on the category selection
 ---
 
 <h1>{{ title }}</h1>
+<quote>
+  I dedicate all of my journal entries to my daughter Katherine and every child
+  that never returned home from residential schools in Canada through 1830 to
+  1996.
+</quote>
+<br /><br />
 
 {% include "./_includes/components/categoryNav.njk" %} {% set articles =
-collections.categories[cat.key] | reverse %} {% include
-"./_includes/components/articleList.njk" %}
+collections.categories[cat.key] | reverse %}
+<hr />
+<h4>{{ cat.name }}</h4>
+<figure>
+  {% image "src/assets/images/digital-book-shelf.jpeg", "Category of Issues",
+  "image", [null] %}
+  <figcaption>
+    Category of Issues in Alphabetical Order | © Kiri Vadivelu
+  </figcaption>
+</figure>
+
+{% include "./_includes/components/articleList.njk" %}

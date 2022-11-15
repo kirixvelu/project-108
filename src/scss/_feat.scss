@@ -60,15 +60,17 @@ article > img {
 
 figcaption {
   text-align: center;
+  padding-top: 0.25em;
 }
 
 figcaption::before {
   content: " \27A5";
   color: var(--link);
+  margin-right: 0.25em;
 }
 
 figure {
-  padding-block: var(--spacing);
+  padding-block: var(--spacing-sm);
 }
 
 // Lists
