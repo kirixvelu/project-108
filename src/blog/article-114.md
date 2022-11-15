@@ -1,5 +1,5 @@
 ---
-title: Corruption and Destruction of NDP Trust
+title: Corruption and Destruction of NDP
 date: 2022-10-20
 category: "corruption"
 ---

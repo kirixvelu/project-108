@@ -10,4 +10,4 @@ A misconception as common as it is incorrect, is that the weeklong violence of B
 
 {% image "src/assets/images/black-july-1983.jpeg", "Black July Tamil Massacre in 1983", "image", [300, 600] %}
 
-I wish more people would ask why I became refugee of Canada. But, those did ask, really inspired me to put together a [story](https://github.com/kiri-vadivelu/project-108/blob/main/src/tamil-genocide.pdf).
+I wish more people would ask why I became refugee of Canada. But, those did ask, really inspired me to put together a [story](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/tamil-genocide.pdf).
