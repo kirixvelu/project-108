@@ -1,8 +1,6 @@
 ---
-layout: page
 title: "Socialist Solutions to Capitalist Crisis in 21st Century"
 description: "Responding to the emergency conditions of underfunded social security against uncivilized corporate interest"
-date: 2022-10-05
 eleventyNavigation:
   key: elect
   order: 3

@@ -1,8 +1,6 @@
 ---
-layout: page
 title: "Exploring Social and Economical Barriers to Democracy"
 description: "Grassroots alternative to corporate political campaigns without harming environment in engaging with community members"
-date: 2022-10-05
 eleventyNavigation:
   key: news
   order: 4

@@ -1,8 +1,6 @@
 ---
-layout: page
 title: "Choose Socialism over Barbarism for Transformation"
 description: "Resolution to the rising inequality, injustice and imbalance of democratic electoral system"
-date: 2022-10-05
 eleventyNavigation:
   key: bio
   order: 2
