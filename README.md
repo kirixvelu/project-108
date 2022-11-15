@@ -15,5 +15,4 @@ If you are interested in creating an awesome digital showcase of your profession
 
 Should you find yourself sharing our values, principles or ethics of business, we want to hear from you. Market may be saturated but we often find ourselves lonely at the top.
 
-Email: hello@digitaldesigners.ca | Toronto.
-<a href="mailto:hello@digitaldesigners.ca">Email: hello@digitaldesigers.ca</a> | Toronto
+Email: hello@digitaldesigners.ca | Toronto
