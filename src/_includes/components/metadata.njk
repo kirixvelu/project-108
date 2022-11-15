@@ -29,4 +29,4 @@
   name="twitter:description"
   content="{{ description or metadata.description}}"
 />
-<meta name="twitter:image" content="" />
+<meta name="twitter:image" content="{{ metadata.image | url }}" />
