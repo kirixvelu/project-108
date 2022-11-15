@@ -88,35 +88,30 @@ Note that I did not ask for donation. I live amongst the hardest working
 community earning the lowest salary. It would be unfair for me to ask for
 donation from my community members who have nothing left at the end of the month. I would rather have them spend the hard earned dollars on them, their families and into our local businesses instead of my political campaign. That being said, if you have the means to support me financially, please do. I would greatly appreciate that.
 
-> Environment Friendly Posters, [8x11](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/8x11.pdf) | [4x5](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/4x5.pdf)
+> Environment Friendly, [Poster 8x11](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/8x11.pdf) | [Poster 4x5](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/4x5.pdf)
 
 ---
 
 ### Get in Touch
 
-Due to political campaign, IT profession and 15 months old baby, I have less
-down time than the past. I may take longer than usual to respond to
+Due to political campaign, IT profession and 15 months old baby, I have less down time than the past. I may take longer than usual to respond to
 inquires. I kindly ask for your patience and understanding.
 
 In addition, my primary campaign is word of mouth and direct reach with
 members of my community through door knocking, signing petitions and in
-person conversations. It would be impossible to meet 120, 000 people in my
-ward and get to know all of them before Oct 24 even though I would love to.
-However, I am grateful to be living in the privileged time to
+person conversations. It would be impossible to meet 120, 000 people in my ward and get to know all of them before Oct 24 even though I would love to. However, I am grateful to be living in the privileged time to
 communicate with everyone at least digitally.
 
-Please also note that I do not have any corporate funding to conduct large
-campaign so I count your support to change the status quo. I am confident
-that my platform does not require any convincing because it is people's
-platform created by the people in the city just like you and me. See the [Program](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/peoples-platform.pdf).
+Please also note that I do not have any corporate funding to conduct large campaign so I count your support to change the status quo. I am confident that my platform does not require any convincing because it is people's platform created by the people in the city just like you and me. See the [Program](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/peoples-platform.pdf).
 
 <section>
 
+<p>
 <a href="mailto:office@kiri-vadivelu.ca?subject = Feedback&body = Message">
    EMAIL
-</a>
+</a> | 
 <a href="tel:416-884-1879">CALL</a>
-
+</p>
 <address>945 Midland Avenue, Scarborough ON M1K 4G5<address>
 
 </section>
