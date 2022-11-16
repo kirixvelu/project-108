@@ -27,11 +27,11 @@ permalink: /assistant/
 <section>
 
 [Legal](https://kiri-vadivelu.ca/legal/) |
-[Privacy](https://kiri-vadivelu.ca/privacy) |
-[Cookies](https://kiri-vadivelu.ca/cookies) |
-[Terms](https://kiri-vadivelu.ca/terms) |
-[Disclaimer](https://kiri-vadivelu.ca/disclaimer) |
-[Acknowledgement](https://kiri-vadivelu.ca/acknowledge)
+[Privacy](https://kiri-vadivelu.ca/legal/privacy) |
+[Cookies](https://kiri-vadivelu.ca/legal/cookies) |
+[Terms](https://kiri-vadivelu.ca/legal/terms) |
+[Disclaimer](https://kiri-vadivelu.ca/legal/disclaimer) |
+[Acknowledgement](https://kiri-vadivelu.ca/legal/acknowledge)
 
 </section>
 
