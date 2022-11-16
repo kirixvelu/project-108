@@ -69,13 +69,13 @@ permalink: /assistant/
 
 <section>
 
-[HTML](https://kiri-vadivelu.ca/sitemap/) |
+[Assistant](https://kiri-vadivelu.ca/assistant) |
+[Sitemap](https://kiri-vadivelu.ca/sitemap.xml) |
 [RSS](https://kiri-vadivelu.ca/feed.xml) |
 [Json](https://kiri-vadivelu.ca/feed.json) |
-[Sitemap](https://kiri-vadivelu.ca/sitemap.xml) |
-[License](https://kiri-vadivelu.ca/license.txt) |
 [Humans](https://kiri-vadivelu.ca/humans.txt) |
-[Robots](https://kiri-vadivelu.ca/robots.txt)
+[Robots](https://kiri-vadivelu.ca/robots.txt) |
+[License](https://kiri-vadivelu.ca/license.txt)
 
 </section>
 
