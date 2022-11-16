@@ -1,5 +1,6 @@
 ---
 title: Circus of Hitler NAZI to NATO America
+description: Fascist leaders are the real winners of social, economical and political crisis
 date: 2021-04-12
 category: "war"
 ---
@@ -8,7 +9,10 @@ Although Europe civilization was evolving much faster than other regions, the pe
 
 <!-- excerpt -->
 
-{% image "src/assets/images/nazi-nato.png", "Nazi NATO Soldier with American Flag", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/nazi-nato.png", "Nazi Soldier with American Flag", "image", [400, 700] %}
+<figcaption>Nazi Soldier with American Flag | © Kiri Vadivelu</figcaption>
+</figure>
 
 Unlike Nelson Mandela or Mahatma Ghandhi, Adolf Hitler did not have a vision but enormous greed for wealth and power. As a brainwashed Zionist, his ability to start at lowest rank of military to become the fascist leader in politics is an unbelievable achievement. Today, colonial capitalism have produced mass number of Hitlers in variety of sectors; particularly financial institutions. For instance, David McKay, president and CEO of Royal Bank of Canada alone earns 15 million in annual salary while $15/ hr is the minimum wage for Canadians.
 

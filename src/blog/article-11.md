@@ -1,5 +1,6 @@
 ---
 title: United Snakes Keep Americans Broke
+descriptions: American economists only believe in the trickle down economics; which everyone know is the real scam to siphon out tax dollars
 date: 2021-04-21
 category: "corporate"
 ---
@@ -8,7 +9,10 @@ The corporate welfare system implemented by the CIA ensures that American tax do
 
 <!-- excerpt -->
 
-{% image "src/assets/images/public-confidence.jpeg", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/public-confidence.jpeg", "Public confidence on United States", "image", [400, 700] %}
+<figcaption>Public confidence on United States | © Kiri Vadivelu</figcaption>
+</figure>
 
 The crooked American economists only believe in the trickle down economics; which everyone know is the real scam to siphon out all tax dollars. Failures of such cruel system is evidenced through the lack of funding to programs that are directly beneficial to American people. Bankers of America ensure that US is at constant war with the world to accumulate wealth at expense of peace, humanity and order. Every 10 year, the American economy must be revived through warfare.
 

@@ -1,5 +1,6 @@
 ---
 title: "Omicron Crisis: Workers' on the Frontline"
+description: Governments have abandoned the workers through promoting the idea that Omicron as less severe without scientific evidence
 date: 2022-01-30
 category: "justice"
 ---
@@ -8,7 +9,10 @@ On Tuesday, January 11, 2022 at 7p.m. over 300 front-line workers from coast to 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/workers-on-frontline.jpeg", "Workers' on the Frontline through Omicron", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/workers-on-frontline.jpeg", "Workers' on the Frontline through Omicron", "image", [400, 700] %}
+<figcaption>Workers' on the Frontline through Omicron, 2022 | © Kiri Vadivelu</figcaption>
+</figure>
 
 The conference began with an Indigenous land acknowledgement; then, workers from nursing, teaching and migrant workers led the presentations by sharing their first hand experiences on the front-line. All speakers expressed how they are painfully exhausted and let down by the support system and questioned the great failings of political leadership to save lives in the current pandemic. A migrant personal support worker reported that she is not eligible for any benefits due to her temporary worker status and lacks enough money to purchase Advil and Tylenol that she needed in order to pull through 12 hour shifts regularly – the new norm of worker exploitation in developed countries.
 

@@ -1,5 +1,6 @@
 ---
 title: Theft without Stigma, Society without Answers
+description: False understanding of socialism comes from fear driven politics without knowing the basic principles
 date: 2021-04-16
 category: "labour"
 ---
@@ -8,7 +9,10 @@ The surplus value is an excess profit of wealth produced by the labour. Under ca
 
 <!-- excerpt -->
 
-{% image "src/assets/images/labour-theft.jpeg", "Labour Theft in Modern Society", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/labour-theft.jpeg", "Labour Theft in Modern Society", "image", [400, 700] %}
+<figcaption>Labour Theft in Modern Society | © Kiri Vadivelu</figcaption>
+</figure>
 
 Though surplus value of labour belongs to the community, the owner greed and corrupt powers interfere with social welfare. Capitalism breeds inequality through hoarding of wealth; therefore, crime is legalized against poverty. Simultaneously, social despair is innovated through worker oppression to resist exploitation. Being held hostage to a pay-cheque is not freedom and not a pride worth sharing with ruling powers.
 

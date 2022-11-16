@@ -1,5 +1,6 @@
 ---
 title: American Strategy to Mobile Wealth Upwards
+description: Elections in America are just ceremonies to make Americans and the people around the world to accept dictatorship
 date: 2021-04-18
 category: "law"
 ---
@@ -8,7 +9,10 @@ What separate America from previous empires is the economical strategy to mobili
 
 <!-- excerpt -->
 
-{% image "src/assets/images/wealth-mobilization.png", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/wealth-mobilization.png", "American Wealth Upward Mobilization", "image", [400, 700] %}
+<figcaption>American Wealth Upward Mobilization | © Kiri Vadivelu</figcaption>
+</figure>
 
 Unlike the British, American economy strategists also known as Central Intelligence Agency (CIA) have a plan in place. Regardless of the type of political administrations, American economy wheels would only keep rolling in one direction. Elections can change the speed of economy wheels; however, none can change the direction of the journey.
 

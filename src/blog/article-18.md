@@ -1,5 +1,6 @@
 ---
 title: And then, They Came for Me, Journalist
+description: Ethnic minority Tamils and Muslims are continue to be kidnapped, tortured and murdered without justice
 date: 2021-04-11
 category: "genocide"
 ---
@@ -8,7 +9,10 @@ The ethnic minority Tamils have been fighting for social, economical and politic
 
 <!-- excerpt -->
 
-{% image "src/assets/images/dictator-rajapaksa.jpeg", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/dictator-rajapaksa.jpeg", "War Criminal Mahinda Rajapaksa, Sri Lanka", "image", [400, 700] %}
+<figcaption>War Criminal Mahinda Rajapaksa, Sri Lanka | © Kiri Vadivelu</figcaption>
+</figure>
 
 The ruling elites immediately renamed Ceylon to Sri Lanka and declared Sinhalese as the primary official language of the country; although, Sinhalese, Tamil and English were three official languages. As consequence, corrupted fascist rulers enacted a 30 year civil war in the country, that ended at Mullivaikkal in May 2009. Ruling Mahinda Rajapaksa family rejected all claims of genocide and refused to cooperate with international calls for justice. The dictatorship lasted over 20 years where every high ranking roles were occupied by the members of the same family.
 

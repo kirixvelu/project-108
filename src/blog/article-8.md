@@ -1,5 +1,6 @@
 ---
 title: The Real Enemy of Free Speech
+description: Great failures of free speech in modern society is lack of will to defend democracy
 date: 2021-04-22
 category: "liberty"
 ---
@@ -8,7 +9,10 @@ Free speech is the cornerstone of democracy. Whether our political stand is on t
 
 <!-- excerpt -->
 
-{% image "src/assets/images/hands-off-assange.jpeg", "Hands off Assange: Don't Shoot the Messenger", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/hands-off-assange.jpeg", "Hands off Assange: Don't Shoot the Messenger", "image", [400, 700] %}
+<figcaption>Hands off Assange: Don't Shoot the Messenger | © Kiri Vadivelu</figcaption>
+</figure>
 
 For an example, anti-semitism is a law specially drafted to protect Jewish people from hate crime. Although, existing laws were more than adequate to protect everyone against hate crime; the Zionist Jews were deceitful enough to slice out special privilege under the law. Ironically, butchers of free speech are drafting laws to protect free speech.
 

@@ -1,5 +1,6 @@
 ---
 title: Faith Business in the Name of Christ
+description: Anti-abortion church advocacy does not move an inch toward preventing child labour, poverty, rape or even murders
 date: 2021-04-13
 category: "religion"
 ---
@@ -8,7 +9,10 @@ The great old saying is “money talks, bullshit walks”. The statement is so b
 
 <!-- excerpt -->
 
-{% image "src/assets/images/faith-business.jpeg", "Mark Twain Quote with picture", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/faith-business.jpeg", "Mark Twain on Fooling the Masses", "image", [400, 700] %}
+<figcaption>Mark Twain on Fooling the Masses | © Kiri Vadivelu</figcaption>
+</figure>
 
 Majority of the faith service recipients are at the bottom of the food chain and bring a fraction of value to the church. However, those at the top of the food chain bring largest amount of donations and consume least amount of services. Reasoning as to why rich donates can vary; motivational factors include but not limited to tax break, social status and individual satisfaction.
 

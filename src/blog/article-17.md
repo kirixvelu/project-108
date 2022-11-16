@@ -1,5 +1,6 @@
 ---
 title: Greed is Ugly, Lets not Glorify
+description: The mainstream narrative of hard working is hardly working on people in a free society
 date: 2021-04-15
 category: "corporate"
 ---
@@ -8,7 +9,10 @@ Greed is an intense and selfish desire for something, particularly wealth, power
 
 <!-- excerpt -->
 
-{% image "src/assets/images/corporate-greed.jpeg", "RBC Bank CEO David McKay on Phone", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/corporate-greed.jpeg", "RBC Bank CEO David McKay on Phone", "image", [400, 700] %}
+<figcaption>RBC Bank CEO David McKay | © Kiri Vadivelu</figcaption>
+</figure>
 
 Today, colonial capitalism have produced mass amount of greedy leaders in variety of sectors. For instance, David McKay, president and CEO of Royal Bank of Canada alone earns 15 million in annual salary while $15/ hr is the minimum wage for Canadians. Ironically, David does not work that hard to justify the earning while most working Canadians do not have adequate to eat and pay rent at the same time.
 

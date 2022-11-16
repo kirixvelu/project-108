@@ -1,5 +1,6 @@
 ---
 title: Great Decline of Human Empathy in Society
+description: Emotional intelligences of humans allow imagination to connect with another even when the crisis is not seen, heard or experienced
 date: 2021-04-10
 category: "humanity"
 ---
@@ -8,7 +9,10 @@ Empathy is a special trait of human species, the ability to understand and share
 
 <!-- excerpt -->
 
-{% image "src/assets/images/human-empathy.jpeg", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/human-empathy.jpeg", "Israel Bomb Civilians in Gaza Strip", "image", [400, 700] %}
+<figcaption>Israel Bomb Civilians in Gaza Strip | © Kiri Vadivelu</figcaption>
+</figure>
 
 The unique ability to connect based on humanity mechanism is what separates humans from predatory animals. Unfortunately, not all humans have the emotional traits of humans; instead, posses narcissistic personality traits that only belongs to predatory animals. Any humans with such dark traits shall be in the jungle with animals only; for the best interest of both human and animal species.
 

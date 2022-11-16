@@ -1,5 +1,6 @@
 ---
 title: "The Campaign for Socialism and Democracy in NDP"
+description: Exceptionally weak NDP policy and leadership account for failure of New Democratic Party
 date: 2022-06-30
 category: "politics"
 ---
@@ -8,7 +9,10 @@ After nearly four years of the most regressive, incompetent and corrupt Ontario 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/late-capitalism.jpeg", "Campaign for Socialism and Democracy in NDP", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/late-capitalism.jpeg", "Campaign for Socialism and Democracy in NDP", "image", [400, 700] %}
+<figcaption>Campaign for Socialism and Democracy in NDP | © Kiri Vadivelu</figcaption>
+</figure>
 
 How is this possible? Only exceptionally weak NDP policy and leadership can account for this disturbing situation. It’s certainly not a function of popular satisfaction with the status quo.
 

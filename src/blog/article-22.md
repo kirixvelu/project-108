@@ -1,5 +1,6 @@
 ---
 title: Pandemic Exposure of Canadian Double Standards
+description: Covid assistance made Liberal government appear humanitarian but the reality is opposite
 date: 2021-04-08
 category: "culture"
 ---
@@ -8,7 +9,10 @@ As the COVID emergency slammed the brake on the world economy, a radical action 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/trudeau-freeland.jpeg", "Prime Minister Justin Trudeau and Finance Minister Chrystia Freeland", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/trudeau-freeland.jpeg", "Prime Minister Justin Trudeau and Finance Minister Chrystia Freeland", "image", [400, 700] %}
+<figcaption>PM Justin Trudeau & FM Chrystia Freeland, 2021 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Although, lock down saved lives and kept the hospitalizations under control, it exposed the long standing cracks in the capitalist system. The hospitals were underfunded and frontline workers were exploited; while being praised as heroes. Most frontline workers had their bravery bonus seized back within months of rolling out. Immediately after, the COVID assistance stopped and coerced vulnerable workers to return to work without even implementing living wage or addressing housing crisis.
 

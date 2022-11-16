@@ -1,5 +1,6 @@
 ---
 title: "Housing is Essential: No Covid Evictions"
+description: The importance of tenant protection laws during the pandemic in corporate real estate market
 date: 2021-05-27
 category: "humanity"
 ---
@@ -8,6 +9,9 @@ Thursday, May 27 at 7 pm, “No COVID Evictions” with Rob McBean of Socialist 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/no-evictions.jpeg", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/no-evictions.jpeg", "No covid evictions protest online", "image", [400, 700] %}
+<figcaption>No Covid Evictions Protest Online, 2021 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Please watch the entire debate on Youtube. [No Covid Evictions](https://www.youtube.com/watch?v=_OJ7aPevVgU)

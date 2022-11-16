@@ -1,5 +1,6 @@
 ---
 title: "Climate Crisis: Eco Socialism or Extinction"
+description: Worldwide climate strike held in Toronto to echo environmental harm reduction policies
 date: 2021-09-30
 category: "environment"
 ---
@@ -8,13 +9,19 @@ On September 24, 2021 over a thousand environmental activists took to the street
 
 <!-- excerpt -->
 
-{% image "src/assets/images/climate-strike-1.jpeg", "Students lead climate strike in Toronto", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/climate-strike-1.jpeg", "Students lead climate strike in Toronto", "image", [400, 700] %}
+<figcaption>1.Students Lead Climate Strike in Toronto, 2021 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Students carried signs and banners: “We Need a Revolution”, “Stop the Lies, Stop Funding Crisis, No Planet B”. A large black banner “Code Red” led the march. Environmentalists are furious due to inaction by capitalist politicians. Burning of fossil fuel is the primary cause of global warming today. While most climate deniers changed their position from denial to acceptance, the problem remains unsolved. Most Canadian provinces are in the process of banning straws and polythene bags — too late to make a tangible difference.
 
 Fossil fuel extraction qualitatively increased in the 1950s. Corporate profit ruled ruthlessly. Policy makers relied on the reports of environmental offenders to make policy. They were blind-sided by the cruel nature of capitalism. Fast forward to 2021, people are disrupting the comfort zone of those in power. No more lies, we demand climate justice.
 
-{% image "src/assets/images/climate-strike-2.jpeg", "Students lead climate strike in Toronto", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/climate-strike-2.jpeg", "Students lead climate strike in Toronto", "image", [400, 700] %}
+<figcaption>2.Students Lead Climate Strike in Toronto, 2021 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Socialist Action members were prominent with red flags and a banner with the slogan “Eco Socialism or Extinction”. A leading member of Socialist Action, Julius Arscott, stated that capitalism is killing the planet; that working people need to rise together to save our planet. Volcanoes are erupting, nations are being flooded; thunder, lighting and hurricanes are occurring with unprecedented speed and strength, while the rulers still contend with denial of the emergency. Dozens of folks, mostly youths, signed up for more information at the SA canopy and spent over $100 on socialist literature and buttons.
 

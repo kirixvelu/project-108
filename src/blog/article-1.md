@@ -1,6 +1,6 @@
 ---
 title: Alternative to Pandemic-Era Housing Crisis
-description: The profit incentive have eroded the housing market for people which require immediate policy alternatives
+description: The impact of profit incentive on housing market across Canada
 date: 2022-06-15
 category: "humanity"
 ---
@@ -20,7 +20,7 @@ The province of Ontario acknowledges illegal acts by predatory landlords but it 
 
 <figure>
 {% image "src/assets/images/rent-notice.jpeg", "Rent notice from Scarborough Landlord, 2021", "image", [400, 700] %}
-<figcaption>Rent notice from Scarborough Landlord, 2021 | © Kiri Vadivelu</figcaption>
+<figcaption>2. Rent notice from Scarborough Landlord, 2021 | © Kiri Vadivelu</figcaption>
 </figure>
 
 The current housing system is designed to put profit before people. In order to challenge the status quo and to solve the problems faced by working people in the province in terms of housing, education, healthcare and transit, the Municipal Socialist Alliance presents a real alternative in the upcoming city elections – for public ownership, construction of rent geared to income, accessible housing, seize vacant units in large buildings — to put the needs of people first. The grass-roots movement has attracted many young, first-time candidates to run in the October 2022 municipal elections. Stayed tuned for inspiring results.

@@ -1,5 +1,6 @@
 ---
 title: Zionist Devil Consume Palestine Lands
+description: People of Israel are victim of political propaganda to accept the genocide of Palestine while reject holocaust
 date: 2020-06-15
 category: "history"
 ---
@@ -8,7 +9,11 @@ The Palestine Israel conflict began since creation of Israel in the occupied lan
 
 <!-- excerpt -->
 
-{% image "src/assets/images/land-theft.jpeg", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/land-theft.jpeg", "Land Theft of Palestine People", "image", [400, 700] %}
+<figcaption>Land Theft of Palestine People | © Kiri Vadivelu
+</figcaption>
+</figure>
 
 A prudent person would likely to believe the conspiracy that holocaust is a political propaganda to create apartheid regime. Unfortunately, the treatment of Palestine people by the Israel makes one wonder whether Zionists would ever speak truth? History is written by winners to justify oppression while disregarding the voices of the victims. Listening to victims is the step in the right direction to seek truth on any context. Failure to side with Palestine people would be closing the door to know the dark history of Zionist land grabs.
 

@@ -1,5 +1,6 @@
 ---
 title: No Pride in American Show Business
+description: First black woman to Supreme Court of United States may not translate into meaningful change for average Americans
 date: 2021-04-09
 category: "politics"
 ---
@@ -8,7 +9,10 @@ While most American friends of colour are proud about the nomination of first bl
 
 <!-- excerpt -->
 
-{% image "src/assets/images/show-business.jpeg", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/show-business.jpeg", "Ketanji Brown Jackson to Supreme Court", "image", [400, 700] %}
+<figcaption>Ketanji Brown Jackson to Supreme Court | © Kiri Vadivelu</figcaption>
+</figure>
 
 When Barrack Obama entered the white house as 44th president, the whole world hoped for positive change in and out of America; to be liberated from oppression. However, the double term president was far worse, with charismatic smile dropped bombs and killed thousands of innocent people in Middle East without facing any consequence.
 
