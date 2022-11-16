@@ -1,11 +1,11 @@
 ---
-title: Canadian Heroes of the Vimy Ridge
+title: The March against Machines at Vimy Ridge
 description: Remembering the fallen Canadian heroes while imagining of future without war
 date: 2022-11-11
 category: "war"
 ---
 
-Year after year, we remember the sacrifices made by Canadian heroes on the 11th day of November. But the next day, we move on with our daily business without any follow up actions. Our heroes would not have entered the battlefield should they knew the war will never end one day. Sadly, 100 years passed, we are still in the same page. Then, how do we turn the pages of the history? A poem to reflect.
+Year after year, we remember the sacrifices made by Canadian heroes on the 11th day of November. After few days, we move on with our daily lives without any follow up actions. Our heroes would not have entered Vimy Ridge should they knew the war will never end one day. Sadly, 100 years passed, we are still in the same page. Then, how do we turn the pages of the history? A poem to reflect.
 
 <!-- excerpt -->
 
@@ -19,10 +19,28 @@ Canadians at victory of Vimy Ridge Battle, 1917 | © Kiri Vadivelu
 We are yet to ask,
 who our enemy is.
 
-From the river to the sea,
-Palestine will be free.
-From north to the south,
-Eelam people will be free.
+All mighty Canadians in 1917,
+served the nation at the vimy ridge.
+Fought the coldest battle to victory,
+marched against the Nazi machine guns.
+
+That tested even the toughest,
+few days with many thousands.
+Sacrificed all for our world pride,
+how shall we forget them?
+
+Those who came home to peace,
+only to face the great depression.
+Without any means to live in 1930,
+fought again to rescue humanity.
+
+We are yet to ask,
+who our enemy is.
+
+Cry from the river to the sea,
+So the Palestine will be free.
+Cry from the north to the south,
+So Eelam people will be free.
 
 We are yet to ask,
 who our enemy is.
@@ -34,30 +52,23 @@ rent us living spaces.
 They take our wealth,
 pay us less than peanuts.
 
-We are yet to ask,
-who our enemy is.
-
-From the river to the sea,
-Palestine will be free.
-From north to the south,
-Eelam people will be free.
-
-They take our lives,
-give us war hero metals.
-They tell us otherwise,
-enemy will kills us.
-We are dying for them,
-but they are fooling us.
-
-We are yet to ask,
-who our enemy is.
-
 They are telling us,
 we are lucky to be alive.
-They want even more from us
+They want even more from us,
 but we are broken pieces.
-We scream enough is enough,
-but our voices are muted.
+
+We are yet to ask,
+who our enemy is.
+
+They take our lives for pride,
+give us war hero metals to rest.
+They tell us wars are necessary,
+otherwise, enemy will kill us.
+
+We are killing and dying in grace.
+We are yet to ask, who our enemy is.
+But they are fooling us easily,
+Why should we trust them again?
 
 We are yet to ask,
 who our enemy is.
