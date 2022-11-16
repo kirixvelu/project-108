@@ -14,9 +14,9 @@ permalink: /assistant/
 <section>
 
 [Home](https://kiri-vadivelu.ca) |
-[About](https://kiri-vadivelu.ca/about) |
-[Elect](https://kiri-vadivelu.ca/elect) |
-[News](https://kiri-vadivelu.ca/news) |
+[About](https://kiri-vadivelu.ca/pages/about) |
+[Elect](https://kiri-vadivelu.ca/pages/elect) |
+[News](https://kiri-vadivelu.ca/pages/news) |
 [Blog](https://kiri-vadivelu.ca/blog) |
 [Error](https://kiri-vadivelu.ca/404)
 
