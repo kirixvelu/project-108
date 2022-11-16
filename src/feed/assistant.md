@@ -1,0 +1,90 @@
+---
+layout: page
+title: "Keyboard Navigation Assistant"
+description: "Primary directory of webpage links"
+permalink: /assistant/
+---
+
+# {{ title }}
+
+---
+
+**Primary Site Links**
+
+<section>
+
+[Home](https://kiri-vadivelu.ca) |
+[About](https://kiri-vadivelu.ca/about) |
+[Elect](https://kiri-vadivelu.ca/elect) |
+[News](https://kiri-vadivelu.ca/news) |
+[Blog](https://kiri-vadivelu.ca/blog) |
+[Error](https://kiri-vadivelu.ca/404)
+
+</section>
+
+**Legal Resource Links**
+
+<section>
+
+[Legal](https://kiri-vadivelu.ca/legal/) |
+[Privacy](https://kiri-vadivelu.ca/privacy) |
+[Cookies](https://kiri-vadivelu.ca/cookies) |
+[Terms](https://kiri-vadivelu.ca/terms) |
+[Disclaimer](https://kiri-vadivelu.ca/disclaimer) |
+[Acknowledgement](https://kiri-vadivelu.ca/acknowledge)
+
+</section>
+
+**Journal Category Links**
+
+<section>
+
+[All](https://kiri-vadivelu.ca/blog/) |
+[Corporate](https://kiri-vadivelu.ca/corporate/) |
+[Corruption](https://kiri-vadivelu.ca/corruption/) |
+[Crime](https://kiri-vadivelu.ca/crime/) |
+[Culture](https://kiri-vadivelu.ca/culture/) |
+[Democracy](https://kiri-vadivelu.ca/democracy/) |
+[Economy](https://kiri-vadivelu.ca/economy/) |
+[Elections](https://kiri-vadivelu.ca/elections/) |
+[Environment](https://kiri-vadivelu.ca/environment/) |
+[Genocide](https://kiri-vadivelu.ca/genocide/) |
+[History](https://kiri-vadivelu.ca/history/) |
+[Humanity](https://kiri-vadivelu.ca/humanity/) |
+[Justice](https://kiri-vadivelu.ca/justice/) |
+[Labour](https://kiri-vadivelu.ca/labour/) |
+[Law](https://kiri-vadivelu.ca/law/) |
+[Liberty](https://kiri-vadivelu.ca/liberty/) |
+[Pandemic](https://kiri-vadivelu.ca/pandemic/) |
+[Politics](https://kiri-vadivelu.ca/politics/) |
+[Race](https://kiri-vadivelu.ca/race/) |
+[Religion](https://kiri-vadivelu.ca/religion/) |
+[Science](https://kiri-vadivelu.ca/science/) |
+[Tech](https://kiri-vadivelu.ca/tech/) |
+[War](https://kiri-vadivelu.ca/war/)
+
+</section>
+
+**Additional Source Links**
+
+<section>
+
+[HTML](https://kiri-vadivelu.ca/sitemap/) |
+[RSS](https://kiri-vadivelu.ca/feed.xml) |
+[Json](https://kiri-vadivelu.ca/feed.json) |
+[Sitemap](https://kiri-vadivelu.ca/sitemap.xml) |
+[License](https://kiri-vadivelu.ca/license.txt) |
+[Humans](https://kiri-vadivelu.ca/humans.txt) |
+[Robots](https://kiri-vadivelu.ca/robots.txt)
+
+</section>
+
+**Errors & Ommisions**
+
+<section>
+
+<p>
+<a href="mailto:report@kiri-vadivelu.ca">Report Issues</a>
+<p>
+
+</section>
