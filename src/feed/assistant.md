@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Keyboard Navigation Assistant"
-description: "Primary directory of webpage links"
-permalink: /assistant/
+description: "Directory for webpage links"
+permalink: /assistant.html
 ---
 
 # {{ title }}
