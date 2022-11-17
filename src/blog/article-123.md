@@ -1,5 +1,6 @@
 ---
 title: Dealing with Half Brained Freedom Fighter
+description: John Clarke's experience with the ring wing fused social media commentator just exposes the eroded nature of our society
 date: 2022-11-01
 category: "liberty"
 ---
@@ -8,7 +9,10 @@ Most recently in Ontario, Trucker Convoy who stood up to defend the liberty of C
 
 <!-- excerpt -->
 
-{% image "src/assets/images/trucker-convey.jpeg", "Trucker convey on route to Ottawa", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/trucker-convey.jpeg", "Truckers Convey on Route to Ottawa, 2021", "image", [400, 700] %}
+<figcaption>Truckers Convey on Route to Ottawa, 2021 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Clarke's remarks:
 

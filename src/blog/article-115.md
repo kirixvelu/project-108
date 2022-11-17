@@ -1,5 +1,6 @@
 ---
 title: COVID Death Profit Using Science
+description: While the loss of worker lives were unbearable, most ugliest things were pandemic profiteers in Canada
 date: 2022-08-20
 category: "science"
 ---
@@ -8,7 +9,10 @@ As the wave of COVID struck, the most poorest parts of the earth experienced the
 
 <!-- excerpt -->
 
-{% image "src/assets/images/vaccine-capitalism.png", "Vaccine Profit Graph", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/vaccine-capitalism.png", "Vaccine Profit Graph", "image", [400, 700] %}
+<figcaption>Vaccine Profit Graph | © Kiri Vadivelu</figcaption>
+</figure>
 
 The global pandemic comes from capitalism, from its need to exploit nature for profit. It has nothing to do with ethnic origins. Challenge attempts to blame, harass, or cause violence against our Asian community. Confront hatred and all forms of discrimination. Anti-pandemic measures, including mandatory vaccination, are urgently needed. Follow the advice of medical professionals about wearing masks, social distancing, and hand hygiene.
 

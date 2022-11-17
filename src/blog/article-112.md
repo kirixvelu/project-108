@@ -1,5 +1,6 @@
 ---
 title: What Drives Me to Fight for Change?
+description: In the most civilized western hemisphere, democracy is an illusion but suffering is real
 date: 2022-10-12
 category: "democracy"
 ---
@@ -8,7 +9,10 @@ Most often, we strive to fight against the system that degrades humanity but at 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/king-pandara-vanniyan.jpeg", "King Pandara vanniyan 1700", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/king-pandara-vanniyan.jpeg", "Tamil King Pandara Vanniyan, 1700", "image", [400, 700] %}
+<figcaption>Tamil King Pandara Vanniyan, 1700 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Our political administration is a corrupted tyranny leadership that put profit before people. Ever wonder why injured people have to fight for benefits that they already insured through employment? It is a perfect example of deny by design system. Or the 10 year wait for affordable housing in the city.
 

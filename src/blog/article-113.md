@@ -1,5 +1,6 @@
 ---
 title: In Politics, Elect Policy; Not Personality
+description: Politics is a manipulative blame game of power and greed without responsibility in western society
 date: 2022-10-18
 category: "democracy"
 ---
@@ -8,7 +9,10 @@ Politics is often thought of as a complicated subject but its not. If we apply c
 
 <!-- excerpt -->
 
-{% image "src/assets/images/socialism-capitalism.jpeg", "Socialism vs capitalism in western society", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/socialism-capitalism.jpeg", "Socialism vs Capitalism in Western Hemisphere", "image", [400, 700] %}
+<figcaption>Socialism vs Capitalism in Western Hemisphere | © Kiri Vadivelu</figcaption>
+</figure>
 
 Regardless of media portrayal, focusing on the policy is more useful than personality when it come to politics. Personality is the trick and the policy is the treat. Using the corporate media, ruling powers keep the public confused or misinformed.
 

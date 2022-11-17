@@ -14,7 +14,7 @@ Although, humans have adapted well over the course of history to survive as indi
 <figure>
 {% image "src/assets/images/de-growth.jpeg", "Principles of De-growth",
   "image", [null] %}
-<figcaption>Principles of De-growth | © Kiri Vadivelu</figcaption>
+<figcaption>Principles of De-growth Graph | © Kiri Vadivelu</figcaption>
 </figure>
 
 As soon as the differences rise, groups are at competition with each other instead of choosing to cooperate, share and protect the resources in the given space. To end all wars and to live in peace, we must act responsibly. We as individuals have outgrown to achieve the greatest heights in the universe; however, collectively as a group, the growth have not exceeded beyond tribes.

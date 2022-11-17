@@ -1,5 +1,6 @@
 ---
 title: Slaves in Uniform with Big Dreams
+description: Even at the heights of pandemic killing workers, profit was the priority for the corporate scums
 date: 2022-10-26
 category: "pandemic"
 ---
@@ -8,7 +9,10 @@ Big corporate criminals in coat, suit and tie behind the screens do more harm to
 
 <!-- excerpt -->
 
-{% image "src/assets/images/securitas-canada.jpeg", "Securitas Canada employees on minimum wage", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/securitas-canada.jpeg", "Securitas Canada Employees, 2021", "image", [400, 700] %}
+<figcaption>Securitas Canada Employees, 2021 | © Kiri Vadivelu</figcaption>
+</figure>
 
 "Security is an essential industry," states [John Campbell](https://www.linkedin.com/in/john-h-campbell-cpp-mba-bb237b16/), President of [Securitas Canada](https://www.securitas.ca). "What we're facing today, with the COVID-19 crisis, is clearly unprecedented. Securitas is committed to helping our clients, both current and new, maintain the safety of their people and properties.”
 

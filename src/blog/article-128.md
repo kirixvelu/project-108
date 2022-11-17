@@ -8,7 +8,10 @@ Tigray is a northern regional province of Ethiopia in north-east Africa. Nearly 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/tigray-genocide.jpeg", "Toronto people protesting against genocide in Tigray", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/tigray-genocide.jpeg", "Protesting against Tigray Genocide, 2021", "image", [400, 700] %}
+<figcaption>Protesting against Tigray Genocide, 2021 | © Kiri Vadivelu</figcaption>
+</figure>
 
 On November 5, 2021 at 5 p m , members of Tigray community in Toronto rallied outside the office of Finance Minister and Deputy Prime Minister Chrystia Freeland at 344 Bloor St. W., to demand an end to the funding of the genocide in Ethiopia. In Ottawa a two-day rally drew thousands who demanded that Prime Minister Justin Trudeau take action to stop the assault on millions in Africa. Members of Socialist Action joined these protests in an effort to raise awareness and bring justice to the people of Tigray.
 

@@ -1,5 +1,6 @@
 ---
 title: Ontario Education Workers, Must Struggle to Win
+description: This fight can serve as a beacon to workers and hard pressed communities to find hope, take courage and be part of a sweeping fight back
 date: 2022-11-02
 category: "labour"
 ---
@@ -8,7 +9,10 @@ The enemy ‘Thug Ford’ is a viciously reactionary but erratic and incompetent
 
 <!-- excerpt -->
 
-{% image "src/assets/images/ontario-education.jpeg", "Ontario Education Workers on Strike", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/ontario-education.jpeg", "Education Workers on Strike, Ontario, 2022", "image", [400, 700] %}
+<figcaption>Education Workers on Strike, Ontario, 2022 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Some key points that are worth considering in the fight for fair wages to education workers in Ontario against the rising cost of living are:
 

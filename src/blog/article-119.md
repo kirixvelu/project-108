@@ -1,5 +1,6 @@
 ---
 title: Treatment of Migrant Workers in Ontario
+description: The Occupational Health and Safety body along with Labour Relations Board is inadequate to protect employees from workplace violence or even deaths at the hands of employers in Ontario
 date: 2022-10-28
 category: "labour"
 ---
@@ -8,7 +9,10 @@ My employment experience exposes the systematic flaws that needed to make employ
 
 <!-- excerpt -->
 
-{% image "src/assets/images/ontario.png", "Province of Ontario", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/ontario.png", "Province of Ontario, 2022", "image", [400, 700] %}
+<figcaption>Province of Ontario, 2022 | © Kiri Vadivelu</figcaption>
+</figure>
 
 I have been employed with [Securitas Canada](https://www.securitas.ca) at 155 Consumer Road, North York since June 2010 as a full time Mobile Security officer in the Toronto East Mobile Services Branch. During the pandemic in April 2020, Securitas Canada terminated my 10 years of services without any benefits after filing health and safety complaint. On termination, company provided record of employment stating that I quit. The stated reason “Quit” was false because I did not quit my job voluntarily. I was unable to continue working due to ongoing harassment in the midst of COVID and as a result of the injury occurred on Sunday, April 5, 2020.
 

@@ -1,5 +1,6 @@
 ---
 title: Logic + Reasoning to Defeat Fear + Fascism
+description: Being an impartial in this conflict would risk being identified as Russian Bot, I still choose not join the devious party
 date: 2022-11-05
 category: "war"
 ---
@@ -8,7 +9,10 @@ Nearly a year into Ukraine Russia conflict, people in the West and Europe contin
 
 <!-- excerpt -->
 
-{% image "src/assets/images/putin-biden.jpeg", "President Putin and Biden back against each other", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/putin-biden.jpeg", "President Putin and Biden Back Facing", "image", [400, 700] %}
+<figcaption>President Putin and Biden Back Facing | © Kiri Vadivelu</figcaption>
+</figure>
 
 Meanwhile, bankers found an excuse to jack up pay and compensation to their bosses. Of course, corporate landlords and grocery chains in capitalist society do not share profits but expenses only. Ultimately, the NATO sponsored war bill lands on the shoulders of small businesses and the people in which countries are parties to the war.
 

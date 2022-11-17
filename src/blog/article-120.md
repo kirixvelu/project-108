@@ -1,5 +1,6 @@
 ---
 title: Jews Who Leave Israel for Good
+description: Every Jewish immigrant that enters Israel is unwittingly taking part in a continual referendum on its chances of survival
 date: 2022-10-29
 category: "humanity"
 ---
@@ -8,7 +9,10 @@ Every Jewish immigrant that enters Israel is unwittingly taking part in a contin
 
 <!-- excerpt -->
 
-{% image "src/assets/images/herzl.jpeg", "Father of Modern Zionism, Theodor Herzl", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/herzl.jpeg", "Father of Modern Zionism, Theodor Herzl", "image", [400, 700] %}
+<figcaption>Father of Modern Zionism, Theodor Herzl | © Kiri Vadivelu</figcaption>
+</figure>
 
 Every Jewish immigrant that enters Israel is unwittingly taking part in a continual referendum on its chances of survival. But many of those who enter Israel also choose to leave it. Nearly, half of those who emigrated in 2003 from the US went back, rare statistics not covered in the mainstream media.
 

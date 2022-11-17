@@ -1,5 +1,6 @@
 ---
 title: Educations Workers’ Fight for Economical Justice
+description: Education workers are rising from the ashes to defend democratic right to strike and demand living wage from Ontario corporate government
 date: 2022-11-05
 category: "labour"
 ---
@@ -8,7 +9,10 @@ The large corporate funded misinformation campaign in the United States have lea
 
 <!-- excerpt -->
 
-{% image "src/assets/images/wage-inflation.jpeg", "Ontario Education Workers on Picket line", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/wage-inflation.jpeg", "Education Workers on Picket line, 2022", "image", [400, 700] %}
+<figcaption>Education Workers on Strike, Ontario, 2022 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Today, working people across the country are exploited to the era of slavery and denied the right to fightback in a democratic country. Unfortunately, voter apathy is being the elephant in the room continue to elect government based on fear not freedom, which undercut the democracy for corporate welfare system.
 

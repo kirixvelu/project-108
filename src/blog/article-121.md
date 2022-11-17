@@ -1,5 +1,6 @@
 ---
 title: Jordan Peterson, A Snake Oil Expert?
+description: Indeed, his ability to rationalize and extract fascist ideologies for the benefit of parasites is a masterpiece
 date: 2022-10-31
 category: "science"
 ---
@@ -8,7 +9,10 @@ During my early years, I was really interested in clinical psychology. I would o
 
 <!-- excerpt -->
 
-{% image "src/assets/images/jordan-peterson.jpeg", "Jordan Peterson, sitting on chair, legs crossed, arms in front", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/jordan-peterson.jpeg", "Jordan Peterson, Sitting Legs Crossed, 2021", "image", [400, 700] %}
+<figcaption>Jordan Peterson, Sitting Legs Crossed, 2021 | © Kiri Vadivelu</figcaption>
+</figure>
 
 Consequently, I searched for alternative methods and solutions to examine problems of inequality, injustice and corruptions. Ironically, the primary reason for my interest in clinical psychology was to get into the mind of a bully. Although, I benefited from his intellectual capacity to articulate problems to atomic precision, his inability to relate to the powerless in society made me opt out of his lectures, eventually.
 

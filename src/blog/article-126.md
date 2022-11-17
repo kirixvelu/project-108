@@ -1,5 +1,6 @@
 ---
 title: Tupac, Why the Good Leave Too Early?
+description: Most bravest ambition in a capitalist society is community mobilization for the good of humanity
 date: 2021-10-15
 category: "justice"
 ---
@@ -8,7 +9,10 @@ From a philosophical point of view, good things tend to not last very long. It i
 
 <!-- excerpt -->
 
-{% image "src/assets/images/tupac-shakur.jpeg", "African American Rapper Tupac Shakur", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/tupac-shakur.jpeg", "Black American Rapper Tupac Shakur", "image", [400, 700] %}
+<figcaption>Black American Rapper Tupac Shakur | © Kiri Vadivelu</figcaption>
+</figure>
 
 On the revolutionary front, people yarn for great leaders but then disappointment follow soon after their departure. For the most part, visionary leaders know that they have very little time to make an impact. Unlike the corporate fat cats in coat suit and tie, civil rights movement leaders as the Great Malcolm X do not expect red carpet gratitude for their work. He dedicated his life to liberate the black people from social slavery while did many good for the benefit of humanity.
 

@@ -1,5 +1,6 @@
 ---
 title: Racism — the strange fruit of capitalism
+description: Class of capitalists scrambled to exploit the opportunities offered by the opening of the Americas, and as the great powers sought to extend their empires
 date: 2022-11-02
 category: "race"
 ---
@@ -8,7 +9,10 @@ category: "race"
 
 <!-- excerpt -->
 
-{% image "src/assets/images/racism-capitalism.jpeg", "Racism - the strange fruit of capitalism", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/racism-capitalism.jpeg", "Racism - the strange fruit of capitalism", "image", [400, 700] %}
+<figcaption>Racism - the strange fruit of capitalism | © Kiri Vadivelu</figcaption>
+</figure>
 
 Holiday was singing about the thousands of African Americans who were tortured and murdered by racist thugs, usually with total impunity. The last recorded lynching took place as late as 1981. But the killing of Blacks by police and racist vigilantes continues to this day. Trayvon Martin, Freddy Grey, Daunte Wright, Tamir Rice, Breonna Taylor, George Floyd—the list goes on and on.
 

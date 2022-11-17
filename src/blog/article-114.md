@@ -1,5 +1,6 @@
 ---
 title: Corruption and Destruction of NDP
+description: The radical decision of NDP executive reflected the true disconnection between the interest of working people and the party leadership ambitions
 date: 2022-10-20
 category: "corruption"
 ---
@@ -8,7 +9,10 @@ For class conscious voters, New Democratic Party (NDP) aka Canadian labour party
 
 <!-- excerpt -->
 
-{% image "src/assets/images/anjali-appadurai.jpeg", "BC NDP leader, choosen by the people", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/anjali-appadurai.jpeg", "BC NDP Leader Candidate Anjali Appadurai", "image", [400, 700] %}
+<figcaption>BC NDP Leader Candidate Anjali Appadurai | © Kiri Vadivelu</figcaption>
+</figure>
 
 The B.C. NDP’s provincial executive council voted to disqualify Anjali Appadurai from the party’s leadership race last night, against strong objections from party members and elected NDP representatives across the province and country who called on the party to let her run.
 
