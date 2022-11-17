@@ -1,5 +1,6 @@
 ---
 title: Reality of How People Get Rich
+description: Individuals are born into excessive wealth or pursue merciless exploitation of the working class
 date: 2021-03-14
 category: "culture"
 ---
@@ -8,7 +9,10 @@ The perspective of how people get rich is completely misunderstood but no one wa
 
 <!-- excerpt -->
 
-{% image "src/assets/images/get-rich.jpeg", "Illustration of how people get rich", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/get-rich.jpeg", "How people get rich", "image", [400, 700] %}
+<figcaption>How Poeple Get Rich? | © Kiri Vadivelu</figcaption>
+</figure>
 
 At the same time, if one was to question the quality of narrative, that leads to social awkwardness; therefore, we are coerced to accept the argument in face value.
 

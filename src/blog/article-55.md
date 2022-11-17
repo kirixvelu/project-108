@@ -1,5 +1,6 @@
 ---
 title: Kick the Can, Down the Road
+description: Taking responsibility and finding solution to problems are too much work, time consuming and no one gain profit
 date: 2021-04-29
 category: "politics"
 ---
@@ -8,7 +9,10 @@ There are many strategies to solve real problems rather than to let them persist
 
 <!-- excerpt -->
 
-{% image "src/assets/images/political-ignorance.png", "Political inability to solve social problems", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/political-ignorance.png", "Political blindness to social problems", "image", [400, 700] %}
+<figcaption>Political Blindness to Problems | © Kiri Vadivelu</figcaption>
+</figure>
 
 Solving any problem first requires genuine intent to admit the problem. Then, collective efforts need to be in place to find real solutions. However, that means people need to accept the wrongs and willing to do right. Taking responsibility and finding solution to problems are too much work, time consuming and no one gain profit. And, any attempt is likely to receive backlash and be isolated from main players.
 

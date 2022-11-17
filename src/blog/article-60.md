@@ -1,5 +1,6 @@
 ---
 title: What is the Nature of Zionism?
+description: When we oppose zionism and apartheid, we must be clear not to prejudice Jewish people
 date: 2021-03-08
 category: "liberty"
 ---
@@ -8,7 +9,10 @@ Anti-Semitism is a law that protect Jewish people against hate crimes. When we o
 
 <!-- excerpt -->
 
-{% image "src/assets/images/zionism-nature.png", "Criminal nature of Zionist movement", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/zionism-nature.png", "Criminal nature of Zionism", "image", [400, 700] %}
+<figcaption>Criminal nature of Zionism | © Kiri Vadivelu</figcaption>
+</figure>
 
 Zionism employs apartheid laws, that are the root of all evils. And, all conflicts are interconnected from Palestine to Ukraine, manufactured based on lies. Basic knowledge and awareness of Zionism is key to fight against injustice and to build peace at home and abroad.
 

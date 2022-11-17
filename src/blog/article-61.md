@@ -1,5 +1,6 @@
 ---
 title: The Politics of Divide and Conquer
+description: Ruling class does very little to address racism because division and conquer is the pillars of modern politics
 date: 2021-03-03
 category: "race"
 ---
@@ -8,4 +9,7 @@ Racism exists because we accept racist standards. Due to imbalance of power, the
 
 <!-- excerpt -->
 
-{% image "src/assets/images/political-divide.png", "Political divide in human empathy", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/political-divide.png", "Political divide in empathy", "image", [400, 700] %}
+<figcaption>Political Divide in Empathy | © Kiri Vadivelu</figcaption>
+</figure>

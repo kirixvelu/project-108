@@ -1,5 +1,6 @@
 ---
-title: God is in the Details
+title: God is in the Details of Perception
+description: Religion help the rulers but unity help everyone to liberate from the oppression
 date: 2021-03-24
 category: "religion"
 ---
@@ -8,7 +9,10 @@ As they say, devil is in the details so do god. Our social pragmatics fail at th
 
 <!-- excerpt -->
 
-{% image "src/assets/images/poor-city.jpeg", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/poor-city.jpeg", "Homelessness in Toronto, 2020", "image", [400, 700] %}
+<figcaption>Homelessness in Toronto, 2020 | © Kiri Vadivelu</figcaption>
+</figure>
 
 When one step out of the rituals, understanding the direction of the crowd become easier. Ancestors never demanded anyone to stop thinking or evolve with the nature. Never a sin to build relationship with god based on trust and respect; instead of fear alone. One shall rest on god for things that cannot be controlled but free from fear on things under one’s control.
 

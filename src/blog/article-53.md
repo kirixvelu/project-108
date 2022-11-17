@@ -1,5 +1,6 @@
 ---
 title: Radical Change is Necessary to Save Humanity
+description: Radical change mean to break the wall of appropriateness in order to identify, expose and eradicate the culture of violence
 date: 2021-03-27
 category: "crime"
 ---
@@ -8,6 +9,9 @@ No one would disagree that our social, economical and political system is rigged
 
 <!-- excerpt -->
 
-{% image "src/assets/images/corporate-radicals.png", "Corporate crime in the office", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/corporate-radicals.png", "Corporate crime in office", "image", [400, 700] %}
+<figcaption>Corporate Crimes in Office | © Kiri Vadivelu</figcaption>
+</figure>
 
 Socially, the most cruel and dirty culture is embedded in the leadership structure of organizational hierarchies. For instance, a financial institution have layers and layers of management personnels with vague job titles. An unspoken culture would exist among managers on how the organization should operate under normal conditions. As such social secrecy is toxic for employees and require inclusiveness; not exclusiveness. Without radical shift of power, workplace subculture cannot be detoxified.

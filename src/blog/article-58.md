@@ -1,5 +1,6 @@
 ---
 title: White Advantage of the Holocaust
+description: When people suffer injustice, compassion is shared mutually without conditions but not zionist state Israel
 date: 2021-03-16
 category: "justice"
 ---
@@ -8,7 +9,10 @@ When apartheid Israel restricted Ukraine refugees fleeing war, the inhumane deci
 
 <!-- excerpt -->
 
-{% image "src/assets/images/white-privilege.jpeg", "White privilege on stolen land", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/white-privilege.jpeg", "White privilege on stolen land", "image", [400, 700] %}
+<figcaption>White privilege on stolen land | © Kiri Vadivelu</figcaption>
+</figure>
 
 The reality of 80 million blacks murdered in United States during the civil war is gruesome if not more, than the 6 million Jews killed in Germany. Unlike Jews, the black community continue to experience the repercussion of racial discrimination.
 

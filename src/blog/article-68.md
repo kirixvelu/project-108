@@ -1,5 +1,6 @@
 ---
 title: Left and Right to Connect the Dots
+description: The handling of vaccine mandate protesters in democratic society reveals the elected tyranny of leadership
 date: 2021-02-24
 category: "liberty"
 ---
@@ -8,4 +9,7 @@ The left and the right connect the dots. We can build back better but not this w
 
 <!-- excerpt -->
 
-{% image "src/assets/images/freedom-protest.png", "Police assaulting an elderly freedom convey protester", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/freedom-protest.png", "Police assaulting an elderly protester", "image", [400, 700] %}
+<figcaption>Police Assaulting Elderly Protester | © Kiri Vadivelu</figcaption>
+</figure>

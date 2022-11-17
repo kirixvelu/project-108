@@ -1,5 +1,6 @@
 ---
 title: The Cash Cow in Action
+description: Workers were left to die at the frontline to earn poverty wages; meanwhile, big Pharma milked all the tax dollars
 date: 2021-03-01
 category: "science"
 ---
@@ -8,7 +9,10 @@ Over the years, public distrust in our government and big corporations was decli
 
 <!-- excerpt -->
 
-{% image "src/assets/images/cash-cow.jpeg", "Cash cow being milked by big pharma", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/cash-cow.jpeg", "Milked by big pharma", "image", [400, 700] %}
+<figcaption>Milked by the Big Pharma, 2020 | © Kiri Vadivelu</figcaption>
+</figure>
 
 As COVID was pounding on the workers, big Pharma used every tool available at the arsenal to collude with the government to empty our tax dollars. Big Pharma was really concerned with public safety because their eyes were locked onto the jackpot. Rather than using the tax money to properly fund our education, public services and improve the lives of vulnerable people, government handed the jackpot to big Pharma so they can live happily ever after while our lives become more miserable.
 

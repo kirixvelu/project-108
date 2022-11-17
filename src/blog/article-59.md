@@ -1,5 +1,6 @@
 ---
 title: What is Hypocrisy in Social Media?
+description: The ideal is to investigate all narratives and then to stand with the oppressed everywhere
 date: 2021-03-12
 category: "media"
 ---
@@ -8,7 +9,10 @@ Hypocrisy is the practice of claiming to have higher standards or more noble bel
 
 <!-- excerpt -->
 
-{% image "src/assets/images/classic-liberalism.jpeg", "No covid evictions protest online", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/classic-liberalism.jpeg", "Hypocrisy in Social Media", "image", [400, 700] %}
+<figcaption>Hypocrisy in Social Media | © Kiri Vadivelu</figcaption>
+</figure>
 
 Due to constant exposure to hypocrisy in media and social situations that fit the narrative, most people tend to accept the hypocrisy as a way of life. Like junk food, individuals need to be intentional about rejecting hypocrisy in order to preserve sanity.
 

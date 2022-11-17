@@ -1,5 +1,6 @@
 ---
 title: Apologies to Freedom Convey Canada
+description: The enemy of people are elected tyrants working for the interest of the big corporations
 date: 2021-03-23
 category: "liberty"
 ---
@@ -8,7 +9,10 @@ As a left wing activist, I joined the mainstream narrative to discredit the legi
 
 <!-- excerpt -->
 
-{% image "src/assets/images/police-brutality.png", "Toronto assaulting a peaceful protester", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/police-brutality.png", "Police assaulting protesters", "image", [400, 700] %}
+<figcaption>Toronto Police Assaulting Protesters | © Kiri Vadivelu</figcaption>
+</figure>
 
 Because of the ideological differences, I demonized the people who thought differently and did not understand the concerns completely. Vaccination should be a choice; not a control mechanism. I am not shamed to admit that I was misled by the mainstream media, for profit corporations and elected tyrants of our country.
 

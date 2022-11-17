@@ -1,5 +1,6 @@
 ---
 title: Thinking Process of Political Hierarchy
+description: Owner class does not fight any battle but reaps all the benefits of conflicts
 date: 2021-03-22
 category: "corporate"
 ---
@@ -8,7 +9,10 @@ The war between Ukraine and Russia helps analyze the thinking process of social 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/corporate-thinking.jpeg", "Corporate solutions to economic inequality", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/corporate-thinking.jpeg", "Corporate solutions to inequality", "image", [400, 700] %}
+<figcaption>Corporate Solutions to Inequality | © Kiri Vadivelu</figcaption>
+</figure>
 
 The ruling class, who are in political power, ensure the interest of the owner class is protected at all cost and working class submit to all demands of the system. Meanwhile, the working class are the majority who are obligated to work and earn pay cheque for living. Only exception is that police are traitors of working class; both earn pay-cheque and take orders from the ruling class to oppress the working class.
 

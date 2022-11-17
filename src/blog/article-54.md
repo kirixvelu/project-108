@@ -1,5 +1,6 @@
 ---
 title: Cut the Chase, Get to the Point
+description: Corporatists call the vulnerable lazy but avoid difficult conversation themselves in fear of change
 date: 2021-04-25
 category: "justice"
 ---
@@ -8,7 +9,10 @@ Most people are afraid to engage in difficult conversations. Because humans are 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/social-oppression.jpeg", "Social oppression of most vulnerable", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/social-oppression.jpeg", "Social Oppression of People", "image", [400, 700] %}
+<figcaption>Social Oppression of People | © Kiri Vadivelu</figcaption>
+</figure>
 
 An iron rod does not become knife without facing the heat nor a caterpillar can become a butterfly without accepting transition. It is ok to be wrong and it is ok to have misunderstanding but it is never ok to remain in comfort.
 

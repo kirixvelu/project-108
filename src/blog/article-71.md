@@ -1,5 +1,6 @@
 ---
-title: Human Rights if You Can Afford
+title: Human Rights to Those Can Afford
+description: The corporate heads are appointed through elected government to play the game according to their benefit
 date: 2021-03-12
 category: "law"
 ---
@@ -8,7 +9,10 @@ If human rights whether employment, housing or any in Ontario, do not waste time
 
 <!-- excerpt -->
 
-{% image "src/assets/images/application-dismissed.png", "Ontario Human Rights Tribunal system", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/application-dismissed.png", "Ontario Human Rights Tribunal", "image", [400, 700] %}
+<figcaption>Ontario Human Rights Tribunal | © Kiri Vadivelu</figcaption>
+</figure>
 
 If you feel human rights no longer exist in housing or employment, you are not alone and you are correct. Rights exists to those who can afford for variety of reasons.
 

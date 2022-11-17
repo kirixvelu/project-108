@@ -1,5 +1,6 @@
 ---
 title: Victims of Lies, Deception and Cruelty
+description: Without COVID and Putin, we may never have known the real face of our corporate media, government and their lies
 date: 2021-03-02
 category: "history"
 ---
@@ -8,4 +9,7 @@ What we know is very little compared to what we do not know. Without COVID and P
 
 <!-- excerpt -->
 
-{% image "src/assets/images/media-deception.jpeg", "Extreme difference between reality and mass media", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/media-deception.jpeg", "Difference between reality and mass media", "image", [400, 700] %}
+<figcaption>Mass Media Portrayal vs Reality | © Kiri Vadivelu</figcaption>
+</figure>

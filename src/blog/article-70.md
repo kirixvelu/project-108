@@ -1,5 +1,6 @@
 ---
 title: Eradicate Zionists to Save Humanity
+description: The real intent of laws such as anti-semitism is to silence all critiques of anti-Zionism; particularly Palestine people from demanding justice
 date: 2021-04-23
 category: "crime"
 ---
@@ -8,7 +9,10 @@ As progress is the real purpose, human rights activists including Malcolm X foug
 
 <!-- excerpt -->
 
-{% image "src/assets/images/john-f-kennedy.png", "John F Kennedy on zionist movement", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/john-f-kennedy.png", "John F Kennedy on zionist movement", "image", [400, 700] %}
+<figcaption>John F. Kennedy on Zionist Movement | © Kiri Vadivelu</figcaption>
+</figure>
 
 The real intent of laws such as anti-semitism is to silence all critiques of anti-Zionism; particularly Palestine people from demanding justice. Since people of Palestine were systematically oppressed without any ability to fightback apartheid regime, all illegitimate laws were passed without push-back in the occupied land.
 
