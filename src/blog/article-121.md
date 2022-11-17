@@ -11,7 +11,7 @@ During my early years, I was really interested in clinical psychology. I would o
 
 <figure>
 {% image "src/assets/images/jordan-peterson.jpeg", "Jordan Peterson, Sitting Legs Crossed, 2021", "image", [400, 700] %}
-<figcaption>Jordan Peterson, Sitting Legs Crossed, 2021 | © Kiri Vadivelu</figcaption>
+<figcaption>Jordan Peterson, 2021 | © Kiri Vadivelu</figcaption>
 </figure>
 
 Consequently, I searched for alternative methods and solutions to examine problems of inequality, injustice and corruptions. Ironically, the primary reason for my interest in clinical psychology was to get into the mind of a bully. Although, I benefited from his intellectual capacity to articulate problems to atomic precision, his inability to relate to the powerless in society made me opt out of his lectures, eventually.
