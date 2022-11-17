@@ -1,5 +1,6 @@
 ---
 title: Have Honest Conversations with Children
+description: If wars are so bad, why does it still exist? Greed.
 date: 2022-09-20
 category: "war"
 ---
@@ -8,6 +9,9 @@ If wars are so bad, why does it still exist? Adults are smart enough to sort out
 
 <!-- excerpt -->
 
-{% image "src/assets/images/ruling-owner-class.png", "Why do wars exist in society?", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/ruling-owner-class.png", "Why do wars exist in society?", "image", [400, 700] %}
+<figcaption>Why Wars Exist in Society? | © Kiri Vadivelu</figcaption>
+</figure>
 
 An interesting answer that crossed my way. Well, you see Timmy, we are ruled by an elite class of psychopaths, who own the bank that control the governments and media. They fund both sides of war for profit and they manufacture the consent of the public through propaganda of the mainstream media.

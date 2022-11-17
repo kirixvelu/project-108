@@ -1,5 +1,6 @@
 ---
 title: Why NDP Support Apartheid Crimes?
+description: Corporate extremists eroded unions and labour party but that is not an an excuse to tangle in internal politics to silence labour and human rights activists
 date: 2022-06-10
 category: "corruption"
 ---
@@ -8,7 +9,10 @@ The Federal New Democratic Party (NDP) not only lost the mainstream elections in
 
 <!-- excerpt -->
 
-{% image "src/assets/images/barry-weisleder.png", "Elected Candidate Barry Weisleder", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/barry-weisleder.png", "Elected Candidate Barry Weisleder", "image", [400, 700] %}
+<figcaption>Elected Candidate, Barry Weisleder | © Kiri Vadivelu</figcaption>
+</figure>
 
 Weisleder left key information off nomination disclosure form, party claims
 CBC News · Posted: Sep 07, 2011 6:22 PM ET | Last Updated: September 7, 2011

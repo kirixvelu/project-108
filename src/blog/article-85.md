@@ -1,5 +1,6 @@
 ---
 title: Legal Prescription to Eliminate Crimes
+description: The ruling class is only interested in weaponizing crimes to further exploit working and the poor in the city
 date: 2022-07-25
 category: "crime"
 ---
@@ -8,7 +9,10 @@ Most people in Toronto are concerned about rising violent crimes in the city. Un
 
 <!-- excerpt -->
 
-{% image "src/assets/images/speed-radar.png", "Speed radar in the street", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/speed-radar.png", "Speed Radar in the Street", "image", [400, 700] %}
+<figcaption>Speed Radar in the Street | © Kiri Vadivelu</figcaption>
+</figure>
 
 Many parts of the Europe successfully eliminated or reduced crimes using common sense and modern laws. Just one example of how to modernize our law is to make speeding fines according to level of income.
 

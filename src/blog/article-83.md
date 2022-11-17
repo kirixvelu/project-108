@@ -1,5 +1,6 @@
 ---
 title: Mullivaikkal Massacre in May 2009
+description: A classic conclusion of court case in a corporate capitalism where money talks, bullshit walks
 date: 2020-03-20
 category: "genocide"
 ---
@@ -8,19 +9,40 @@ Of course, International courts headed by United States and the apartheid Israel
 
 <!-- excerpt -->
 
-{% image "src/assets/images/tamil-genocide-6.jpeg", "Tents in Mullivaikkal where civilians where staying before chemical explosion", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/tamil-genocide-6.jpeg", "Civilians Tents before Chemical Explosion, Mullivaikkal", "image", [400, 700] %}
+<figcaption>Civilians Tents before Chemical Explosion, Mullivaikkal | © Kiri Vadivelu</figcaption>
+</figure>
 
-{% image "src/assets/images/tamil-genocide-1.jpeg", "Execution of captured rebel fighters in Sri Lanka", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/tamil-genocide-1.jpeg", "Execution of Captured Fighters, Mullivaikkal", "image", [400, 700] %}
+</figcaption>Execution of Captured Fighters, Mullivaikkal | © Kiri Vadivelu</figcaption>
+</figure>
 
-{% image "src/assets/images/tamil-genocide-2.jpeg", "Use of cluster bombs against civilians in Sri Lanka", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/tamil-genocide-2.jpeg", "Use of cluster bombs, Mullivaikkal", "image", [400, 700] %}
+<figcaption>Use of Cluster Bombs, Mullivaikkal | © Kiri Vadivelu</figcaption>
+</figure>
 
-{% image "src/assets/images/tamil-genocide-3.jpeg", "Bodies of Tamil civilians after death due to toxicity", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/tamil-genocide-3.jpeg", "Death of Civilians Due to Toxicity, Mullivaikkal", "image", [400, 700] %}
+<figcaption>Death of Civilians Due to Toxicity, Mullivaikkal | © Kiri Vadivelu</figcaption>
+</figure>
 
-{% image "src/assets/images/tamil-genocide-4.jpeg", "Body of Tamil female civilians after death due to toxicity", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/tamil-genocide-4.jpeg", "Body of Female under Toxicity, Mullivaikkal", "image", [400, 700] %}
+<figcaption>Death of Female Due to Toxicity, Mullivaikkal | © Kiri Vadivelu</figcaption>
+</figure>
 
-{% image "src/assets/images/tamil-genocide-5.jpeg", "Shell casing of exploded cluster bomb in Sri Lanka", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/tamil-genocide-5.jpeg", "Casing of Exploded Cluster Bomb, Mullivaikkal", "image", [400, 700] %}
+<figcaption>Casing of Exploded Cluster Bomb, Mullivaikkal | © Kiri Vadivelu</figcaption>
+</figure>
 
-{% image "src/assets/images/chemical-weapons-2.jpeg", "Body of LTTE rebel figher with burned skins due to chemical exposures", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/chemical-weapons-2.jpeg", "Body of Rebel Fighter Exposed to Chemicals", "image", [400, 700] %}
+<figcaption>Body of Rebel Fighter with Chemicals, Mullivaikkal | © Kiri Vadivelu</figcaption>
+</figure>
 
 After all, ruthless capitalist governments have no interest in human rights or international law, that is why history repeats. Justice will not matter in a society where profit is the first priority.
 

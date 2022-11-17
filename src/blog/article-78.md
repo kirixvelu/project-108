@@ -1,5 +1,6 @@
 ---
 title: Stand with Ukraine People; Not NATO
+description: Working class unity is the most threat that elected dictators are concerned in capitalist countries
 date: 2021-02-28
 category: "war"
 ---
@@ -8,7 +9,10 @@ No war is good except class war. However, we do not always get to hear the full 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/nato-war.jpeg", "NATO war machine in Ukraine", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/nato-war.jpeg", "NATO war machine in Ukraine", "image", [400, 700] %}
+<figcaption>NATO War Machine in Ukraine, 2021</figcaption>
+</figure>
 
 People are kept divided so it makes the life of ruling class easier. It is always the working class majority suffer the most in crisis. Indeed, all workers have many things in common with each other than the rulers, media and the elites. Working class unity is the most threat that fake democratic and elected dictatorship countries are concerned.
 

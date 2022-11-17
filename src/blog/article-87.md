@@ -1,5 +1,6 @@
 ---
 title: No Tech for Apartheid, Google Employees
+description: The pair of Google employees detail how workers are rising up against Google's culture of retaliation
 date: 2022-08-20
 category: "tech"
 ---
@@ -8,7 +9,10 @@ Google Workers Push for Cancellation of Secretive $1.2B Project with Israel - Se
 
 <!-- excerpt -->
 
-{% image "src/assets/images/democracy-now.png", "No Tech for apartheid Google employees", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/democracy-now.png", "No Tech for Apartheid Google Employees", "image", [400, 700] %}
+<figcaption>No Tech for Apartheid Google Employees | © Kiri Vadivelu</figcaption>
+</figure>
 
 We speak with two of the leaders of the protest: Ariel Koren, a former Google employee who says she was pushed out for her activism, as well as Gabriel Schubiner, who currently works at #Google and is an #Alphabet Workers Union organizer. ​​"#Cloudtechnology is extremely powerful, and providing that power to a violent military and to an #apartheid government is not a neutral act," says Schubiner on Project Nimbus. The pair also detail how workers are rising up against what Koren says is Google's "culture of retaliation."
 

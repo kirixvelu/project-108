@@ -1,5 +1,6 @@
 ---
 title: Either Stand for Justice or Support Injustice
+description: Regardless of the environment, if diversity, equity and inclusion efforts are separate from the pursuit of justice - do not join
 date: 2022-07-14
 category: "justice"
 ---
@@ -8,4 +9,7 @@ We must be brave and bold to demand justice. Corporate puppets always find a way
 
 <!-- excerpt -->
 
-{% image "src/assets/images/justice-everywhere.png", "Justice must be everywhere or no it is no where", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/justice-everywhere.png", "Stand for Justice or Support Injustice", "image", [400, 700] %}
+<figcaption>Stand for Justice or Support Injustice | © Kiri Vadivelu</figcaption>
+</figure>

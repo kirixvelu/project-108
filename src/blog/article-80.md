@@ -1,5 +1,6 @@
 ---
 title: Why Democracy is Failing in the West?
+description: Because, politics is a manipulation game, status quo candidates only reveal what they want voters to know in order to get elected; not to serve the needs of the people
 date: 2022-09-15
 category: "democracy"
 ---
@@ -8,7 +9,10 @@ People agree that democracy is failing is the west without any reservations. But
 
 <!-- excerpt -->
 
-{% image "src/assets/images/toronto-city.jpeg", "Toronto City Council", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/toronto-city.jpeg", "Toronto City Council", "image", [400, 700] %}
+<figcaption>Toronto City Council | © Kiri Vadivelu</figcaption>
+</figure>
 
 It is not the fault of the voters but the status quo system that elegantly tricks the masses through selective bias. Because, politics is a manipulation game, status quo candidates only reveal what they want voters to know in order to get elected; not to serve the needs of the people. Media is just another corporations seek to preserve the status quo that continue to exploit people.
 

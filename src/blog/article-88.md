@@ -1,5 +1,6 @@
 ---
 title: "The Purpose of LinkedIn Today"
+description: The platform is essentially a capitalist culture app, a market for the trade of organizational snake oils, disguised as "networking"
 date: 2022-10-01
 category: "tech"
 ---
@@ -8,6 +9,9 @@ This platform is essentially a capitalist culture app, a market for the trade of
 
 <!-- excerpt -->
 
-{% image "src/assets/images/linkedin-features.svg", "LinkedIn networking application", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/linkedin-features.svg", "LinkedIn Networking Application", "image", [400, 700] %}
+<figcaption>LinkedIn Networking Application | © Kiri Vadivelu</figcaption>
+</figure>
 
 Excerpt from Farzin Farzad

@@ -1,5 +1,6 @@
 ---
 title: Green-washing While Earth on Fire
+description: Real solution include raising the standards of living for the people but that would upset the profit margins so green washing the way to go
 date: 2022-05-28
 category: "tech"
 ---
@@ -8,4 +9,7 @@ Big corporations from oil to tech continue to green wash the economy for the pur
 
 <!-- excerpt -->
 
-{% image "src/assets/images/green-washing.png", "Big corporations green washing the economy", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/green-washing.png", "Big Corporation Green Washing", "image", [400, 700] %}
+<figcaption>Big Corporation Green Washing | © Kiri Vadivelu</figcaption>
+</figure>

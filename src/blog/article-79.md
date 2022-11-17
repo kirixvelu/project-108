@@ -1,5 +1,6 @@
 ---
 title: Hypocrisy OUT, Democracy IN
+description: Nuclear war cannot be won, dismantle NATO expansion and nuclear weapons once for all of humanity
 date: 2021-02-28
 category: "media"
 ---
