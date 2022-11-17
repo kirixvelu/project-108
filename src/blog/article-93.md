@@ -1,5 +1,6 @@
 ---
 title: Canada Must Rise to the Challenge
+description: The Alternative Federal Budget (AFB) is a bold approach to addressing the concerns that directly affect Canadians
 date: 2022-09-29
 category: "economy"
 ---
@@ -8,7 +9,10 @@ Canada is at a crossroads. We are facing multiple pressing challenges that need 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/policy-alternative.png", "Canada must rise to the challenge", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/policy-alternative.png", "Rise to the challenge", "image", [400, 700] %}
+<figcaption>Rise to the Challenge Canada | © Kiri Vadivelu</figcaption>
+</figure>
 
 The Alternative Federal Budget (AFB) is a bold approach to addressing the concerns that directly affect Canadians. The AFB advances solutions and places the responsibility for change squarely on the federal government, working with the provinces and territories, to rise to the challenge—because public leadership is needed now more than ever.
 

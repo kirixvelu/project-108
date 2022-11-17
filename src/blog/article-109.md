@@ -1,5 +1,6 @@
 ---
 title: Financial Facts on Canadian Prisons
+description: The bible approach to social problem is not only expensive for Canadians but inhuman
 date: 2022-08-09
 category: "crime"
 ---
@@ -8,7 +9,10 @@ Total (federal, provincial and municipal) public spending on criminal justice in
 
 <!-- excerpt -->
 
-{% image "src/assets/images/canadian-prison.png", "Canadian prisoners inside the jail", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/canadian-prison.png", "Prisoners in Canadian Jail", "image", [400, 700] %}
+<figcaption>Prisoners in Canadian Jail | © Kiri Vadivelu</figcaption>
+</figure>
 
 Now let’s translate that into costs per prisoner. According to federal data the average annual cost per prisoner in federal prisons is about $115,000. Higher security levels are more expensive. Costs for women prisoners are much higher.
 

@@ -1,5 +1,6 @@
 ---
 title: Who Votes in Municipal Elections?
+description: Attempting to identify how an area’s proportion of immigrants, visible minorities, tenants and its median household income impacts voter turnout
 date: 2021-04-27
 category: "culture"
 ---
@@ -8,6 +9,9 @@ Who votes in Toronto municipal elections? This landmark study identifies signifi
 
 <!-- excerpt -->
 
-{% image "src/assets/images/toronto-sky.jpeg", "Toronto from sky view", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/toronto-sky.jpeg", "Toronto from sky view", "image", [400, 700] %}
+<figcaption>Toronto from sky view | © Kiri Vadivelu</figcaption>
+</figure>
 
 [PDF](https://maytree.com/wp-content/uploads/Who_Votes-final.pdf)

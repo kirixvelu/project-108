@@ -1,5 +1,6 @@
 ---
 title: Pandemic CEOs and Fake Guru Market
+description: The conversation took a 360 turn after pandemic where front line workers were working the hardest under dangerous conditions while CEOs were watching Netflix
 date: 2022-03-08
 category: "pandemic"
 ---
@@ -8,7 +9,10 @@ Regardless of political standing, we can all agree that pandemic have exposed ma
 
 <!-- excerpt -->
 
-{% image "src/assets/images/fake-gurus.png", "Fake gurus and pandemic CEOs", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/fake-gurus.png", "Fake Gurus and Pandemic CEOs", "image", [400, 700] %}
+<figcaption>Fake Gurus and Pandemic CEOs | © Kiri Vadivelu</figcaption>
+</figure>
 
 "I worked very hard for it" to justify your position as a billionaire is one of the most absurd things I can imagine when there are people working multiple jobs who still do not make enough to feed their children and pay the rent. - Clint Smith.
 

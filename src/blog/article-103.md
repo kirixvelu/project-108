@@ -1,5 +1,6 @@
 ---
 title: Inflation Crisis or Economical Scam?
+description: Instead of being complicit, there are solutions to the problem that status quo leaders do not want people to know
 date: 2022-06-05
 category: "pandemic"
 ---
@@ -8,6 +9,9 @@ COVID indicates that inflation is a not a natural cause but a planned economic d
 
 <!-- excerpt -->
 
-{% image "src/assets/images/banking-scam.png", "Banking scam that keeps people poor", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/banking-scam.png", "Banking Scam Keeps People Poor", "image", [400, 700] %}
+<figcaption>Banking Scam Keeps People Poor | © Kiri Vadivelu</figcaption>
+</figure>
 
 We must redefine the problem and address the root causes rather than the symptoms. Our status quo leaders have no interest in solving social problems. It could not be anymore obvious. [Video](https://www.instagram.com/p/CcGTvBnF0gh/)

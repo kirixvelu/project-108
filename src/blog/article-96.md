@@ -1,5 +1,6 @@
 ---
 title: Trails of Nuclear propaganda
+description: We are not standing on a level ground to be able to see everything objectively
 date: 2022-09-11
 category: "war"
 ---
@@ -8,4 +9,7 @@ Trails of nuclear propaganda from Iraq to Ukraine. When we come to realize that 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/iraq-to-ukraine.png", "Trails of nuclear propaganda from Iraq to Ukraine", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/iraq-to-ukraine.png", "Trails of Nuclear Propaganda", "image", [400, 700] %}
+</figcaption>rails of Nuclear Propaganda | © Kiri Vadivelu</figcaption>
+</figure>

@@ -1,5 +1,6 @@
 ---
 title: Brand Politics Legitimize Dictatorship
+description: Historical analyze of Reagan's Republic and Clinton's Democracy reveal that both parties are just the same brand under different banners
 date: 2022-05-24
 category: "politics"
 ---
@@ -8,7 +9,10 @@ In Canada, we have four mainstream political parties but only two ruled almost t
 
 <!-- excerpt -->
 
-{% image "src/assets/images/obama-politics.jpeg", "Obama politics of legitimate dictatorship", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/obama-politics.jpeg", "Legitimacy of Dictatorship under Obama", "image", [400, 700] %}
+<figcaption>Legitimacy of Dictatorship under Obama | © Kiri Vadivelu</figcaption>
+</figure>
 
 Neither of the mainstream party serve the needs of the people but the interest of the ruling class. Big corporations have full control over both parties, they know there is a price tag for everyone. In the modern era, no politician ever have gone broke or homeless after defeat in election.
 

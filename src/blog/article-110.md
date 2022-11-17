@@ -1,5 +1,6 @@
 ---
 title: Corporate Misuse of Canadian Tax Revenue
+description: Metrolinx and the Presto Card scam is an indication that corporations cannot solve transit problems but only exist to extort profit
 date: 2022-04-09
 category: "crime"
 ---
@@ -8,7 +9,10 @@ Despite previous assurances that it would not result in additional costs, a new 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/smart-card.png", "TTC, Metrolinx and the Presto scam", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/smart-card.png", "TTC, Metrolinx and the Presto Card", "image", [400, 700] %}
+<figcaption>TTC, Metrolinx and the Presto Card | © Kiri Vadivelu</figcaption>
+</figure>
 
 The TTC board agreed to adopt the fare card in 2011 under pressure from the provincial government, which made the allocation of gas tax proceeds to the city contingent on the deal.
 

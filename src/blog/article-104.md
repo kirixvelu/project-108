@@ -1,5 +1,5 @@
 ---
-title: The Lies, Deception and the Romance
+title: Lies, Deception and the Economical Dance
 date: 2022-02-19
 category: "liberty"
 ---
@@ -8,6 +8,9 @@ When we ask, why most people dislike politics, the answer is pretty obvious. No 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/lies-deception.jpeg", "Romantic of lies and deception", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/lies-deception.jpeg", "Romantic of Lies and Deception", "image", [400, 700] %}
+<figcaption>Romantic of Lies and Deception | © Kiri Vadivelu</figcaption>
+</figure>
 
 Ruling political parties always act in the interest of the few; that is why minimum wage do not change, our living conditions do not improve but cost always rise. Ruling class is filled with greed and views working people as their enemy; that is why police are over funded for security while schools and hospitals are underfunded. The power hungry politicians use all fancy and buzz words to come to power but if you look closer, it is same old shit.

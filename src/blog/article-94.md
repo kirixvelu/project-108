@@ -1,5 +1,6 @@
 ---
 title: Key Facts About Residential Schools
+description: Residential schools were created by Christian churches and the Canadian government to both educate and convert Indigenous youth and to assimilate them into Canadian society
 date: 2022-05-20
 category: "religion"
 ---
@@ -8,7 +9,10 @@ Residential schools were government-sponsored religious schools that were establ
 
 <!-- excerpt -->
 
-{% image "src/assets/images/residential-school.jpeg", "Residential school children in Canada", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/residential-school.jpeg", "Residential school children in Canada", "image", [400, 700] %}
+<figcaption>Residential School Children in Canada | © Kiri Vadivelu</figcaption>
+</figure>
 
 What were residential schools? Residential schools were government-sponsored schools run by churches.
 

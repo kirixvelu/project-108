@@ -1,5 +1,6 @@
 ---
 title: Barrier to Democracy, Status Quo Benefiters
+description: Elected leaders who represent people have no interest in addressing the root cause of the problem such as poverty
 date: 2022-10-10
 category: "democracy"
 ---
@@ -8,7 +9,10 @@ The housing is a crisis situation in Toronto. Average wait time to receive a ren
 
 <!-- excerpt -->
 
-{% image "src/assets/images/birkdale-residence.jpeg", "Example of barrier to democracy, Toronto shelter", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/birkdale-residence.jpeg", "Barrier to Democracy at Shelters, Toronto", "image", [400, 700] %}
+<figcaption>Barrier to Democracy at Shelters, Toronto | © Kiri Vadivelu</figcaption>
+</figure>
 
 Instead of solving inequities, status quo politicians only interested in accumulating personal wealth and transfer public to private corporations; where they end up retiring as board members with public pension.
 
