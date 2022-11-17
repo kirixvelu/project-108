@@ -1,5 +1,6 @@
 ---
 title: Good Samaritans are the Escape Goats
+description: Edward Snowden exposed crimes against humanity only to be viewed as criminal in the corporate America
 date: 2021-04-14
 category: "justice"
 ---
@@ -8,7 +9,10 @@ Early pioneers of democratic system really had good intention to preserve the hu
 
 <!-- excerpt -->
 
-{% image "src/assets/images/escape-goats.jpeg", "Political injustice to Edward Snowden", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/escape-goats.jpeg", "Political injustice to Edward Snowden", "image", [400, 700] %}
+<figcaption>Political injustice to Edward Snowden | © Kiri Vadivelu</figcaption>
+</figure>
 
 Today, the ruling class owns everything from life saving science to truth seeking journalism. Ruling leaders have perfectly exploited the weakness of the system to protect the interest of the corporations. An American intelligence officer Edward Snowden who exposed crimes against humanity is expected to be viewed as criminal. Did our pioneers fail Snowden or people failed as a society to seek truth?
 

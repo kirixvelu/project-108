@@ -1,5 +1,6 @@
 ---
 title: Canada Get Out of NATO War Machine
+description: Real solution to the Ukraine Russia conflict is on the table; yet, NATO nations are advocating for war
 date: 2021-03-25
 category: "war"
 ---
@@ -8,7 +9,10 @@ Real solution to the Ukraine Russia war is on the table; yet, ruling class of al
 
 <!-- excerpt -->
 
-{% image "src/assets/images/canada-nato.jpeg", "Canada out of NATO", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/canada-nato.jpeg", "Canada out of NATO", "image", [400, 700] %}
+<figcaption>Canada out of NATO | © Kiri Vadivelu</figcaption>
+</figure>
 
 Rather than de-escalation through peaceful resolutions as China and India suggest, NATO is promoting WW3 in Europe. NATO is a war mongering agency that needs to be dismantled before a nuclear countries go head to head.
 

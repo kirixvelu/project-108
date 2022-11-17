@@ -1,5 +1,6 @@
 ---
-title: Are You Still Paying Taxes to Monarchy?
+title: Still Coerced to Pay Taxes to Modern Monarchy?
+description: Monarchy replaced corporate hierarchies deman all working slaves to pay taxes and no option to opt out military
 date: 2021-04-03
 category: "war"
 ---
@@ -8,7 +9,10 @@ The ancient voluntary taxation system was created to ensure all people have acce
 
 <!-- excerpt -->
 
-{% image "src/assets/images/dont-lookup.jpeg", "Don't Look Up Movie Screenshot", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/dont-lookup.jpeg", "Don't Look Up Movie Screenshot", "image", [400, 700] %}
+<figcaption>Don't Look Up | © Kiri Vadivelu</figcaption>
+</figure>
 
 Hence, the practice of collecting taxes involved use of force; eventually, adopted into a law to ensure social order and accountability of monarchy. Today, monarchy is replaced with corporate hierarchies, all working slaves are required to pay taxes and no option to opt out. Indeed, corporate structure operate under the illusion of democracy; which only serves billionaire class through illegal transfer of wealth from poor to the rich.
 

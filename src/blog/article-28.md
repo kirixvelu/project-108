@@ -1,5 +1,6 @@
 ---
 title: Progress of Brainwashing Culture in America
+description: Unelected public servants collude with corporate executives to ensure the crime is legalized and enforced
 date: 2021-04-03
 category: "culture"
 ---
@@ -8,7 +9,10 @@ The special vocabulary, greenwashing and greenscamming are reserved for corporat
 
 <!-- excerpt -->
 
-{% image "src/assets/images/brain-washing.jpeg", "Brain washing culture of mass media", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/brain-washing.jpeg", "Brain washing culture of mass media", "image", [400, 700] %}
+<figcaption>Brain Washing American Culture | © Kiri Vadivelu</figcaption>
+</figure>
 
 A local example of greenwashing is McDonald spending thousands of dollars to advertise paper straws meaninglessly so that all cost can be used for tax reimbursement. Likewise, an example of greenscamming is Exxon; where, a fossil fuel industry funding bogus non-profit organizations since to disprove the legitimacy of climate emergency.
 

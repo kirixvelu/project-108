@@ -1,5 +1,6 @@
 ---
 title: Mutation of Toxic Racism in Ukraine Crisis
+description: Racism mutates to exist in more acceptable, subtle and unconscious manner in modern society
 date: 2021-03-10
 category: "race"
 ---
@@ -8,7 +9,10 @@ According to Oxford, racism is a prejudice, discrimination or antagonism directe
 
 <!-- excerpt -->
 
-{% image "src/assets/images/toxic-racism.jpeg", "Racism evolves to become toxic racism", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/toxic-racism.jpeg", "Racism evolves to become toxic racism", "image", [400, 700] %}
+<figcaption>Racism evolves to toxic racism | © Kiri Vadivelu</figcaption>
+</figure>
 
 In most parts of the world, humans have evolved to know that racism is false believe system based on lack of social and cultural awareness. But, why does racism continue to exist and influence personal and policy decisions? Like COVID, racism mutates.
 

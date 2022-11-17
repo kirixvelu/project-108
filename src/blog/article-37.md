@@ -1,5 +1,6 @@
 ---
 title: Vaccination Save Corporate Lives
+description: Ability of politicians to deceive general public that science can do no harm is only as true as nuclear bomb
 date: 2021-04-17
 category: "science"
 ---
@@ -8,7 +9,10 @@ Scientific studies were highly respected in academic world due to the potential 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/corporate-vaccination.jpeg", "Corporate vaccination for profit gains", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/corporate-vaccination.jpeg", "Corporate vaccination for profit", "image", [400, 700] %}
+<figcaption>Corporate Vaccination for Profit | © Kiri Vadivelu</figcaption>
+</figure>
 
 Capitalist society composed of billionaires, politicians and boot licking professionals; have degraded science to unimaginable depth. Only credit worth mentioning is the ability of politicians to continue to deceive the public that science can do no harm to the humanity.
 

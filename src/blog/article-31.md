@@ -1,5 +1,6 @@
 ---
 title: "Root of All Conflicts ‘Apartheid’"
+description: Most Jewish are oppose to apartheid but refrain from speaking out due to repercussions from their own kind
 date: 2021-03-07
 category: "humanity"
 ---
@@ -8,7 +9,10 @@ Apartheid is the Afrikaans word for ‘apartness’, originally used to describe
 
 <!-- excerpt -->
 
-{% image "src/assets/images/apartheid-system.jpeg", "No jab no job apartheid system", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/apartheid-system.jpeg", "No jab no job apartheid system", "image", [400, 700] %}
+<figcaption>No Jab No Job Apartheid System | © Kiri Vadivelu</figcaption>
+</figure>
 
 The Rome Statute defines the Crime of apartheid as: “inhumane acts...committed in the context of an institutionalized regime of systematic oppression and domination by one racial group over any other racial group or groups and committed with the intention of maintaining that regime.”
 

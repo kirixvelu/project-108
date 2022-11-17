@@ -1,5 +1,6 @@
 ---
 title: The Rapid Rise of Fascism in India
+description: The birthplace of Hinduism is facing the threat of extinction at the hands of Hindu nationalism
 date: 2021-03-18
 category: "culture"
 ---
@@ -8,7 +9,10 @@ Unlike what is believed to be, Hinduism is not a religion, it is a way of life. 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/fascism-india.jpeg", "Rising fascism in India", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/fascism-india.jpeg", "Rising fascism in India", "image", [400, 700] %}
+<figcaption>Rising Fascism in India | © Kiri Vadivelu</figcaption>
+</figure>
 
 While early doctrine of Hinduism was promising for the eternity of lives; it also revealed the potential to demise and destruct the nature of humanity. The human interpretation of god and drafting variation of Hindu gods among different regions and tribes could be seen as the path of demise.
 

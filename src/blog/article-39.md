@@ -1,5 +1,6 @@
 ---
 title: Destruction of English Language
+description: Evolution is a two way street, English has reached the peak and then began downward slope as profit was the only pulling direction
 date: 2021-05-27
 category: "culture"
 ---
@@ -8,7 +9,10 @@ English, a 1500 years old German language, British adapted and universalized thr
 
 <!-- excerpt -->
 
-{% image "src/assets/images/english-language.png", "Evolution of English language", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/english-language.png", "Evolution of English language", "image", [400, 700] %}
+<figcaption>Evolution of English Language | © Kiri Vadivelu</figcaption>
+</figure>
 
 The words with dual and confusing meaning enabled people to interpret different meanings. Additionally, avoiding distinctive characteristics, prioritizing non-verbal cues and masking of true meaning of words for corporate advantage only demised the quality of language. For instance, weasel words such as “reorganization” have no purpose in communication but a tool for deception and eliminate jobs in corporate environment.
 

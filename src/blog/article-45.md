@@ -1,5 +1,6 @@
 ---
 title: Rest in Peace NDP Labour Party
+description: NDP Singh propped up the failing Liberals at most crucial time in Canadian history
 date: 2021-03-26
 category: "politics"
 ---
@@ -8,7 +9,10 @@ New Democratic Party of Canada (NDP) represented more than 85 percent of Canadia
 
 <!-- excerpt -->
 
-{% image "src/assets/images/liberal-ndp.png", "Liberal NDP unification", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/liberal-ndp.png", "Liberal NDP unification", "image", [400, 700] %}
+<figcaption>Liberal NDP Unification | © Kiri Vadivelu</figcaption>
+</figure>
 
 Officially, Canada has lost one and only left political party that suppose to represent the issues of all workers. NDP Singh propped up the failing Liberal Party at the most crucial times in Canadian history. The joint venture achieved nothing for Canadians but betrayal of working class people.
 

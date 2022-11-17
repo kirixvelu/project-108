@@ -1,5 +1,6 @@
 ---
 title: Exploring Social Class in Warfare
+description: Real winners and losers of warfare can be understood through the lens of owner class, ruling class and working class
 date: 2021-03-21
 category: "war"
 ---
@@ -8,7 +9,10 @@ All wars are evil expression of human kind. The military complex of any nation i
 
 <!-- excerpt -->
 
-{% image "src/assets/images/class-war.jpeg", "War is evil but class is not", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/class-war.jpeg", "All Wars are Evil but Class War", "image", [400, 700] %}
+<figcaption>All Wars are Evil but Class War | © Kiri Vadivelu</figcaption>
+</figure>
 
 The war between Ukraine and Russia helps analyze the thinking process of social class in modern society. The actual winners and losers of warfare can be understood through the lens of owner class, ruling class and working class. Owner class does not fight any battle but reaps all the benefits of conflicts. Those who own shares in weapon industry can be classified as the owner class.
 

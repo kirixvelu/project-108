@@ -1,5 +1,6 @@
 ---
 title: What is Real Challenge in Democracy?
+description: Capitalist countries are afraid of real democracy which may make the rich pay
 date: 2021-04-04
 category: "labour"
 ---
@@ -8,7 +9,10 @@ Elections in capitalist countries always risk that the majority employees will v
 
 <!-- excerpt -->
 
-{% image "src/assets/images/amazon-union.png", "Amazon workers organize union", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/amazon-union.png", "Amazon workers organize union", "image", [400, 700] %}
+<figcaption>Amazon workers organize union | © Kiri Vadivelu</figcaption>
+</figure>
 
 Those who are woke in the left and right do not have all answers but know enough to investigate the problem. Of course, problem is power in the form of tyranny, dictatorship and corruption, simply put power corrupt. Instead of antagonizing each other; both can work together once to eliminate the problem.
 

@@ -1,5 +1,6 @@
 ---
 title: Contribution of Jeffrey Epstein to Philanthropy
+description: Just because Jeffery is died, that does not mean the pedophile empire is vanished but no media have the courage to report empire corruption
 date: 2021-04-05
 category: "corruption"
 ---
@@ -8,7 +9,10 @@ One primary reason American people are blind to injustice everywhere is because 
 
 <!-- excerpt -->
 
-{% image "src/assets/images/jeffrey-epstein.jpeg", "Jeffrey Epstein with British Royal Family", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/jeffrey-epstein.jpeg", "Jeffrey Epstein with British Royal Family", "image", [400, 700] %}
+<figcaption>Jeffrey Epstein with British Royal Family | © Kiri Vadivelu</figcaption>
+</figure>
 
 The case of Jeffrey Epstein is the prime example of corrupted powers of American Empire. The ability of Jeffrey to build close relationship with ruling elites of United States, British Monarchy and big corporate executives across Europe is unimaginable in a country known for law and order. Rather than deflecting, American people can save America through holding those in power accountable, refuse to participate in war, violence and destruction.
 

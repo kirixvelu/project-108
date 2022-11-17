@@ -1,5 +1,6 @@
 ---
 title: What is Wrong with Our Society?
+description: In a capitalistic society; also misunderstood as free society, all transactions are completed with the potential threat of violence for non-compliance
 date: 2021-04-27
 category: "genocide"
 ---
@@ -8,7 +9,10 @@ Nothing. Our society is fine. We are the problem. All of our actions have have c
 
 <!-- excerpt -->
 
-{% image "src/assets/images/social-genocide.jpeg", "Funding war and destruction instead of social welfare", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/social-genocide.jpeg", "Funding war instead of social welfare", "image", [300, 600] %}
+<figcaption>Funding war instead of social welfare | © Kiri Vadivelu</figcaption>
+</figure>
 
 Over 90 percent of the world is organized through one and only capital means of production. Unfortunately, capitalism thrives on the ability to exercise violence. For an example, United States have the best military; therefore, all countries must agree to contribute to capital means of transactions. No country that produce goods can demand anything, should they do, will be faced with military intervention.
 
