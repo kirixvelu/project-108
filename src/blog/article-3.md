@@ -1,5 +1,5 @@
 ---
-title: Do not Abandon the Vulnerable. Act Now!
+title: Do not Abandon Workers and the Vulnerable
 description: Community group striving to end Homelessness and Poverty for people of Ontario on Disability and Social Support Programs
 date: 2021-09-20
 category: "justice"

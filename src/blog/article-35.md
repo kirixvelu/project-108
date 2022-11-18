@@ -1,5 +1,5 @@
 ---
-title: What is Wrong with Our Society?
+title: Wondering What is Wrong with Our Society?
 description: In a capitalistic society; also misunderstood as free society, all transactions are completed with the potential threat of violence for non-compliance
 date: 2021-04-27
 category: "genocide"

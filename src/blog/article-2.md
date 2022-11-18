@@ -1,5 +1,5 @@
 ---
-title: Report on ACORN-led Protest Against Big Bank Fees
+title: ACORN-led Protest Against Big Bank Fees
 description: Acorn members of Toronto are fighting back against big bank fees during covid
 date: 2021-07-13
 category: "economy"

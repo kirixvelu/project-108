@@ -1,5 +1,5 @@
 ---
-title: The Tamil Genocide by Sri Lanka
+title: Tamil Genocide in the Apartheid State
 description: The failure to protect Tamil rights under International Law and the extraordinary silence of the Holocaust survivers lacks credibility
 date: 2020-05-18
 category: "genocide"
@@ -10,8 +10,8 @@ Sri Lanka’s government declared victory in May, 2009, in one of the world’s 
 <!-- excerpt -->
 
 <figure>
-{% image "src/assets/images/tamil-genocide.jpeg", "Tamil genocide by Sri Lanka, 2009", "image", [400, 700] %}
-<figcaption>Tamil genocide by Sri Lanka, 2009 | © Kiri Vadivelu</figcaption>
+{% image "src/assets/images/tamil-genocide.jpeg", "Tamil Genocide by Sri Lanka, 2009", "image", [400, 700] %}
+<figcaption>Tamil Genocide by Sri Lanka, 2009 | © Kiri Vadivelu</figcaption>
 </figure>
 
 A US State Department report offered a grisly catalogue of alleged abuses, including the killing of captives or combatants seeking surrender, the abduction and in some cases murder of Tamil civilians, and dismal humanitarian conditions in camps for displaced persons. Human Rights Watch said the U.S. report should dispel any doubts that serious abuses were committed during the final months of the 26-year civil war. The report gains added significance since, during these five months, the Sri Lankan Government denied independent observers, including the media and human rights organizations, access to the war zone, and conducted a “war without witnesses.”

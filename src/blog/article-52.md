@@ -1,5 +1,5 @@
 ---
-title: Big Elite Smith Slapped small Rock
+title: Big Elite Smith Slapped a Small Rock
 description: Elites know how to play their game to maintain the status quo and to keep the attention of pay-cheque hostages
 date: 2021-04-27
 category: "media"

@@ -1,5 +1,5 @@
 ---
-title: Victory in Difference; Not Numbers
+title: Real Victory in Difference; Not Numbers
 description: Disappointment is not in the outcome of the election but rather in the amount of eligible voters, nearly 70 percent who did not add their voice
 date: 2022-10-25
 category: "elections"

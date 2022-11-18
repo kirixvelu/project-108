@@ -1,6 +1,6 @@
 ---
-title: Vaccination Save Corporate Lives
-description: Ability of politicians to deceive general public that science can do no harm is only as true as nuclear bomb
+title: Science of Vaccination Save Corporate Lives
+description: Ability of politicians to deceive general public that science can do no harm is only as true as nuclear bomb to restore peace
 date: 2021-04-17
 category: "science"
 ---

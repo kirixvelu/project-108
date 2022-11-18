@@ -1,5 +1,5 @@
 ---
-title: Good Samaritans are the Escape Goats
+title: Our Good Samaritans are Scapegoats
 description: Edward Snowden exposed crimes against humanity only to be viewed as criminal in the corporate America
 date: 2021-04-14
 category: "justice"

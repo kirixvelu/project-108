@@ -1,5 +1,5 @@
 ---
-title: The March against Machines at Vimy Ridge
+title: March against Machines at Vimy Ridge
 description: Remembering the fallen Canadian heroes while imagining of future without war
 date: 2022-11-11
 category: "war"
@@ -10,9 +10,9 @@ Year after year, we remember the sacrifices made by Canadian heroes on the 11th 
 <!-- excerpt -->
 
 <figure>
-{% image "src/assets/images/canadian-soldiers.jpeg", "Canadians at victory of Vimy Ridge Battle", "image", [400, 700] %}
+{% image "src/assets/images/canadian-soldiers.jpeg", "Canadians at Victory of Vimy Ridge Battle", "image", [400, 700] %}
 <figcaption>
-Canadians at victory of Vimy Ridge Battle, 1917 | © Kiri Vadivelu
+Canadians at Victory of Vimy Ridge Battle, 1917 | © Kiri Vadivelu
 </figcaption>
 </figure>
 
@@ -37,14 +37,6 @@ fought again to rescue humanity.
 We are yet to ask,
 who our enemy is.
 
-Cry from the river to the sea,
-So the Palestine will be free.
-Cry from the north to the south,
-So Eelam people will be free.
-
-We are yet to ask,
-who our enemy is.
-
 They take our bread,
 give us bread crumbs.
 They take our land,
@@ -52,13 +44,26 @@ rent us living spaces.
 They take our wealth,
 pay us less than peanuts.
 
-They are telling us,
+We cry from river to the sea,
+So the people can be free.
+We rise from the north to south,
+So the planet can breathe.
+
+But, they are telling us,
 we are lucky to be alive.
-They want even more from us,
+People and planet need peace.
+Yet, they want more and more,
 but we are broken pieces.
 
 We are yet to ask,
 who our enemy is.
+
+Know the fear and control,
+avoid the divide and conquer.
+Thus, where fascism thrives,
+when the common sense dies.
+All surplus value of service,
+with poppies of Flanders Fields.
 
 They take our lives for pride,
 give us war hero metals to rest.
@@ -67,8 +72,8 @@ otherwise, enemy will kill us.
 
 We are killing and dying in grace.
 We are yet to ask, who our enemy is.
-But they are fooling us easily,
-Why should we trust them again?
+But they are fooling us lavishly,
+choose death for peace over greed.
 
 We are yet to ask,
 who our enemy is.

@@ -1,5 +1,5 @@
 ---
-title: Destruction of English Language
+title: Colonial Destruction of English Language
 description: Evolution is a two way street, English has reached the peak and then began downward slope as profit was the only pulling direction
 date: 2021-05-27
 category: "culture"

@@ -1,5 +1,5 @@
 ---
-title: Dealing with Half Brained Freedom Fighter
+title: Dealing with Half Baked Freedom Fighter
 description: John Clarke's experience with the ring wing fused social media commentator just exposes the eroded nature of our society
 date: 2022-11-01
 category: "liberty"

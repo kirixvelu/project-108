@@ -1,5 +1,5 @@
 ---
-title: Why Democracy is Failing in the West?
+title: Democracy is Failing in the West
 description: Because, politics is a manipulation game, status quo candidates only reveal what they want voters to know in order to get elected; not to serve the needs of the people
 date: 2022-09-15
 category: "democracy"

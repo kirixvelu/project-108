@@ -1,5 +1,5 @@
 ---
-title: Corruption and Destruction of NDP
+title: Internal Corruption and Destruction of Labour
 description: The radical decision of NDP executive reflected the true disconnection between the interest of working people and the party leadership ambitions
 date: 2022-10-20
 category: "corruption"

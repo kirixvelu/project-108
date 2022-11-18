@@ -1,5 +1,5 @@
 ---
-title: Racism — the strange fruit of capitalism
+title: Racism — the strange Fruit of Capitalism
 description: Class of capitalists scrambled to exploit the opportunities offered by the opening of the Americas, and as the great powers sought to extend their empires
 date: 2022-11-02
 category: "race"

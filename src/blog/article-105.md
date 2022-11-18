@@ -1,5 +1,5 @@
 ---
-title: Brand Politics Legitimize Dictatorship
+title: Brand Politics to Legitimize Dictatorship
 description: Historical analyze of Reagan's Republic and Clinton's Democracy reveal that both parties are just the same brand under different banners
 date: 2022-05-24
 category: "politics"

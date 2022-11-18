@@ -1,5 +1,5 @@
 ---
-title: Labour Day with Kurdistan Community in Scarborough
+title: Labour Day with Kurdistan Community, Scarborough
 description: Unlike any other celebration, labour day bring all workers across the communities together in the same spirit
 date: 2021-04-30
 category: "labour"

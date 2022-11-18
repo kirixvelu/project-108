@@ -1,5 +1,5 @@
 ---
-title: Legal Prescription to Eliminate Crimes
+title: Modern Strategy for Crime Free Society
 description: The ruling class is only interested in weaponizing crimes to further exploit working and the poor in the city
 date: 2022-07-25
 category: "crime"

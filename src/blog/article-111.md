@@ -1,5 +1,5 @@
 ---
-title: Barrier to Democracy, Status Quo Benefiters
+title: Barrier to Democracy, Status Quo Benefits
 description: Elected leaders who represent people have no interest in addressing the root cause of the problem such as poverty
 date: 2022-10-10
 category: "democracy"

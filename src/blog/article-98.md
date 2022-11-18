@@ -1,5 +1,5 @@
 ---
-title: War Statistics from 1945 to 2001
+title: American War Statistics 1945 to 2001
 description: Dismantling United States military complex is the only way to feed the poor and bring world peace
 date: 2022-08-12
 category: "war"

@@ -1,6 +1,6 @@
 ---
-title: Still Coerced to Pay Taxes to Modern Monarchy?
-description: Monarchy replaced corporate hierarchies deman all working slaves to pay taxes and no option to opt out military
+title: Coerced to Pay Taxes to Modern Monarchy?
+description: Monarchy replaced corporate hierarchies demonize all working slaves to pay taxes and no option to opt out military
 date: 2021-04-03
 category: "war"
 ---

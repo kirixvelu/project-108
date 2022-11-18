@@ -1,6 +1,6 @@
 ---
 title: Demons of Peace - Ceylon to Ukraine
-description: When compassionate appeals met with force, people rebel or surrender to colonizers
+description: When compassionate appeals met with force, people rebel or surrender to colonizers only to face the real demons
 date: 2021-03-06
 category: "genocide"
 ---

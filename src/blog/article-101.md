@@ -1,5 +1,5 @@
 ---
-title: Vaccine Mandates Unite Left and Right
+title: Vaccine Mandates to Unite Left and Right
 description: Ruling class is on the edge of falling into the ocean; yet, holding onto the greed of wealth by funding the paramilitary structures and wars
 date: 2022-03-06
 category: "pandemic"

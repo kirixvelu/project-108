@@ -1,5 +1,5 @@
 ---
-title: Exploring Social Class in Warfare
+title: Exploring Social Class in Modern Warfare
 description: Real winners and losers of warfare can be understood through the lens of owner class, ruling class and working class
 date: 2021-03-21
 category: "war"

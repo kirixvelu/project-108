@@ -1,5 +1,5 @@
 ---
-title: "The Purpose of LinkedIn Today"
+title: "The Real Purpose of LinkedIn Today"
 description: The platform is essentially a capitalist culture app, a market for the trade of organizational snake oils, disguised as "networking"
 date: 2022-10-01
 category: "tech"

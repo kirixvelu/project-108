@@ -1,5 +1,5 @@
 ---
-title: And then, They Came for Me, Journalist
+title: "Journalist: And then, They Came for Me"
 description: Ethnic minority Tamils and Muslims are continue to be kidnapped, tortured and murdered without justice
 date: 2021-04-11
 category: "genocide"

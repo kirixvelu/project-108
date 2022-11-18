@@ -1,5 +1,5 @@
 ---
-title: Labour History, more Important than Nutrition
+title: Labour History Supersede Nutrition Diet
 description: We must not stop learning even after school but that exactly what happens when some enter for profit school system
 date: 2022-08-26
 category: "labour"

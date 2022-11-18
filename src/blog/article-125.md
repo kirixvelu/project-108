@@ -1,5 +1,5 @@
 ---
-title: Educations Workers’ Fight for Economical Justice
+title: Educations Workers Fight for Economical Justice
 description: Education workers are rising from the ashes to defend democratic right to strike and demand living wage from Ontario corporate government
 date: 2022-11-05
 category: "labour"

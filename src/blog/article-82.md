@@ -10,7 +10,7 @@ The Canadian containers arrived in the Philippines in 2013 and 2014 falsely labe
 <!-- excerpt -->
 
 <figure>
-{% image "src/assets/images/garbage-ship.jpeg", "Canadian garbage ship in the Philippines", "image", [400, 700] %}
+{% image "src/assets/images/garbage-ship.jpeg", "Canadian garbage ship in Philippines", "image", [400, 700] %}
 <figcaption>Canadian Garbage Ship in Philippines | © Kiri Vadivelu</figcaption>
 </figure>
 

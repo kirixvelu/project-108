@@ -1,5 +1,5 @@
 ---
-title: COVID Death Profit Using Science
+title: COVID Death Profit Soar in Science Labs
 description: While the loss of worker lives were unbearable, most ugliest things were pandemic profiteers in Canada
 date: 2022-08-20
 category: "science"

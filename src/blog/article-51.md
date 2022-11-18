@@ -1,5 +1,5 @@
 ---
-title: Rise and Fall of Great America
+title: Rise and Fall of the Great America
 description: Advancement of American military has rotten our planet with cluster bombs and broken glasses on every part of the world
 date: 2021-04-30
 category: "humanity"

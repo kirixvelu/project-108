@@ -1,5 +1,5 @@
 ---
-title: Have Honest Conversations with Children
+title: Honest Conversation about Military Complex
 description: If wars are so bad, why does it still exist? Greed.
 date: 2022-09-20
 category: "war"

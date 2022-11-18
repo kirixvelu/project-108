@@ -1,5 +1,5 @@
 ---
-title: Who Votes in Municipal Elections?
+title: Toronto Votes in Municipal Elections
 description: Attempting to identify how an area’s proportion of immigrants, visible minorities, tenants and its median household income impacts voter turnout
 date: 2021-04-27
 category: "culture"

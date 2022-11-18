@@ -1,5 +1,5 @@
 ---
-title: Great Decline of Human Empathy in Society
+title: Decline of Human Empathy in 21st Century
 description: Emotional intelligences of humans allow imagination to connect with another even when the crisis is not seen, heard or experienced
 date: 2021-04-10
 category: "humanity"

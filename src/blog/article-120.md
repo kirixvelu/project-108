@@ -1,5 +1,5 @@
 ---
-title: Jews Who Leave Israel for Good
+title: Wise Jews Leave Israel for the Good
 description: Every Jewish immigrant that enters Israel is unwittingly taking part in a continual referendum on its chances of survival
 date: 2022-10-29
 category: "humanity"

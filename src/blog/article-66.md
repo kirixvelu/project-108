@@ -1,5 +1,5 @@
 ---
-title: Double Standards of Heroism in Hypocrisy
+title: Double Standards of Heroism in Mass Media
 description: Fighting in Ukraine is heroism but the same in Palestine is terrorism.
 date: 2021-02-28
 category: "media"

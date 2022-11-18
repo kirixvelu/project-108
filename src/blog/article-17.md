@@ -1,5 +1,5 @@
 ---
-title: Greed is Ugly, Lets not Glorify
+title: Greed is Ugly, Do Not Glorify
 description: The mainstream narrative of hard working is hardly working on people in a free society
 date: 2021-04-15
 category: "corporate"

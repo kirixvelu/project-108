@@ -1,5 +1,5 @@
 ---
-title: Trails of Nuclear propaganda
+title: Trails of American Nuclear Propaganda
 description: We are not standing on a level ground to be able to see everything objectively
 date: 2022-09-11
 category: "war"

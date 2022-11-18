@@ -1,5 +1,5 @@
 ---
-title: Kick the Can, Down the Road
+title: Kick the Greedy Out of the Park
 description: Taking responsibility and finding solution to problems are too much work, time consuming and no one gain profit
 date: 2021-04-29
 category: "politics"

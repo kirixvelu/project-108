@@ -1,5 +1,5 @@
 ---
-title: Stand with Ukraine People; Not NATO
+title: Stand with Ukraine People; Not NATO Regime
 description: Working class unity is the most threat that elected dictators are concerned in capitalist countries
 date: 2021-02-28
 category: "war"

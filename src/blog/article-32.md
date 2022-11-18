@@ -1,5 +1,5 @@
 ---
-title: The Pandemic Story of Workers
+title: "Uncovered: The Pandemic Story of Workers"
 description: Workers must break free from the capitalism induced materialism for community sharing to preserve our planet
 date: 2021-02-21
 category: "labour"

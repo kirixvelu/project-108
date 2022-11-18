@@ -1,6 +1,6 @@
 ---
 title: The Mullivaikkal Massacre of Tamils
-description: The nobel peace prize winner Barrack Obama was on steadfast silence while the humanity crisis was unfolding in Sri Lanka
+description: The nobel peace prize winner Barrack Obama was on steadfast silence while the genocide was unfolding in Sri Lanka
 date: 2020-03-20
 category: "genocide"
 ---
@@ -10,8 +10,8 @@ Of course, International courts headed by United States and the apartheid Israel
 <!-- excerpt -->
 
 <figure>
-{% image "src/assets/images/tamil-genocide-6.jpeg", "Civilians Tents before Chemical Explosion, Mullivaikkal", "image", [400, 700] %}
-<figcaption>1.Civilians Tents before Chemical Explosion, Mullivaikkal | © Kiri Vadivelu</figcaption>
+{% image "src/assets/images/tamil-genocide-6.jpeg", "No Fire Zone before Chemical Explosion, Mullivaikkal", "image", [400, 700] %}
+<figcaption>1.No Fire Zone before Chemical Explosion, Mullivaikkal | © Kiri Vadivelu</figcaption>
 </figure>
 
 <figure>

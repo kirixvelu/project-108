@@ -1,5 +1,5 @@
 ---
-title: "The Campaign for Socialism and Democracy in NDP"
+title: "Campaign for Socialism and Democracy in NDP"
 description: Exceptionally weak NDP policy and leadership account for failure of New Democratic Party
 date: 2022-06-30
 category: "politics"

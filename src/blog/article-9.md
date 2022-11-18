@@ -1,5 +1,5 @@
 ---
-title: The Corporate Welfare Bums
+title: Death Threat from Corporate Welfare Bums
 description: Structural capitalism colonize labour wealth at the expense of humanity
 date: 2021-04-21
 category: "corporate"

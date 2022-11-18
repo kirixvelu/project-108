@@ -1,5 +1,5 @@
 ---
-title: Ruling Class, far Greater Threat
+title: Ruling Class is Far Greater Threat
 description: Ruling class is far greater threat to Canada and the United States than a foreign dictator
 date: 2021-02-25
 category: "war"

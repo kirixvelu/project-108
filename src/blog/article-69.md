@@ -1,5 +1,5 @@
 ---
-title: Canadians are Not Totalitarians
+title: Canadians are Victims; not Totalitarians
 description: Those who live outside the Canadian borders believe Canadian truckers are fighting for better employment, wages and benefits but we know that is far from reality
 date: 2021-02-24
 category: "genocide"

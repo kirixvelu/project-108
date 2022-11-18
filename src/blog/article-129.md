@@ -1,5 +1,5 @@
 ---
-title: Evolution of Universe Demystify Virgin Mary
+title: Evolution of Universe Demystify Virginity
 description: Understanding of planet evolution helps to eliminate false believe systems
 date: 2022-11-14
 category: "religion"
@@ -11,7 +11,7 @@ Since the dawn of times, humans have naturally learned to prioritize survival mo
 
 <figure>
 {% image "src/assets/images/universe-evolution.png", "Evolution of Universe from Particles", "image", [400, 700] %}
-<figcaption>Evolution of Universe from Particles | © Kiri Vadivelu</figcaption>
+<figcaption>Evolution of Universe in Particles | © Kiri Vadivelu</figcaption>
 </figure>
 
 A herd instinct is a behavior wherein people tend to react to the actions of others and follow their lead. This is similar to the way animals react in groups when they stampede in unison out of the way of danger—perceived or otherwise. Herd instinct or herd behavior is distinguished by a lack of individual decision-making or introspection, causing those involved to think and behave in a similar fashion to everyone else around them.

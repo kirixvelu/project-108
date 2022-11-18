@@ -1,5 +1,5 @@
 ---
-title: Stop Wars, De-fund Military Complex
+title: De-fund Military to Stop Corporate Wars
 description: Foreigners are escaping from war and sanctions that are directly or indirectly linked to American weapon manufactures
 date: 2021-04-02
 category: "war"

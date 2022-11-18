@@ -1,5 +1,5 @@
 ---
-title: The Real Enemy of Free Speech
+title: Enemy of Free Speech in Modern Society
 description: Great failures of free speech in modern society is lack of will to defend democracy
 date: 2021-04-22
 category: "liberty"

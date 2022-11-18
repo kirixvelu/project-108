@@ -1,5 +1,5 @@
 ---
-title: Marriage of Church, Government and the Corporations
+title: Marriage of Church, Government and Corporations
 description: All three are perfectly united evil friends who make sure masses are controlled in a way to protect the interest of the ruling class
 date: 2022-07-11
 category: "religion"

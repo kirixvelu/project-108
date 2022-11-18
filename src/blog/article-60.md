@@ -11,7 +11,7 @@ Anti-Semitism is a law that protect Jewish people against hate crimes. When we o
 
 <figure>
 {% image "src/assets/images/zionism-nature.png", "Criminal nature of Zionism", "image", [400, 700] %}
-<figcaption>Criminal nature of Zionism | © Kiri Vadivelu</figcaption>
+<figcaption>Criminal Nature of Zionism | © Kiri Vadivelu</figcaption>
 </figure>
 
 Zionism employs apartheid laws, that are the root of all evils. And, all conflicts are interconnected from Palestine to Ukraine, manufactured based on lies. Basic knowledge and awareness of Zionism is key to fight against injustice and to build peace at home and abroad.

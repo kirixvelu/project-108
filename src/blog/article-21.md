@@ -1,6 +1,6 @@
 ---
-title: Two Types of Negros - House and Field
-description: Malcolm X's speech on Northern Negro Grass Roots Leadership Conference in 1963
+title: Two Kinds of Negros - House and Field
+description: Malcolm X's speech on Northern Negro Grass Roots Leadership Conference in 1963 about different types of black Americans
 date: 2021-04-08
 category: "race"
 ---

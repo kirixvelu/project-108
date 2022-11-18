@@ -1,5 +1,5 @@
 ---
-title: Confronting Genocide in Canada Regretfully
+title: Confronting Genocide in Canada with Regrets
 description: Paying respect is not enough, ruling powers must act without delay to prosecute all those involved to restore justice
 date: 2022-05-15
 category: "genocide"

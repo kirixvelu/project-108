@@ -1,5 +1,5 @@
 ---
-title: Ontario Education Workers, Must Struggle to Win
+title: Education Workers must Struggle to Win
 description: This fight can serve as a beacon to workers and hard pressed communities to find hope, take courage and be part of a sweeping fight back
 date: 2022-11-02
 category: "labour"

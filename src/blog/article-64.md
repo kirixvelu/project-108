@@ -1,5 +1,5 @@
 ---
-title: The Cash Cow in Action
+title: The Corporate Cash Cow in Action
 description: Workers were left to die at the frontline to earn poverty wages; meanwhile, big Pharma milked all the tax dollars
 date: 2021-03-01
 category: "science"
