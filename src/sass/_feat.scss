@@ -58,6 +58,11 @@ article > img {
   margin-block: var(--spacing);
 }
 
+article > figure {
+  background: var(--neutral);
+  margin-bottom: var(--spacing-sm);
+}
+
 figcaption {
   text-align: center;
   padding-top: 0.25em;
@@ -70,7 +75,7 @@ figcaption::before {
 }
 
 figure {
-  padding-block: var(--spacing-sm);
+  padding: var(--spacing-sm);
 }
 
 // Lists
