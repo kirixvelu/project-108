@@ -49,10 +49,10 @@ So the people can be free.
 We rise from the north to south,
 So the planet can breathe.
 
-But, they are telling us,
-we are lucky to be alive.
-People and planet need peace.
-Yet, they want more and more,
+They are telling us that:
+we are lucky to be alive,
+and ignore the needs of planet.
+Yet, they want even more,
 but we are broken pieces.
 
 We are yet to ask,
