@@ -3,6 +3,7 @@ node_modules
 
 # build artefacts
 package-lock.json
+src/css
 _site
 
 # secrets and errors
