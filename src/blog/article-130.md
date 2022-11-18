@@ -53,7 +53,7 @@ They are telling us that:
 we are lucky to be alive,
 and ignore the needs of planet.
 Yet, they want even more,
-but we are broken pieces.
+but both are broken pieces.
 
 We are yet to ask,
 who our enemy is.
