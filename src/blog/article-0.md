@@ -10,7 +10,7 @@ In Scarborough, the Tabor Hill Site is the most well known archeological site. T
 <!-- excerpt -->
 <figure>
 {% image "src/assets/images/feast-of-the-dead-3.jpeg", "Feast of the dead ceremony chief in 1960", "image", [400, 700] %}
-<figcaption>1.Feast of the dead ceremony chief, 1960 | © Kiri Vadivelu</figcaption>
+<figcaption>1.Feast of the Dead Ceremony Chief, 1960 | © Kiri Vadivelu</figcaption>
 </figure>
 
 The site contained an ossuary as well as the mass burial of approximately 472 individuals. According to Walter Kenyon and James Lovekins, the burial ritual were in accordance to Iroquois tradition (More information available in Archival – A023). Through the Feast of the Dead ceremony, Iroquois community members would wait 10 to 12 year intervals to bury their dead in a mass burial.
@@ -21,7 +21,7 @@ This discovery caused an uproar within the Indigenous community, as the disturba
 
 <figure>
 {% image "src/assets/images/feast-of-the-dead.jpeg", "Feast of the dead ceremony, 1961", "image", [400, 700] %}
-<figcaption>2.Feast of the dead ceremony, 1961 | © Kiri Vadivelu</figcaption>
+<figcaption>2.Feast of the Dead Ceremony, 1961 | © Kiri Vadivelu</figcaption>
 </figure>
 
 Unlike any other archeological site in the history Scarborough, the Tabor Hill site garnered international and national attention. The Feast of the Dead brought Indigenous representatives from all over such as the Six Nations Confederation, the Onondagas, the Mohawks, the Cayugas, the Senecas, the Oneidas and the Tuscaroras as well as representatives of Branford Reserve. Minister of Immigration described the ritual as an example of happier relations for the future. The Feast of the Dead marked the re-burial and rectification of the earlier disturbance of the excavation. Below there are new articles that discuss the event and its history, as well as other images of significance in relation to the Ceremony. [Learn More](http://scarboroughhistorical.ca/archives-2/the-archives-collection/tabor-hill/).

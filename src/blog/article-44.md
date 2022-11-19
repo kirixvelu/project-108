@@ -11,7 +11,7 @@ During the free fall of British Empire, the visionary Mahatma Gandhi helped libe
 
 <figure>
 {% image "src/assets/images/bollywood-politics.jpeg", "Bollywood to politics in India", "image", [400, 700] %}
-<figcaption>Bollywood to politics in India | © Kiri Vadivelu</figcaption>
+<figcaption>Bollywood to Politics in India | © Kiri Vadivelu</figcaption>
 </figure>
 
 For long time, Bollywood and cricket has been a distraction tool for the Indian political elites to rule the country. However, COVID19 has disrupted the status quo of cinema sports glamorization. After 50 years, caste and religion, that fuelled the Brahmin’s joyride to public office have reached the melting point. Therefore, India need another visionary to stir way from potential corruption without falling into fascism. Simultaneously, India’s ability to cultivate the greed of American corporations would be a greater victory.

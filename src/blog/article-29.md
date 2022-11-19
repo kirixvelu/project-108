@@ -11,5 +11,5 @@ The bankers will ensure we stay in debt. The pharmaceutical companies will ensur
 
 <figure>
 {% image "src/assets/images/humanity-failures.png", "Corrupt corporate banks", "image", [400, 700] %}
-<figcaption>Corrupt corporate banks | © Kiri Vadivelu</figcaption>
+<figcaption>Corrupt Corporate Banks | © Kiri Vadivelu</figcaption>
 </figure>

@@ -11,7 +11,7 @@ In most developing countries, American dream is still the ultimate achievement o
 
 <figure>
 {% image "src/assets/images/american-dream.jpeg", "The rise and fall of America", "image", [400, 700] %}
-<figcaption>The rise and fall of America | © Kiri Vadivelu</figcaption>
+<figcaption>The Rise and Fall of America | © Kiri Vadivelu</figcaption>
 </figure>
 
 The 200 plus years of countless war campaigns consumed over 1.5 million American soldiers and wounded nearly 2 million, all outside of American borders. All wars were proactive and no one were invading America; where, Americans were defending their sovereignty. Advancement of American military has rotten our planet with cluster bombs and broken glasses on every part of the world, where a toddler may be forced to walk. Although the world is a place for all, BlackRock bankers decided who get to live and where, the outcome of inhumane colonization culture.

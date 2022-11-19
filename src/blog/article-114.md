@@ -11,7 +11,7 @@ For class conscious voters, New Democratic Party (NDP) aka Canadian labour party
 
 <figure>
 {% image "src/assets/images/anjali-appadurai.jpeg", "BC NDP Leader Candidate Anjali Appadurai", "image", [400, 700] %}
-<figcaption>BC NDP Leader Candidate Anjali Appadurai | © Kiri Vadivelu</figcaption>
+<figcaption>Leadership Candidate Anjali Appadurai | © Kiri Vadivelu</figcaption>
 </figure>
 
 The B.C. NDP’s provincial executive council voted to disqualify Anjali Appadurai from the party’s leadership race last night, against strong objections from party members and elected NDP representatives across the province and country who called on the party to let her run.

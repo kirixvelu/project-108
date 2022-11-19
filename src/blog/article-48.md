@@ -11,7 +11,7 @@ Early pioneers of democratic system really had good intention to preserve the hu
 
 <figure>
 {% image "src/assets/images/escape-goats.jpeg", "Political injustice to Edward Snowden", "image", [400, 700] %}
-<figcaption>Political injustice to Edward Snowden | © Kiri Vadivelu</figcaption>
+<figcaption>Political Injustice to Edward Snowden | © Kiri Vadivelu</figcaption>
 </figure>
 
 Today, the ruling class owns everything from life saving science to truth seeking journalism. Ruling leaders have perfectly exploited the weakness of the system to protect the interest of the corporations. An American intelligence officer Edward Snowden who exposed crimes against humanity is expected to be viewed as criminal. Did our pioneers fail Snowden or people failed as a society to seek truth?

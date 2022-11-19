@@ -11,7 +11,7 @@ Every empire in the history fought wars to steal but America has perfected the a
 
 <figure>
 {% image "src/assets/images/american-billionaires.jpeg", "5 top American billionaires", "image", [400, 700] %}
-<figcaption>5 top American billionaires | © Kiri Vadivelu</figcaption>
+<figcaption>5 Top American Billionaires | © Kiri Vadivelu</figcaption>
 </figure>
 
 From social, economical to political system, American culture built on capitalism is always in search for ruthless violence. The political system controlled by the military and the elites only need an excuse to exercise violence; that is evidenced through treatment of poor Americans during COVID and notable Will Smith and Chris Rock slapping incident. Although America is a racist, violent and dishonest country, colour or character does not matter once wealth is acquired.

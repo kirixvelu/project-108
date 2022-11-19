@@ -11,7 +11,7 @@ Elections in capitalist countries always risk that the majority employees will v
 
 <figure>
 {% image "src/assets/images/amazon-union.png", "Amazon workers organize union", "image", [400, 700] %}
-<figcaption>Amazon workers organize union | © Kiri Vadivelu</figcaption>
+<figcaption>Amazon Workers Organize Union | © Kiri Vadivelu</figcaption>
 </figure>
 
 Those who are woke in the left and right do not have all answers but know enough to investigate the problem. Of course, problem is power in the form of tyranny, dictatorship and corruption, simply put power corrupt. Instead of antagonizing each other; both can work together once to eliminate the problem.

@@ -11,7 +11,7 @@ As revolutionary economist and German philosopher , Karl Marxist is a harsh crit
 
 <figure>
 {% image "src/assets/images/financial-investments.jpeg", "Legitimacy of financial investment systems", "image", [400, 700] %}
-<figcaption>Legitimacy of financial investment | © Kiri Vadivelu</figcaption>
+<figcaption>Legitimacy of Financial Investment | © Kiri Vadivelu</figcaption>
 </figure>
 
 His prominent work “The Communist Manifesto” was even inspired his opponents to create “The Capitalist Manifesto” a copycat version.

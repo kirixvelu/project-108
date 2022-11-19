@@ -11,7 +11,7 @@ According to War Statistics, America is the enemy of peace and prosperity everyw
 
 <figure>
 {% image "src/assets/images/stop-war.jpeg", "Stop war, defund military", "image", [400, 700] %}
-<figcaption>Stop war, defund military | © Kiri Vadivelu</figcaption>
+<figcaption>Stop war, Defund Military | © Kiri Vadivelu</figcaption>
 </figure>
 
 A common elementary schooler argument is that everyone wants to come to America because America is a free and peaceful country. In reality, foreigners are escaping from war and sanctions that are directly or indirectly linked to American weapon manufactures. The profit of war is like a Christmas to American politicians, military complex and banking investors but nightmare for everyone. People realize that only place to escape war consequence is coming into America and they do at means necessary.

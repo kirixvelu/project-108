@@ -11,5 +11,5 @@ Trails of nuclear propaganda from Iraq to Ukraine. When we come to realize that 
 
 <figure>
 {% image "src/assets/images/iraq-to-ukraine.png", "Trails of Nuclear Propaganda", "image", [400, 700] %}
-</figcaption>rails of Nuclear Propaganda | © Kiri Vadivelu</figcaption>
+</figcaption>Trails of American Nuclear Propaganda | © Kiri Vadivelu</figcaption>
 </figure>

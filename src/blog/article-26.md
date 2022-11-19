@@ -11,7 +11,7 @@ The war mongering European Nations (EU) have been providing significant humanita
 
 <figure>
 {% image "src/assets/images/cancel-debt.jpeg", "IMF cancel debt", "image", [400, 700] %}
-<figcaption>IMF Cancel Ukraine Debt | © Kiri Vadivelu</figcaption>
+<figcaption>IMF on Ukraine Debt | © Kiri Vadivelu</figcaption>
 </figure>
 
 Ukraine, deeply troubled financially even before the war at 95 billion debt to Independent Monetary Funds (IMF), has been maintaining financial debt through giving free pass to North American Treaty Organization (NATO) to run biochemical weapon labs throughout the country. While Prime Minister Justin Trudeau and his Finance Minister Chrystia Freeland have been standing with Ukraine since day one; the NATO company is refusing to cancel the debt for Ukraine.

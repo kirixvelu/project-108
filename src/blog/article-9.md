@@ -1,5 +1,5 @@
 ---
-title: Death Threat from Corporate Welfare Bums
+title: Existential Threat of Corporate Welfare
 description: Structural capitalism colonize labour wealth at the expense of humanity
 date: 2021-04-21
 category: "corporate"
@@ -11,7 +11,7 @@ The corporate welfare bums are also knowns as capitalist death cult is a threat 
 
 <figure>
 {% image "src/assets/images/corporate-welfare.jpeg", "Corporate Welfare Bums Dressed in Black Suit", "image", [400, 700] %}
-<figcaption>Corporate Welfare Bums Dressed in Black Suit | © Kiri Vadivelu</figcaption>
+<figcaption>Welfare Bums in Black Suit | © Kiri Vadivelu</figcaption>
 </figure>
 
 Social capitalism is a western creation of socialized version of death cult; where, cruel motives of cult is glorified rather than disgusted. From Europe to America, death cult is fashionable in corporate environment. No banker would ever handle money without dressing to deceive customers. Western bank industry is disastrous for humanity; is an understatement. No one will ever free till abolishment of all predatory system.

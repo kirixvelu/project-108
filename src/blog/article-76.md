@@ -11,7 +11,7 @@ The Canadian Museum for Human Rights recognizes that the colonial experience in 
 
 <figure>
 {% image "src/assets/images/residential-school.png", "Indigenous children in residential school, 1900", "image", [400, 700] %}
-<figcaption>Indigenous children in residential school, 1900 | © Kiri Vadivelu</figcaption>
+<figcaption>Indigenous Children in Residential School, 1900 | © Kiri Vadivelu</figcaption>
 </figure>
 
 That is how residential schools started but then how it ended was inconceivable to anyone. What happened in the dark in secrecy those children are unforgivable in history.

@@ -11,7 +11,7 @@ Labour day celebration with Kurdistan community in Thompson’s Park, Scarboroug
 
 <figure>
 {% image "src/assets/images/labour-day-2.jpeg", "Labours Day with Kurdistan community at Thompson's park", "image", [400, 700] %}
-<figcaption>Labour Day with Kurdistan Community, Scarborough | © Kiri Vadivelu</figcaption>
+<figcaption>Labour Day, Kurdistan Community, Scarborough | © Kiri Vadivelu</figcaption>
 </figure>
 
 The non-corporate event was broadcasted on Facebook. [Video](https://www.facebook.com/RadioPeshang2012/videos/694608471851267/).

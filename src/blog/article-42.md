@@ -11,7 +11,7 @@ According to Oxford, racism is a prejudice, discrimination or antagonism directe
 
 <figure>
 {% image "src/assets/images/toxic-racism.jpeg", "Racism evolves to become toxic racism", "image", [400, 700] %}
-<figcaption>Racism evolves to toxic racism | © Kiri Vadivelu</figcaption>
+<figcaption>Racism Evolves to Toxicity | © Kiri Vadivelu</figcaption>
 </figure>
 
 In most parts of the world, humans have evolved to know that racism is false believe system based on lack of social and cultural awareness. But, why does racism continue to exist and influence personal and policy decisions? Like COVID, racism mutates.

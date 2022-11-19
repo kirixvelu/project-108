@@ -9,7 +9,10 @@ European Commission sending weapons to Ukraine instead of peace and Israel endor
 
 <!-- excerpt -->
 
-{% image "src/assets/images/eu-russia.png", "EU Russia hypocrisy", "image", [300, 600] %}
+<figure>
+{% image "src/assets/images/eu-russia.png", "EU Russia hypocrisy", "image", [400, 700] %}
+<figcaption>EU and the Hypocrisy on Russia, 2021</figcaption>
+</figure>
 
 Do not jump ahead of the line to demand justice for Ukraine over Palestine or people of Donbas.
 

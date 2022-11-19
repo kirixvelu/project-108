@@ -11,7 +11,7 @@ Regardless of political standing, we can all agree that pandemic have exposed ma
 
 <figure>
 {% image "src/assets/images/fake-gurus.png", "Fake Gurus and Pandemic CEOs", "image", [400, 700] %}
-<figcaption>Fake Gurus and Pandemic CEOs | © Kiri Vadivelu</figcaption>
+<figcaption>Fake Gurus and the Pandemic CEOs | © Kiri Vadivelu</figcaption>
 </figure>
 
 "I worked very hard for it" to justify your position as a billionaire is one of the most absurd things I can imagine when there are people working multiple jobs who still do not make enough to feed their children and pay the rent. - Clint Smith.

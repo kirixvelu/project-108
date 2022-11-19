@@ -11,7 +11,7 @@ category: "race"
 
 <figure>
 {% image "src/assets/images/racism-capitalism.jpeg", "Racism - the strange fruit of capitalism", "image", [400, 700] %}
-<figcaption>Racism - the strange fruit of capitalism | © Kiri Vadivelu</figcaption>
+<figcaption>Racism - the Strange Fruit of Capitalism | © Kiri Vadivelu</figcaption>
 </figure>
 
 Holiday was singing about the thousands of African Americans who were tortured and murdered by racist thugs, usually with total impunity. The last recorded lynching took place as late as 1981. But the killing of Blacks by police and racist vigilantes continues to this day. Trayvon Martin, Freddy Grey, Daunte Wright, Tamir Rice, Breonna Taylor, George Floyd—the list goes on and on.

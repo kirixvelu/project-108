@@ -11,7 +11,7 @@ Money laundering is a serious financial crime. It is an act to conceal the origi
 
 <figure>
 {% image "src/assets/images/zionists-lie.png", "Zionists lie Americans die protest", "image", [400, 700] %}
-<figcaption>Zionists lie Americans die protest | © Kiri Vadivelu</figcaption>
+<figcaption>Zionists Lie Americans Die Protest | © Kiri Vadivelu</figcaption>
 </figure>
 
 The International Monetary Fund (IMF) is a money laundering organization that operates since 1945. Although, IMF was initially created to balance economic inequality and reduce poverty, the organization achieved neither of any. Today, IMF transitioned into a powerful organization to topple any national government financially.

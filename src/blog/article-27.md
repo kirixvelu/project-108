@@ -11,7 +11,7 @@ The ancient voluntary taxation system was created to ensure all people have acce
 
 <figure>
 {% image "src/assets/images/dont-lookup.jpeg", "Don't Look Up Movie Screenshot", "image", [400, 700] %}
-<figcaption>Don't Look Up | © Kiri Vadivelu</figcaption>
+<figcaption>Don't Look Up Movie | © Kiri Vadivelu</figcaption>
 </figure>
 
 Hence, the practice of collecting taxes involved use of force; eventually, adopted into a law to ensure social order and accountability of monarchy. Today, monarchy is replaced with corporate hierarchies, all working slaves are required to pay taxes and no option to opt out. Indeed, corporate structure operate under the illusion of democracy; which only serves billionaire class through illegal transfer of wealth from poor to the rich.

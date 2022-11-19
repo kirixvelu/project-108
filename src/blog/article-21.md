@@ -11,7 +11,7 @@ category: "race"
 
 <figure>
 {% image "src/assets/images/negro-types.jpeg", "Negro who love their masters", "image", [400, 700] %}
-<figcaption>Negro who love their masters | © Kiri Vadivelu</figcaption>
+<figcaption>Negro who Love their Masters | © Kiri Vadivelu</figcaption>
 </figure>
 
 If the master's house caught on fire, the house Negro would fight harder to put the blaze out than the master would. If the master go sick, the house Negro would say, "What's the matter, boss, we sick?" We sick! He identified himself with his master, more than his master identified with himself. And if you came to the house Negro and said, "Let's run away, let's escape, let's separate." The house Negro would look at you and say, "Man, you crazy. What you mean, separate? Where is there a better house than this? Where can I wear better clothes than this? Where can I eat better food than this?" That was that house Negro. In those days he was called a "house nigger." And that's what we call them today, because we've still got some house niggers running around here.

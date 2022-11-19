@@ -11,7 +11,7 @@ One primary reason American people are blind to injustice everywhere is because 
 
 <figure>
 {% image "src/assets/images/jeffrey-epstein.jpeg", "Jeffrey Epstein with British Royal Family", "image", [400, 700] %}
-<figcaption>Jeffrey Epstein with British Royal Family | © Kiri Vadivelu</figcaption>
+<figcaption>Jeffrey Epstein with British Royals | © Kiri Vadivelu</figcaption>
 </figure>
 
 The case of Jeffrey Epstein is the prime example of corrupted powers of American Empire. The ability of Jeffrey to build close relationship with ruling elites of United States, British Monarchy and big corporate executives across Europe is unimaginable in a country known for law and order. Rather than deflecting, American people can save America through holding those in power accountable, refuse to participate in war, violence and destruction.

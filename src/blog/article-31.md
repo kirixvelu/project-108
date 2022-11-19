@@ -11,7 +11,7 @@ Apartheid is the Afrikaans word for ‘apartness’, originally used to describe
 
 <figure>
 {% image "src/assets/images/apartheid-system.jpeg", "No jab no job apartheid system", "image", [400, 700] %}
-<figcaption>No Jab No Job Apartheid System | © Kiri Vadivelu</figcaption>
+<figcaption>No Jab, No Job Apartheid System | © Kiri Vadivelu</figcaption>
 </figure>
 
 The Rome Statute defines the Crime of apartheid as: “inhumane acts...committed in the context of an institutionalized regime of systematic oppression and domination by one racial group over any other racial group or groups and committed with the intention of maintaining that regime.”

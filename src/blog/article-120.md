@@ -28,4 +28,4 @@ Those who enter Israel with abroad life experience not only disagree with the ad
 
 For well informed Jewish people, living abroad is the only means to uphold morals, happiness and balanced view of universe in skewed political and economical conditions.
 
-Full report at https://www.aljazeera.com/news/2004/8/10/jews-who-leave-israel-for-good
+Full report at [Alzeera](https://www.aljazeera.com/news/2004/8/10/jews-who-leave-israel-for-good)

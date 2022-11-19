@@ -11,7 +11,7 @@ After nearly four years of the most regressive, incompetent and corrupt Ontario 
 
 <figure>
 {% image "src/assets/images/late-capitalism.jpeg", "Campaign for Socialism and Democracy in NDP", "image", [400, 700] %}
-<figcaption>Campaign for Socialism and Democracy in NDP | © Kiri Vadivelu</figcaption>
+<figcaption>Campaign for Socialism and Democracy | © Kiri Vadivelu</figcaption>
 </figure>
 
 How is this possible? Only exceptionally weak NDP policy and leadership can account for this disturbing situation. It’s certainly not a function of popular satisfaction with the status quo.

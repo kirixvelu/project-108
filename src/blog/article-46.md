@@ -11,7 +11,7 @@ Greed of corporate America to accumulate wealth for few while 80 percent of Amer
 
 <figure>
 {% image "src/assets/images/earth-revolution.png", "Earth revolt to destruction", "image", [400, 700] %}
-<figcaption>Earth revolt to destruction | © Kiri Vadivelu</figcaption>
+<figcaption>Earth Revolt to Destruction | © Kiri Vadivelu</figcaption>
 </figure>
 
 Trillion dollar BlackRock bankers are the key financial advisors of elected American presidents. No wonder why majority of North Americans are mortgage hostages. American military is the tool of the corporate bankers to exercise violence on any nation in the planet. While, all corporate scams are sold as investment opportunity to end human foot print on earth.

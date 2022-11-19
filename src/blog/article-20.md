@@ -11,7 +11,7 @@ While most American friends of colour are proud about the nomination of first bl
 
 <figure>
 {% image "src/assets/images/show-business.jpeg", "Ketanji Brown Jackson to Supreme Court", "image", [400, 700] %}
-<figcaption>Ketanji Brown Jackson to Supreme Court | © Kiri Vadivelu</figcaption>
+<figcaption>Ketanji B. Jackson to US Supreme Court | © Kiri Vadivelu</figcaption>
 </figure>
 
 When Barrack Obama entered the white house as 44th president, the whole world hoped for positive change in and out of America; to be liberated from oppression. However, the double term president was far worse, with charismatic smile dropped bombs and killed thousands of innocent people in Middle East without facing any consequence.

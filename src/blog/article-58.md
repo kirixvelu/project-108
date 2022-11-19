@@ -11,7 +11,7 @@ When apartheid Israel restricted Ukraine refugees fleeing war, the inhumane deci
 
 <figure>
 {% image "src/assets/images/white-privilege.jpeg", "White privilege on stolen land", "image", [400, 700] %}
-<figcaption>White privilege on stolen land | © Kiri Vadivelu</figcaption>
+<figcaption>White Privilege on Stolen Land | © Kiri Vadivelu</figcaption>
 </figure>
 
 The reality of 80 million blacks murdered in United States during the civil war is gruesome if not more, than the 6 million Jews killed in Germany. Unlike Jews, the black community continue to experience the repercussion of racial discrimination.
