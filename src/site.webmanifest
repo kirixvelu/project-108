@@ -3,6 +3,7 @@
   "short_name": "Kiri Vadivelu",
   "description": "Kiri Vadivelu's Official Website",
   "start_url": ".",
+  "id": "/",
   "icons": [
     {
       "src": "/assets/images/android-chrome-192x192.png",
