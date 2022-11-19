@@ -7,14 +7,19 @@ pagination:
 permalink: "/{{ cat.key }}/"
 eleventyComputed:
   title: Journals of "{{ cat.name }}"
-  description: Articles listed based on the category selection
+  description: Blog journals are categorized based on the selection of issue discussed in the article
 ---
 
 <h1>{{ title }}</h1>
-<quote>
-  I dedicate all journal entries to my daughter Katherine and every child that
+<quote
+  >&#10077; We shall never be radicalized to believe that poor are lazy and the
+  rich are generous. If we do, we have surrendered to the evils of humanity.
+  However, I am grateful for your interest to learn about my experiences
+  socially, economically and politically, in the oppressed age of times. I
+  dedicate all journal entries to my daughter Katherine and every child that
   never returned home from residential schools in Canada through 1830 to 1996.
-</quote>
+  &#10078;</quote
+>
 <br /><br />
 
 {% include "./_includes/components/categoryNav.njk" %} {% set articles =
