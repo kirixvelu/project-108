@@ -69,6 +69,10 @@ main {
   }
 }
 
+.submenu {
+  opacity: var(--opacity);
+}
+
 hr {
   margin-top: 2em;
   margin-bottom: 2em;
