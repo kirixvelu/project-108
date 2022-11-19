@@ -26,4 +26,4 @@ Without extensive research, any prudent person can easily demystify the false pr
 
 Today, those in power avoid responsibility by having people visit church instead of contingent offices for their problems. Religions of all kinds play an important role in protecting the wealthy and powerful in society. Some understanding of evolution goes long way but it requires energy and logic with the will to unlearn the conventional myths to relearn non-violent way of thinking, understanding and connecting with each other to achieve true peace, happiness and purpose of life for all in the smallest space.
 
-An article worth reading, https://www.scientificamerican.com/article/the-evolution-of-the-universe/. The virgin Mary and seven day earth are just few examples from Christianity, most dominant religious cult system; which can be substituted with any flavour of religions.
+An article worth reading on [Scientific American](https://www.scientificamerican.com/article/the-evolution-of-the-universe/). The virgin Mary and seven day earth are just few examples from Christianity, most dominant religious cult system; which can be substituted with any flavour of religions.
