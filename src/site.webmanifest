@@ -1,9 +1,9 @@
 {
-  "name": "Kiri Vadivelu",
-  "short_name": "Kiri Vadivelu",
-  "description": "Kiri Vadivelu's Official Website",
-  "start_url": ".",
-  "id": "/",
+  "short_name": "kiri-vadivelu.ca",
+  "name": "Kiri Vadivelu | kiri-vadivelu.ca",
+  "description": "Elect socialist for Scarborough Leadership",
+  "start_url": "/?source=pwa",
+  "scope": "/",
   "icons": [
     {
       "src": "/android-chrome.png",
@@ -13,5 +13,35 @@
   ],
   "theme_color": "#fff700",
   "background_color": "#f5f5f5",
-  "display": "standalone"
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "shortcuts": [
+    {
+      "name": "The Blog Journals",
+      "url": "/blog",
+      "description": "Journals of Social, Economical and Political Science"
+    }
+  ],
+  "categories": [
+    "arts",
+    "biography",
+    "corporate",
+    "culture",
+    "democracy",
+    "economy",
+    "elections",
+    "environment",
+    "history",
+    "humanity",
+    "justice",
+    "labour",
+    "law",
+    "liberty",
+    "media",
+    "politics",
+    "race",
+    "religion",
+    "science",
+    "tech"
+  ]
 }
