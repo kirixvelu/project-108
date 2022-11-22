@@ -2,8 +2,8 @@
   "short_name": "kiri-vadivelu.ca",
   "name": "Kiri Vadivelu | kiri-vadivelu.ca",
   "description": "Elect socialist for Scarborough Leadership",
+  "id": "/?source=pwa",
   "start_url": "/?source=pwa",
-  "scope": "/",
   "icons": [
     {
       "src": "/android-chrome.png",
