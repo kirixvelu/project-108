@@ -1,7 +1,7 @@
 {
-  "title": "Elect Socialist Kiri Vadivelu for Scarborough",
-  "description": "Socialist solutions to capitalist crisis in modern democracy",
-  "keywords": "economy, democracy, equality, justice, advocacy",
+  "title": "Kiri Vadivelu | Socialist for Scarborough Democracy",
+  "description": "Real solutions to capitalist crisis in modern society",
+  "keywords": "community, economy, democracy, justice, liberty",
   "site": "Kiri Vadivelu",
   "type": "website",
   "language": "en",
@@ -12,7 +12,7 @@
   "image": "https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpeg",
   "feedUrl": "https://kiri-vadivelu.ca/feed.xml",
   "feed": {
-    "subtitle": "Socialist solutions to capitalist crisis in modern democracy",
+    "subtitle": "Real solutions to capitalist crisis in modern society",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://kiri-vadivelu.ca/"

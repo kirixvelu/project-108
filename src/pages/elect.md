@@ -1,6 +1,6 @@
 ---
 title: "Socialist Solutions to Capitalist Crisis in 21st Century"
-description: "Responding to the emergency conditions of underfunded social security against uncivilized corporate interest"
+description: "Policy alternative to the norm of social, economical and political oppression of working people"
 eleventyNavigation:
   key: elect
   order: 3

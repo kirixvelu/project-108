@@ -1,6 +1,6 @@
 ---
-title: "Choose Socialism over Barbarism for Transformation"
-description: "Resolution to the rising inequality, injustice and imbalance of democratic electoral system"
+title: "For equality, justice and democratic leadership of city council"
+description: "Choose socialism over barbarism for the future of Toronto"
 eleventyNavigation:
   key: bio
   order: 2

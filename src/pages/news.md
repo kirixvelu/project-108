@@ -1,6 +1,6 @@
 ---
 title: "Exploring Social and Economical Barriers to Democracy"
-description: "Grassroots alternative to corporate political campaigns without harming environment in engaging with community members"
+description: "Social, economical and political mobilization of Scarborough communities"
 eleventyNavigation:
   key: news
   order: 4
