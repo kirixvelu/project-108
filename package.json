@@ -1,14 +1,14 @@
 {
   "name": "project-108",
   "version": "1.0.0",
-  "description": "Elect Socialist for Scarborough Centre",
+  "description": "Kiri Vadivelu | Socialist for Scarborough Democracy",
   "main": ".eleventy.js",
   "scripts": {
     "generate:sprite": "svg-icon-generate --folder=src/assets/icons --output=src/assets/sprite.svg",
     "watch:eleventy": "eleventy --serve --incremental",
-    "watch:sass": "sass  --no-source-map --watch src/sass:src/css",
+    "watch:sass": "sass  --no-source-map --watch src/sass:src/assets/css",
     "build:eleventy": "eleventy",
-    "build:sass": "sass  --no-source-map --style=compressed src/sass:src/css",
+    "build:sass": "sass  --no-source-map --style=compressed src/sass:src/assets/css",
     "start": "npm-run-all build:sass generate:sprite --parallel watch:*",
     "build": "npm-run-all build:*",
     "debug": "DEBUG=* npx eleventy"
