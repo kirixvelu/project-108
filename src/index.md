@@ -49,3 +49,12 @@ For instance, when I was fighting against a corporate landlord in the midst of a
 Please note that only residents of [Scarborough Center](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/census-stats.pdf), Ward 21 can vote to elect [People's Platform](https://kiri-vadivelu.ca/elect); however, anyone can help contribute to the good work through sharing and encouraging more people to vote in the upcoming municipal election. Please use the environment friendly posters at your discretion, [poster 8x11](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/8x11.pdf), [Poster 4x5](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/4x5.pdf). If you need printed copies, kindly send an email and someone will deliver to you.
 
 If you live outside of Ward 21, consider supporting candidates endorsed by [Socialist Alliance](https://socialistalliance.ca). Find out your ward and more at [Toronto Elections](https://www.toronto.ca/city-government/elections/) or [Call 311](https://www.toronto.ca/home/311-toronto-at-your-service/) for assistance.
+
+<br>
+<h4 class="center">Archives</h4>
+<p class="center submenu">
+  <a href="/pages/about"> &#10022; Purpose</a> |
+  <a href="/pages/elect"> &#9776; Platform</a> |
+  <a href="/pages/news"> &#9873; Campaign</a> |
+  <a href="/assistant.html"> &#8633; Help</a>
+</p>
