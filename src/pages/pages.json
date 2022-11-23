@@ -1,4 +1,5 @@
 {
   "layout": "page",
-  "date": "2022-10-05"
+  "date": "2022-10-05",
+  "eleventyExcludeFromCollections": "true"
 }
