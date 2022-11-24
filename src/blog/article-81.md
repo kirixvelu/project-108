@@ -1,5 +1,5 @@
 ---
-title: Tamil Genocide in the Apartheid State
+title: The Tamil Genocide by Sri Lanka
 description: The failure to protect Tamil rights under International Law and the extraordinary silence of the Holocaust survivers lacks credibility
 date: 2020-05-18
 category: "genocide"
