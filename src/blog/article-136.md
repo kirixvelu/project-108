@@ -1,5 +1,5 @@
 ---
-title: Cuban Missile Crisis to Anxious Ukraine Confrontation
+title: Cuban Missile Crisis to Anxious Ukraine War
 description: The impact of 13 days Cuban missile crisis is felt today after 60 years but NATO Ukraine confrontation with Russia may supersede all
 date: 2022-11-25
 category: "war"
