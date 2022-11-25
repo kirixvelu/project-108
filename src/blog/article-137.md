@@ -16,4 +16,4 @@ Both equity and equality sounds similar but significantly different in practice.
 
 In the first half, equality promote fairness and justice by giving everyone the same thing. However, it can only work if everyone starts from the same place. In the second half, equity is about making sure people get access to the same opportunities. Sometimes, our differences or history can create barrier to participation so we must first ensure equity before we can enjoy equality.
 
-Therefore, equality in democracy is a lazy approach but equity a clever solution but require greater efforts to understand the complexities.
+Therefore, equality in democracy is a lazy approach but equity a clever solution. However, it require greater efforts to understand complexities and address inadequacies for the benefit of greater good in society.
