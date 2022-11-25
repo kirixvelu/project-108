@@ -1,5 +1,5 @@
 ---
-title: Importance of Understanding Equity before Equality
+title: Importance of Equity before Equality
 description: Promoting equality oppose to equity actually breeds inequality in democracy
 date: 2022-11-21
 category: "democracy"
