@@ -1,0 +1,51 @@
+---
+title: Unrest in Gaza Links to Illegal Evictions
+description: The Israeli-Palestinian conflict dates back to the end of the nineteenth century
+date: 2022-11-27
+category: "history"
+---
+
+The Israeli-Palestinian conflict dates back to the end of the nineteenth century. In 1947, the United Nations adopted Resolution 181, known as the Partition Plan, which sought to divide the British Mandate of Palestine into Arab and Jewish states. On May 14, 1948, the State of Israel was created, sparking the first Arab-Israeli War. The war ended in 1949 with Israel’s victory, but 750,000 Palestinians were displaced and the territory was divided into 3 parts: the State of Israel, the West Bank (of the Jordan River), and the Gaza Strip.
+
+<!-- excerpt -->
+
+<figure>
+{% image "src/assets/images/why-gaza.jpeg", "Why the Unrest in Gaza?", "image", [400, 700] %}
+<figcaption>Why the Unrest in Gaza? | © Kiri Vadivelu</figcaption>
+</figure>
+
+Over the following years, tensions rose in the region, particularly between Israel and Egypt, Jordan, and Syria. Following the 1956 Suez Crisis and Israel’s invasion of the Sinai Peninsula, Egypt, Jordan, and Syria signed mutual defense pacts in anticipation of a possible mobilization of Israel troops. In June 1967, following a series of maneuvers by Egyptian President Abdel Gamal Nasser, Israel preemptively attacked Egyptian and Syrian air forces, starting the Six-Day War. After the war, Israel gained territorial control over the Sinai Peninsula and Gaza Strip from Egypt; the West Bank and East Jerusalem from Jordan; and the Golan Heights from Syria.
+
+Six years later, in what is referred to as the Yom Kippur War or the October War, Egypt and Syria launched a surprise two-front attack on Israel to regain their lost territory; the conflict did not result in significant gains for Egypt, Israel, or Syria, but Egyptian President Anwar al-Sadat declared the war a victory for Egypt as it allowed Egypt and Syria to negotiate over previously ceded territory. Finally, in 1979, following a series of cease-fires and peace negotiations, representatives from Egypt and Israel signed the Camp David Accords, a peace treaty that ended the thirty-year conflict between Egypt and Israel.
+
+Even though the Camp David Accords improved relations between Israel and its neighbors, the question of Palestinian self-determination and self-governance remained unresolved. In 1987, hundreds of thousands of Palestinians living in the West Bank and Gaza Strip rose up against the Israeli government in what is known as the first intifada. The 1993 Oslo I Accords mediated the conflict, setting up a framework for the Palestinians to govern themselves in the West Bank and Gaza, and enabled mutual recognition between the newly established Palestinian Authority and Israel’s government. In 1995, the Oslo II Accords expanded on the first agreement, adding provisions that mandated the complete withdrawal of Israel from 6 cities and 450 towns in the West Bank.
+
+In 2000, sparked in part by Palestinian grievances over Israel’s control over the West Bank, a stagnating peace process, and former Israeli Prime Minister Ariel Sharon’s visit to the al-Aqsa mosque—the third holiest site in Islam—in September 2000, Palestinians launched the second intifada, which would last until 2005. In response, the Israeli government approved construction of a barrier wall around the West Bank in 2002, despite opposition from the International Court of Justice and the International Criminal Court.
+
+In 2013, the United States attempted to revive the peace process between the Israeli government and the Palestinian Authority in the West Bank. However, peace talks were disrupted when Fatah—the Palestinian Authority’s ruling party—formed a unity government with its rival faction Hamas in 2014. Hamas, a spin-off of Egypt’s Muslim Brotherhood founded in 1987 following the first intifada, is one of two major Palestinian political parties and was designated a foreign terrorist organization by the United States in 1997.
+
+In the summer of 2014, clashes in the Palestinian territories precipitated a military confrontation between the Israeli military and Hamas in which Hamas fired nearly three thousand rockets at Israel, and Israel retaliated with a major offensive in Gaza. The skirmish ended in late August 2014 with a cease-fire deal brokered by Egypt, but only after 73 Israelis and 2,251 Palestinians were killed. After a wave of violence between Israelis and Palestinians in 2015, Palestinian President Mahmoud Abbas announced that Palestinians would no longer be bound by the territorial divisions created by the Oslo Accords.
+
+In March and May of 2018, Palestinians in the Gaza Strip conducted weekly demonstrations at the border between the Gaza Strip and Israel. The final protest coincided with the seventieth anniversary of the Nakba, the Palestinian exodus that accompanied Israeli independence. While most of the protesters were peaceful, some stormed the perimeter fence and threw rocks and other objects. According to the United Nations, 183 demonstrators were killed and more than 6,000 were wounded by live ammunition.
+
+Also in May of 2018, fighting broke out between Hamas and the Israeli military in what became the worst period of violence since 2014. Before reaching a cease-fire, militants in Gaza fired over one hundred rockets into Israel; Israel responded with strikes on more than fifty targets in Gaza during the twenty-four-hour flare-up.
+
+The Donald J. Trump administration set achieving an Israeli-Palestinian deal as a foreign policy priority. In 2018, the Trump administration canceled funding for the UN Relief and Works Agency, which provides aid to Palestinian refugees, and relocated the U.S. embassy from Tel Aviv to Jerusalem, a reversal of a longstanding U.S. policy. The decision to move the U.S. embassy was met with applause from the Israeli leadership but was condemned by Palestinian leaders and others in the Middle East and Europe.
+
+Israel considers the “complete and united Jerusalem” its capital, while Palestinians claim East Jerusalem as the capital of a future Palestinian state. In January 2020, the Trump administration released its long-awaited “Peace to Prosperity” plan, which was rejected by Palestinians due to its support for future Israeli annexation of settlements in the West Bank and control over an “undivided” Jerusalem.
+
+In August and September 2020, the United Arab Emirates (UAE) and then Bahrain agreed to normalize relations with Israel, making them only the third and fourth countries in the region—following Egypt in 1979 and Jordan in 1994—to do so. The agreements, named the Abraham Accords, came more than eighteen months after the United States hosted Israel and several Arab states for ministerial talks in Warsaw, Poland, about the future of peace in the Middle East. Palestinian leader Mahmoud Abbas rejected the accords; Hamas also rejected the agreements.
+
+There is concern that a third intifada could break out and that renewed tensions will escalate into large-scale violence. The United States has an interest in protecting the security of its long-term ally Israel, and achieving a lasting deal between Israel and the Palestinian territories, which would improve regional security.
+
+In October 2020, an Israeli court ruled that several Palestinian families living in Sheikh Jarrah—a neighborhood in East Jerusalem—were to be evicted by May 2021 with their land handed over to Jewish families. In February 2021, several Palestinian families from Sheikh Jarrah filed an appeal to the court ruling and prompted protests around the appeal hearings, the ongoing legal battle around property ownership, and demanding an end to the forcible displacement of Palestinians from their homes in Jerusalem.
+
+In late April 2021, Palestinians began demonstrating in the streets of Jerusalem to protest the pending evictions and residents of Sheikh Jarrah—along with other activists—began to host nightly sit-ins. In early May, after a court ruled in favor of the evictions, the protests expanded with Israeli police deploying force against demonstrators. On May 7, following weeks of daily demonstrations and rising tensions between protesters, Israeli settlers, and police during the month of Ramadan, violence broke out at the al-Aqsa Mosque compound in Jerusalem, with Israeli police using stun grenades, rubber bullets, and water cannons in a clash with protestors that left hundreds of Palestinians wounded.
+
+After the clashes in Jerusalem’s Old City, tensions increased throughout East Jerusalem, compounded by the celebration of Jerusalem Day. On May 10, after several consecutive days of violence throughout Jerusalem and the use of lethal and nonlethal force by Israeli police, Hamas, the militant group which governs Gaza, and other Palestinian militant groups launched hundreds of rockets into Israeli territory. Israel responded with air strikes and later artillery bombardments against targets in Gaza, including launching several air strikes that killed more than twenty Palestinians. While claiming to target Hamas, other militants, and their infrastructure—including tunnels and rocket launchers—Israel expanded its aerial campaign and struck targets including residential buildings, media headquarters, and refugee and healthcare facilities.
+
+On May 21, 2021, Israel and Hamas agreed to a cease-fire, brokered by Egypt, with both sides claiming victory and no reported violations. More than two hundred and fifty Palestinians were killed and nearly two thousand others wounded, and at least thirteen Israelis were killed over the eleven days of fighting. Authorities in Gaza estimate that tens of millions of dollars of damage was done, and the United Nations estimates that more than 72,000 Palestinians were displaced by the fighting.
+
+With military resource and support of United States, Israel continue to seize lands of Palestine people against the international agreements for Jewish settlement. All while, preventing stability and growth for people in Gaza and across Palestine. Any achievement of Israel military against the wishes of Palestine people unlikely to cement long lasting peace for the region.
+
+Credits: https://cfr.org
