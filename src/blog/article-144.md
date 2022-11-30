@@ -5,7 +5,7 @@ date: 2022-11-30
 category: "culture"
 ---
 
-Zionist interpretations of history taught us that Jewish people are alone, that to remedy the harms of antisemitism we must think of ourselves as always under attack and that we cannot trust others. It teaches us fear, and that the best response to fear is a bigger gun, a taller wall, a more humiliating checkpoint.
+Peace is a collective experience in society. Its a by-product of justice, equality and unity of all people. Justice to one and injustice to another means justice to no one. Zionist interpretations of history taught us that Jewish people are alone, that to remedy the harms of antisemitism we must think of ourselves as always under attack and that we cannot trust others. It teaches us fear, and that the best response to fear is a bigger gun, a taller wall, a more humiliating checkpoint.
 
 <!-- excerpt -->
 
@@ -33,6 +33,7 @@ WHAT IS ANTI-ZIONISM?
 “Anti-Zionism” is a loose term referring to criticism of the current policies of the Israeli state, and/or moral, ethical, or religious criticism of the idea of a Jewish nation-state. There has been debate, criticism and opposition to Zionism within Jewish thought for as long as it has existed. Jewish anti-Zionists span a political and religious spectrum, from religious and secular progressives who view opposition to Zionism as an anti-racist praxis, to ultra-Orthodox Jews who oppose Jewish dominion until the time of the Messiah, to anarchist Jews who oppose the very concept of nation-states, Jewish or otherwise. There are also many non-Jewish anti-Zionists whose perspectives may be informed by moral criticism of the policies of the Israeli government, problems with the impact of Zionist thinking in Israel on non-Jewish residents, and/or a criticism of ethno-nationalism more broadly. Many Palestinians take anti-Zionist positions or identify as anti-Zionist because of the current and historical practices of the Israeli state.
 
 Criticism of Zionism is not to be conflated with antisemitism. States such as Israel and the United States are openly criticized in public life, and their political beliefs and policies are subject to critical debate, in accord with our basic First Amendment rights.
+
 WHY AND HOW DID WE CLARIFY OUR POSITION ON ZIONISM?
 
 At its founding, JVP made a conscious choice as an organization to abstain from taking a position on Zionism, because we felt it closed off conversation in the Jewish community. Palestinian partners had long theorized Zionism as the root cause of the Palestinian condition, and more and more of our members not only agreed, but understood Zionism as damaging to Jewish identity and spiritual life. In 2014, it became clear that we needed to clarify our position in order to effectively continue doing our work.
