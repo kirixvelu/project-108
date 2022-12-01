@@ -26,50 +26,51 @@ served the nation at Vimy Ridge.<br>
 Took the coldest battle to victory,<br>
 marched against the Nazi machines.
 
-Rain tested even the toughest,<br>
-few days with many thousands.<br>
+Bullets tested the toughest,<br>
+few days with thousands of lives.<br>
 Sacrificed all for our world pride,<br>
 how can we put aside the poppies?
 
 Those who came home for peace,<br>
 only to face the great starve.<br>
 Without any means to survive,<br>
-rose at thirties to rescue humanity.
+rose again at thirties for humanity.
 
 _We are yet to ask,
 who our enemy is._
 
-They take our bread,<br>
-give us bread crumbs.<br>
-They take our land,<br>
-rent us living spaces.<br>
-They take our wealth,<br>
-pay us less than peanuts.
+They seized our means of bread,<br>
+only to give us bread crumbs.<br>
+They stole the native land,<br>
+only to rent us living spaces.<br>
+They demand our labour wealth,<br>
+only to pay us less than peanuts.
 
-We cry from the river to the sea,<br>
+We cry from river to the sea,<br>
 So our people can be free.<br>
-We rise from the north to the south,<br>
+We rise from north to the south,<br>
 So our planet can breathe.
+But the monster is before us.
 
-They are telling us bravely,<br>
+They are mocking at us loudly,<br>
 that we are lucky to be alive,<br>
-as they rape the mother nature.<br>
-Yet, they want even more,<br>
-but all are broken pieces.
+as they burn the mother nature.<br>
+Yet, they want even more oil,<br>
+but all we see is ashes on the ground.
 
 _We are yet to ask,
 who our enemy is._
 
 Know the fear and control,<br>
 avoid the divide and conquer.<br>
-Thus, where fascism thrives,<br>
+Thus where fascism thrives,<br>
 when the common sense dies.<br>
 All surplus value of service,<br>
 with poppies of Flanders Fields.
 
 They take our lives for pride,<br>
 give us war hero metals to rest.<br>
-They tell us wars are necessary,<br>
+They teach us wars are necessary,<br>
 or else, enemy will kill us.
 
 We are killing and dying in grace,<br>
