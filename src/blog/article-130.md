@@ -49,7 +49,7 @@ only to pay us less than peanuts.
 We cry from river to the sea,<br>
 So our people can be free.<br>
 We rise from north to the south,<br>
-So our planet can breathe.
+So our planet can breathe.<br>
 But the monster is before us.
 
 They are mocking at us loudly,<br>
@@ -71,7 +71,8 @@ with poppies of Flanders Fields.
 They take our lives for pride,<br>
 give us war hero metals to rest.<br>
 They teach us wars are necessary,<br>
-or else, enemy will kill us.
+or else, enemy will kill us.<br>
+Only those move can feel the chains.
 
 We are killing and dying in grace,<br>
 we are yet to ask, who our enemy is.<br>
