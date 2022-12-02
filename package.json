@@ -2,7 +2,7 @@
   "name": "project-108",
   "version": "1.0.0",
   "description": "Kiri Vadivelu | Socialist for Scarborough Democracy",
-  "main": ".eleventy.js",
+  "main": "index.md",
   "scripts": {
     "generate:sprite": "svg-icon-generate --folder=src/assets/icons --output=src/assets/sprite.svg",
     "watch:eleventy": "eleventy --serve --incremental",

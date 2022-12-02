@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ metadata.language }}">
+<html lang="{{ meta.language }}">
   <head>
     <!-- analytics (gtag.js) -->
     <script
@@ -42,15 +42,15 @@
     <!-- feed xml/ json -->
     <link
       rel="alternate"
-      href="{{ metadata.feed.path | url }}"
+      href="{{ meta.feed.path | url }}"
       type="application/atom+xml"
-      title="{{ metadata.title }}"
+      title="{{ meta.title }}"
     />
     <link
       rel="alternate"
-      href="{{ metadata.jsonfeed.path | url }}"
+      href="{{ meta.jsonfeed.path | url }}"
       type="application/json"
-      title="{{ metadata.title }}"
+      title="{{ meta.title }}"
     />
 
     <!-- HTML (view) -->
@@ -72,10 +72,10 @@
     <link rel="license" href="/license.txt" />
     <meta name="theme-color" content="#fff700" />
     <link rel="manifest" crossorigin="use-credentials" href="/manifest.json" />
-    <link rel="canonical" href="{{ metadata.url + page.url }}" itemprop="url" />
+    <link rel="canonical" href="{{ meta.url + page.url }}" itemprop="url" />
 
     <!-- 11ty (11ty.dev) -->
-    {% include "../components/metadata.njk" %}
+    {% include "../components/meta.njk" %}
     <script type="module" src="/assets/svg-icon-sprite.js"></script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />
 

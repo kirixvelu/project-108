@@ -8,8 +8,7 @@ eleventyNavigation:
   order: 1
 ---
 
-{% image "src/assets/images/kiri-vadivelu.jpeg", "Council Candidate, Kiri Vadivelu",
-  "image", [400, 700] %}
+![Council Candidate, Kiri Vadivelu](assets/images/kiri-vadivelu.jpeg)
 
 # Kiri Vadivelu
 

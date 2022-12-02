@@ -2,15 +2,15 @@
 permalink: "/feed.json"
 ---
 { "version": "https://jsonfeed.org/version/1.1", "title": "{{
-  metadata.title
-}}", "language": "{{ metadata.language }}", "home_page_url": "{{
+  meta.title
+}}", "language": "{{ meta.language }}", "home_page_url": "{{
   metadata.url
-}}", "feed_url": "{{ metadata.jsonfeed.url }}", "description": "{{
-  metadata.description
-}}", "author": { "name": "{{ metadata.author.name }}", "url": "{{
-  metadata.author.url
+}}", "feed_url": "{{ meta.jsonfeed.url }}", "description": "{{
+  meta.description
+}}", "author": { "name": "{{ meta.author.name }}", "url": "{{
+  meta.author.url
 }}" }, "items": [ {%- for post in collections.blog | reverse %} {%- set
-absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
+absolutePostUrl %}{{ post.url | url | absoluteUrl(meta.url) }}{% endset -%}
 { "id": "{{ absolutePostUrl }}", "url": "{{ absolutePostUrl }}", "title": "{{
   post.data.title
 }}", "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe

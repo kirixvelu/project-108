@@ -5,6 +5,7 @@ pagination:
   size: 1
   alias: cat
 permalink: "/{{ cat.key }}/"
+eleventyExcludeFromCollections: true
 eleventyComputed:
   title: Journals of "{{ cat.name }}"
   description: Blog journals are categorized based on the selection of issue discussed in the article

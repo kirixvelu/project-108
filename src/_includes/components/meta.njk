@@ -1,0 +1,32 @@
+<title>{{ title }}</title>
+<meta name="description" content="{{ description or meta.description }}" />
+<meta name="keywords" content="{{ meta.keywords }}" />
+<meta name="geo.placename" content="{{ meta.city }}" />
+<meta name="geo.region" content="{{ meta.country }}" />
+<meta name="author" content="{{ meta.author.name }}" />
+<meta name="publish_date" content="{{ page.date | readableDate }}" />
+
+<meta property="og:type" content="{{ meta.type }}" />
+<meta property="og:locale" content="{{ meta.local }}" />
+<meta property="og:site_name" content="{{ meta.site }}" />
+<meta property="og:url" content="{{ metadata.url + page.url }}" />
+<meta property="og:publish_date" content="{{ page.date | readableDate }}" />
+
+<meta property="og:title" content="{{ title }}" />
+<meta
+  property="og:description"
+  content="{{ description or meta.description }}"
+/>
+
+<meta property="og:image" content="" />
+<meta property="og:image:secure_url" content="" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="{{ meta.author.twitter }}" />
+<meta name="twitter:url" content="{{ metadata.url + page.url }}" />
+<meta name="twitter:title" content="{{ title }}" />
+<meta
+  name="twitter:description"
+  content="{{ description or meta.description}}"
+/>
+<meta name="twitter:image" content="{{ meta.image | url }}" />
