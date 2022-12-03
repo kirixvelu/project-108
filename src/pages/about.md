@@ -2,7 +2,7 @@
 title: "For equality, justice and democratic leadership of city council"
 description: "Choose socialism over barbarism for the future of Toronto"
 eleventyNavigation:
-  key: bio
+  key: about
   order: 2
 ---
 

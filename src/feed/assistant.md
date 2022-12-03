@@ -18,7 +18,7 @@ permalink: /assistant.html
 [Elect](https://kiri-vadivelu.ca/pages/elect) |
 [News](https://kiri-vadivelu.ca/pages/news) |
 [Blog](https://kiri-vadivelu.ca/blog) |
-[Error](https://kiri-vadivelu.ca/404)
+[Archives](https://kiri-vadivelu.ca/archives)
 
 </section>
 

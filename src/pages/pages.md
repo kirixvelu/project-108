@@ -1,6 +1,6 @@
 ---
 title: "The Multidimensional Universe"
-description: "Humans must adapt for increased survivability"
+description: "Civilization must adapt and co-operate for survivability or face extinction"
 permalink: /pages/
 ---
 
