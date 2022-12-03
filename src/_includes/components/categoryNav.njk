@@ -2,10 +2,10 @@
 <nav role="navigation" aria-label="category navigation" >
   <span>Category of Issues:</span>
   <ul>
-    <li class="category__link {{ ' active' if page.url == '/blog/'}}">
+    <li class="category__link {{ ' active' if page.url == '/journals/'}}">
       <a class="category__link" 
-        href="/blog"
-        {{ "aria-current" if page.url === "/blog/" }}
+        href="/journals"
+        {{ "aria-current" if page.url === "/journals/" }}
           >all</a>
     </li>
     {%- for category in categories %}
