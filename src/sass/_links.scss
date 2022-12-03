@@ -16,6 +16,11 @@ a:visited {
   }
 }
 
+[aria-current] {
+  font-weight: 700;
+  font-style: italic;
+}
+
 // Decorations/ Signatures
 main {
   h1::after {
