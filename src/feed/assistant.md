@@ -17,7 +17,7 @@ permalink: /assistant.html
 [About](https://kiri-vadivelu.ca/pages/about) |
 [Elect](https://kiri-vadivelu.ca/pages/elect) |
 [News](https://kiri-vadivelu.ca/pages/news) |
-[Blog](https://kiri-vadivelu.ca/blog) |
+[Blog](https://kiri-vadivelu.ca/journals) |
 [Archives](https://kiri-vadivelu.ca/archives)
 
 </section>
@@ -26,7 +26,7 @@ permalink: /assistant.html
 
 <section>
 
-[Legal](https://kiri-vadivelu.ca/legal/) |
+[Legal](https://kiri-vadivelu.ca/legal) |
 [Privacy](https://kiri-vadivelu.ca/legal/privacy) |
 [Cookies](https://kiri-vadivelu.ca/legal/cookies) |
 [Terms](https://kiri-vadivelu.ca/legal/terms) |
@@ -39,7 +39,9 @@ permalink: /assistant.html
 
 <section>
 
-[All](https://kiri-vadivelu.ca/blog/) |
+[All](https://kiri-vadivelu.ca/journals) |
+[Arts](https://kiri-vadivelu.ca/arts/) |
+[Biography](https://kiri-vadivelu.ca/biography/) |
 [Corporate](https://kiri-vadivelu.ca/corporate/) |
 [Corruption](https://kiri-vadivelu.ca/corruption/) |
 [Crime](https://kiri-vadivelu.ca/crime/) |
