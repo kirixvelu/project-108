@@ -16,6 +16,43 @@
       gtag("config", "G-QNL8WBNJYD");
     </script>
 
+    <!-- schema (json) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Kiri Vadivelu",
+        "url": "https://kiri-vadivelu.ca",
+        "image": "https://kiri-vadivelu.ca/kiri-vadivelu.jpeg",
+        "sameAs": [
+          "https://www.facebook.com/kiri.vadivelu",
+          "https://twitter.com/kiri_vadivelu",
+          "https://www.instagram.com/kiri_vadivelu",
+          "https://www.linkedin.com/in/kiri-vadivelu",
+          "https://about.me/kiri_vadivelu"
+        ],
+        "jobTitle": "Webmaster",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Digital Designers"
+        }
+      }
+    </script>
+
+    <!-- feed xml/ json -->
+    <link
+      rel="alternate"
+      href="{{ meta.feed.path | url }}"
+      type="application/atom+xml"
+      title="{{ meta.title }}"
+    />
+    <link
+      rel="alternate"
+      href="{{ meta.jsonfeed.path | url }}"
+      type="application/json"
+      title="{{ meta.title }}"
+    />
+
     <!-- HTML (view) -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -23,6 +60,7 @@
       name="robots"
       content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     />
+    <meta name="generator" content="{{ eleventy.generator }}" />
 
     <!-- favicons (favicon.ico) -->
     <link rel="icon" sizes="48x48" href="{{ '/favicon.ico' | url }}" />
@@ -39,6 +77,14 @@
     {% include "../components/meta.njk" %}
     <script type="module" src="/assets/svg-icon-sprite.js"></script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />
+
+    <!-- verification (verify) -->
+    <meta name="yandex-verification" content="0e5a7d1a39fc2791" />
+    <meta
+      name="google-site-verification"
+      content="T-DI1gm3vZcLXPw35OnTPl7Ke7am206654WrBQBdzXo"
+    />
+    <meta name="p:domain_verify" content="dcbdfe521eb082dbb108a118efdbdde3" />
   </head>
 
   <body>

@@ -11,6 +11,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(emojiReadTime, { showEmoji: false });
 
+  eleventyConfig.addLayoutAlias("main", "layouts/main");
   eleventyConfig.addLayoutAlias("page", "layouts/page");
   eleventyConfig.addLayoutAlias("article", "layouts/article");
 

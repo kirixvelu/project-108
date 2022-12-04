@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: main
 title: "Kiri Vadivelu | Socialist for Scarborough Democracy"
 description: "Real solutions to capitalist crisis in modern society where salary do not depend on not understanding reality nor acceptance of comfortable narrative"
 date: 2022-10-05
