@@ -1,20 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ meta.language }}">
   <head>
-    <!-- analytics (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-QNL8WBNJYD"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-QNL8WBNJYD");
-    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="robots"
+      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    />
+    <meta name="generator" content="{{ eleventy.generator }}" />
 
     <!-- schema (json) -->
     <script type="application/ld+json">
@@ -53,15 +46,6 @@
       title="{{ meta.title }}"
     />
 
-    <!-- HTML (view) -->
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="robots"
-      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
-    />
-    <meta name="generator" content="{{ eleventy.generator }}" />
-
     <!-- favicons (favicon.ico) -->
     <link rel="icon" sizes="48x48" href="{{ '/favicon.ico' | url }}" />
     <link
@@ -76,6 +60,8 @@
     <!-- 11ty (11ty.dev) -->
     {% include "../components/meta.njk" %}
     <script type="module" src="/assets/svg-icon-sprite.js"></script>
+    <script defer src="/assets/js/analytics.js"></script>
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />
 
     <!-- verification (verify) -->

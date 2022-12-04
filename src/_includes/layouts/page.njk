@@ -1,22 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ meta.language }}">
   <head>
-    <!-- analytics (gtag.js) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-QNL8WBNJYD"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-QNL8WBNJYD");
-    </script>
-
-    <!-- HTML (view) -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
@@ -38,6 +22,7 @@
     <!-- 11ty (11ty.dev) -->
     {% include "../components/meta.njk" %}
     <script type="module" src="/assets/svg-icon-sprite.js"></script>
+    <script defer src="/assets/js/analytics.js"></script>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />
   </head>
 
