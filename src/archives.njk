@@ -12,12 +12,27 @@ pagination:
 
 <h1>{{ title }}</h1>
 <br>
+<figure>
+  {% image "src/assets/images/tamil-oolai-suvadi.jpeg", "Tamil Manuscript (Olai Suvadi) in 5th Century | © Kiri Vadivelu", "image", [null] %}
+  <figcaption>
+    Tamil Manuscript (Oolai Suvadi) in 5th Century | © Kiri
+    Vadivelu
+  </figcaption>
+</figure>
+<p>
+  No thoughts, emotions or comments initiated with residues of profit. All
+  editorials are unaltered and intended to educate and inspire people to defend
+  the interest of communities. Your contributions including article submissions, constructive criticisms or monetary support are always welcome. Contact
+  <a href="mailto:editor@kiri-vadivelu.ca">Editorial</a> team for more details.
+</p>
+<br>
+
 {% include "./_includes/components/archiveList.njk" %}
 
 <br>
 <section>
 <nav aria-labelledby="pagination">
-  <h3 class="center" id="pagination">menu</h3>
+  <h3 class="center" id="pagination">more</h3>
 
   {% if pagination.href.previous %}
   <a href="{{ pagination.href.previous }}">Previous |</a>{% else %}Previous{%
