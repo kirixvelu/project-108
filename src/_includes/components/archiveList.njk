@@ -2,11 +2,9 @@
   {% for article in articles %}
   <li class="article__item">
     <p>
-      <time>
-        <i>{{ article.data.date | readableDate }}</i>
-      </time>
       <a href="{{ article.url | url }}">{{ article.data.title }}</a>
-      ~{{ article.data.category }}
+      ~{{ article.data.category }} |
+      <i>{{ article.data.date | readableDate }}</i>
     </p>
   </li>
   {% endfor %}
