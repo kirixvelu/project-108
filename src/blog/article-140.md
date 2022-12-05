@@ -1,5 +1,5 @@
 ---
-title: Financial Freedom is not Mortgage Slavery
+title: Mortgage Slavery Not A Financial Freedom
 description: Black slavery may have ended but slavery did not end but transformed into slavery of humanity
 date: 2022-11-26
 category: "justice"
