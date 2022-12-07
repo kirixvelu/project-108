@@ -6,6 +6,11 @@
   command = "eleventy"
 
 [[redirects]]
+  from = "/g/collect"
+  to = "https://kiri-vadivelu.ca/g/collect"
+  status = 200
+
+[[redirects]]
   from = "https://kiri-vadivelu.netlify.app"
   to = "https://kiri-vadivelu.ca"
   status = 301
