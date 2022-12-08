@@ -1,25 +1,11 @@
-# Security header/ Digital Designers 
-# Implemented for https://kiri-vadivelu.ca
-
+# 11ty build
 [build]
   publish = "_site"
   command = "eleventy"
 
-[[redirects]]
-  from = "/g/collect"
-  to = "https://kiri-vadivelu.ca/g/collect"
-  status = 200
-  force = true
-
-[[redirects]]
-  from = "https://kiri-vadivelu.netlify.app"
-  to = "https://kiri-vadivelu.ca"
-  status = 301
-  force = true
-
+# Security policy
 [[headers]]
-
-  for = "/*"
+for = "/*"
 
 [headers.values]
   X-Frame-Options = "DENY"
@@ -36,3 +22,65 @@
 
   Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
 
+# social media 
+[[redirects]]
+from = "/twitter"
+to = "https://twitter.com/kiri_vadivelu"
+status = 301
+force = true
+
+[[redirects]]
+from = "/instagram"
+to = "https://instagram.com/kiri_vadivelu"
+status = 301
+force = true
+
+[[redirects]]
+from = "/facebook"
+to = "https://facebook.com/kiri.vadivelu"
+status = 301
+force = true
+
+[[redirects]]
+from = "/linkedin"
+to = "https://linkedin.com/in/kiri-vadivelu"
+status = 301
+force = true
+
+[[redirects]]
+from = "/github"
+to = "https://github.com/kiri-vadivelu"
+status = 301
+force = true
+
+[[redirects]]
+from = "/hashnode"
+to = "https://scarborough.hashnode.dev"
+status = 301
+force = true
+
+[[redirects]]
+from = "/substack"
+to = "https://scarborough.substack.com"
+status = 301
+force = true
+
+[[redirects]]
+from = "/tealfeed"
+to = "https://tealfeed.com/scarborough"
+status = 301
+force = true
+
+# netlify redirect
+[[redirects]]
+  from = "https://kiri-vadivelu.netlify.app"
+  to = "https://kiri-vadivelu.ca"
+  status = 301
+  force = true
+
+# web analytics
+[[redirects]]
+  from = "/g/collect"
+  to = "https://kiri-vadivelu.ca/g/collect"
+  status = 200
+  force = true
