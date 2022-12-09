@@ -50,8 +50,9 @@ picture {
   border-radius: var(--radius);
 }
 
-main > img {
+main > p > img {
   box-shadow: var(--i-shadow);
+  filter: sepia(5%);
 }
 
 article > img {
@@ -76,6 +77,7 @@ figcaption::before {
 
 figure {
   padding: var(--spacing-sm);
+  filter: grayscale(15%);
 }
 
 // Lists
