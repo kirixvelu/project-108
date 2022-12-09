@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Keyboard Navigation Assistant"
+title: "Navigation Assistant"
 description: "Directory for webpage links"
 permalink: /assistant.html
 ---
