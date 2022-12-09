@@ -9,18 +9,43 @@ for = "/*"
 
 [headers.values]
   X-Frame-Options = "DENY"
-
   X-Content-Type-Options = "nosniff"
-
   Cross-Origin-Resource-Policy = "same-site"
-
   Cross-Origin-Embedder-Policy = "same-origin"
-
   Referrer-Policy = "strict-origin-when-cross-origin"
-
   Content-Security-Policy = "upgrade-insecure-requests"
-
   Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
+
+# page routes
+[[redirects]]
+from = "/blog"
+to = "/journals"
+status = 301
+force = true
+
+[[redirects]]
+from = "/posts"
+to = "/archives"
+status = 301
+force = true
+
+[[redirects]]
+from = "/about"
+to = "/pages/about"
+status = 301
+force = true
+
+[[redirects]]
+from = "/contact"
+to = "/pages/elect"
+status = 301
+force = true
+
+[[redirects]]
+from = "/news"
+to = "/pages/news"
+status = 301
+force = true
 
 # social media 
 [[redirects]]
