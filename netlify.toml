@@ -47,6 +47,30 @@ to = "/pages/news"
 status = 301
 force = true
 
+[[redirects]]
+from = "/feed"
+to = "/feed.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/rss"
+to = "/feed.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/sitemap"
+to = "/sitemap.xml"
+status = 301
+force = true
+
+[[redirects]]
+from = "/help"
+to = "/assistant"
+status = 301
+force = true
+
 # social media 
 [[redirects]]
 from = "/twitter"
