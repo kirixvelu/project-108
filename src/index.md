@@ -50,7 +50,7 @@ Please note that only residents of [Scarborough Center](https://github.com/kiri-
 If you live outside of Ward 21, consider supporting candidates endorsed by [Socialist Alliance](https://socialistalliance.ca). Find out your ward and more at [Toronto Elections](https://www.toronto.ca/city-government/elections/) or [Call 311](https://www.toronto.ca/home/311-toronto-at-your-service/) for assistance.
 
 <br>
-<ul role="menu" class="center">
+<ul class="center">
   <a href="/pages/about"> &#10022; Purpose</a> |
   <a href="/pages/elect"> &#9776; Platform</a> |
   <a href="/pages/news"> &#9873; Updates</a> |
