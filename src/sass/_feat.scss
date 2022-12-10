@@ -24,6 +24,11 @@ blockquote p {
   margin-top: 0;
 }
 
+blockquote a:link,
+blockquote a:visited {
+  color: var(--theme);
+}
+
 blockquote:nth-child(odd) {
   border-left: 5px solid var(--theme);
 }
