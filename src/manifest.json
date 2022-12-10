@@ -17,8 +17,8 @@
   "orientation": "portrait-primary",
   "shortcuts": [
     {
-      "name": "The Blog Journals",
-      "url": "/blog",
+      "name": "Online Journals",
+      "url": "/journals",
       "description": "Journals of Social, Economical and Political Science"
     }
   ],

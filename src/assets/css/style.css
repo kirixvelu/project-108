@@ -529,7 +529,7 @@ picture {
 
 main > p > img {
   box-shadow: var(--i-shadow);
-  filter: sepia(5%);
+  filter: opacity(0.9);
 }
 
 article > img {
