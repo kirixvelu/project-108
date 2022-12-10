@@ -1,5 +1,5 @@
 ---
-title: Christmas Season on Route to Pandemic ‘Poornography’
+title: Christmas Season to Pandemic ‘Poornography’
 description: Legitimization of poverty through Christmas for benefit rather than addressing the root cause
 date: 2022-11-24
 category: "arts"
