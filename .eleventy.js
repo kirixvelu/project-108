@@ -34,6 +34,10 @@ module.exports = function (eleventyConfig) {
     require("./src/_11ty/imageShortcode").imageShortcode
   );
 
+  eleventyConfig.addFilter("uppercase", function (string) {
+    return string.toUpperCase();
+  });
+
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "LLL dd, yyyy"
