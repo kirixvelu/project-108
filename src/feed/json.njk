@@ -4,7 +4,7 @@ permalink: "/feed.json"
 { "version": "https://jsonfeed.org/version/1.1", "title": "{{
   meta.title
 }}", "language": "{{ meta.language }}", "home_page_url": "{{
-  metadata.url
+  meta.url
 }}", "feed_url": "{{ meta.jsonfeed.url }}", "description": "{{
   meta.description
 }}", "author": { "name": "{{ meta.author.name }}", "url": "{{
@@ -13,6 +13,6 @@ permalink: "/feed.json"
 absolutePostUrl %}{{ post.url | url | absoluteUrl(meta.url) }}{% endset -%}
 { "id": "{{ absolutePostUrl }}", "url": "{{ absolutePostUrl }}", "title": "{{
   post.data.title
-}}", "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe
+}}", "content_html": {% if post.data.excerpt %}{{ post.data.excerpt | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe
 }}{% else %}""{% endif %}, "date_published": "{{ post.date | rssDate }}" } {%-
 if not loop.last -%} , {%- endif -%} {%- endfor %} ] }
