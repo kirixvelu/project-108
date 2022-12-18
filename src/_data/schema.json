@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Kiri Vadivelu",
+  "url": "https://kiri-vadivelu.ca",
+  "image": "https://kiri-vadivelu.ca/kiri-vadivelu.jpeg",
+  "sameAs": [
+    "https://www.facebook.com/kiri.vadivelu",
+    "https://twitter.com/kiri_vadivelu",
+    "https://www.instagram.com/kiri_vadivelu",
+    "https://www.linkedin.com/in/kiri-vadivelu",
+    "https://about.me/kiri_vadivelu"
+  ],
+  "jobTitle": "Webmaster",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Digital Designers"
+  }
+}

@@ -22,7 +22,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/manifest.json");
   eleventyConfig.addPassthroughCopy("./src/apple-touch.png");
   eleventyConfig.addPassthroughCopy("./src/android-chrome.png");
-  eleventyConfig.addPassthroughCopy("./src/_redirects");
 
   eleventyConfig.addPassthroughCopy({
     "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
