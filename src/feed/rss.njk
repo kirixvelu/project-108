@@ -2,20 +2,20 @@
 permalink: "/rss.xml"
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ meta.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ meta.title }}</title>
     <link>{{ meta.url }}</link>
     <atom:link href="{{ permalink | absoluteUrl(meta.url) }}" rel="self" type="application/rss+xml" />
-    <description>{{ meta.subtitle }}</description>
+    <description>{{ meta.description }}</description>
     <language>{{ meta.language }}</language>
-    {%- for article in collections.blog | reverse %}
+    {%- for post in collections.blog | reverse %}
     {%- set absolutePostUrl = post.url | absoluteUrl(meta.url) %}
     <item>
-      <title>{{ article.data.title }}</title>
+      <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
-      <description>{{ article.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
-      <pubDate>{{ article.date | dateToRfc822 }}</pubDate>
+      <description>{{ post.excerpt | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ meta.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>
