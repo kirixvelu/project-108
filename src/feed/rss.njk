@@ -14,7 +14,7 @@ permalink: "/rss.xml"
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
-      <description>{{ post.excerpt | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+      <description>{{ post.data.excerpt | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ meta.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
