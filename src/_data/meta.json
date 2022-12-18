@@ -11,6 +11,7 @@
   "url": "https://kiri-vadivelu.ca",
   "image": "https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpeg",
   "feedUrl": "https://kiri-vadivelu.ca/feed.xml",
+  "rssUrl": "https://kiri-vadivelu.ca/rss.xml",
   "feed": {
     "subtitle": "Real solutions to capitalist crisis in modern society",
     "filename": "feed.xml",

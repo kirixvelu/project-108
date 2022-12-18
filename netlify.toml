@@ -55,7 +55,7 @@ force = true
 
 [[redirects]]
 from = "/rss"
-to = "/feed.xml"
+to = "/rss.xml"
 status = 301
 force = true
 
