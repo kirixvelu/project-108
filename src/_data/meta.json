@@ -23,7 +23,13 @@
     "url": "https://kiri-vadivelu.ca/feed.json"
   },
   "author": {
+    "type": "person",
     "name": "Kiri Vadivelu",
+    "jobTitle": "Webmaster",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Digital Designers"
+    },
     "email": "office@kiri-vadivelu.ca",
     "url": "https://kiri-vadivelu.ca",
     "logo": "https://kiri-vadivelu.ca/logo.png",
@@ -33,7 +39,8 @@
     "linkedin": "https://linkedin.com/in/kiri-vadivelu/",
     "copyright": "https:/kiri-vadivelu.ca/legal"
   },
-  "Organization": {
+  "Publisher": {
+    "type": "organization",
     "name": "Digital Designers",
     "city": "Toronto",
     "country": "Canada",
