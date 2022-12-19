@@ -25,18 +25,26 @@
   "author": {
     "name": "Kiri Vadivelu",
     "email": "office@kiri-vadivelu.ca",
-    "url": "https://kiri-vadivelu.ca/about/",
-    "copyright": "https:/kiri-vadivelu.ca/legal",
+    "url": "https://kiri-vadivelu.ca",
+    "logo": "https://kiri-vadivelu.ca/logo.png",
     "twitter": "https://twitter.com/kiri_vadivelu",
     "facebook": "https://facebook.com/kiri.vadivelu",
     "instagram": "https://instagram.com/kiri_vadivelu/",
-    "linkedin": "https://linkedin.com/in/kiri-vadivelu/"
+    "linkedin": "https://linkedin.com/in/kiri-vadivelu/",
+    "copyright": "https:/kiri-vadivelu.ca/legal"
   },
-  "legal": "https://kiri-vadivelu.ca/legal/",
-  "developer": {
-    "name": "Kiri Vadivelu",
-    "company": "Digital Designers",
+  "Organization": {
+    "name": "Digital Designers",
+    "city": "Toronto",
+    "country": "Canada",
+    "phone": "416-805-6989",
+    "url": "https://digitaldesigners.ca",
     "email": "office@digitaldesigners.ca",
-    "url": "https://digitaldesigners.ca"
+    "logo": "https://digitaldesigners.ca/logo.png",
+    "twitter": "https://twitter.com/ddesignersca",
+    "facebook": "https://facebook.com/digitaldesignersca",
+    "instagram": "https://instagram.com/digitaldesignersca",
+    "linkedin": "https://linkedin.com/in/digitaldesignersca",
+    "copyright": "https://digitaldesigners.ca/terms"
   }
 }
