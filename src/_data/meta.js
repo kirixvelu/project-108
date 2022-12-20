@@ -1,5 +1,5 @@
 module.exports = {
-  name: "Kiri Vadivelu",
+  site: "Kiri Vadivelu",
   title: "Kiri Vadivelu | Socialist for Scarborough Democracy",
   description: "Real solutions to capitalist crisis in modern society",
   keywords: ["community", "economy", "democracy", "equity", "liberty"],
@@ -45,6 +45,7 @@ module.exports = {
     linkedin: "https://linkedin.com/in/digitaldesignersca",
     copyright: "https://digitaldesigners.ca/terms",
   },
+  type: "website",
   local: "en_CA",
   city: "Toronto",
   country: "Canada",
