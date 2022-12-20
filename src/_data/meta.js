@@ -20,7 +20,7 @@ module.exports = {
   author: {
     name: "Kiri Vadivelu",
     email: "office@kiri-vadivelu.ca",
-    jobTitle: "Software Engineer",
+    jobTitle: "Webmaster",
     employer: "Digital Designers",
     city: "Toronto",
     country: "Canada",

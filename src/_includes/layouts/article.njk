@@ -1,5 +1,11 @@
 ---
 layout: page
+type: post
+eleventyComputed:
+  meta:
+    author:
+      name: "{{ meta.author.name }}"
+    published: "{{ date | iso8601 }}"
 ---
 
 <article class="article">
