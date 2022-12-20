@@ -9,17 +9,17 @@
   "city": "Toronto",
   "country": "Canada",
   "url": "https://kiri-vadivelu.ca",
-  "image": "https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpeg",
+  "image": "https://kiri-vadivelu.ca/logo.png",
   "feedUrl": "https://kiri-vadivelu.ca/feed.xml",
   "rssUrl": "https://kiri-vadivelu.ca/rss.xml",
   "feed": {
     "subtitle": "Real solutions to capitalist crisis in modern society",
     "filename": "feed.xml",
-    "path": "/feed/feed.xml",
+    "path": "/feed.xml",
     "id": "https://kiri-vadivelu.ca/"
   },
   "jsonfeed": {
-    "path": "/feed/feed.json",
+    "path": "/feed.json",
     "url": "https://kiri-vadivelu.ca/feed.json"
   },
   "author": {
