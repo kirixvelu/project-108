@@ -30,7 +30,7 @@ input[type="submit"]:hover:enabled,
 input[type="button"]:focus:enabled,
 input[type="button"]:hover:enabled {
   background-color: var(--theme);
-  color: var(--theme-text);
+  color: var(--text);
   outline: 0;
 }
 
