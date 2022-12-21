@@ -3,13 +3,11 @@
   --text: hsl(0, 0%, 5%);
   --surface: hsl(0, 0%, 95%);
   --surface-alt: hsl(0, 0%, 80%);
-  --surface-clear: transparent;
   --theme: hsl(58, 100%, 50%);
-  --theme-text: hsl(0, 0%, 5%);
   --valid: hsl(120, 100%, 50%);
   --error: hsl(0, 100%, 60%);
   --link: hsl(210, 100%, 35%);
-  --neutral: hsl(0, 0%, 70%);
+  --neutral: hsl(0, 0%, 60%);
 
   /* Properties */
   --time: 250ms;
@@ -46,10 +44,9 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --text: hsl(0, 0%, 98%);
-    --surface: hsl(0, 0%, 20%);
+    --surface: hsl(0, 0%, 25%);
     --surface-alt: hsl(0, 0%, 10%);
     --theme: hsl(58, 100%, 45%);
-    --theme-text: hsl(0, 0%, 95%);
     --valid: hsl(120, 100%, 30%);
     --error: hsl(0, 100%, 30%);
     --link: hsl(210, 100%, 55%);
