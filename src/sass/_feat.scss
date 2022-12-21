@@ -57,13 +57,13 @@ picture {
 
 main > p > img {
   box-shadow: var(--i-shadow);
-  filter: opacity(0.9);
+  // filter: opacity(0.9);
   width: 100%;
   max-width: 450px;
 }
 
 main > figure {
-  opacity: 0.75;
+  filter: opacity(0.9);
 }
 
 article > img {

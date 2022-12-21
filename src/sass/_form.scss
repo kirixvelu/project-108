@@ -34,16 +34,6 @@ input[type="button"]:hover:enabled {
   outline: 0;
 }
 
-input,
-textarea {
-  border: 1px solid var(--neutral);
-  width: min(100%, 60rem);
-}
-input:focus,
-textarea:focus {
-  border: 1px solid var(--theme);
-}
-
 textarea {
   resize: none;
   line-height: 1.1;
@@ -53,17 +43,19 @@ textarea {
 textarea,
 select,
 input {
-  color: var(--neutral);
+  color: var(--text);
   padding: 0.2em 0.6em;
   background-color: var(--surface);
   border: 1px solid var(--neutral);
   border-radius: var(--radius);
+  width: min(100%, 60rem);
   box-shadow: none;
 }
+
 textarea:focus,
 select:focus,
 input:focus {
-  border: 1px solid var(--theme);
+  border: 1px solid var(--link);
   outline: 0;
 }
 
