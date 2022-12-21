@@ -57,7 +57,6 @@ picture {
 
 main > p > img {
   box-shadow: var(--i-shadow);
-  // filter: opacity(0.9);
   width: 100%;
   max-width: 450px;
 }
@@ -71,7 +70,9 @@ article > img {
 }
 
 article > figure {
+  filter: grayscale(5%);
   background: var(--neutral);
+  padding: var(--spacing-sm);
   margin-bottom: var(--spacing-sm);
 }
 
@@ -84,11 +85,6 @@ figcaption::before {
   content: " \27A5";
   color: var(--link);
   margin-right: 0.25em;
-}
-
-figure {
-  padding: var(--spacing-sm);
-  filter: grayscale(15%);
 }
 
 // Lists

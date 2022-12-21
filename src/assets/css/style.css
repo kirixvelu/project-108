@@ -542,7 +542,9 @@ article > img {
 }
 
 article > figure {
+  filter: grayscale(5%);
   background: var(--neutral);
+  padding: var(--spacing-sm);
   margin-bottom: var(--spacing-sm);
 }
 
@@ -555,11 +557,6 @@ figcaption::before {
   content: " ➥";
   color: var(--link);
   margin-right: 0.25em;
-}
-
-figure {
-  padding: var(--spacing-sm);
-  filter: grayscale(15%);
 }
 
 ul {
