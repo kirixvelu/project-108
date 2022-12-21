@@ -20,8 +20,12 @@ eleventyComputed:
       name="robots"
       content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     />
+    <meta name="generator" content="{{ eleventy.generator }}" />
 
-    <!-- favicons -->
+    <!-- schema (json) -->
+    {% jsonLdScript meta, type, tags %}
+
+    <!-- favicons (favicon.ico) -->
     <link rel="icon" sizes="48x48" href="{{ '/favicon.ico' | url }}" />
     <link
       rel="apple-touch-icon"
@@ -29,16 +33,19 @@ eleventyComputed:
       href="{{ '/apple-touch.png' | url }}"
     />
     <meta name="theme-color" content="#fff700" />
-    <!-- manifest -->
     <link rel="manifest" crossorigin="use-credentials" href="/manifest.json" />
     <link rel="canonical" href="{{ meta.url + page.url }}" itemprop="url" />
+
     <!-- meta -->
     {% include "../components/meta.njk" %}
-    <!-- schema -->
-    {% jsonLdScript meta, type, tags %}
+
     <!-- scripts -->
     <script defer src="/assets/svg-icon-sprite.js"></script>
     <script defer src="/assets/js/metric.js"></script>
+
+    <script defer src="/assets/js/elastic.js"></script>
+    <script defer src="/assets/js/search.js"></script>
+
     <!-- styles -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />
   </head>

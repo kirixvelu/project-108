@@ -2,7 +2,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const schema = require("@quasibit/eleventy-plugin-schema");
 const emojiReadTime = require("@11tyrocks/eleventy-plugin-emoji-readtime");
-
+const searchFilter = require("./src/_11ty/searchFilter.js");
 const { DateTime } = require("luxon");
 
 module.exports = function (eleventyConfig) {
@@ -13,6 +13,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addLayoutAlias("main", "layouts/main");
   eleventyConfig.addLayoutAlias("page", "layouts/page");
+  eleventyConfig.addLayoutAlias("search", "layouts/search");
   eleventyConfig.addLayoutAlias("article", "layouts/article");
 
   eleventyConfig.addWatchTarget("./src/sass/");
@@ -25,8 +26,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({
     "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
-      "assets/svg-icon-sprite.js",
+      "assets/js/svg-icon-sprite.js",
   });
+
+  eleventyConfig.addFilter("search", searchFilter);
 
   eleventyConfig.addNunjucksAsyncShortcode(
     "image",
@@ -43,11 +46,14 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+  });
+
   eleventyConfig.addFilter("iso8601", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
   });
 
-  /* Creating a collection of blog posts by filtering based on folder and filetype */
   eleventyConfig.addCollection("blog", (collectionApi) => {
     return collectionApi.getFilteredByGlob("./src/blog/*.md").reverse();
   });

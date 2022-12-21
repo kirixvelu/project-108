@@ -62,6 +62,10 @@ main > p > img {
   max-width: 450px;
 }
 
+main > figure {
+  opacity: 0.75;
+}
+
 article > img {
   margin-block: var(--spacing);
 }
