@@ -26,7 +26,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({
     "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
-      "assets/js/svg-icon-sprite.js",
+      "assets/svg-icon-sprite.js",
   });
 
   eleventyConfig.addFilter("search", searchFilter);
