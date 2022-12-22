@@ -9,8 +9,8 @@ for = "/*"
 
 [headers.values]
   X-Frame-Options = "DENY"
-  Content-Type = "text/javascript"
-  X-Content-Type-Options = "nosniff"
+  # Content-Type = "text/javascript"
+  # X-Content-Type-Options = "nosniff"
   Cross-Origin-Resource-Policy = "same-site"
   Cross-Origin-Embedder-Policy = "same-origin"
   Referrer-Policy = "strict-origin-when-cross-origin"
