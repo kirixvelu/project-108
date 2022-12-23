@@ -56,9 +56,9 @@ picture {
 }
 
 main > p > img {
-  box-shadow: var(--i-shadow);
   width: 100%;
   max-width: 450px;
+  filter: opacity(0.95);
 }
 
 main > figure {
