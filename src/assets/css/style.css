@@ -391,12 +391,10 @@ mark {
 
 .flex {
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
-  gap: 1em;
-}
-
-.flex > * {
-  flex: 1 1 20ch;
+  gap: 0.5em;
 }
 
 .cards {
