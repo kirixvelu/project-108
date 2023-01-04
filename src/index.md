@@ -8,7 +8,12 @@ eleventyNavigation:
   order: 1
 ---
 
-![Council Candidate, Kiri Vadivelu](assets/images/kiri-vadivelu.jpeg)
+<!-- ![Council Candidate, Kiri Vadivelu](assets/images/kiri-vadivelu.jpeg) -->
+
+<figure>
+<img src="assets/images/kiri-vadivelu.jpeg" alt="Kiri Vadivelu" width="450" height="450">
+<!-- <figcaption>Kiri Vadivelu | Scarborough</figcaption> -->
+</figure>
 
 # Kiri Vadivelu
 

@@ -264,7 +264,7 @@ nav ul li + li {
   margin-left: 0.7em;
 }
 nav ul li.active a {
-  font-weight: 700;
+  font-weight: 600;
   text-decoration: underline;
 }
 nav ul li a {
