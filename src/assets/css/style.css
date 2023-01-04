@@ -87,10 +87,6 @@ h4 {
   text-transform: uppercase;
 }
 
-.logo span {
-  text-shadow: var(--t-shadow);
-}
-
 .logo span::after {
   content: " ›";
   font-size: 1.5em;
@@ -147,18 +143,18 @@ small {
 :root {
   /* Theming */
   --text: hsl(0, 0%, 5%);
-  --surface: hsl(0, 0%, 95%);
-  --surface-alt: hsl(0, 0%, 80%);
-  --theme: hsl(58, 100%, 50%);
+  --surface: hsl(0, 0%, 97%);
+  --surface-alt: hsl(0, 0%, 88%);
+  --theme: hsl(58, 100%, 65%);
   --valid: hsl(120, 100%, 50%);
   --error: hsl(0, 100%, 60%);
-  --link: hsl(210, 100%, 35%);
-  --neutral: hsl(0, 0%, 60%);
+  --link: hsl(210, 100%, 25%);
+  --neutral: hsl(0, 0%, 84%);
   /* Properties */
   --time: 250ms;
   --function: ease;
   --radius: 0.25em;
-  --opacity: 0.85;
+  --opacity: 0.9;
   --border: 1px;
   --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.2);
   --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
@@ -186,12 +182,12 @@ small {
 @media (prefers-color-scheme: dark) {
   :root {
     --text: hsl(0, 0%, 98%);
-    --surface: hsl(0, 0%, 25%);
+    --surface: hsl(0, 0%, 30%);
     --surface-alt: hsl(0, 0%, 10%);
-    --theme: hsl(58, 100%, 45%);
+    --theme: hsl(58, 100%, 55%);
     --valid: hsl(120, 100%, 30%);
     --error: hsl(0, 100%, 30%);
-    --link: hsl(210, 100%, 55%);
+    --link: hsl(210, 100%, 70%);
     --neutral: hsl(0, 0%, 40%);
     --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
     --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
@@ -234,7 +230,7 @@ main nav span {
 }
 
 header {
-  color: var(--theme-text);
+  color: var(--link);
   background: var(--theme);
 }
 
@@ -268,7 +264,7 @@ nav ul li + li {
   margin-left: 0.7em;
 }
 nav ul li.active a {
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: underline;
 }
 nav ul li a {
@@ -490,11 +486,6 @@ blockquote {
 
 blockquote p {
   margin-top: 0;
-}
-
-blockquote a:link,
-blockquote a:visited {
-  color: var(--theme);
 }
 
 blockquote:nth-child(odd) {

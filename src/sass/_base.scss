@@ -34,7 +34,7 @@ main {
 }
 
 header {
-  color: var(--theme-text);
+  color: var(--link);
   background: var(--theme);
 }
 
@@ -69,7 +69,7 @@ nav ul li {
   }
 
   &.active a {
-    font-weight: 600;
+    font-weight: 700;
     text-decoration: underline;
   }
 
