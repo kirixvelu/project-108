@@ -24,10 +24,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/apple-touch.png");
   eleventyConfig.addPassthroughCopy("./src/android-chrome.png");
 
-  eleventyConfig.addPassthroughCopy({
-    "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
-      "assets/svg-icon-sprite.js",
-  });
+  // eleventyConfig.addPassthroughCopy({
+  //   "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
+  //     "assets/svg-icon-sprite.js",
+  // });
 
   eleventyConfig.addFilter("search", searchFilter);
 
