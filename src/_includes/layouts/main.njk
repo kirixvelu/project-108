@@ -59,8 +59,14 @@
 
     <!-- 11ty (11ty.dev) -->
     {% include "../components/meta.njk" %}
-    <script defer type="text/javascript" src="/assets/js/sprite.js"></script>
-    <script defer type="text/javascript" src="/assets/js/metric.js"></script>
+    {# <script defer type="text/javascript" src="/assets/js/sprite.js"></script>
+    <script defer type="text/javascript" src="/assets/js/metric.js"></script> #}
+
+    {% set js %}
+    {% include "assets/js/metric.js" %}
+    {% include "assets/js/sprite.js" %}
+    {% endset %}
+    <script>{{ js | safe }}</script>
 
     {#
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />

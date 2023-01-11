@@ -5,3 +5,11 @@ robots.njk
 humans.njk
 license.njk
 sitemap.njk
+
+main.njk
+page.njk
+search.njk
+
+sprite.js
+metric.js
+style.css
