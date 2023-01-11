@@ -40,7 +40,12 @@ eleventyComputed:
     <script defer type="text/javascript" src="/assets/js/sprite.js"></script>
     <script defer type="text/javascript" src="/assets/js/metric.js"></script>
     <!-- styles -->
+    {#
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />
+    #} {% set css %} {% include "assets/css/style.css" %} {% endset %}
+    <style>
+      {{ css | safe }}
+    </style>
   </head>
 
   <body>

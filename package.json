@@ -6,9 +6,9 @@
   "scripts": {
     "generate:sprite": "svg-icon-generate --folder=src/assets/icons --output=src/assets/sprite.svg",
     "watch:eleventy": "eleventy --serve --incremental",
-    "watch:sass": "sass  --no-source-map --watch src/sass:src/assets/css",
+    "watch:sass": "sass  --no-source-map --watch src/sass:src/_includes/assets/css",
     "build:eleventy": "eleventy",
-    "build:sass": "sass  --no-source-map --style=compressed src/sass:src/assets/css",
+    "build:sass": "sass  --no-source-map --style=compressed src/sass:src/_includes/assets/css",
     "start": "npm-run-all build:sass generate:sprite --parallel watch:*",
     "build": "npm-run-all build:*",
     "debug": "DEBUG=* npx eleventy"

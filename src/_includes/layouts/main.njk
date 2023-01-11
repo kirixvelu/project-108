@@ -62,7 +62,12 @@
     <script defer type="text/javascript" src="/assets/js/sprite.js"></script>
     <script defer type="text/javascript" src="/assets/js/metric.js"></script>
 
+    {#
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />
+    #} {% set css %} {% include "assets/css/style.css" %} {% endset %}
+    <style>
+      {{ css | safe }}
+    </style>
 
     <!-- verification (verify) -->
     <meta name="yandex-verification" content="0e5a7d1a39fc2791" />

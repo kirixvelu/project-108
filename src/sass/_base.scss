@@ -9,6 +9,7 @@ body {
   display: flex;
   flex-direction: column;
   min-width: 320px;
+  max-width: 100%;
 }
 
 footer {
@@ -36,10 +37,11 @@ main {
 header {
   color: var(--link);
   background: var(--theme);
+  width: 100%;
 }
 
 .wrapper {
-  width: min(100%, 80rem);
+  max-width: 80rem;
   margin-right: auto;
   margin-left: auto;
   padding-inline: 1em;

@@ -47,7 +47,12 @@ eleventyComputed:
     <script defer type="text/javascript" src="/assets/js/search.js"></script>
 
     <!-- styles -->
+    {#
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}" />
+    #} {% set css %} {% include "assets/css/style.css" %} {% endset %}
+    <style>
+      {{ css | safe }}
+    </style>
   </head>
 
   <body>
