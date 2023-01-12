@@ -6,8 +6,8 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/logo.png",
-      "sizes": "192x192",
+      "src": "/assets/images/kiri-vadivelu.jpg",
+      "sizes": "450x450",
       "type": "image/png",
       "purpose": "any maskable"
     }
