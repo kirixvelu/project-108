@@ -26,7 +26,7 @@ eleventyNavigation:
 
  <br>
 
-> Say no to status-quo, vote Oct 24 [Result?](https://electionresults.toronto.ca/)
+> Say no to status-quo, vote Oct 24 [Result?](https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/2022-Toronto-Election.pdf)
 
 > Free transit everyday; not just voting day
 
