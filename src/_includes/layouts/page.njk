@@ -37,10 +37,10 @@ eleventyComputed:
     <!-- schema -->
     {% jsonLdScript meta, type, tags %}
     <!-- scripts -->
-    {# <script defer type="text/javascript" src="/assets/js/sprite.js"></script>
-    <script defer type="text/javascript" src="/assets/js/metric.js"></script> #}
+    {# <script defer type="text/javascript" src="/assets/js/sprite.js"></script> #}
+    <script defer type="text/javascript" src="/assets/js/metric.js"></script>
     {% set js %}
-    {% include "assets/js/metric.js" %}
+    {# {% include "assets/js/metric.js" %} #}
     {% include "assets/js/sprite.js" %}
     {% endset %}
     <script>{{ js | safe }}</script>

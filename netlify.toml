@@ -136,6 +136,6 @@ force = true
 # web analytics
 [[redirects]]
   from = "https://kiri-vadivelu.ca/g/collect"
-  to = "https://www.google-analytics.com/g/collect"
+  to = "https://google-analytics.com/g/collect"
   status = 200
   force = true
