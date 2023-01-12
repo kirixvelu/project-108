@@ -67,15 +67,15 @@ force = true
 
 [[redirects]]
 from = "/help"
-to = "/assistant"
+to = "/assistant.html"
 status = 301
 force = true
 
-[[redirects]]
-from = "/logo.png"
-to = "/assets/images/kiri-vadivelu.jpg"
-status = 301
-force = true
+# [[redirects]]
+# from = "/logo.png"
+# to = "/assets/images/kiri-vadivelu.jpg"
+# status = 301
+# force = true
 
 # social media 
 [[redirects]]
@@ -135,7 +135,7 @@ force = true
 
 # web analytics
 [[redirects]]
-  from = "https://kiri-vadivelu.ca/g/collect"
-  to = "https://google-analytics.com/g/collect"
+  from = "/g/collect"
+  to = "https://kiri-vadivelu.ca/g/collect"
   status = 200
   force = true
