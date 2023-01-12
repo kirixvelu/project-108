@@ -4,7 +4,7 @@
   "description": "Kiri Vadivelu | Socialist for Scarborough Democracy",
   "main": "index.md",
   "scripts": {
-    "generate:sprite": "svg-icon-generate --folder=src/assets/icons --output=src/assets/sprite.svg",
+    "generate:sprite": "svg-icon-generate --folder=src/_includes/assets/icons --output=src/assets/sprite.svg",
     "watch:eleventy": "eleventy --serve --incremental",
     "watch:sass": "sass  --no-source-map --watch src/sass:src/_includes/assets/css",
     "build:eleventy": "eleventy",
