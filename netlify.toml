@@ -133,8 +133,8 @@ force = true
   status = 301
   force = true
 
-# web analytics
-[[redirects]]
-  from = "https://www.google-analytics.com/g/collect"
-  to = "https://kiri-vadivelu.ca/g/collect"
-  status = 200
+# # web analytics
+# [[redirects]]
+#   from = "https://www.google-analytics.com/g/collect"
+#   to = "https://kiri-vadivelu.ca/g/collect"
+#   status = 200
