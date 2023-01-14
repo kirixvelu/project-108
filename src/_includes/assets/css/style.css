@@ -656,8 +656,7 @@ article .category {
   line-height: 1;
 }
 article .category:hover {
-  background-color: var(--theme);
-  text-decoration: none;
+  text-decoration: underline;
   color: var(--theme-text);
   transition: all var(--time) var(--function);
 }
