@@ -182,7 +182,7 @@ small {
     --theme: hsl(58, 100%, 50%);
     --valid: hsl(120, 100%, 30%);
     --error: hsl(0, 100%, 30%);
-    --link: hsl(58, 100%, 50%);
+    --link: hsl(58, 100%, 80%);
     --neutral: hsl(0, 0%, 35%);
     --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
     --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
@@ -318,7 +318,7 @@ main h1::after {
 main time::before {
   content: "☭";
   font-size: 0.8em;
-  color: var(--link);
+  color: black;
   border: 1px solid;
   padding: 0 0.2em 0 0;
   margin-right: 0.5em;
