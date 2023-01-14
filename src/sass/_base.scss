@@ -35,9 +35,14 @@ main {
 }
 
 header {
-  color: var(--link);
+  color: black;
   background: var(--theme);
   width: 100%;
+
+  a:link,
+  a:visited {
+    color: black;
+  }
 }
 
 .wrapper {
