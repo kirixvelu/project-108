@@ -1,4 +1,6 @@
 ---
+title: Kiri Vadivelu
+description: Socialist Solutions to Capitalist Crisis
 layout: main
 eleventyNavigation:
   key: welcome
@@ -10,9 +12,9 @@ eleventyNavigation:
 <!-- <figcaption>Kiri Vadivelu | Scarborough</figcaption> -->
 </figure>
 
-# Kiri Vadivelu
+# {{ title }}
 
-<p align="center">Socialist Solutions to Capitalist Crisis</p>
+<p align="center">{{ description }}</p>
 
 <p align="center">
  &check; Scarborough Centre - Ward 21 <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/statement-kiri-vadivelu.pdf">statement</a><br> 
