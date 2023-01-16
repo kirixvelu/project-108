@@ -20,11 +20,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/assets/**/*");
 
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
-  eleventyConfig.addPassthroughCopy("./src/manifest.json");
-  eleventyConfig.addPassthroughCopy("./src/apple-touch.png");
-  eleventyConfig.addPassthroughCopy("./src/android-chrome.png");
-
-  eleventyConfig.addPassthroughCopy("_redirects");
+  eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu.jpg");
 
   // eleventyConfig.addPassthroughCopy({
   //   "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":

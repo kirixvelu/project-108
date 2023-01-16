@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 
 <figure>
-<img src="assets/images/kiri-vadivelu.jpg" alt="Kiri Vadivelu" width="450" height="450">
+<img src="/kiri-vadivelu.jpg" alt="Kiri Vadivelu" width="450" height="450">
 <!-- <figcaption>Kiri Vadivelu | Scarborough</figcaption> -->
 </figure>
 

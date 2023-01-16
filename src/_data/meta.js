@@ -4,7 +4,7 @@ module.exports = {
   description: "Socialist solutions to capitalist crisis in modern society",
   keywords: ["community", "economy", "democracy", "justice", "liberty"],
   url: "https://kiri-vadivelu.ca",
-  image: "https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpg",
+  image: "https://kiri-vadivelu.ca/kiri-vadivelu.jpg",
   rssUrl: "https://kiri-vadivelu.ca/rss.xml",
   feedUrl: "https://kiri-vadivelu.ca/feed.xml",
   feed: {
