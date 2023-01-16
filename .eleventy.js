@@ -22,11 +22,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu.jpg");
 
-  // eleventyConfig.addPassthroughCopy({
-  //   "node_modules/svg-icon-sprite/dist/svg-icon-sprite.js":
-  //     "assets/svg-icon-sprite.js",
-  // });
-
   eleventyConfig.addFilter("search", searchFilter);
 
   eleventyConfig.addNunjucksAsyncShortcode(
