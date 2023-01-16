@@ -1,14 +1,12 @@
 ---
 layout: main
-title: "Kiri Vadivelu | Socialist for Scarborough Democracy"
-description: "Real solutions to capitalist crisis in modern society where salary do not depend on not understanding reality nor acceptance of comfortable narrative"
+title: "Kiri Vadivelu | Socialist for Scarborough"
+description: "Socialist solutions to capitalist crisis in modern society"
 date: 2022-10-05
 eleventyNavigation:
   key: welcome
   order: 1
 ---
-
-<!-- ![Council Candidate, Kiri Vadivelu](assets/images/kiri-vadivelu.jpeg) -->
 
 <figure>
 <img src="assets/images/kiri-vadivelu.jpg" alt="Kiri Vadivelu" width="450" height="450">

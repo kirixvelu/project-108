@@ -1,17 +1,17 @@
 module.exports = {
-  site: "Kiri Vadivelu",
+  name: "Kiri Vadivelu",
   title: "Kiri Vadivelu | Socialist for Scarborough Democracy",
-  description: "Real solutions to capitalist crisis in modern society",
-  keywords: ["community", "economy", "democracy", "equity", "liberty"],
+  description: "Socialist solutions to capitalist crisis in modern society",
+  keywords: ["community", "economy", "democracy", "justice", "liberty"],
   url: "https://kiri-vadivelu.ca",
-  image: "https://kiri-vadivelu.ca/logo.png",
+  image: "https://kiri-vadivelu.ca/assets/images/kiri-vadivelu.jpg",
   rssUrl: "https://kiri-vadivelu.ca/rss.xml",
   feedUrl: "https://kiri-vadivelu.ca/feed.xml",
   feed: {
-    subtitle: "Real solutions to capitalist crisis in modern society",
+    subtitle: "Socialist solutions to capitalist crisis in modern society",
     filename: "feed.xml",
     path: "/feed.xml",
-    id: "https://kiri-vadivelu.ca/",
+    id: "https://kiri-vadivelu.ca",
   },
   jsonfeed: {
     path: "/feed.json",
