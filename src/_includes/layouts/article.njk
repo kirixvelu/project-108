@@ -16,6 +16,8 @@ eleventyComputed:
     by {{ meta.author.name }} | {{ content | emojiReadTime }}
     <a class="category" href="/{{ category }}/">{{ category }}</a>
   </small>
+  <br />
+  <i>{{ description }}</i>
   {{ content | safe }}
 </article>
 <br />
