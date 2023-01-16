@@ -1,8 +1,5 @@
 ---
 layout: main
-title: "Kiri Vadivelu | Socialist for Scarborough"
-description: "Socialist solutions to capitalist crisis in modern society"
-date: 2022-10-05
 eleventyNavigation:
   key: welcome
   order: 1
@@ -14,6 +11,8 @@ eleventyNavigation:
 </figure>
 
 # Kiri Vadivelu
+
+<p align="center">Socialist Solutions to Capitalist Crisis</p>
 
 <p align="center">
  &check; Scarborough Centre - Ward 21 <a href="https://github.com/kiri-vadivelu/project-108/blob/main/src/assets/docs/statement-kiri-vadivelu.pdf">statement</a><br> 

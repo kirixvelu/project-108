@@ -1,6 +1,6 @@
 module.exports = {
   name: "Kiri Vadivelu",
-  title: "Kiri Vadivelu | Socialist for Scarborough Democracy",
+  title: "Kiri Vadivelu, Socialist for Scarborough",
   description: "Socialist solutions to capitalist crisis in modern society",
   keywords: ["community", "economy", "democracy", "justice", "liberty"],
   url: "https://kiri-vadivelu.ca",
