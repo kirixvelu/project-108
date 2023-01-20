@@ -1,6 +1,5 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const schema = require("@quasibit/eleventy-plugin-schema");
 const emojiReadTime = require("@11tyrocks/eleventy-plugin-emoji-readtime");
 const searchFilter = require("./src/_11ty/searchFilter.js");
 const { DateTime } = require("luxon");
@@ -8,7 +7,6 @@ const { DateTime } = require("luxon");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(schema);
   eleventyConfig.addPlugin(emojiReadTime, { showEmoji: false });
 
   eleventyConfig.addLayoutAlias("main", "layouts/main");
@@ -63,10 +61,6 @@ module.exports = function (eleventyConfig) {
     excerpt: true,
     excerpt_separator: "<!-- excerpt -->",
     excerpt_alias: "excerpt",
-  });
-
-  eleventyConfig.setBrowserSyncConfig({
-    files: "./_site/css/**/*.css",
   });
 
   return {
