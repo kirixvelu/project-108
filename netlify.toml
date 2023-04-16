@@ -24,7 +24,7 @@ status = 301
 force = true
 
 [[redirects]]
-from = "/posts"
+from = "/post"
 to = "/archives"
 status = 301
 force = true
