@@ -6,6 +6,7 @@
 - Build System [11TY](https://11ty.dev/)
 - Web Architecture [Principles](https://jamstack.org/)
 - Design Team [Digital Designers](https://digitaldesigners.ca)
+- Framework [Jaffna CSS](https://jaffnacss.netlify.app)
 
 The project was researched, designed and developed by Digital Designers Team in the city of Toronto. Digital Designers is a web design company that specializes in deploying modern portfolio websites, search engine optimizations and social media marketing.
 

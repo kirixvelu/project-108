@@ -19,6 +19,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu.jpg");
+  eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu-for-mayor.jpg");
 
   eleventyConfig.addFilter("search", searchFilter);
 

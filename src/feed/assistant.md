@@ -2,7 +2,7 @@
 layout: page
 title: "Navigation Assistant"
 description: "Directory for webpage links"
-permalink: /assistant.html
+permalink: "/assistant.html"
 ---
 
 # {{ title }}
