@@ -14,7 +14,8 @@
     <meta name="description" content="{{ description or meta.description }}" />
     <meta name="generator" content="{{ eleventy.generator }}" />
 
-    <!-- preload -->
+    <!-- prefetch -->
+    <link rel="dns-prefetch" href="{{ meta.url | url }}" />
     <link rel="preload" as="image" href="/kiri-vadivelu-for-mayor.jpg">
 
     <!-- schema for website -->
