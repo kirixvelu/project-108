@@ -12,21 +12,12 @@ h4 {
 // Logo
 .logo {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 900;
   font-size: 1.1em;
   display: flex;
   align-items: center;
   text-transform: uppercase;
 }
-
-// .logo span {
-//   text-shadow: var(--t-shadow);
-// }
-
-// .logo span::after {
-//   content: " \203A";
-//   font-size: 1.5em;
-// }
 
 footer span {
   font-weight: 600;
