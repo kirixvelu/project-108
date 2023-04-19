@@ -1,4 +1,9 @@
 //   Links
+ol li,
+ul li {
+  list-style-position: inside;
+}
+
 a:link,
 a:visited {
   color: var(--link);
