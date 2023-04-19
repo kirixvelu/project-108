@@ -21,6 +21,11 @@ main {
 .intro {
   display: grid;
   place-items: center;
+
+  h2,
+  h3 {
+    margin-bottom: 0.25em;
+  }
 }
 
 .news {
