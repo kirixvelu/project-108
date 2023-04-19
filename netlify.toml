@@ -30,24 +30,6 @@ status = 301
 force = true
 
 [[redirects]]
-from = "/about"
-to = "/pages/about"
-status = 301
-force = true
-
-[[redirects]]
-from = "/contact"
-to = "/pages/elect"
-status = 301
-force = true
-
-[[redirects]]
-from = "/news"
-to = "/pages/news"
-status = 301
-force = true
-
-[[redirects]]
 from = "/feed"
 to = "/feed.xml"
 status = 301
@@ -65,11 +47,6 @@ to = "/sitemap.xml"
 status = 301
 force = true
 
-[[redirects]]
-from = "/help"
-to = "/assistant.html"
-status = 301
-force = true
 
 # [[redirects]]
 # from = "/logo.png"
