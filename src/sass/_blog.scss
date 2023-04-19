@@ -21,7 +21,6 @@ article {
     line-height: 1;
 
     &:hover {
-      // background-color: var(--theme);
       text-decoration: underline;
       color: var(--theme-text);
       transition: all var(--time) var(--function);

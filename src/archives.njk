@@ -12,6 +12,7 @@ pagination:
 ---
 
 <h2 class="center">{{ title }}</h2>
+<br>
 <div class="field">
   <label for="searchField"></label>
   <input type="search" placeholder="Type to search..." id="searchField" />
@@ -20,7 +21,6 @@ pagination:
 <div id="noResultsFound" style="display: none">
   <p>No results found.</p>
 </div>
-
 {% include "./_includes/components/archiveList.njk" %}
 
 <section>
