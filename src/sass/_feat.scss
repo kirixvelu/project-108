@@ -27,7 +27,7 @@ main {
 blockquote {
   padding: 0.25em;
   font-size: var(--step-0);
-  width: min(100%, 40rem);
+  width: min(100%, 35rem);
   background-color: var(--neutral);
   border-radius: var(--radius);
   line-height: 1;
@@ -40,11 +40,11 @@ blockquote p {
 }
 
 blockquote:nth-child(odd) {
-  border-left: 5px solid var(--theme);
+  border-left: 10px solid var(--theme);
 }
 
 blockquote:nth-child(even) {
-  border-right: 5px solid var(--theme);
+  border-right: 10px solid var(--theme);
 }
 
 cite {
