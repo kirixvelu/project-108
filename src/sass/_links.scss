@@ -22,7 +22,7 @@ a:visited {
 }
 
 // Decorations/ Signatures
-main {
+article {
   h1::after {
     content: "\2726";
     font-size: 0.7em;
