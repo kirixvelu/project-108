@@ -1,9 +1,4 @@
 //   Links
-
-// main ol li {
-//   list-style-position: inside;
-// }
-
 a:link,
 a:visited {
   color: var(--link);
@@ -30,8 +25,8 @@ a:visited {
 article {
   h1::after {
     content: "\2726";
-    font-size: 0.7em;
-    margin: 0.2em;
+    font-size: 0.75em;
+    margin: 0.25em;
     color: var(--theme);
   }
 
@@ -49,8 +44,6 @@ article {
   a[href^="https://"]:hover::after
   {
     content: "\279A";
-    font-size: 0.75em;
-    margin: 0.1em;
   }
 
   a[href^="mailto"]::before {
@@ -59,22 +52,16 @@ article {
 
   a[href^="tel"]::before {
     content: "\260F";
-    font-size: 0.9em;
-    margin: 0.2em;
   }
 
   a[href$=".pdf"]:hover::after {
     content: "\21F2";
-    font-size: 0.9em;
-    margin: 0.2em;
   }
 }
 
 .article__list {
   li a:hover::after {
     content: "\21FE";
-    font-size: 0.7em;
-    margin: 0.2em;
   }
 }
 

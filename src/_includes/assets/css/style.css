@@ -320,8 +320,8 @@ a:visited:active {
 
 article h1::after {
   content: "✦";
-  font-size: 0.7em;
-  margin: 0.2em;
+  font-size: 0.75em;
+  margin: 0.25em;
   color: var(--theme);
 }
 article time::before {
@@ -336,27 +336,19 @@ article time::before {
 }
 article a[href^="https://"]:hover::after {
   content: "➚";
-  font-size: 0.75em;
-  margin: 0.1em;
 }
 article a[href^=mailto]::before {
   content: "✉";
 }
 article a[href^=tel]::before {
   content: "☏";
-  font-size: 0.9em;
-  margin: 0.2em;
 }
 article a[href$=".pdf"]:hover::after {
   content: "⇲";
-  font-size: 0.9em;
-  margin: 0.2em;
 }
 
 .article__list li a:hover::after {
   content: "⇾";
-  font-size: 0.7em;
-  margin: 0.2em;
 }
 
 .submenu {
