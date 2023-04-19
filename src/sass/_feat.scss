@@ -1,4 +1,19 @@
 // Primary Features
+
+q {
+  font-size: var(--step-1);
+}
+
+p {
+  max-width: 75ch;
+}
+
+.msa-team {
+  li {
+    padding-bottom: 0.5em;
+  }
+}
+
 .intro {
   display: grid;
   place-items: center;
