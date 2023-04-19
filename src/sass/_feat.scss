@@ -23,6 +23,11 @@ main {
 .news {
   border-bottom: 1px dotted;
 }
+
+p + p {
+  margin-bottom: 1em;
+}
+
 // blockquote
 blockquote {
   padding: 0.25em;
