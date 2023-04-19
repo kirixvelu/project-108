@@ -50,8 +50,6 @@ article {
 
   a[href^="mailto"]::before {
     content: "\2709";
-    font-size: 0.9em;
-    margin: 0.2em;
   }
 
   a[href^="tel"]::before {

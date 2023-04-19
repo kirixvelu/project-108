@@ -343,8 +343,6 @@ article a[href^="https://"]:hover::after {
 }
 article a[href^=mailto]::before {
   content: "✉";
-  font-size: 0.9em;
-  margin: 0.2em;
 }
 article a[href^=tel]::before {
   content: "☏";
