@@ -10,6 +10,8 @@ body {
   flex-direction: column;
   min-width: 320px;
   max-width: 100%;
+  margin-inline: auto;
+  box-sizing: border-box;
 }
 
 footer {
@@ -29,7 +31,7 @@ main {
   nav {
     span {
       font-size: 1.1em;
-      font-weight: 600;
+      font-weight: 500;
     }
   }
 }
@@ -43,6 +45,10 @@ header {
   a:visited {
     color: black;
   }
+}
+
+strong {
+  font-weight: 700;
 }
 
 .wrapper {
@@ -76,7 +82,7 @@ nav ul li {
   }
 
   &.active a {
-    font-weight: 600;
+    font-weight: 700;
     text-decoration: underline;
   }
 

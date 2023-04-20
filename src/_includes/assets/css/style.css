@@ -89,7 +89,7 @@ h5 {
 }
 
 footer span {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 footer a {
@@ -213,6 +213,8 @@ body {
   flex-direction: column;
   min-width: 320px;
   max-width: 100%;
+  margin-inline: auto;
+  box-sizing: border-box;
 }
 
 footer {
@@ -230,7 +232,7 @@ main {
 }
 main nav span {
   font-size: 1.1em;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 header {
@@ -241,6 +243,10 @@ header {
 header a:link,
 header a:visited {
   color: black;
+}
+
+strong {
+  font-weight: 700;
 }
 
 .wrapper {
@@ -273,7 +279,7 @@ nav ul li + li {
   margin-left: 0.7em;
 }
 nav ul li.active a {
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: underline;
 }
 nav ul li a {
@@ -494,7 +500,7 @@ p + p {
 blockquote {
   padding: 0.25em;
   font-size: var(--step-0);
-  width: min(100%, 35rem);
+  width: min(100%, 30rem);
   background-color: var(--neutral);
   border-radius: var(--radius);
   line-height: 1;
@@ -665,7 +671,7 @@ details[open] summary::before {
 
 article .category {
   display: inline-block;
-  font-weight: 600;
+  font-weight: 500;
   text-decoration: none;
   margin-left: 1em;
   padding: 0 0.5em;
