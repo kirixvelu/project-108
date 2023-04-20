@@ -147,12 +147,12 @@ small {
   /* Theming */
   --text: hsl(0, 0%, 5%);
   --surface: hsl(0, 0%, 95%);
-  --surface-alt: hsl(0, 0%, 80%);
+  --surface-alt: hsl(0, 0%, 85%);
   --theme: hsl(60, 100%, 50%);
   --valid: hsl(120, 100%, 50%);
   --error: hsl(0, 100%, 60%);
   --link: hsl(210, 100%, 25%);
-  --neutral: hsl(0, 0%, 75%);
+  --neutral: hsl(0, 0%, 65%);
   /* Properties */
   --time: 250ms;
   --function: ease;
@@ -190,7 +190,7 @@ small {
     --theme: hsl(58, 100%, 50%);
     --valid: hsl(120, 100%, 30%);
     --error: hsl(0, 100%, 30%);
-    --link: hsl(58, 100%, 75%);
+    --link: hsl(58, 100%, 65%);
     --neutral: hsl(0, 0%, 45%);
     --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
     --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
@@ -211,38 +211,56 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  min-width: 320px;
-  max-width: 100%;
   margin-inline: auto;
   box-sizing: border-box;
 }
 
 footer {
   margin-top: auto;
-  padding-block: var(--spacing-sm);
-  border-top: 1px solid;
+  padding-inline: 1rem;
 }
-footer p {
+footer p,
+footer span {
   font-size: 90%;
 }
 
 main {
   flex: 0 1 100%;
-  padding-block: var(--spacing);
 }
 main nav span {
   font-size: 1.1em;
   font-weight: 500;
 }
 
+.main {
+  display: flex;
+  flex-direction: column;
+  margin-inline: auto;
+  width: min(100% - 2rem, 50rem);
+  padding-block: var(--spacing);
+}
+
 header {
   color: black;
   background: var(--theme);
+  padding-inline: 1rem;
   width: 100%;
 }
 header a:link,
 header a:visited {
   color: black;
+}
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  max-width: 70rem;
+  margin-inline: auto;
+}
+
+.footer {
+  border-top: 1px solid;
 }
 
 strong {
@@ -251,18 +269,10 @@ strong {
 
 .wrapper {
   max-width: 80rem;
-  margin-right: auto;
-  margin-left: auto;
-  padding-inline: 1em;
+  margin-inline: auto;
+  padding-inline: 1rem;
   display: flex;
-  justify-content: space-between;
-}
-
-main,
-footer {
-  width: min(100% - 2em, 50rem);
-  margin-left: auto;
-  margin-right: auto;
+  flex-direction: column;
 }
 
 section {
@@ -316,7 +326,7 @@ a:visited:focus {
 }
 a:link:active,
 a:visited:active {
-  color: var(--neutral);
+  color: var(--text);
 }
 
 [aria-current] {
@@ -506,6 +516,7 @@ blockquote {
   line-height: 1;
   margin-bottom: 0.5em;
   margin-inline: auto;
+  box-sizing: border-box;
 }
 
 blockquote p {
@@ -513,11 +524,11 @@ blockquote p {
 }
 
 blockquote:nth-child(odd) {
-  border-left: 10px solid var(--theme);
+  border-left: 5px solid var(--link);
 }
 
 blockquote:nth-child(even) {
-  border-right: 10px solid var(--theme);
+  border-right: 5px solid var(--link);
 }
 
 cite {
@@ -532,8 +543,7 @@ figure,
 picture {
   max-width: 100%;
   object-fit: cover;
-  margin-left: auto;
-  margin-right: auto;
+  margin-inline: auto;
   border-radius: var(--radius);
 }
 
@@ -584,7 +594,7 @@ table {
 
 th,
 td {
-  padding: 0.5em 0.75em;
+  padding: 0.25em;
 }
 
 th {

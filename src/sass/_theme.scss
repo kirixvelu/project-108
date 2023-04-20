@@ -2,12 +2,12 @@
   /* Theming */
   --text: hsl(0, 0%, 5%);
   --surface: hsl(0, 0%, 95%);
-  --surface-alt: hsl(0, 0%, 80%);
+  --surface-alt: hsl(0, 0%, 85%);
   --theme: hsl(60, 100%, 50%);
   --valid: hsl(120, 100%, 50%);
   --error: hsl(0, 100%, 60%);
   --link: hsl(210, 100%, 25%);
-  --neutral: hsl(0, 0%, 75%);
+  --neutral: hsl(0, 0%, 65%);
 
   /* Properties */
   --time: 250ms;
@@ -49,7 +49,7 @@
     --theme: hsl(58, 100%, 50%);
     --valid: hsl(120, 100%, 30%);
     --error: hsl(0, 100%, 30%);
-    --link: hsl(58, 100%, 75%);
+    --link: hsl(58, 100%, 65%);
     --neutral: hsl(0, 0%, 45%);
 
     --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);

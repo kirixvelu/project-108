@@ -49,7 +49,9 @@ eleventyComputed:
   <body>
     {% include "../components/header.njk" %}
     <main role="main">
+      <div class="main">
       {{ content | safe }}
+    </div>
     </main>
     {% include "../components/footer.njk" %}
   </body>

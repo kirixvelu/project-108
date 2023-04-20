@@ -8,25 +8,22 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  min-width: 320px;
-  max-width: 100%;
   margin-inline: auto;
   box-sizing: border-box;
 }
 
 footer {
   margin-top: auto;
-  padding-block: var(--spacing-sm);
-  border-top: 1px solid;
+  padding-inline: 1rem;
 
-  & p {
+  & p,
+  span {
     font-size: 90%;
   }
 }
 
 main {
   flex: 0 1 100%;
-  padding-block: var(--spacing);
 
   nav {
     span {
@@ -36,9 +33,18 @@ main {
   }
 }
 
+.main {
+  display: flex;
+  flex-direction: column;
+  margin-inline: auto;
+  width: min(100% - 2rem, 50rem);
+  padding-block: var(--spacing);
+}
+
 header {
   color: black;
   background: var(--theme);
+  padding-inline: 1rem;
   width: 100%;
 
   a:link,
@@ -47,24 +53,28 @@ header {
   }
 }
 
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  max-width: 70rem;
+  margin-inline: auto;
+}
+
+.footer {
+  border-top: 1px solid;
+}
+
 strong {
   font-weight: 700;
 }
 
 .wrapper {
   max-width: 80rem;
-  margin-right: auto;
-  margin-left: auto;
-  padding-inline: 1em;
+  margin-inline: auto;
+  padding-inline: 1rem;
   display: flex;
-  justify-content: space-between;
-}
-
-main,
-footer {
-  width: min(100% - 2em, 50rem);
-  margin-left: auto;
-  margin-right: auto;
+  flex-direction: column;
 }
 
 section {
