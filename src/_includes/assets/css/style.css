@@ -307,7 +307,7 @@ a:visited {
   color: var(--link);
   text-underline-offset: 0.25em;
   text-decoration: none;
-  transition: all var(--time) var(--type);
+  transition: all 250ms var(--text);
 }
 a:link:hover, a:link:focus,
 a:visited:hover,
