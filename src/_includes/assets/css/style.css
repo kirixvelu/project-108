@@ -206,13 +206,13 @@ html {
   background-color: var(--surface);
   font-family: var(--sans);
   font-size: var(--step-0);
+  box-sizing: border-box;
 }
 
 body {
   display: flex;
   flex-direction: column;
   margin-inline: auto;
-  box-sizing: border-box;
 }
 
 footer {
@@ -226,10 +226,6 @@ footer span {
 
 main {
   flex: 0 1 100%;
-}
-main nav span {
-  font-size: 1.1em;
-  font-weight: 500;
 }
 
 .main {
@@ -267,14 +263,6 @@ strong {
   font-weight: 700;
 }
 
-.wrapper {
-  max-width: 80rem;
-  margin-inline: auto;
-  padding-inline: 1rem;
-  display: flex;
-  flex-direction: column;
-}
-
 section {
   display: grid;
   place-items: center;
@@ -283,6 +271,7 @@ section {
 
 nav ul {
   display: inline-flex;
+  flex-wrap: wrap;
   font-size: 1.1em;
   gap: 0.5em;
 }
