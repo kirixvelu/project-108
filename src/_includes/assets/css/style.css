@@ -80,7 +80,8 @@ h5 {
   margin-bottom: 0.5em;
 }
 
-.cta {
+.cta,
+.h-face {
   color: var(--accent-clr);
 }
 
