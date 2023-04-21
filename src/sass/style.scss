@@ -1,12 +1,23 @@
-// Jaffna CSS
+// Jaffna CSS 3.0 Architecture | License: MIT License
+// Author: Kiri Vadivelu | https://github.com/kiri-vadivelu/jaffna-css
+
 @use "./reset" as *;
-@use "./typo" as *;
+@use "./type" as *;
 @use "./theme" as *;
 @use "./base" as *;
 @use "./links" as *;
-@use "./adapt" as *;
+@use "./card" as *;
 @use "./feat" as *;
 @use "./blog" as *;
 @use "./form" as *;
-@use "./misc" as *;
+@use "./extra" as *;
 @use "./print" as *;
+
+// Thanks
+// Eric Meyer @meyerweb
+// Stephanie Eckles @5t3ph
+// Brad Traversy @traversymedia
+// Kevin Powell @KevinJPowell
+// Matt Biilmann @biilmann
+// Zach Leatherman @zachleat
+// Jen Simmons @jensimmons
