@@ -97,7 +97,7 @@ figcaption {
 
 figcaption::before {
   content: " \27A5";
-  color: var(--link);
+  color: var(--accent-clr);
   margin-right: 0.25em;
 }
 
