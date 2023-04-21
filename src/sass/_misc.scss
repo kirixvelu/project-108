@@ -14,23 +14,6 @@ object {
 }
 
 ::selection {
-  background-color: var(--theme);
-  color: var(--theme-text);
-}
-
-// Dialog
-dialog {
-  background-color: var(--theme);
-  color: var(--text);
-  border: none;
-  border-radius: var(--radius);
-  border-color: var(--border);
-  padding: var(--spacing);
-}
-
-dialog::backdrop {
-  background: var(--neutral);
-  backdrop-filter: blur(0.15em);
-  -webkit-backdrop-filter: blur(0.15em);
-  transition: backdrop-filter var(--time) var(--function);
+  background-color: var(--accent-clr);
+  color: var(--text-clr);
 }

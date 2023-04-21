@@ -1,6 +1,6 @@
 html {
-  color: var(--text);
-  background-color: var(--surface);
+  color: var(--text-clr);
+  background-color: var(--background-clr);
   font-family: var(--sans);
   font-size: var(--step-0);
   box-sizing: border-box;
@@ -35,14 +35,13 @@ main {
 }
 
 header {
-  color: black;
-  background: var(--theme);
+  background: var(--theme-clr);
   padding-inline: 1rem;
-  width: 100%;
 
+  .logo,
   a:link,
   a:visited {
-    color: black;
+    color: var(--accent-clr);
   }
 }
 
@@ -51,7 +50,6 @@ header {
   display: flex;
   justify-content: space-between;
   max-width: 70rem;
-  margin-inline: auto;
 }
 
 .footer {
@@ -72,6 +70,7 @@ nav ul {
   display: inline-flex;
   flex-wrap: wrap;
   font-size: 1.1em;
+  color: var(--accent-clr);
   gap: 0.5em;
 }
 

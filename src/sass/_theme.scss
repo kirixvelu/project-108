@@ -1,20 +1,45 @@
 :root {
-  /* Theming */
-  --text: hsl(0, 0%, 5%);
-  --surface: hsl(0, 0%, 95%);
-  --surface-alt: hsl(0, 0%, 85%);
-  --theme: hsl(60, 100%, 50%);
-  --valid: hsl(120, 100%, 50%);
-  --error: hsl(0, 100%, 60%);
-  --link: hsl(210, 100%, 25%);
-  --neutral: hsl(0, 0%, 65%);
+  // standard colors
+  --text-clr: hsl(0, 0%, 5%);
+  --text-clr-inverse: hsl(0, 0%, 98%); // for legibility
+  --background-clr: hsl(0, 0%, 95%);
+
+  // grey colors
+  --neutral-clr: hsl(0, 0%, 65%);
+  --neutral-clr-light: hsl(0, 0%, 75%);
+  --neutral-dark: hsl(0, 0%, 50%);
+
+  // dark colors
+  --dark-clr: hsl(0, 0%, 15%);
+  --dark-clr-light: hsl(0, 0%, 25%);
+  --dark-clr-dark: hsl(0, 0%, 0%);
+
+  // light colors
+  --light-clr: hsl(0, 0%, 95%);
+  --light-clr-light: hsl(0, 0%, 100%);
+  --light-clr-dark: hsl(0, 0%, 90%);
+
+  // theme colors
+  --theme-clr: hsl(60, 100%, 50%);
+  --theme-clr-dark: hsl(60, 100%, 45%);
+  --theme-clr-light: hsl(60, 100%, 55%);
+
+  // theme accent colors
+  --accent-clr: hsl(300, 100%, 25%);
+  --accent-clr-dark: hsl(300, 100%, 15%);
+  --accent-clr-light: hsl(300, 100%, 35%);
+
+  // link colors
+  --link-clr: var(--text-clr); // text color
+  --link-clr-after: var(--text-clr); //text color
+  --link-clr-hover: var(--accent-clr); // accent light
+
+  // standard accessible colors
+  --fine-clr: hsl(110, 100%, 30%); // success
+  --hint-clr: hsl(0, 100%, 50%); // error
+  --mark-clr: hsl(45, 100%, 50%); // warning
 
   /* Properties */
-  --time: 250ms;
-  --function: ease;
-  --radius: 0.25em;
-  --opacity: 0.9;
-  --border: 1px;
   --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.2);
   --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
   --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
@@ -43,19 +68,50 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text: hsl(0, 0%, 98%);
-    --surface: hsl(0, 0%, 25%);
-    --surface-alt: hsl(0, 0%, 10%);
-    --theme: hsl(58, 100%, 50%);
-    --valid: hsl(120, 100%, 30%);
-    --error: hsl(0, 100%, 30%);
-    --link: hsl(58, 100%, 65%);
-    --neutral: hsl(0, 0%, 45%);
-
     --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
     --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
     --d-shadow: (0px 0px 10px rgba(0, 0, 0, 0.5));
     --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.25);
+
+    // standard colors on dark mode
+    --text-clr: white;
+    --text-clr-inverse: black; // when text not visible
+    --background-clr: black;
+
+    // grey colors on dark mode
+    --neutral-clr: hsl(0, 0%, 60%);
+    --neutral-clr-light: hsl(0, 0%, 70%);
+    --neutral-dark: hsl(0, 0%, 45%);
+
+    // dark colors on dark mode
+    --dark-clr: hsl(0, 0%, 10%);
+    --dark-clr-light: hsl(0, 0%, 20%);
+    --dark-clr-dark: hsl(0, 0%, 5%);
+
+    // light colors on dark mode
+    --light-clr: hsl(0, 0%, 90%);
+    --light-clr-light: hsl(0, 0%, 95%);
+    --light-clr-dark: hsl(0, 0%, 85%);
+
+    // theme colors on dark mode
+    --theme-clr: hsl(60, 100%, 50%);
+    --theme-clr-dark: hsl(60, 100%, 45%);
+    --theme-clr-light: hsl(60, 100%, 55%);
+
+    // theme accent colors on dark mode
+    --accent-clr: hsl(300, 100%, 15%);
+    --accent-clr-dark: hsl(300, 100%, 10%);
+    --accent-clr-light: hsl(300, 100%, 25%);
+
+    // link colors
+    --link-clr: var(--text-clr); // text color
+    --link-clr-after: var(--text-clr); //text color
+    --link-clr-hover: var(--accent-clr); // accent light
+
+    // accessible color brightness
+    --fine-clr: hsl(110, 100%, 20%); // success
+    --hint-clr: hsl(0, 100%, 40%); // error
+    --mark-clr: hsl(45, 100%, 40%); // warning
   }
 
   img {

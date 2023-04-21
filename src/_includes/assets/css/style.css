@@ -144,21 +144,31 @@ small {
 }
 
 :root {
-  /* Theming */
-  --text: hsl(0, 0%, 5%);
-  --surface: hsl(0, 0%, 95%);
-  --surface-alt: hsl(0, 0%, 85%);
-  --theme: hsl(60, 100%, 50%);
-  --valid: hsl(120, 100%, 50%);
-  --error: hsl(0, 100%, 60%);
-  --link: hsl(210, 100%, 25%);
-  --neutral: hsl(0, 0%, 65%);
+  --text-clr: hsl(0, 0%, 5%);
+  --text-clr-inverse: hsl(0, 0%, 98%);
+  --background-clr: hsl(0, 0%, 95%);
+  --neutral-clr: hsl(0, 0%, 65%);
+  --neutral-clr-light: hsl(0, 0%, 75%);
+  --neutral-dark: hsl(0, 0%, 50%);
+  --dark-clr: hsl(0, 0%, 15%);
+  --dark-clr-light: hsl(0, 0%, 25%);
+  --dark-clr-dark: hsl(0, 0%, 0%);
+  --light-clr: hsl(0, 0%, 95%);
+  --light-clr-light: hsl(0, 0%, 100%);
+  --light-clr-dark: hsl(0, 0%, 90%);
+  --theme-clr: hsl(60, 100%, 50%);
+  --theme-clr-dark: hsl(60, 100%, 45%);
+  --theme-clr-light: hsl(60, 100%, 55%);
+  --accent-clr: hsl(300, 100%, 25%);
+  --accent-clr-dark: hsl(300, 100%, 15%);
+  --accent-clr-light: hsl(300, 100%, 35%);
+  --link-clr: var(--text-clr);
+  --link-clr-after: var(--text-clr);
+  --link-clr-hover: var(--accent-clr);
+  --fine-clr: hsl(110, 100%, 30%);
+  --hint-clr: hsl(0, 100%, 50%);
+  --mark-clr: hsl(45, 100%, 50%);
   /* Properties */
-  --time: 250ms;
-  --function: ease;
-  --radius: 0.25em;
-  --opacity: 0.9;
-  --border: 1px;
   --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.2);
   --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
   --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
@@ -184,26 +194,42 @@ small {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text: hsl(0, 0%, 98%);
-    --surface: hsl(0, 0%, 25%);
-    --surface-alt: hsl(0, 0%, 10%);
-    --theme: hsl(58, 100%, 50%);
-    --valid: hsl(120, 100%, 30%);
-    --error: hsl(0, 100%, 30%);
-    --link: hsl(58, 100%, 65%);
-    --neutral: hsl(0, 0%, 45%);
     --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
     --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
     --d-shadow: (0px 0px 10px rgba(0, 0, 0, 0.5));
     --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.25);
+    --text-clr: white;
+    --text-clr-inverse: black;
+    --background-clr: black;
+    --neutral-clr: hsl(0, 0%, 60%);
+    --neutral-clr-light: hsl(0, 0%, 70%);
+    --neutral-dark: hsl(0, 0%, 45%);
+    --dark-clr: hsl(0, 0%, 10%);
+    --dark-clr-light: hsl(0, 0%, 20%);
+    --dark-clr-dark: hsl(0, 0%, 5%);
+    --light-clr: hsl(0, 0%, 90%);
+    --light-clr-light: hsl(0, 0%, 95%);
+    --light-clr-dark: hsl(0, 0%, 85%);
+    --theme-clr: hsl(60, 100%, 50%);
+    --theme-clr-dark: hsl(60, 100%, 45%);
+    --theme-clr-light: hsl(60, 100%, 55%);
+    --accent-clr: hsl(300, 100%, 15%);
+    --accent-clr-dark: hsl(300, 100%, 10%);
+    --accent-clr-light: hsl(300, 100%, 25%);
+    --link-clr: var(--text-clr);
+    --link-clr-after: var(--text-clr);
+    --link-clr-hover: var(--accent-clr);
+    --fine-clr: hsl(110, 100%, 20%);
+    --hint-clr: hsl(0, 100%, 40%);
+    --mark-clr: hsl(45, 100%, 40%);
   }
   img {
     filter: brightness(0.9) contrast(1.1);
   }
 }
 html {
-  color: var(--text);
-  background-color: var(--surface);
+  color: var(--text-clr);
+  background-color: var(--background-clr);
   font-family: var(--sans);
   font-size: var(--step-0);
   box-sizing: border-box;
@@ -237,14 +263,13 @@ main {
 }
 
 header {
-  color: black;
-  background: var(--theme);
+  background: var(--theme-clr);
   padding-inline: 1rem;
-  width: 100%;
 }
+header .logo,
 header a:link,
 header a:visited {
-  color: black;
+  color: var(--accent-clr);
 }
 
 .header,
@@ -252,7 +277,6 @@ header a:visited {
   display: flex;
   justify-content: space-between;
   max-width: 70rem;
-  margin-inline: auto;
 }
 
 .footer {
@@ -273,6 +297,7 @@ nav ul {
   display: inline-flex;
   flex-wrap: wrap;
   font-size: 1.1em;
+  color: var(--accent-clr);
   gap: 0.5em;
 }
 
@@ -296,12 +321,27 @@ nav ul {
   white-space: nowrap !important;
 }
 
+@keyframes pageFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+body {
+  opacity: 0;
+  animation: pageFadeIn ease-in 1;
+  animation-fill-mode: forwards;
+  animation-duration: 250ms;
+  animation-delay: 250ms;
+}
+
 a:link,
 a:visited {
-  color: var(--link);
+  color: var(--link-clr);
   text-underline-offset: 0.25em;
   text-decoration: none;
-  transition: all 250ms var(--text);
 }
 a:link:hover, a:link:focus,
 a:visited:hover,
@@ -310,7 +350,7 @@ a:visited:focus {
 }
 a:link:active,
 a:visited:active {
-  color: var(--text);
+  color: var(--accent-clr);
 }
 
 [aria-current] {
@@ -322,7 +362,7 @@ article h1::after {
   content: "✦";
   font-size: 0.75em;
   margin: 0.25em;
-  color: var(--theme);
+  color: var(--theme-clr);
 }
 article time::before {
   content: "☭";
@@ -332,7 +372,7 @@ article time::before {
   padding: 0 0.2em 0 0;
   margin-right: 0.5em;
   border-radius: 0.4em 0 0.4em 0;
-  background: var(--theme);
+  background: var(--theme-clr);
 }
 article a[href^="https://"]:hover::after {
   content: "➚";
@@ -351,10 +391,6 @@ article a[href$=".pdf"]:hover::after {
   content: "⇾";
 }
 
-.submenu {
-  opacity: var(--opacity);
-}
-
 hr {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -363,7 +399,7 @@ hr {
 
 mark {
   padding: 0 0.25em;
-  background-color: var(--mark);
+  background-color: var(--mark-clr);
 }
 
 .center {
@@ -495,12 +531,11 @@ blockquote {
   padding: 0.25em;
   font-size: var(--step-0);
   width: min(100%, 30rem);
-  background-color: var(--neutral);
-  border-radius: var(--radius);
+  background-color: var(--neutral-clr-dark);
+  border-radius: 0.25em;
   line-height: 1;
   margin-bottom: 0.5em;
   margin-inline: auto;
-  box-sizing: border-box;
 }
 
 blockquote p {
@@ -508,11 +543,11 @@ blockquote p {
 }
 
 blockquote:nth-child(odd) {
-  border-left: 5px solid var(--link);
+  border-left: 5px solid var(--accent-clr);
 }
 
 blockquote:nth-child(even) {
-  border-right: 5px solid var(--link);
+  border-right: 5px solid var(--accent-clr);
 }
 
 cite {
@@ -528,7 +563,7 @@ picture {
   max-width: 100%;
   object-fit: cover;
   margin-inline: auto;
-  border-radius: var(--radius);
+  border-radius: 0.25em;
 }
 
 main > p > img {
@@ -547,7 +582,7 @@ article > img {
 
 article > figure {
   filter: grayscale(5%);
-  background: var(--neutral);
+  background: var(--neutral-clr-dark);
   padding: var(--spacing-sm);
   margin-bottom: var(--spacing-sm);
 }
@@ -568,7 +603,7 @@ ul {
 }
 
 li::marker {
-  color: var(--link);
+  color: var(--accent-clr);
 }
 
 table {
@@ -583,7 +618,7 @@ td {
 
 th {
   text-align: left;
-  color: var(--link);
+  color: var(--accent-clr);
   font-style: italic;
 }
 
@@ -616,7 +651,6 @@ details {
   border-radius: 0.25em;
   overflow: hidden;
   position: relative;
-  box-sizing: border-box;
 }
 
 summary {
@@ -624,7 +658,7 @@ summary {
   font-weight: 700;
   cursor: pointer;
   outline: none;
-  color: var(--link);
+  color: var(--accent-clr);
 }
 
 details summary::before,
@@ -634,7 +668,7 @@ details[open] summary::after {
   position: absolute;
   top: 0.5em;
   right: 1em;
-  color: var(--neutral);
+  color: var(--neutral-clr-dark);
 }
 
 details[open] summary {
@@ -674,8 +708,6 @@ article .category {
 }
 article .category:hover {
   text-decoration: underline;
-  color: var(--theme-text);
-  transition: all var(--time) var(--function);
 }
 article small {
   display: inline-block;
@@ -696,12 +728,11 @@ input[type=button] {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
-  background-color: var(--surface);
+  background-color: var(--background-clr);
   color: var(--text);
-  border-radius: var(--radius);
+  border-radius: 0.25em;
   border: 1px solid;
   cursor: pointer;
-  transition: all var(--time) var(--function);
 }
 
 .button:focus:enabled,
@@ -712,8 +743,8 @@ input[type=submit]:focus:enabled,
 input[type=submit]:hover:enabled,
 input[type=button]:focus:enabled,
 input[type=button]:hover:enabled {
-  background-color: var(--theme);
-  color: var(--text);
+  background-color: var(--theme-clr);
+  color: var(--text-clr);
   outline: 0;
 }
 
@@ -726,11 +757,11 @@ textarea {
 textarea,
 select,
 input {
-  color: var(--text);
+  color: var(--text-clr);
   padding: 0.2em 0.6em;
-  background-color: var(--surface);
-  border: 1px solid var(--neutral);
-  border-radius: var(--radius);
+  background-color: var(--background-clr);
+  border: 1px solid var(--neutral-clr-dark);
+  border-radius: 0.25em;
   width: min(100%, 60rem);
   box-shadow: none;
 }
@@ -738,12 +769,12 @@ input {
 textarea:focus,
 select:focus,
 input:focus {
-  border: 1px solid var(--link);
+  border: 1px solid var(--accent-clr);
   outline: 0;
 }
 
 input[type=checkbox]:focus {
-  outline: 1px dotted var(--theme);
+  outline: 1px dotted var(--accent-clr);
 }
 
 label,
@@ -755,8 +786,8 @@ fieldset {
 
 input {
   text-align: center;
-  accent-color: var(--theme);
-  border: 1px solid var(--neutral);
+  accent-color: var(--theme-clr);
+  border: 1px solid var(--neutral-clr-dark);
 }
 
 input:not(:focus):not(:placeholder-shown):invalid {
@@ -810,24 +841,8 @@ object {
 }
 
 ::selection {
-  background-color: var(--theme);
-  color: var(--theme-text);
-}
-
-dialog {
-  background-color: var(--theme);
-  color: var(--text);
-  border: none;
-  border-radius: var(--radius);
-  border-color: var(--border);
-  padding: var(--spacing);
-}
-
-dialog::backdrop {
-  background: var(--neutral);
-  backdrop-filter: blur(0.15em);
-  -webkit-backdrop-filter: blur(0.15em);
-  transition: backdrop-filter var(--time) var(--function);
+  background-color: var(--accent-clr);
+  color: var(--text-clr);
 }
 
 @media print {

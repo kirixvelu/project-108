@@ -1,10 +1,27 @@
+// Page Transition
+@keyframes pageFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+body {
+  opacity: 0;
+  animation: pageFadeIn ease-in 1;
+  animation-fill-mode: forwards;
+  animation-duration: 250ms;
+  animation-delay: 250ms;
+}
+
 //   Links
 a:link,
 a:visited {
-  color: var(--link);
+  color: var(--link-clr);
   text-underline-offset: 0.25em;
   text-decoration: none;
-  transition: all 250ms var(--text);
 
   &:hover,
   &:focus {
@@ -12,7 +29,7 @@ a:visited {
   }
 
   &:active {
-    color: var(--text);
+    color: var(--accent-clr);
   }
 }
 
@@ -27,7 +44,7 @@ article {
     content: "\2726";
     font-size: 0.75em;
     margin: 0.25em;
-    color: var(--theme);
+    color: var(--theme-clr);
   }
 
   time::before {
@@ -38,7 +55,7 @@ article {
     padding: 0 0.2em 0 0;
     margin-right: 0.5em;
     border-radius: 0.4em 0 0.4em 0;
-    background: var(--theme);
+    background: var(--theme-clr);
   }
 
   a[href^="https://"]:hover::after
@@ -65,10 +82,6 @@ article {
   }
 }
 
-.submenu {
-  opacity: var(--opacity);
-}
-
 hr {
   margin-top: 1em;
   margin-bottom: 1em;
@@ -77,7 +90,7 @@ hr {
 
 mark {
   padding: 0 0.25em;
-  background-color: var(--mark);
+  background-color: var(--mark-clr);
 }
 
 .center {

@@ -13,12 +13,11 @@ input[type="button"] {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
-  background-color: var(--surface);
+  background-color: var(--background-clr);
   color: var(--text);
-  border-radius: var(--radius);
+  border-radius: 0.25em;
   border: 1px solid;
   cursor: pointer;
-  transition: all var(--time) var(--function);
 }
 
 .button:focus:enabled,
@@ -29,8 +28,8 @@ input[type="submit"]:focus:enabled,
 input[type="submit"]:hover:enabled,
 input[type="button"]:focus:enabled,
 input[type="button"]:hover:enabled {
-  background-color: var(--theme);
-  color: var(--text);
+  background-color: var(--theme-clr);
+  color: var(--text-clr);
   outline: 0;
 }
 
@@ -43,11 +42,11 @@ textarea {
 textarea,
 select,
 input {
-  color: var(--text);
+  color: var(--text-clr);
   padding: 0.2em 0.6em;
-  background-color: var(--surface);
-  border: 1px solid var(--neutral);
-  border-radius: var(--radius);
+  background-color: var(--background-clr);
+  border: 1px solid var(--neutral-clr-dark);
+  border-radius: 0.25em;
   width: min(100%, 60rem);
   box-shadow: none;
 }
@@ -55,12 +54,12 @@ input {
 textarea:focus,
 select:focus,
 input:focus {
-  border: 1px solid var(--link);
+  border: 1px solid var(--accent-clr);
   outline: 0;
 }
 
 input[type="checkbox"]:focus {
-  outline: 1px dotted var(--theme);
+  outline: 1px dotted var(--accent-clr);
 }
 
 label,
@@ -72,8 +71,8 @@ fieldset {
 
 input {
   text-align: center;
-  accent-color: var(--theme);
-  border: 1px solid var(--neutral);
+  accent-color: var(--theme-clr);
+  border: 1px solid var(--neutral-clr-dark);
 }
 
 input:not(:focus):not(:placeholder-shown):invalid {
