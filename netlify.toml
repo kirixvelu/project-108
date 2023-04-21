@@ -48,12 +48,6 @@ status = 301
 force = true
 
 
-# [[redirects]]
-# from = "/logo.png"
-# to = "/assets/images/kiri-vadivelu.jpg"
-# status = 301
-# force = true
-
 # social media 
 [[redirects]]
 from = "/twitter"
