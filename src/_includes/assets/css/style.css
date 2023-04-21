@@ -115,6 +115,7 @@ h2 {
 h1 {
   font-size: var(--step-2);
   text-align: center;
+  color: var(--accent-clr);
   font-weight: 400;
   letter-spacing: -0.15rem;
   opacity: 0.85;
@@ -531,7 +532,7 @@ blockquote {
   padding: 0.25em;
   font-size: var(--step-0);
   width: min(100%, 30rem);
-  background-color: var(--neutral-clr-dark);
+  background-color: var(--neutral-clr);
   border-radius: 0.25em;
   line-height: 1;
   margin-bottom: 0.5em;
@@ -608,6 +609,7 @@ li::marker {
 
 table {
   border-collapse: collapse;
+  margin-block: 1em;
   width: 100%;
 }
 
