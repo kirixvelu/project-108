@@ -74,9 +74,14 @@ h3,
 h4,
 h5 {
   line-height: 1;
+  opacity: 0.9;
   font-family: var(--serif);
   word-wrap: break-word;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.5em;
+}
+
+.cta {
+  color: var(--accent-clr);
 }
 
 .logo {
@@ -116,27 +121,24 @@ h1 {
   font-size: var(--step-2);
   text-align: center;
   color: var(--accent-clr);
-  font-weight: 400;
+  font-weight: 700;
   letter-spacing: -0.15rem;
-  opacity: 0.85;
 }
 
 h3 {
-  opacity: 0.9;
   font-size: var(--step-1);
 }
 
 h4 {
   font-size: var(--step--1);
   text-transform: uppercase;
-  opacity: 0.95;
 }
 
 h5 {
   font-size: var(--step--1);
   text-transform: uppercase;
   letter-spacing: 2px;
-  opacity: 0.95;
+  color: var(--accent-clr);
 }
 
 small {
@@ -147,7 +149,7 @@ small {
 :root {
   --text-clr: hsl(0, 0%, 5%);
   --text-clr-inverse: hsl(0, 0%, 98%);
-  --background-clr: hsl(0, 0%, 95%);
+  --background-clr: hsl(0, 0%, 90%);
   --neutral-clr: hsl(0, 0%, 65%);
   --neutral-clr-light: hsl(0, 0%, 75%);
   --neutral-dark: hsl(0, 0%, 50%);
@@ -160,8 +162,8 @@ small {
   --theme-clr: hsl(60, 100%, 50%);
   --theme-clr-dark: hsl(60, 100%, 45%);
   --theme-clr-light: hsl(60, 100%, 55%);
-  --accent-clr: hsl(300, 100%, 25%);
-  --accent-clr-dark: hsl(300, 100%, 15%);
+  --accent-clr: hsl(300, 100%, 20%);
+  --accent-clr-dark: hsl(300, 100%, 10%);
   --accent-clr-light: hsl(300, 100%, 35%);
   --link-clr: var(--text-clr);
   --link-clr-after: var(--text-clr);
@@ -199,9 +201,9 @@ small {
     --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
     --d-shadow: (0px 0px 10px rgba(0, 0, 0, 0.5));
     --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.25);
-    --text-clr: white;
-    --text-clr-inverse: black;
-    --background-clr: black;
+    --text-clr: hsl(0, 0%, 98%);
+    --text-clr-inverse: hsl(0, 0%, 5%);
+    --background-clr: hsl(0, 0%, 20%);
     --neutral-clr: hsl(0, 0%, 60%);
     --neutral-clr-light: hsl(0, 0%, 70%);
     --neutral-dark: hsl(0, 0%, 45%);
@@ -211,12 +213,12 @@ small {
     --light-clr: hsl(0, 0%, 90%);
     --light-clr-light: hsl(0, 0%, 95%);
     --light-clr-dark: hsl(0, 0%, 85%);
-    --theme-clr: hsl(60, 100%, 50%);
-    --theme-clr-dark: hsl(60, 100%, 45%);
+    --theme-clr: hsl(60, 100%, 45%);
+    --theme-clr-dark: hsl(60, 100%, 35%);
     --theme-clr-light: hsl(60, 100%, 55%);
-    --accent-clr: hsl(300, 100%, 15%);
-    --accent-clr-dark: hsl(300, 100%, 10%);
-    --accent-clr-light: hsl(300, 100%, 25%);
+    --accent-clr: hsl(300, 100%, 40%);
+    --accent-clr-dark: hsl(300, 100%, 20%);
+    --accent-clr-light: hsl(300, 100%, 50%);
     --link-clr: var(--text-clr);
     --link-clr-after: var(--text-clr);
     --link-clr-hover: var(--accent-clr);

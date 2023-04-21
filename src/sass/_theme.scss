@@ -2,7 +2,7 @@
   // standard colors
   --text-clr: hsl(0, 0%, 5%);
   --text-clr-inverse: hsl(0, 0%, 98%); // for legibility
-  --background-clr: hsl(0, 0%, 95%);
+  --background-clr: hsl(0, 0%, 90%);
 
   // grey colors
   --neutral-clr: hsl(0, 0%, 65%);
@@ -25,8 +25,8 @@
   --theme-clr-light: hsl(60, 100%, 55%);
 
   // theme accent colors
-  --accent-clr: hsl(300, 100%, 25%);
-  --accent-clr-dark: hsl(300, 100%, 15%);
+  --accent-clr: hsl(300, 100%, 20%);
+  --accent-clr-dark: hsl(300, 100%, 10%);
   --accent-clr-light: hsl(300, 100%, 35%);
 
   // link colors
@@ -74,9 +74,9 @@
     --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.25);
 
     // standard colors on dark mode
-    --text-clr: white;
-    --text-clr-inverse: black; // when text not visible
-    --background-clr: black;
+    --text-clr: hsl(0, 0%, 98%);
+    --text-clr-inverse: hsl(0, 0%, 5%); // when text not visible
+    --background-clr: hsl(0, 0%, 20%);
 
     // grey colors on dark mode
     --neutral-clr: hsl(0, 0%, 60%);
@@ -94,14 +94,14 @@
     --light-clr-dark: hsl(0, 0%, 85%);
 
     // theme colors on dark mode
-    --theme-clr: hsl(60, 100%, 50%);
-    --theme-clr-dark: hsl(60, 100%, 45%);
+    --theme-clr: hsl(60, 100%, 45%);
+    --theme-clr-dark: hsl(60, 100%, 35%);
     --theme-clr-light: hsl(60, 100%, 55%);
 
     // theme accent colors on dark mode
-    --accent-clr: hsl(300, 100%, 15%);
-    --accent-clr-dark: hsl(300, 100%, 10%);
-    --accent-clr-light: hsl(300, 100%, 25%);
+    --accent-clr: hsl(300, 100%, 40%);
+    --accent-clr-dark: hsl(300, 100%, 20%);
+    --accent-clr-light: hsl(300, 100%, 50%);
 
     // link colors
     --link-clr: var(--text-clr); // text color
