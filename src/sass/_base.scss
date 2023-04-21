@@ -80,28 +80,20 @@ strong {
 section {
   display: grid;
   place-items: center;
-  padding-block: var(--spacing-sm);
+  padding-block: var(--spacing);
 }
 
-nav ul li {
-  display: inline-block;
+nav ul {
+  display: inline-flex;
   font-size: 1.1em;
+  gap: 0.5em;
+}
 
-  + li {
-    margin-left: 0.7em;
-  }
-
-  &.active a {
-    font-weight: 700;
-    text-decoration: underline;
-  }
-
-  a {
-    display: inline-block;
-    text-decoration: none;
-    padding-bottom: 5px;
-    transition: color var(--time);
-  }
+.nav__item.active {
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.25em;
 }
 
 .sr-only {
