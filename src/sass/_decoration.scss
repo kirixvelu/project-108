@@ -23,6 +23,17 @@ article {
   }
 }
 
+figcaption {
+  text-align: center;
+  padding-top: 0.25em;
+}
+
+figcaption::before {
+  content: " \27BD";
+  color: var(--accent-clr);
+  margin-right: 0.25em;
+}
+
 time::before {
   content: "\262D";
   font-size: 0.8em;
@@ -56,3 +67,22 @@ a[href$=".pdf"]:hover::after {
     content: "\21FE";
   }
 }
+
+// tag list
+.tag-list {
+  display: flex;
+  gap: 1em;
+}
+
+.tag-list li,
+.tag-list a {
+  display: block;
+}
+
+.tag-list a::before {
+  content: "#";
+}
+
+// p::first-letter {
+//   font-weight: 700;
+// }

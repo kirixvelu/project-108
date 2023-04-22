@@ -1,5 +1,4 @@
 // Primary Features
-
 main {
   p {
     max-width: 75ch;
@@ -83,17 +82,6 @@ article > figure {
   background: var(--neutral-clr-dark);
   padding: var(--spacing-sm);
   margin-bottom: var(--spacing-sm);
-}
-
-figcaption {
-  text-align: center;
-  padding-top: 0.25em;
-}
-
-figcaption::before {
-  content: " \27A5";
-  color: var(--accent-clr);
-  margin-right: 0.25em;
 }
 
 // Lists
