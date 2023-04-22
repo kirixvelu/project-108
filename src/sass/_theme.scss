@@ -1,8 +1,16 @@
 :root {
   // standard colors
-  --text-clr: hsl(0, 0%, 5%);
-  --text-clr-inverse: hsl(0, 0%, 98%); // for legibility
-  --background-clr: hsl(0, 0%, 90%);
+  --text-clr: hsl(0, 0%, 10%);
+  --text-clr-inverse: hsl(0, 0%, 90%);
+  --background-clr: hsl(0, 0%, 95%);
+
+  // static color
+  --white-clr: hsl(0, 0%, 100%);
+  --black-clr: hsl(0, 0%, 0%);
+
+  // dynamic gradient color
+  --text-grade-dark: hsl(0, 0%, 5%);
+  --text-grade-light: hsl(0, 0%, 30%);
 
   // grey colors
   --neutral-clr: hsl(0, 0%, 65%);
@@ -25,9 +33,9 @@
   --theme-clr-light: hsl(60, 100%, 55%);
 
   // theme accent colors
-  --accent-clr: hsl(300, 100%, 20%);
-  --accent-clr-dark: hsl(300, 100%, 10%);
-  --accent-clr-light: hsl(300, 100%, 35%);
+  --accent-clr: hsl(300, 100%, 45%);
+  --accent-clr-dark: hsl(300, 100%, 35%);
+  --accent-clr-light: hsl(300, 100%, 55%);
 
   // link colors
   --link-clr: var(--text-clr); // text color
@@ -38,6 +46,10 @@
   --fine-clr: hsl(110, 100%, 30%); // success
   --hint-clr: hsl(0, 100%, 50%); // error
   --mark-clr: hsl(45, 100%, 50%); // warning
+
+  img {
+    filter: brightness(1.01) contrast(1.1);
+  }
 
   /* Properties */
   --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.2);
@@ -74,9 +86,13 @@
     --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.25);
 
     // standard colors on dark mode
-    --text-clr: hsl(0, 0%, 98%);
-    --text-clr-inverse: hsl(0, 0%, 5%); // when text not visible
+    --text-clr: hsl(0, 0%, 90%);
+    --text-clr-inverse: hsl(0, 0%, 10%); // when text not visible
     --background-clr: hsl(0, 0%, 20%);
+
+    // dynamic gradient color
+    --text-grade-dark: hsl(0, 0%, 75%);
+    --text-grade-light: hsl(0, 0%, 100%);
 
     // grey colors on dark mode
     --neutral-clr: hsl(0, 0%, 60%);
@@ -99,9 +115,9 @@
     --theme-clr-light: hsl(60, 100%, 55%);
 
     // theme accent colors on dark mode
-    --accent-clr: hsl(300, 100%, 40%);
-    --accent-clr-dark: hsl(300, 100%, 20%);
-    --accent-clr-light: hsl(300, 100%, 50%);
+    --accent-clr: hsl(300, 100%, 35%);
+    --accent-clr-dark: hsl(300, 100%, 25%);
+    --accent-clr-light: hsl(300, 100%, 45%);
 
     // link colors
     --link-clr: var(--text-clr); // text color
@@ -115,6 +131,6 @@
   }
 
   img {
-    filter: brightness(0.9) contrast(1.1);
+    filter: brightness(0.9) contrast(1.15);
   }
 }

@@ -1,22 +1,5 @@
-// Page Transition
-@keyframes pageFadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
+//   Links & Elements
 
-body {
-  opacity: 0;
-  animation: pageFadeIn ease-in 1;
-  animation-fill-mode: forwards;
-  animation-duration: 250ms;
-  animation-delay: 250ms;
-}
-
-//   Links
 a:link,
 a:visited {
   color: var(--link-clr);
@@ -38,64 +21,44 @@ a:visited {
   font-style: italic;
 }
 
-// Decorations/ Signatures
-article {
-  h1::after {
-    content: "\2726";
-    font-size: 0.75em;
-    margin: 0.25em;
-  }
-
-  time::before {
-    content: "\262D";
-    font-size: 0.8em;
-    color: black;
-    border: 1px solid;
-    padding: 0 0.2em 0 0;
-    margin-right: 0.5em;
-    border-radius: 0.4em 0 0.4em 0;
-    background: var(--accent-clr);
-  }
-
-  a[href^="https://"]:hover::after
-  {
-    content: "\279A";
-  }
-
-  a[href^="mailto"]::before {
-    content: "\2709";
-  }
-
-  a[href^="tel"]::before {
-    content: "\260F";
-  }
-
-  a[href$=".pdf"]:hover::after {
-    content: "\21F2";
-  }
-}
-
-.article__list {
-  li a:hover::after {
-    content: "\21FE";
-  }
-}
-
-hr {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  border: 1px solid;
-}
-
-mark {
-  padding: 0 0.25em;
-  background-color: var(--mark-clr);
-}
-
 .center {
   text-align: center;
 }
 
 .right {
   text-align: right;
+}
+
+.icons {
+  font-size: var(--step-5);
+  line-height: 1;
+  border-radius: 0.2em 0.1em 0.2em 0.1em;
+  padding-inline: 0.75em;
+  color: var(--theme-clr);
+}
+
+ol {
+  list-style: lower-roman;
+  list-style-position: inside;
+  li {
+    margin-bottom: 0.5em;
+  }
+}
+
+time,
+address {
+  font-style: italic;
+  padding-left: 0.5em;
+}
+
+audio,
+video,
+embed,
+object {
+  width: 100%;
+  display: block;
+}
+
+.cards a {
+  color: var(--accent-clr);
 }

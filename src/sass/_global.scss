@@ -1,0 +1,71 @@
+// Global Styling
+ul {
+  margin-inline-start: 0;
+  padding-inline-start: 0;
+}
+
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.25;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+strong {
+  font-weight: 600;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+q {
+  font-size: var(--step-0);
+  font-family: monospace;
+}
+
+section {
+  display: grid;
+  place-items: center;
+  padding-block: var(--spacing);
+}
+
+// Page Transition
+@keyframes pageFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+body {
+  opacity: 0;
+  animation: pageFadeIn ease-in 1;
+  animation-fill-mode: forwards;
+  animation-duration: 250ms;
+  animation-delay: 250ms;
+}
+
+.sr-only {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  -webkit-clip-path: inset(50%) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+  white-space: nowrap !important;
+}

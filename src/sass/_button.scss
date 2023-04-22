@@ -1,0 +1,104 @@
+// Interacting Features
+// links & cta
+:where(a) {
+  color: var(--link-clr);
+  outline: transparent;
+  text-decoration: none;
+  text-underline-offset: 0.25em;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--link-clr-hover);
+    text-decoration: underline;
+  }
+
+  &:visited {
+    color: var(--link-clr-after);
+  }
+}
+
+// buttons & inputs
+.button,
+button,
+input[type="submit"],
+input[type="button"] {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-width: 15ch;
+  text-decoration: none;
+  outline: transparent;
+  border: 1px solid;
+  border-radius: 0.25em;
+  cursor: pointer;
+  font-weight: 600;
+  font-stretch: normal;
+  line-height: 1;
+  font-size: var(--step--1);
+  padding-block: var(--padding);
+  text-transform: uppercase;
+  background-color: transparent;
+  transition: all 250ms ease-in-out;
+
+  &:hover,
+  &:focus-visible {
+    background-color: var(--theme-clr);
+  }
+}
+
+button,
+.button {
+  max-width: fit-content;
+}
+
+// theme, accent and grey
+button.dark,
+.button.dark {
+  color: var(--text-clr);
+  background-color: var(--background-clr);
+
+  &:hover,
+  &:focus-visible {
+    background-color: transparent;
+  }
+}
+
+button.light,
+.button.light {
+  color: var(--text-clr);
+  background-color: var(--neutral-clr);
+
+  &:hover,
+  &:focus-visible {
+    background-color: transparent;
+  }
+}
+
+button.theme,
+.button.theme {
+  color: var(--text-clr);
+  background-color: var(--theme-clr);
+
+  &:hover,
+  &:focus-visible {
+    background-color: transparent;
+  }
+}
+
+button.accent,
+.button.accent {
+  color: var(--text-clr);
+  background-color: var(--accent-clr);
+
+  &:hover,
+  &:focus-visible {
+    background-color: transparent;
+  }
+}
+// group buttons
+.btn-group {
+  display: flex;
+  gap: var(--spacing);
+  margin-block: var(--spacing);
+}

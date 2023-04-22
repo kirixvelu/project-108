@@ -37,6 +37,7 @@ main {
 header {
   background: var(--theme-clr);
   padding-inline: 1rem;
+  padding-block: 0.5em;
 
   .logo,
   a:link,
@@ -56,15 +57,6 @@ header {
   border-top: 1px solid;
 }
 
-strong {
-  font-weight: 700;
-}
-
-section {
-  display: grid;
-  place-items: center;
-  padding-block: var(--spacing);
-}
 // applies to both header nav and main category nav
 nav ul {
   display: inline-flex;
@@ -81,15 +73,35 @@ nav ul {
   text-underline-offset: 0.25em;
 }
 
-.sr-only {
-  border: 0 !important;
-  clip: rect(1px, 1px, 1px, 1px) !important;
-  -webkit-clip-path: inset(50%) !important;
-  clip-path: inset(50%) !important;
-  height: 1px !important;
-  overflow: hidden !important;
-  padding: 0 !important;
-  position: absolute !important;
-  width: 1px !important;
-  white-space: nowrap !important;
+// Blog
+.article__item {
+  + .article__item {
+    margin-top: 1.75em;
+  }
+}
+
+.article__preview h2 {
+  margin-top: 0;
+}
+
+// Article
+article {
+  .category {
+    display: inline-block;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 1em;
+    padding: 0 0.5em;
+    border-inline: 1px solid;
+    line-height: 1;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  small {
+    display: inline-block;
+    margin-bottom: 0.5em;
+  }
 }

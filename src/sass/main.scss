@@ -1,16 +1,18 @@
 // Jaffna CSS 3.0 Architecture | License: MIT License
 // Author: Kiri Vadivelu | https://github.com/kiri-vadivelu/jaffna-css
 
-@use "./reset" as *;
-@use "./type" as *;
+@use "./destyle" as *;
+@use "./global" as *;
+@use "./typography" as *;
 @use "./theme" as *;
-@use "./base" as *;
+@use "./button" as *;
+@use "./decoration" as *;
+@use "./coloring" as *;
+@use "./architect" as *;
 @use "./links" as *;
-@use "./card" as *;
-@use "./feat" as *;
-@use "./blog" as *;
+@use "./cards" as *;
+@use "./component" as *;
 @use "./form" as *;
-@use "./extra" as *;
 @use "./print" as *;
 
 // Thanks

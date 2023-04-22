@@ -1,0 +1,58 @@
+// Decorations & Pseudo Elements
+::selection {
+  background-color: var(--accent-clr);
+  color: var(--text-clr);
+}
+
+hr {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 1px solid;
+}
+
+mark {
+  padding: 0 0.25em;
+  background-color: var(--mark-clr);
+}
+
+article {
+  h1::after {
+    content: "\2726";
+    font-size: 0.75em;
+    margin: 0.25em;
+  }
+}
+
+time::before {
+  content: "\262D";
+  font-size: 0.8em;
+  color: black;
+  border: 1px solid;
+  padding: 0 0.2em 0 0;
+  margin-right: 0.5em;
+  border-radius: 0.4em 0 0.4em 0;
+  background: var(--accent-clr);
+}
+
+a[href^="https://"]:hover::after
+{
+  content: "\279A";
+}
+
+a[href^="mailto"]::before {
+  content: "\2709";
+}
+
+a[href^="tel"]::before {
+  content: "\260F";
+}
+
+a[href$=".pdf"]:hover::after {
+  content: "\21F2";
+}
+
+.article__list {
+  li a:hover::after {
+    content: "\21FE";
+  }
+}
