@@ -45,4 +45,8 @@
     color: #00f;
     text-decoration: underline;
   }
+
+  a[href]:after {
+    content: " (" attr(href) ") ";
+  }
 }

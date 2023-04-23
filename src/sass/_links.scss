@@ -31,10 +31,16 @@ a:visited {
 
 .icons {
   font-size: var(--step-5);
-  line-height: 1;
-  border-radius: 0.2em 0.1em 0.2em 0.1em;
-  padding-inline: 0.75em;
+  line-height: 1.25;
+  border-radius: 0.25em 0.1em 0.25em 0.1em;
+  padding-inline: 0.5em;
   color: var(--theme-clr);
+}
+
+// cta
+.cta,
+.h-face {
+  color: var(--accent-clr);
 }
 
 ol {

@@ -32,13 +32,10 @@ blockquote {
   line-height: 1;
   margin-bottom: 0.5em;
   margin-inline: auto;
-  color: var(--white-clr); // for legibility
+  text-align: center;
 
-  i,
-  strong,
-  span,
-  p {
-    color: var(--white-clr);
+  strong {
+    color: var(--accent-clr);
   }
 }
 

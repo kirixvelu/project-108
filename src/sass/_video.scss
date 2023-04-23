@@ -2,3 +2,75 @@ video::cue {
   color: var(--accent-clr);
   background-color: var(--background-clr);
 }
+
+.container {
+  position: relative;
+  display: flex;
+  width: max-content;
+  height: max-content;
+  justify-content: center;
+  align-items: center;
+}
+.container #video {
+  width: 600px;
+  height: 400px;
+  border-radius: 20px;
+}
+.container .controls {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  opacity: 0.2;
+  transition: opacity 0.4s;
+}
+.container:hover .controls {
+  opacity: 1;
+}
+.container .controls button {
+  background: transparent;
+  color: #fff;
+  font-weight: bolder;
+  text-shadow: 2px 1px 2px #000;
+  border: none;
+  cursor: pointer;
+}
+.container .controls .timeline {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  border: none;
+  border-right: 3px solid #ccc;
+  border-left: 3px solid #ccc;
+}
+.container .controls .timeline .bar {
+  background: rgb(1, 1, 65);
+  height: 4px;
+  flex: 1;
+}
+.container .controls .timeline .bar .inner {
+  background: #ccc;
+  width: 0%;
+  height: 100%;
+}
+.fa {
+  font-size: 20px !important;
+}
+
+// HTML Structure
+// <div class="container">
+//         <video onclick="play(event)" src="https://res.cloudinary.com/codelife/video/upload/v1637805738/intro_l5ul1k.mp4" id="video"></video>
+//         <div class="controls">
+//             <button onclick="play(event)"><i class="fa fa-play"></i><i class="fa fa-pause"></i></button>
+//             <button onclick="rewind(event)"><i class="fa fa-fast-backward"></i></button>
+//             <div class="timeline">
+//                 <div class="bar">
+//                     <div class="inner"></div>
+//                 </div>
+//             </div>
+//             <button onclick="forward(event)"><i class="fa fa-fast-forward"></i></button>
+//             <button onclick="fullScreen(event)"><i class="fa fa-expand"></i></button>
+//             <button onclick="download(event)"><i class="fa fa-cloud-download"></i></button>
+//         </div>
+//     </div>
