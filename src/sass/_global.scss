@@ -20,6 +20,19 @@ picture {
   display: block;
 }
 
+// responsive embedding
+.video {
+  padding: 1rem;
+  background: green;
+  border-radius: 0.2em;
+
+  iframe {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    border-radius: 0.2em;
+  }
+}
+
 strong {
   font-weight: 600;
 }
