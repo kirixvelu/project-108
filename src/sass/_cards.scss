@@ -1,7 +1,23 @@
-// Flexible Aside
-.side {
-  display: grid;
-  grid-template-columns: fit-content(20ch) minmax(min(50vw, 30ch), 1fr);
+// Responsive Aside
+.flex-aside {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 50rem;
+  border-radius: 0.15em;
+  margin: var(--spacing-sm) auto;
+
+  > *:nth-child(1) {
+    flex: 1 1 40%; // article maxed at 20rem
+    display: grid;
+    align-self: center;
+    padding-inline: 0.75em;
+  }
+
+  > *:nth-child(2) {
+    flex: 1 1 50%; // image min 320px maxed at 25rem
+    min-width: 20rem;
+    border-radius: 0;
+  }
 }
 
 // Automatic Wrapping

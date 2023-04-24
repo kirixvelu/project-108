@@ -1,0 +1,33 @@
+---
+layout: page
+type: post
+---
+
+<article class="article">
+  <h1>{{ title }}</h1>
+  <i>{{ description }}</i>
+  <br /><br />
+  <small>By {{ author }} | {{ content | emojiReadTime }}</small>
+
+  {{ content | safe }}
+</article>
+<br />
+
+{% set previousPost = collections.news | getPreviousCollectionItem(page) %} {%
+set nextPost = collections.news | getNextCollectionItem(page) %}
+
+<span>
+  {% if previousPost %}
+  <h4>Previous:</h4>
+  <a href="{{ previousPost.url }}"
+    ><i>{{ previousPost.data.title }}</i></a
+  >
+  {% endif %}
+  <br /><br />
+  {% if nextPost %}
+  <h4>Next:</h4>
+  <a href="{{ nextPost.url }}"
+    ><i>{{ nextPost.data.title }}</i></a
+  >
+  {% endif %}
+</span>

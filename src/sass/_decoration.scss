@@ -15,29 +15,21 @@ mark {
   background-color: var(--mark-clr);
 }
 
-article {
-  h1::after {
-    content: "\2726";
-    font-size: 0.75em;
-    margin: 0.25em;
-  }
-}
-
 figcaption {
   text-align: center;
   padding-top: 0.25em;
 }
 
 figcaption::before {
-  content: " \27BD";
+  content: " \27A5";
   color: var(--accent-clr);
   margin-right: 0.25em;
 }
 
 time::before {
-  content: "\262D";
-  font-size: 0.8em;
-  color: black;
+  content: " \262D";
+  font-size: 0.75em;
+  color: var(--theme-clr);
   border: 1px solid;
   padding: 0 0.2em 0 0;
   margin-right: 0.5em;

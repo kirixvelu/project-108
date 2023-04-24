@@ -13,8 +13,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("page", "layouts/page");
   eleventyConfig.addLayoutAlias("search", "layouts/search");
   eleventyConfig.addLayoutAlias("article", "layouts/article");
-  eleventyConfig.addLayoutAlias("vote", "layouts/vote");
-  eleventyConfig.addLayoutAlias("news", "layouts/news");
+  eleventyConfig.addLayoutAlias("report", "layouts/report");
 
   eleventyConfig.addWatchTarget("./src/sass/");
   eleventyConfig.addPassthroughCopy("./src/assets/**/*");

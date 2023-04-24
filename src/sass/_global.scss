@@ -23,8 +23,9 @@ picture {
 // responsive embedding
 .video {
   padding: 1rem;
-  background: green;
+  background: var(--accent-clr);
   border-radius: 0.2em;
+  filter: grayscale(25%);
 
   iframe {
     aspect-ratio: 16 / 9;
