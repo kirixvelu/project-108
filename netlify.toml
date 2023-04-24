@@ -24,6 +24,18 @@ status = 301
 force = true
 
 [[redirects]]
+from = "/help"
+to = "/assist"
+status = 301
+force = true
+
+[[redirects]]
+from = "/support"
+to = "/assist"
+status = 301
+force = true
+
+[[redirects]]
 from = "/post"
 to = "/archives"
 status = 301
