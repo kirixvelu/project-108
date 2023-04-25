@@ -61,9 +61,9 @@ header {
 nav ul {
   display: inline-flex;
   flex-wrap: wrap;
-  font-size: 1.1em;
+  font-size: 1em;
   color: var(--accent-clr);
-  gap: 0.5em;
+  gap: 0.75em;
 }
 
 .nav__item.active {
