@@ -5,9 +5,11 @@ date: 2023-04-25
 author: "Multiple"
 ---
 
-After three years of living with, and responding to, a pandemic, Toronto Public Health is releasing Toronto’s Population Health Profile: Insight on the Health of Our City PDF at a critical time in the City’s history. [Report](https://kiri-vadivelu.ca/assets/docs/Torontos-Population-Health-Profile-2023.pdf).
+After three years of living with, and responding to, a pandemic, Toronto Public Health is releasing Toronto’s Population Health Profile: Insight on the Health of Our City PDF at a critical time in the City’s history.
 
 <!-- excerpt -->
+
+[See Report](https://kiri-vadivelu.ca/assets/docs/Torontos-Population-Health-Profile-2023.pdf)
 
 Building on the comprehensive 2019 T.O. Health Check: An Overview of Toronto’s Population Health Status PDF report, the profile provides the most current health status of our city. It is designed to focus community partners and all levels of government on the complex issues pertaining to the health and well-being of Torontonians.
 
