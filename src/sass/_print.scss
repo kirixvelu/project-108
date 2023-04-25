@@ -6,13 +6,58 @@
   button,
   input,
   textarea {
-    background-color: #fff;
+    background-color: #fff !important;
   }
 
-  button,
+  * {
+    background-image: none !important;
+  }
+
+  @page {
+    margin: 2cm;
+  }
+
+  table {
+    break-inside: avoid !important;
+  }
+
+  body {
+    font: 12pt Georgia, "Times New Roman", Times, serif;
+    line-height: 1.25 !important;
+  }
+
+  header,
+  footer,
+  nav,
+  iframe,
+  audio,
+  video,
+  svg,
   input,
-  textarea {
-    border: 1px solid #000;
+  button {
+    display: none !important;
+  }
+
+  h1 {
+    font-size: 24pt;
+  }
+
+  h2 {
+    font-size: 14pt;
+    margin-top: 25px;
+  }
+
+  img {
+    max-width: 600px;
+  }
+
+  li {
+    content: "» ";
+  }
+
+  blockquote,
+  ul {
+    margin: 0;
   }
 
   body,
@@ -20,30 +65,26 @@
   h2,
   h3,
   h4,
-  button,
-  input,
+  h5,
+  h6,
+  a,
   textarea,
   footer,
   summary,
   strong {
-    color: #000;
+    color: #000 !important;
   }
 
   summary::marker {
-    color: #000;
+    color: #000 !important;
   }
 
   summary::-webkit-details-marker {
-    color: #000;
+    color: #000 !important;
   }
 
   tbody tr:nth-child(even) {
     background-color: #f2f2f2;
-  }
-
-  a {
-    color: #00f;
-    text-decoration: underline;
   }
 
   a[href]:after {
