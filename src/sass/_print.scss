@@ -26,6 +26,7 @@
     line-height: 1.25 !important;
   }
 
+  h1,
   header,
   footer,
   nav,
@@ -36,10 +37,6 @@
   input,
   button {
     display: none !important;
-  }
-
-  h1 {
-    font-size: 24pt;
   }
 
   h2 {

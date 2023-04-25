@@ -490,7 +490,7 @@ h3,
 h4,
 h5 {
   font-weight: 600;
-  line-height: 1.15;
+  line-height: 1.1;
   font-family: var(--serif);
   word-wrap: break-word;
   margin-bottom: 0.5em;
@@ -941,7 +941,8 @@ nav ul {
   margin-top: 1.75em;
 }
 
-.article__preview h2 {
+.article__preview h2,
+.article__preview p {
   margin-top: 0;
 }
 
@@ -1436,6 +1437,7 @@ progress {
     font: 12pt Georgia, "Times New Roman", Times, serif;
     line-height: 1.25 !important;
   }
+  h1,
   header,
   footer,
   nav,
@@ -1446,9 +1448,6 @@ progress {
   input,
   button {
     display: none !important;
-  }
-  h1 {
-    font-size: 24pt;
   }
   h2 {
     font-size: 14pt;
