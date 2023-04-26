@@ -1,0 +1,17 @@
+<ul class="article__list">
+  {% for article in articles | reverse %}
+  <li class="article__item">
+    <article class="article__preview">
+      <small>
+        <time>{{ article.data.date | readableDate }}</time>
+        <a class="category" href="/{{ article.data.tags }}/">{{
+          article.data.tags
+        }}</a>
+      </small>
+      <p>
+        <a href="{{ article.url | url }}">{{ article.data.title }}</a>
+      </p>
+    </article>
+  </li>
+  {% endfor %}
+</ul>
