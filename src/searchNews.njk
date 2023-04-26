@@ -1,0 +1,21 @@
+---
+layout: search
+permalink: /search/
+title: Collection of News Release
+description: "Municipal Socialist Alliance Mayor Campaign and Press Releases"
+pagination:
+  data: collections.news
+  size: 25
+  alias: articles
+---
+
+<h1 class="center">{{ title }}</h1>
+<br />
+<div class="field">
+  <label for="searchField"></label>
+  <input type="search" placeholder="Type to search..." id="searchField" />
+</div>
+<ol id="searchResults"></ol>
+<div id="noResultsFound" style="display: none">
+  <p>No results found.</p>
+</div>
