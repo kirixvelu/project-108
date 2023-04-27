@@ -11,9 +11,9 @@ Today, Toronto Public Health (TPH) released data related to the deaths of people
 
 People experiencing homelessness are at increased risk of dying prematurely. The median age of death of people experiencing homelessness in 2022 was 55 years of age for males and 42 years of age for females. For comparison, the median age for the general population in Toronto is 79 years of age for males and 84 years of age for females.
 
-Drug toxicity is the leading cause of death for people experiencing homelessness in Toronto in 2022, resulting in approximately half – or 47 per cent – of reported deaths in this population. This is slightly lower than the 52 per cent reported in 2020 and the 59 per cent reported in 2021. The cause of death is unknown or pending in 29 per cent of cases, therefore deaths due to drug toxicity may rise when pending coroner reports are received. The o
+Drug toxicity is the leading cause of death for people experiencing homelessness in Toronto in 2022, resulting in approximately half – or 47 per cent – of reported deaths in this population. This is slightly lower than the 52 per cent reported in 2020 and the 59 per cent reported in 2021. The cause of death is unknown or pending in 29 per cent of cases, therefore deaths due to drug toxicity may rise when pending coroner reports are received.
 
-ther leading causes of death for people experiencing homelessness include cardiovascular disease (10 per cent), cancer (5 per cent), unintentional injuries (4 per cent) and suicide (3 per cent).
+The other leading causes of death for people experiencing homelessness include cardiovascular disease (10 per cent), cancer (5 per cent), unintentional injuries (4 per cent) and suicide (3 per cent).
 Data is collected from three primary sources (these sets of data are analyzed to rule out duplications):
 
 - Participating agencies who serve the homeless and under-housed communities

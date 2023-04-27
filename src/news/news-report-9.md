@@ -17,4 +17,4 @@ Paavo I and Paavo II were therefore specifically targeted at long-term homelessn
 
 The chapter describes the strategy, the context in which it arose, the successes that have been achieved and the challenges that still face Finland.
 
-Retrieved from [Homeless Hub](https://www.homelesshub.ca/resource/42-strategic-response-homelessness-finland-exploring-innovation-and-coordination-within)
+Retrieved from [Homeless Hub](https://homelesshub.ca/resource/42-strategic-response-homelessness-finland-exploring-innovation-and-coordination-within)

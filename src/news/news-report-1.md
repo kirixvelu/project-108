@@ -9,6 +9,8 @@ The Gardiner Expressway has long been a feature of Toronto' s transportation hor
 
 <!-- excerpt -->
 
+See leaflet [PDF](https://kiri-vadivelu.ca/assets/docs/socialist_mayor_leaflet_gardiner.pdf)
+
 Kiri Vadivelu, the Municipal Socialist Alliance candidate for mayor, says “it is time to tear down this blight and construct a pedestrian and bike friendly boulevard -- instead of investing billions more dollars to repair the Gardiner Expressway. We can follow the example of leading European cities. Toronto needs to reduce its emissions from vehicular traffic and to increase greenspace to fight climate change.”
 
 Sunk costs are said to be $550 million dollars according to a recent staff report. The total construction bill to rebuild sections of the Gardiner Expressway is $1.89 billion according to the report.
