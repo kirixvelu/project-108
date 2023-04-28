@@ -1,5 +1,5 @@
 ---
-title: "City of Toronto: Annual Financial Report 2021"
+title: "Toronto: Annual Financial Report 2021"
 description: "City of Toronto: Annual Financial Report 2021"
 date: 2022-07-19
 author: "Multiple"
