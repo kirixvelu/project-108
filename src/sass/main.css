@@ -431,7 +431,6 @@ picture {
   border-radius: 0.2em;
   filter: grayscale(25%);
 }
-
 .video iframe {
   aspect-ratio: 16/9;
   width: 100%;
@@ -622,7 +621,6 @@ small {
   --step-4: clamp(3.16rem, calc(2.63rem + 2.63vw), 4.74rem);
   --step-5: clamp(4.21rem, calc(3.51rem + 3.51vw), 6.31rem);
 }
-
 :root img {
   filter: brightness(1.01) contrast(1.1);
 }
@@ -670,12 +668,10 @@ small {
   text-decoration: none;
   text-underline-offset: 0.25em;
 }
-
 :where(a):hover, :where(a):focus-visible {
   color: var(--link-clr-hover);
   text-decoration: underline;
 }
-
 :where(a):visited {
   color: var(--link-clr);
 }
@@ -703,7 +699,6 @@ input[type=button] {
   background-color: transparent;
   transition: all 250ms ease-in-out;
 }
-
 .button:hover, .button:focus-visible,
 button:hover,
 button:focus-visible,
@@ -724,7 +719,6 @@ button.dark,
   color: var(--text-clr);
   background-color: var(--background-clr);
 }
-
 button.dark:hover, button.dark:focus-visible,
 .button.dark:hover,
 .button.dark:focus-visible {
@@ -736,7 +730,6 @@ button.light,
   color: var(--text-clr);
   background-color: var(--neutral-clr);
 }
-
 button.light:hover, button.light:focus-visible,
 .button.light:hover,
 .button.light:focus-visible {
@@ -748,7 +741,6 @@ button.theme,
   color: var(--text-clr);
   background-color: var(--theme-clr);
 }
-
 button.theme:hover, button.theme:focus-visible,
 .button.theme:hover,
 .button.theme:focus-visible {
@@ -760,7 +752,6 @@ button.accent,
   color: var(--text-clr);
   background-color: var(--accent-clr);
 }
-
 button.accent:hover, button.accent:focus-visible,
 .button.accent:hover,
 .button.accent:focus-visible {
@@ -892,7 +883,6 @@ footer {
   margin-top: auto;
   padding-inline: 1rem;
 }
-
 footer p,
 footer span {
   font-size: 90%;
@@ -915,7 +905,6 @@ header {
   padding-inline: 1rem;
   padding-block: 0.5em;
 }
-
 header .logo,
 header a:link,
 header a:visited {
@@ -966,11 +955,9 @@ article .category {
   border-inline: 1px solid;
   line-height: 1;
 }
-
 article .category:hover {
   text-decoration: underline;
 }
-
 article small {
   display: inline-block;
   margin-bottom: 0.5em;
@@ -982,13 +969,11 @@ a:visited {
   text-underline-offset: 0.25em;
   text-decoration: none;
 }
-
 a:link:hover, a:link:focus,
 a:visited:hover,
 a:visited:focus {
   text-decoration: underline;
 }
-
 a:link:active,
 a:visited:active {
   color: var(--accent-clr);
@@ -1024,7 +1009,6 @@ ol {
   list-style: lower-roman;
   list-style-position: inside;
 }
-
 ol li {
   margin-bottom: 0.5em;
 }
@@ -1054,14 +1038,12 @@ object {
   border-radius: 0.15em;
   margin: var(--spacing-sm) auto;
 }
-
 .flex-aside > *:nth-child(1) {
   flex: 1 1 40%;
   display: grid;
   align-self: center;
   padding-inline: 0.75em;
 }
-
 .flex-aside > *:nth-child(2) {
   flex: 1 1 50%;
   min-width: 20rem;
@@ -1161,7 +1143,6 @@ main p {
   display: grid;
   place-items: center;
 }
-
 .intro h2,
 .intro h3 {
   margin-bottom: 0.25em;
@@ -1185,7 +1166,6 @@ blockquote {
   margin-inline: auto;
   text-align: center;
 }
-
 blockquote strong {
   color: var(--accent-clr);
 }
