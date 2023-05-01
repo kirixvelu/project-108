@@ -806,23 +806,20 @@ a[href^="https://"]:hover::after {
   content: "➚";
 }
 
-a[href^="https://"]::before {
-  content: "🌐";
+main a[href^="https://"]::before {
+  content: "🌐 ";
+  font-size: 0.7em;
 }
-
-a[href^=mailto]::before {
-  content: " 📧";
+main a[href^=mailto]::before {
+  content: " 📧 ";
 }
-
-a[href^=tel]::before {
-  content: "☎";
+main a[href^=tel]::before {
+  content: "☎ ";
 }
-
-a[href$=".pdf"]::before {
-  content: "📖";
+main a[href$=".pdf"]::before {
+  content: "📖 ";
 }
-
-a[href$=".pdf"]:hover::after {
+main a[href$=".pdf"]:hover::after {
   content: "⇲";
 }
 

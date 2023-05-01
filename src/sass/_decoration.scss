@@ -42,25 +42,28 @@ a[href^="https://"]:hover::after
   content: "\279A";
 }
 
-a[href^="https://"]::before
-{
-  content: "\🌐";
-}
+main {
+  a[href^="https://"]::before
+  {
+    content: "\🌐 ";
+    font-size: 0.7em;
+  }
 
-a[href^="mailto"]::before {
-  content: " \📧";
-}
+  a[href^="mailto"]::before {
+    content: " \📧 ";
+  }
 
-a[href^="tel"]::before {
-  content: "\☎";
-}
+  a[href^="tel"]::before {
+    content: "\☎ ";
+  }
 
-a[href$=".pdf"]::before {
-  content: "\📖";
-}
+  a[href$=".pdf"]::before {
+    content: "\📖 ";
+  }
 
-a[href$=".pdf"]:hover::after {
-  content: "\21F2";
+  a[href$=".pdf"]:hover::after {
+    content: "\21F2";
+  }
 }
 
 .article__list {
