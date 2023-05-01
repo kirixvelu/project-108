@@ -42,12 +42,21 @@ a[href^="https://"]:hover::after
   content: "\279A";
 }
 
+a[href^="https://"]::before
+{
+  content: "\🌐";
+}
+
 a[href^="mailto"]::before {
-  content: "\2709";
+  content: " \📧";
 }
 
 a[href^="tel"]::before {
-  content: "\260F";
+  content: "\☎";
+}
+
+a[href$=".pdf"]::before {
+  content: "\📖";
 }
 
 a[href$=".pdf"]:hover::after {
