@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Kiri Vadivelu | News Releases"
-description: "Latest news of Municipal Socialist Alliance mayor campaign"
+description: "Latest news of Municipal Socialist Alliance Mayoral Campaign"
 eleventyNavigation:
   key: news
   order: 4
@@ -11,13 +11,13 @@ pagination:
   alias: articles
 ---
 
-<h3 class="center">Latest News Releases</h3>
+<h1>News Releases</h1>
+<i class="center">{{ description }}</i>
 <br />
-{% include "./_includes/components/newsList.njk" %}
-
-<br />
-
-<h3>
+<center>
   <a href="/news-archives">All News Releases</a> |
   <a href="/search">Quick Search</a>
-</h3>
+</center>
+
+<br />
+{% include "./_includes/components/newsList.njk" %}
