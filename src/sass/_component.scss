@@ -27,13 +27,11 @@ p + p {
 blockquote {
   padding: 0.25em;
   font-size: var(--step-0);
-  width: min(100%, 30rem);
   border-radius: 0.25em;
   line-height: 1;
   margin-bottom: 0.5em;
   margin-inline: auto;
   text-align: center;
-  box-sizing: border-box;
 
   strong {
     color: var(--accent-clr);

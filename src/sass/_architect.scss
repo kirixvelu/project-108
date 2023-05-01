@@ -26,14 +26,6 @@ main {
   flex: 0 1 100%;
 }
 
-.main {
-  display: flex;
-  flex-direction: column;
-  margin-inline: auto;
-  width: min(100% - 2rem, 50rem);
-  padding-block: var(--spacing);
-}
-
 header {
   background: var(--theme-clr);
   padding-inline: 1rem;
@@ -44,6 +36,20 @@ header {
   a:visited {
     color: var(--accent-clr);
   }
+}
+
+.header,
+.main,
+.footer {
+  box-sizing: inherit;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  margin-inline: auto;
+  width: min(100% - 2rem, 50rem);
+  padding-block: var(--spacing);
 }
 
 .header,
