@@ -33,6 +33,7 @@ blockquote {
   margin-bottom: 0.5em;
   margin-inline: auto;
   text-align: center;
+  box-sizing: border-box;
 
   strong {
     color: var(--accent-clr);
