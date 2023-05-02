@@ -45,6 +45,14 @@ strong {
 q {
   font-size: var(--step-0);
   font-family: monospace;
+  padding: 2em;
+}
+
+.quotes {
+  max-width: 40rem;
+  padding-block: 1em;
+  padding-inline: 2em;
+  border-left: 2px solid var(--accent-clr);
 }
 
 section {
