@@ -8,12 +8,22 @@ type: post
   <center>
     <h5>{{ description }}</h5>
   </center>
-  <br /><br />
+  <br />
   <small> {{ content | emojiReadTime }} | By {{ author }} </small><br />
   {{ content | safe }}
 </article>
-<br />
 
+<p class="right">
+  For more information, please contact
+  <strong>Municipal Socialist Alliance (MSA)</strong>
+  <br />
+  <a href="tel:647-986-1917">Call: 647-986-1917</a> |
+  <a href="mailto: municipalsocialistalliance@gmail.com"
+    >Email: municipalsocialistalliance@gmail.com</a
+  >
+</p>
+<br />
+<hr />
 {% set previousPost = collections.news | getPreviousCollectionItem(page) %} {%
 set nextPost = collections.news | getNextCollectionItem(page) %}
 

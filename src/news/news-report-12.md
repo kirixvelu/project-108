@@ -17,11 +17,3 @@ Back again, live and in-person at The Free Times Cafe after a three-year hiatus,
 The packed gathering featured speakers John Clarke, Dirka Prout, PSAC local president Alex Solis, Joel Usher (OPSEU Executive Board member), Skyler Williams (1492 Land Back Lane), Barry Weisleder and Kiri Vadivelu. Performers included Jon Brooks, Lynn Harrison, Layla Staats, renowned poets George Elliot Clarke and Giovanna Riccio, Jim Layeux, Vanessa Wang, Honey Novick, and Jon Sanderson. The crowd bought scores of tickets for a raffle of wonderful prizes that included Cuban rum and cigars, two books by Linda McQuaig, an historic Russian Revolution poster, an SA T-shirt, and CDs by Bill Heffernan and his musical friends. Folks visited an SA display of books, booklets and political buttons in an adjoining room.
 
 A recording of the SA May Day celebration will be posted on YouTube, thanks to videographer Sean Cain, editor of Turn Left, the NDP Socialist Caucus magazine. Check for the link at: [Youtube](https://www.youtube.com/@socialistcanada/videos).
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

@@ -27,11 +27,3 @@ As provincial and municipal figures move to fund policing, many organizations ar
 Food banks are unable to meet needs, shelters are turning away some 160 people a day, yet there is money for even more police. There is always more funding for police. When communities are asked, they have requested more community centres, public mental health workers and barriers on TTC platforms to prevent falls and patrons being pushed onto subway tracks. Despite this, Toronto's mayor and Ontario Premier Rob Ford enriched the police budget, which will further the cycle of violence, profiling, and criminalization of the poor and unsheltered. It is clear Mayor John Tory takes his orders from business leaders, from the police and TTC, rather than from the working class of Toronto.
 
 It is clear that fare enforcement does not work, and that a rise in violence is a result of several factors. They include the recent CoVid-19 pandemic and its effects on the already impoverished, and the lack of mental health care and accessible housing. These causes are directly tied to violence, which will not be erased by heightening the oppression of marginalized city residents with a demonstrably violent police force. Given the lack of safe housing, warming centres and the eviction of tent encampments, more funding of the very institutions that worsen homelessness, poverty and the effects of disAbility for employment is sure to make matters only worse.
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

@@ -50,11 +50,3 @@ Several past and present MPs and city councilors are running for Toronto mayor, 
 Struggle decides, not the law. Fortunately, there is a working class radical alternative to the same-old, same-old. I represent a united front of social justice activists and the left, the Municipal Socialist Alliance. We are building a grassroots movement for revolutionary change. We strive for a Workers’ Government at every level -- a vital step towards the socialist transformation of society.
 
 Join us. Vote Socialist. Vote Kiri Vadivelu for mayor!
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

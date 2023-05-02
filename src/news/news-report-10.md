@@ -24,11 +24,3 @@ In 1998, PLO leader and Palestinian Authority President Yasser Arafat proposed t
 Nakba 75 Action is offered as a public action resource to individuals and groups around the globe to encourage commemoration of the Nakba’s 75th anniversary with powerful and respectful events. It is important that our perspective and work not be limited to one day – Nakba Day/May 15 – but to use the entire year to educate and act in solidarity with Palestine.
 
 Retrieved from [CJPME Press](https://www.cjpme.org/press_releases)
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

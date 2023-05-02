@@ -17,11 +17,3 @@ Until recently, for a motion to carry at Toronto city council, a majority vote i
 The Municipal Socialist Alliance contends that the threat to democracy is greater than the chance that the Act will result in less homelessness. The Act takes power away from duly elected City Councilors, giving it to the mayor and his supporters. It allows the mayor to appoint managers (who may be his cronies), rather than council choosing from well trained public service employees.
 
 The Better Municipal Governance Act is not necessary. Indeed, its risks far outweigh any benefits. There are better ways to reduce homelessness. Stronger rent controls, building more social housing, stopping speculative purchases, even expropriation of vacant units would contribute to reduction in the number of unhoused people. This could be accomplished without the legislation that transforms the municipal government into a body with fewer checks and balances, more open to cronyism and abuses of power. The MSA is committed to more power for working class, racialized and impoverished residents, including by means of a participatory budgeting process based on local popular assemblies with the power to shape city finances.
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

@@ -20,11 +20,3 @@ Target the profits of giant corporations such as telecoms, big banks, and superm
 
 Vadivelu, 39, a founder of the Scarborough Tenants Union, states that "The Ford government removed development charges, allowing rich landlords and land developers to make exorbitant profits while draining the city coffers. Reinstate and increase the development fees to fund city infrastructure, and more.
 Cancel all fares and fees for basic services such as public transit, water, garbage collection and recreation. By doing so, we can support those in need and make sure that everyone has access to essential services."
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

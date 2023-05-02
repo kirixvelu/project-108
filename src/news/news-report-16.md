@@ -19,11 +19,3 @@ While most residents who addressed the recent Police Board hearing called for me
 Only months after Toronto Police admitted to subjecting Toronto's Black, Indigenous and racialized people to a disproportionate use of force, the Board decided to increase policing without addressing its failure to reverse the harm it has caused for so long. Many see this as a step towards furthering criminalization and micro policing of poor and marginalized people.
 
 The Municipal Socialist Alliance stands with the many negatively affected communities in rejecting the proposed police budget as worse than a band aid solution to violence in Toronto. We oppose shoving the money of hard working taxpayers into the maw of a violent and bigoted institution.”
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

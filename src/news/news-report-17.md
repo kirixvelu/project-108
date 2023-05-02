@@ -30,11 +30,3 @@ Your friend and comrade,
 
 Tom Baker,
 Cc. NDP Socialist Caucus Steering Committee.
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

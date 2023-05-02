@@ -17,11 +17,3 @@ The financial reports includes the City’s consolidated financial statements an
 [See Report](https://kiri-vadivelu.ca/assets/docs/City-of-Toronto-Financial-Report-2021.pdf)
 
 Media Relations, Toronto Public Health, Email: tphmedia@toronto.ca
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>

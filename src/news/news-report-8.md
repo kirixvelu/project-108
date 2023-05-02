@@ -59,11 +59,3 @@ It's 5.5 million, so it's not a big country, but I would say that in the last 10
 What advice would you have for people here in London?
 
 The most important thing is that there's a long-term plan on how to provide the needed affordable social housing. Without that, homelessness is a mission impossible. Shelters should be for very short stays, and there should always be a route forward out of shelters.
-
----
-
-<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
-<br />
-<a href="tel:647-986-1917">Call: 647-986-1917</a> |
-<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
-</p>
