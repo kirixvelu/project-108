@@ -1,13 +1,20 @@
 // Fluid typography (Utopia)
+html,
+body {
+  font-size: var(--step-0);
+  font-family: var(--sans);
+  line-height: 1.35;
+}
+
 h2,
 h3,
 h4,
 h5 {
-  font-weight: 600;
-  line-height: 1.1;
+  font-weight: 400;
+  line-height: 1;
   font-family: var(--serif);
   word-wrap: break-word;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
 }
 
 // Logo
@@ -66,7 +73,6 @@ footer a {
 
 // viewport 320 to 1280, font 16 to 24, scale 1.333
 p {
-  font-size: var(--step-0);
   margin-bottom: 0.5em;
 }
 
@@ -76,7 +82,7 @@ p:first-of-type {
 
 h2 {
   font-size: var(--step-2);
-  font-weight: 600;
+  font-weight: 400;
 }
 
 h3 {
@@ -85,12 +91,12 @@ h3 {
 }
 
 h4 {
-  font-size: var(--step--1);
+  font-size: var(--step-0);
   text-transform: uppercase;
 }
 
 h5 {
-  font-size: var(--step--1);
+  font-size: var(--step-0);
   text-transform: uppercase;
   color: var(--accent-clr);
   letter-spacing: 2px;

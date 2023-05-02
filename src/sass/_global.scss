@@ -1,13 +1,7 @@
 // Global Styling
-ul {
-  margin-inline-start: 0;
-  padding-inline-start: 0;
-}
-
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
-  line-height: 1.25;
 }
 
 a:not([class]) {
@@ -18,6 +12,11 @@ img,
 picture {
   max-width: 100%;
   display: block;
+}
+
+ul {
+  margin-inline-start: 0;
+  padding-inline-start: 0;
 }
 
 // responsive embedding
@@ -39,7 +38,7 @@ strong {
 }
 
 .bold {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 q {

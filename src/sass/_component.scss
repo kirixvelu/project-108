@@ -44,7 +44,7 @@ blockquote p {
 
 cite {
   display: block;
-  font-size: var(--step-1);
+  font-size: var(--step--1);
   text-align: right;
 }
 
@@ -140,6 +140,7 @@ details {
 summary {
   display: list-item;
   font-weight: 700;
+  font-size: var(--step--1);
   cursor: pointer;
   outline: none;
   color: var(--accent-clr);
@@ -150,7 +151,7 @@ details summary::after,
 details[open] summary::before,
 details[open] summary::after {
   position: absolute;
-  top: 0.5em;
+  top: 1em;
   right: 1em;
   color: var(--neutral-clr-dark);
 }
@@ -161,7 +162,7 @@ details[open] summary {
 }
 
 details summary::before {
-  content: "open";
+  content: "+";
 }
 
 details summary::after,
@@ -170,5 +171,5 @@ details[open] summary::after {
 }
 
 details[open] summary::before {
-  content: "close";
+  content: "-";
 }
