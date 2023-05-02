@@ -39,21 +39,21 @@ header {
 .main,
 .footer {
   box-sizing: inherit;
+  margin-inline: auto;
 }
 
 .main {
   display: flex;
   flex-direction: column;
-  margin-inline: auto;
-  width: min(100% - 2rem, 1280px);
   padding-block: var(--spacing);
+  width: min(100% - 2rem, 1280px);
 }
 
 .header,
 .footer {
   display: flex;
+  max-width: 1500px;
   justify-content: space-between;
-  width: min(100% - 2rem, 1600px);
 }
 
 .footer {
