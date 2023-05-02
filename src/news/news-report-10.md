@@ -9,6 +9,11 @@ The Nakba (Arabic for “catastrophe”) is the destruction of Palestinian socie
 
 <!-- excerpt -->
 
+<figure>
+{% image "src/assets/images/news-palestine-fleeing.jpg", "Palestinians Forced to Flee after Israel Occupation", "image", [540, 1080] %}
+<figcaption>Palestinians Forced to Flee after Israel Occupation | © Kiri Vadivelu</figcaption>
+</figure>
+
 In 2023, it will be 75 years since the initial acts of dispossession and violence faced by the Palestinian people. Today, Palestinians in Israel live as second-class citizens, those in East Jerusalem and the West Bank live a daily nightmare of occupation, colonization and apartheid, and the Palestinians in Gaza live under a devastating blockade and occupation.
 There are many tragic elements to the Nakba, including the fact that 78% of Mandatory Palestine was incorporated into the state of Israel, with the remaining 22% currently suffering under Israeli military occupation. During the Nakba, 700,000 Palestinians also became refugees, had to flee to neighbouring areas, and were never given the opportunity to return. The Nakba also embodies the fact that Israel depopulated and destroyed over 500 Palestinian villages.
 

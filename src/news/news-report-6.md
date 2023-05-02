@@ -1,6 +1,6 @@
 ---
-title: "Toronto’s Population Health Profile: Insight on the Health of Our City 2023"
-description: "Toronto’s Population Health Profile: Insight on the Health of Our City 2023"
+title: "Toronto’s Population Health Profile Insight in 2023"
+description: "Toronto’s Population Health Profile Insight in 2023"
 date: 2023-04-25
 author: "Multiple"
 ---
@@ -8,6 +8,11 @@ author: "Multiple"
 After three years of living with, and responding to, a pandemic, Toronto Public Health is releasing Toronto’s Population Health Profile: Insight on the Health of Our City PDF at a critical time in the City’s history.
 
 <!-- excerpt -->
+
+<figure>
+{% image "src/assets/images/news-health-profile.jpg", "Toronto’s Population Health Profile, 2023", "image", [540, 1080] %}
+<figcaption>Toronto’s Population Health Profile, 2023 | © Kiri Vadivelu</figcaption>
+</figure>
 
 [See Report](https://kiri-vadivelu.ca/assets/docs/Torontos-Population-Health-Profile-2023.pdf)
 

@@ -10,7 +10,7 @@ On April 13, Toronto Police marked the second anniversary of the release of the 
 <!-- excerpt -->
 
 <figure>
-{% image "src/assets/images/news-police.jpg", "Failure of the Police, 2023", "image", [540, 1080] %}
+{% image "src/assets/images/news-failing-police.jpg", "Failure of the Police, 2023", "image", [540, 1080] %}
 <figcaption>Failure of the Police, 2023 | © Kiri Vadivelu</figcaption>
 </figure>
 

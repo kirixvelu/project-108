@@ -9,6 +9,11 @@ Low-income homeowners pay five times more in property taxes relative to their in
 
 <!-- excerpt -->
 
+<figure>
+{% image "src/assets/images/news-corporate-welfare.jpg", "Rise of Corporate Welfare, 2023", "image", [540, 1080] %}
+<figcaption>Rise of Corporate Welfare, 2023 | © Kiri Vadivelu</figcaption>
+</figure>
+
 The working poor should be provided with income-based property tax credits. To support those in need, such as low-income seniors and people with disabilities, their property taxes should be deferred until they sell their property.
 
 Target the profits of giant corporations such as telecoms, big banks, and supermarket chains, and heavily tax them, along with other members of the corporate elite. Tax churches, temples, synagogues and mosques.

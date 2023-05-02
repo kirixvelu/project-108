@@ -1,6 +1,6 @@
 ---
-title: Toronto Public Health releases 2022 data for deaths of people experiencing homelessness
-description: Toronto Public Health releases 2022 data for deaths of people experiencing homelessness
+title: Toronto Public Health 2022 - Deaths of People Experiencing Homelessness
+description: Toronto Public Health 2022 - Deaths of People Experiencing Homelessness
 date: 2023-03-17
 author: "Multiple"
 ---
@@ -8,6 +8,11 @@ author: "Multiple"
 Today, Toronto Public Health (TPH) released data related to the deaths of people experiencing homelessness in 2022. Overall, homelessness continues to negatively impact health outcomes of individuals, resulting in 187 reported deaths in 2022. This total is lower than the 223 deaths reported in 2021 but remains higher than the 128 deaths reported before the COVID-19 pandemic in 2019.
 
 <!-- excerpt -->
+
+<figure>
+{% image "src/assets/images/news-homeless-death.jpg", "Deaths of People Experiencing Homelessness", "image", [540, 1080] %}
+<figcaption>Deaths of People Experiencing Homelessness | © Kiri Vadivelu</figcaption>
+</figure>
 
 People experiencing homelessness are at increased risk of dying prematurely. The median age of death of people experiencing homelessness in 2022 was 55 years of age for males and 42 years of age for females. For comparison, the median age for the general population in Toronto is 79 years of age for males and 84 years of age for females.
 

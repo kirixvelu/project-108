@@ -10,7 +10,7 @@ The Gardiner Expressway has long been a feature of Toronto' s transportation hor
 <!-- excerpt -->
 
 <figure>
-{% image "src/assets/images/news-gardiner.jpg", "Gardiner Expressway, 2023", "image", [540, 1080] %}
+{% image "src/assets/images/news-gardiner-expressway.jpg", "Gardiner Expressway, 2023", "image", [540, 1080] %}
 <figcaption>Gardiner Expressway, 2023 | © Kiri Vadivelu</figcaption>
 </figure>
 

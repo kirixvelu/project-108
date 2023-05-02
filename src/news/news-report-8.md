@@ -1,6 +1,6 @@
 ---
-title: "London wants to eradicate homelessness. Here's how Finland is doing it"
-description: "London wants to eradicate homelessness. Here's how Finland is doing it"
+title: "London Wants to Eradicate Homelessness. Here's How Finland is Doing It"
+description: "London Wants to Eradicate Homelessness. Here's How Finland is Doing It"
 date: 2023-01-28
 author: "Multiple"
 ---
@@ -8,6 +8,11 @@ author: "Multiple"
 The country's government says it saves approximately $21K on each person housed.
 
 <!-- excerpt -->
+
+<figure>
+{% image "src/assets/images/news-ending-homelessness.jpg", "Finland is Ending Homelessness, 2023", "image", [540, 1080] %}
+<figcaption>Finland is Ending Homelessness, 2023 | © Kiri Vadivelu</figcaption>
+</figure>
 
 [See CBC Report](https://cbc.ca/news/canada/london/london-wants-to-eradicate-homelessness-here-s-how-finland-is-doing-it-1.6728398#:~:text=Since%20several%20years%2C%20homelessness%20has,our%20own%20housing%2Dfirst%20model.)
 

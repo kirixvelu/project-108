@@ -9,6 +9,11 @@ Hundreds braved persistent cool showers to celebrate International Workers' Day 
 
 <!-- excerpt -->
 
+<figure>
+{% image "src/assets/images/news-may-day-rally.jpg", "May Day Rally Shines on a Rainy April, 2023", "image", [540, 1080] %}
+<figcaption>May Day Rally Shines on a Rainy April, 2023 | © Kiri Vadivelu</figcaption>
+</figure>
+
 Hosted by the Labour May Day Committee, a coalition of dozens of unions, leftist parties and international solidarity campaigns, featured speakers from the Ontario Federation of Labour, Amalgamated Transit Union Local 113, the Ontario Public Service Employees' Union, the Indigenous liberation cause, the Naujawan Support Network, the Palestine Youth Movement, the Communist Workers' Circle and Socialist Action. The CUPE Choir sang The Internationale.
 
 Introduced by rally co-chair Elizabeth Byce, speakers for the largest political contingent were Socialist Action federal secretary Barry Weisleder, and the Municipal Socialist Alliance candidate for Toronto mayor Kiri Vadivelu.

@@ -10,7 +10,7 @@ The Municipal Socialist Alliance says 'NO' to the proposed increase to the Toron
 <!-- excerpt -->
 
 <figure>
-{% image "src/assets/images/news-police-budget.jpg", "TTC Constables will not Increase Public Safety", "image", [540, 1080] %}
+{% image "src/assets/images/news-police-budget.jpg", "No Increase to the Toronto Police Budget", "image", [540, 1080] %}
 <figcaption>No Increase to the Toronto Police Budget | © Kiri Vadivelu</figcaption>
 </figure>
 

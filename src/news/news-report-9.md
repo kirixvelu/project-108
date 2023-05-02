@@ -1,6 +1,6 @@
 ---
-title: Exploring Innovation and Coordination within a National Plan to Reduce and Prevent Homelessness
-description: Exploring Innovation and Coordination within a National Plan to Reduce and Prevent Homelessness
+title: Exploring National Plan to Reduce and Prevent Homelessness
+description: Exploring National Plan to Reduce and Prevent Homelessness
 date: 2023-04-09
 author: "Multiple"
 ---
@@ -8,6 +8,11 @@ author: "Multiple"
 The strategy focused heavily on long-term homelessness, with targets to halve levels by 2011 and to eliminate long-term homelessness by 2015.
 
 <!-- excerpt -->
+
+<figure>
+{% image "src/assets/images/news-preventing-homelessness.jpg", "Reduce and Prevent Homelessness, 2023", "image", [540, 1080] %}
+<figcaption>Reduce and Prevent Homelessness, 2023 | © Kiri Vadivelu</figcaption>
+</figure>
 
 [See Full Text](https://kiri-vadivelu.ca/assets/docs/Exploring-Effective-Systems-Responses-to-Homelessness.pdf)
 
