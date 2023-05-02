@@ -1158,9 +1158,13 @@ article > img {
 
 article > figure {
   filter: grayscale(5%);
-  background: var(--neutral-clr-dark);
+  background: var(--neutral-clr-light);
   padding: var(--spacing-sm);
   margin-block: var(--spacing);
+}
+
+figcaption {
+  font-size: 80%;
 }
 
 ul {
