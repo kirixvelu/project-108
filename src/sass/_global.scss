@@ -2,6 +2,7 @@
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
+  box-sizing: border-box;
 }
 
 a:not([class]) {
