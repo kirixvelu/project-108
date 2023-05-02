@@ -49,9 +49,9 @@ q {
 }
 
 .quotes {
-  max-width: 50rem;
   padding-block: 1em;
   padding-inline: 2em;
+  margin-inline: auto;
   border-left: 2px solid var(--accent-clr);
 }
 

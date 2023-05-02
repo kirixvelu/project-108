@@ -2,13 +2,14 @@
 .flex-aside {
   display: flex;
   flex-wrap: wrap;
-  max-width: 50rem;
+  font-size: 80%;
+  width: min(100%, 960px);
   border-radius: 0.15em;
   border: 1px solid;
   gap: 0.5em;
   padding-block: 0.5em;
   border-color: var(--accent-clr);
-  margin: var(--spacing-sm) auto;
+  margin-inline: auto;
 
   > *:nth-child(1) {
     flex: 1 1 40%; // article maxed at 20rem
@@ -19,7 +20,7 @@
 
   > *:nth-child(2) {
     flex: 1 1 50%; // image min 320px maxed at 25rem
-    min-width: 20rem;
+    min-width: 15rem;
     border-radius: 0;
   }
 }
