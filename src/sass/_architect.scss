@@ -45,7 +45,7 @@ header {
   display: flex;
   flex-direction: column;
   margin-inline: auto;
-  width: min(100% - 2rem, 50rem);
+  width: min(100% - 2rem, 1280px);
   padding-block: var(--spacing);
 }
 
@@ -53,7 +53,7 @@ header {
 .footer {
   display: flex;
   justify-content: space-between;
-  max-width: 70rem;
+  width: min(100% - 2rem, 1600px);
 }
 
 .footer {
