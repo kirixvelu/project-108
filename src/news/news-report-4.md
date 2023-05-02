@@ -20,4 +20,10 @@ Socialist mayoralty candidate Kiri Vadivelu condemns Toronto Police for patting 
 
 “We know this is a farce” says 37-year old tenant organizer, Kiri Vadivelu. “Marginalized communities disproportionately experience violence at the hands of Toronto Police. Women experiencing domestic violence are consistently ignored, despite their pleas for help and protection. There is an extreme lack of care regarding missing and murdered people working class, queer, and racialized people. The establishment expects that we stay silent as our city becomes increasingly securitized - with the consistent harassment and violence exerted by the Toronto Police towards house-less folk, Toronto police patrolling the TTC, and the $48.3M increase in police budget. We will not fall for the use of buzzwords and attempts to placate us into accepting shallow apologies of the Toronto Police. We will continue to fight injustices in the city; we will continue to protest violence perpetrated by the TPS; we will continue to stand with marginalized communities; and we will continue to call for the city to Defund the Police.”
 
-For more information, please contact **Municipal Socialist Alliance** [(MSA)](https://municipal.socialistalliance.ca/). Direct email: municipalsocialistalliance@gmail.com | phone: 647-986-1917
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>

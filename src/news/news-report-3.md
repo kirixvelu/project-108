@@ -20,4 +20,10 @@ Socialist Solutions to Capitalist Crisis
 
 Kiri and the MSA call for immediate mass social housing construction, expropriation of giant landlords, free public transit, repair our schools, cut the police budget by at least 50%, for a climate justice agenda, replace "strong mayor" powers with a grassroots participatory budget process, and tax big business and the rich. He finished fourth in the 2022 Toronto Ward 21 city councilor election with 1800 votes.
 
-For more information, please contact **Municipal Socialist Alliance** [(MSA)](https://municipal.socialistalliance.ca/). Direct email: municipalsocialistalliance@gmail.com | phone: 647-986-1917
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>

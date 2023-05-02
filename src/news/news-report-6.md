@@ -39,3 +39,11 @@ In summary, the findings of the Population Health Profile include:
 - Infectious diseases will continue to emerge globally, presenting threats to Toronto’s population
 
 Media Relations, Toronto Public Health, Email: tphmedia@toronto.ca
+
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>

@@ -18,4 +18,10 @@ The packed gathering featured speakers John Clarke, Dirka Prout, PSAC local pres
 
 A recording of the SA May Day celebration will be posted on YouTube, thanks to videographer Sean Cain, editor of Turn Left, the NDP Socialist Caucus magazine. Check for the link at: [Youtube](https://www.youtube.com/@socialistcanada/videos).
 
-For more information, please contact **Municipal Socialist Alliance** [(MSA)](https://municipal.socialistalliance.ca/). Direct email: municipalsocialistalliance@gmail.com | phone: 647-986-1917
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>

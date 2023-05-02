@@ -18,4 +18,10 @@ The Municipal Socialist Alliance contends that the threat to democracy is greate
 
 The Better Municipal Governance Act is not necessary. Indeed, its risks far outweigh any benefits. There are better ways to reduce homelessness. Stronger rent controls, building more social housing, stopping speculative purchases, even expropriation of vacant units would contribute to reduction in the number of unhoused people. This could be accomplished without the legislation that transforms the municipal government into a body with fewer checks and balances, more open to cronyism and abuses of power. The MSA is committed to more power for working class, racialized and impoverished residents, including by means of a participatory budgeting process based on local popular assemblies with the power to shape city finances.
 
-For more information, please contact **Municipal Socialist Alliance** [(MSA)](https://municipal.socialistalliance.ca/). Direct email: municipalsocialistalliance@gmail.com | phone: 647-986-1917
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>

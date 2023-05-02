@@ -24,4 +24,10 @@ Even Dillon Consulting, which prepared the report on the Gardiner options regard
 
 The only viable option that embodies livability, park space, environmental sustainability and economic feasibility is the teardown of the Gardiner Expressway. Kiri Vadivelu, 37, the first Tamil-Canadian to run for Toronto mayor, is committed to building a city that is livable and one in which infrastructure development is seen through dual lenses – what is best for the working class of the city, and the need to reduce emissions to fight catastrophic climate change already a threat to life as we know it.
 
-For more information, please contact **Municipal Socialist Alliance** [(MSA)](https://municipal.socialistalliance.ca/). Direct email: municipalsocialistalliance@gmail.com | phone: 647-986-1917
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>

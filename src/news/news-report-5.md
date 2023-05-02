@@ -40,3 +40,11 @@ TPH supports a public health approach to substance use and harm reduction and co
 Toronto is home to more than three million people whose diversity and experiences make this great city Canada’s leading economic engine and one of the world’s most diverse and livable cities. As the fourth largest city in North America, Toronto is a global leader in technology, finance, film, music, culture and innovation, and consistently places at the top of international rankings due to investments championed by its government, residents and businesses.
 
 Media Relations, Toronto Public Health, Email: tphmedia@toronto.ca
+
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>

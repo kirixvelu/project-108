@@ -20,4 +20,10 @@ I immigrated from Sri Lanka as a child, and successfully resisted illegal evicti
 
 The MSA and I call for immediate mass social housing construction, expropriation of giant landlords, and free public transit. We seek repair of our schools, and a cut of the police budget by at least 50%. We demand a climate justice agenda. We call for replacement of the "strong mayor" powers with a grassroots participatory budget process. We insist on steep taxation of the properties of big business and the rich. Ontario Premier Doug Ford says don’t vote for anyone who wants to cut the police budget. We say: Don’t vote for anyone who voted for the police budget. Let’s build community power, working class power, from the bottom up. Organize and fight. Vote Socialist. Vote Kiri Vadivelu for mayor!"
 
-For more information, please contact **Municipal Socialist Alliance** [(MSA)](https://municipal.socialistalliance.ca/). Direct email: municipalsocialistalliance@gmail.com | phone: 647-986-1917
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>

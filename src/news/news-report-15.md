@@ -28,4 +28,10 @@ Food banks are unable to meet needs, shelters are turning away some 160 people a
 
 It is clear that fare enforcement does not work, and that a rise in violence is a result of several factors. They include the recent CoVid-19 pandemic and its effects on the already impoverished, and the lack of mental health care and accessible housing. These causes are directly tied to violence, which will not be erased by heightening the oppression of marginalized city residents with a demonstrably violent police force. Given the lack of safe housing, warming centres and the eviction of tent encampments, more funding of the very institutions that worsen homelessness, poverty and the effects of disAbility for employment is sure to make matters only worse.
 
-For more information, please contact **Municipal Socialist Alliance** [(MSA)](https://municipal.socialistalliance.ca/). Direct email: municipalsocialistalliance@gmail.com | phone: 647-986-1917
+---
+
+<p class="right"> For more information, please contact <strong>Municipal Socialist Alliance (MSA)</strong>
+<br />
+<a href="tel:647-986-1917">Call: 647-986-1917</a> |
+<a href="mailto: municipalsocialistalliance@gmail.com">Email: municipalsocialistalliance@gmail.com</a>
+</p>
