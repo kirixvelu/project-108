@@ -69,13 +69,13 @@
   --curs: "Brush Script MT", "Comic Sans MS", cursive;
 
   /* Typography */
-  --step--1: clamp(0.75rem, calc(0.63rem + 0.63vw), 1.13rem);
-  --step-0: clamp(1rem, calc(0.83rem + 0.83vw), 1.5rem);
-  --step-1: clamp(1.33rem, calc(1.11rem + 1.11vw), 2rem);
-  --step-2: clamp(1.78rem, calc(1.48rem + 1.48vw), 2.67rem);
-  --step-3: clamp(2.37rem, calc(1.97rem + 1.97vw), 3.55rem);
-  --step-4: clamp(3.16rem, calc(2.63rem + 2.63vw), 4.74rem);
-  --step-5: clamp(4.21rem, calc(3.51rem + 3.51vw), 6.31rem);
+  --step--1: clamp(0.94rem, calc(0.91rem + 0.16vw), 1.03rem);
+  --step-0: clamp(1.13rem, calc(1.04rem + 0.42vw), 1.38rem);
+  --step-1: clamp(1.35rem, calc(1.19rem + 0.81vw), 1.83rem);
+  --step-2: clamp(1.62rem, calc(1.35rem + 1.37vw), 2.44rem);
+  --step-3: clamp(1.94rem, calc(1.51rem + 2.19vw), 3.26rem);
+  --step-4: clamp(2.33rem, calc(1.66rem + 3.35vw), 4.34rem);
+  --step-5: clamp(2.8rem, calc(1.8rem + 4.98vw), 5.79rem);
 }
 
 @media (prefers-color-scheme: dark) {
