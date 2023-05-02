@@ -60,6 +60,11 @@ header {
   border-top: 1px solid;
 }
 
+.article {
+  max-width: 75ch;
+  margin-inline: auto;
+}
+
 // applies to both header nav and main category nav
 nav ul {
   display: inline-flex;

@@ -21,6 +21,7 @@ p + p {
 blockquote {
   padding: 0.25em;
   font-size: var(--step-0);
+  border: 1px solid;
   border-radius: 0.25em;
   line-height: 1;
   margin-bottom: 0.5em;
@@ -50,7 +51,7 @@ picture {
   max-width: 100%;
   object-fit: cover;
   margin-inline: auto;
-  border-radius: 0.25em;
+  border-radius: 0.125em;
 }
 
 main > p > img {
@@ -71,7 +72,7 @@ article > figure {
   filter: grayscale(5%);
   background: var(--neutral-clr-dark);
   padding: var(--spacing-sm);
-  margin-bottom: var(--spacing-sm);
+  margin-block: var(--spacing);
 }
 
 // Lists
