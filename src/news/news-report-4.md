@@ -9,6 +9,11 @@ On April 13, Toronto Police marked the second anniversary of the release of the 
 
 <!-- excerpt -->
 
+<figure>
+{% image "src/assets/images/news-police.jpg", "Failure of the Police, 2023", "image", [540, 1080] %}
+<figcaption>Failure of the Police, 2023 | © Kiri Vadivelu</figcaption>
+</figure>
+
 See leaflet [PDF](https://kiri-vadivelu.ca/assets/docs/socialist_mayor_leaflet_police.pdf)
 
 Socialist mayoralty candidate Kiri Vadivelu condemns Toronto Police for patting themselves on the back, despite their sluggish implementation of the 151 recommendations in the report. The Toronto Police would like to appear as if they are atoning for their years of inaction regarding violence experienced by marginalized individuals.
