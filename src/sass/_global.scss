@@ -48,11 +48,15 @@ q {
   padding: 2em;
 }
 
+q:before,
+q:after {
+  content: "";
+}
+
 .quotes {
   padding-block: 1em;
   padding-inline: 2em;
   margin-inline: auto;
-  border-left: 2px solid var(--accent-clr);
 }
 
 section {
