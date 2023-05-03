@@ -1,0 +1,56 @@
+---
+type: page
+meta:
+eleventyComputed:
+  meta:
+    site:
+      name: "{{ meta.title }}"
+      description: "{{ meta.description }}"
+      url: "{{ meta.url }}"
+    title: "{{ title or meta.title }}"
+    description: "{{ description or meta.description }}"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="robots"
+      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    />
+
+    <!-- prefetch -->
+    <link rel="dns-prefetch" href="{{ meta.url | url }}" />
+
+    <!-- generators -->
+    <title>{{ title or meta.title }}</title>
+    <meta name="description" content="{{ description or meta.description }}" />
+    <meta name="generator" content="{{ eleventy.generator }}" />
+
+    <link rel="icon" sizes="48x48" href="{{ '/favicon.ico' | url }}" />
+    <link rel="canonical" href="{{ meta.url + page.url }}" itemprop="url" />
+
+    <!-- metadata -->
+    {% include "../components/meta.njk" %}
+
+    <!-- analytics -->
+    <script defer src="{{ '/assets/js/metric.js' | url }}"></script>
+
+    <!-- inline styles -->
+    {% set css %} {% include "assets/css/main.css" %} {% endset %}
+    <style>
+      {{ css | safe }}
+    </style>
+    <!-- End -->
+  </head>
+  <!-- use class eg. main, section or article, no nesting -->
+  <body>
+    {% include "../components/header.njk" %}
+    <main role="main">
+      {{ content | safe }}
+    </main>
+    {% include "../components/footer.njk" %}
+  </body>
+</html>

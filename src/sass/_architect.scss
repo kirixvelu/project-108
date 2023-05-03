@@ -1,4 +1,4 @@
-// Reserved elements (head, main, footer, section & article)
+// Reserved for theme (header, main, footer, section & article)
 html {
   color: var(--text-clr);
   background-color: var(--background-clr);
@@ -37,16 +37,31 @@ header {
 
 .header,
 .main,
+.section,
+.article,
 .footer {
   box-sizing: inherit;
   margin-inline: auto;
 }
 
 .main {
+  padding-block: var(--spacing);
+}
+
+.main,
+.article,
+.section {
   display: flex;
   flex-direction: column;
-  padding-block: var(--spacing);
+}
+
+.main,
+.section {
   width: min(100% - 2rem, 1280px);
+}
+
+.article {
+  width: min(100% - 2rem, 75ch);
 }
 
 .header,
@@ -58,23 +73,6 @@ header {
 
 .footer {
   border-top: 1px solid;
-}
-
-.article {
-  max-width: 75ch;
-  margin-inline: auto;
-  margin-block: var(--spacing-sm);
-}
-
-.section {
-  max-width: 1280px;
-  margin-inline: auto;
-  margin-block: var(--spacing);
-}
-
-.grid-center {
-  display: grid;
-  place-content: center;
 }
 
 // applies to both header nav and main category nav

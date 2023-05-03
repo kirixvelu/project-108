@@ -21,14 +21,6 @@ a:visited {
   font-style: italic;
 }
 
-.center {
-  text-align: center;
-}
-
-.right {
-  text-align: right;
-}
-
 .icons {
   font-size: var(--step-5);
   line-height: 1.25;
@@ -63,8 +55,4 @@ embed,
 object {
   width: 100%;
   display: block;
-}
-
-.cards a {
-  color: var(--accent-clr);
 }
