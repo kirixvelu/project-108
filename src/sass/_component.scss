@@ -128,6 +128,7 @@ tr th {
 // Accordion
 details {
   display: flex;
+  box-sizing: border-box; // Required
   width: min(100%, 960px);
   flex-direction: column;
   align-items: flex-start;

@@ -407,7 +407,8 @@ th {
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
-  box-sizing: border-box;
+  overflow-x: hidden;
+  margin-inline: auto;
 }
 
 a:not([class]) {
@@ -718,7 +719,6 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  margin-inline: auto;
 }
 
 footer {
@@ -1218,6 +1218,7 @@ tr th {
 
 details {
   display: flex;
+  box-sizing: border-box;
   width: min(100%, 960px);
   flex-direction: column;
   align-items: flex-start;

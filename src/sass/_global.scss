@@ -2,7 +2,8 @@
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
-  box-sizing: border-box;
+  overflow-x: hidden;
+  margin-inline: auto;
 }
 
 a:not([class]) {
