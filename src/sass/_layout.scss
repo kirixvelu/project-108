@@ -1,3 +1,9 @@
+// Responsive Layout
+.grid-wrap {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 25ch, 1fr)));
+}
 // Responsive Aside
 .flex-aside {
   display: flex;
@@ -25,36 +31,20 @@
   }
 }
 
-// Automatic Wrapping
-.grid {
-  display: grid;
-  gap: 1em;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 25ch, 1fr)));
-}
-
-// Adaptable Wrapping
-.flex {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.5em;
-}
-
-// UL Cards Container
+// ul parent
 .cards {
   gap: 1rem;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 25ch), 1fr));
 }
-
+// li child
 .cards > li {
   border-radius: 0.25em;
   padding: 0.5em;
   box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.15);
 }
 
-// UL + Scroll Horizon
+// ul scroll parent
 .horizon {
   display: grid;
   grid-auto-flow: column;
@@ -64,53 +54,9 @@
   padding: 0 0 1em;
   -webkit-overflow-scrolling: touch;
 }
-
+// li scroll child
 .horizon > * {
   width: min(45ch, 60vw);
   scroll-snap-align: center;
   scroll-snap-stop: always;
-}
-
-// Card Style
-.card {
-  display: flex;
-  flex-direction: column;
-  gap: 1em;
-  box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.35);
-}
-
-.card > img {
-  aspect-ratio: 3/2;
-  object-fit: cover;
-  width: 100%;
-}
-
-.card > img:first-child {
-  border-radius: 0.5em 0.5em 0 0;
-}
-
-.card > img:last-child {
-  border-radius: 0 0 0.5em 0.5em;
-  margin-top: auto;
-}
-
-.card > :not(img) {
-  margin-left: 1em;
-  margin-right: 1em;
-}
-
-.card > :not(img):first-child {
-  margin-top: 1em;
-}
-
-.card > :last-of-type:not(img, h2, h3, h4) {
-  margin-bottom: 1em;
-}
-
-.card > :not(h2, h3, h4) {
-  font-size: 0.9em;
-}
-
-.card > a {
-  align-self: start;
 }

@@ -1,0 +1,52 @@
+// Accordion
+details {
+  display: flex;
+  box-sizing: border-box; // Required
+  width: min(100%, 960px);
+  flex-direction: column;
+  align-items: flex-start;
+  margin-inline: auto;
+  padding: 0.75em 1em;
+  margin-bottom: 0.5em;
+  border: 1px solid;
+  border-radius: 0.25em;
+  overflow: hidden;
+  position: relative;
+}
+
+summary {
+  display: list-item;
+  font-weight: 700;
+  font-size: var(--step--1);
+  cursor: pointer;
+  outline: none;
+  color: var(--accent-clr);
+}
+
+details summary::before,
+details summary::after,
+details[open] summary::before,
+details[open] summary::after {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  color: var(--neutral-clr-dark);
+}
+
+details[open] summary {
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid;
+}
+
+details summary::before {
+  content: "+";
+}
+
+details summary::after,
+details[open] summary::after {
+  content: " ";
+}
+
+details[open] summary::before {
+  content: "–";
+}

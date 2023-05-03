@@ -1,4 +1,4 @@
-// Global Styling
+// Global Styling - extend css resets
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
@@ -58,12 +58,6 @@ q:after {
   padding-block: 1em;
   padding-inline: 2em;
   margin-inline: auto;
-}
-
-section {
-  display: grid;
-  place-items: center;
-  padding-block: var(--spacing);
 }
 
 // Page Transition
