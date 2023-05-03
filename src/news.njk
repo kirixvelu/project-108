@@ -12,12 +12,12 @@ pagination:
 ---
 
 <h1>News Releases</h1>
-<i class="center">{{ description }}</i>
-<br />
-<center>
-  <a href="/news-archives">All News Releases</a> |
-  <a href="/search">Quick Search</a>
-</center>
-
+<i class="text-center text-small">{{ description }}</i>
+<div class="grid-center">
+  <p>
+    <a href="/news-archives">See All News</a> |
+    <a href="/search">Quick Search</a>
+  </p>
+</div>
 <br />
 {% include "./_includes/components/newsList.njk" %}

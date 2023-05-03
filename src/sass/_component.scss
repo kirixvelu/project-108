@@ -54,29 +54,15 @@ picture {
   border-radius: 0.125em;
 }
 
-main > p > img {
-  width: 100%;
-  max-width: 450px;
-  filter: opacity(0.95);
-}
-
-main > figure {
-  filter: opacity(0.9);
-}
-
-article > img {
-  margin-block: var(--spacing);
-}
-
-article > figure {
+figure {
   filter: grayscale(5%);
   background: var(--neutral-clr);
-  padding: var(--spacing-sm);
   margin-block: var(--spacing);
 }
 
 figcaption {
-  font-size: 80%;
+  font-size: 85%;
+  padding-block: 0.25em;
 }
 
 // Lists
