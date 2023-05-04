@@ -5,7 +5,7 @@ date: 2023-04-03
 author: "Kiri Vadivelu"
 ---
 
-A bevy of bourgeois councilors and wannabees flocked to Toronto City Hall early on April 3 to register as candidates for the municipality's top job in a hastily called by-election. An exception to the Dishonor Roll of 28 servants to the status quo was the Municipal Socialist Alliance candidate for Toronto mayor, Kiri Vadivelu. The 37-year old tenants' organizer, Socialist Action member, and working class resident of Scarborough submitted the requisite nomination signatures and registration fee to join the instantly crowded race. Surrounded by a team of avid supporters, Vadivelu then faced a phalanx of TV cameras and news reporters to present the following statement:
+A bevy of bourgeois councilors and wannabees flocked to Toronto City Hall early on April 3 to register as candidates for the municipality's top job in a hastily called by-election. An exception to the Dishonor Roll of 28 servants to the status quo was the Municipal Socialist Alliance candidate for Toronto mayor, Kiri Vadivelu.
 
 <!-- excerpt -->
 
@@ -13,6 +13,8 @@ A bevy of bourgeois councilors and wannabees flocked to Toronto City Hall early 
 {% image "src/assets/images/news-msa-candidate.jpg", "MSA candidate for Toronto mayor speaks to mass media", "image", [540, 1080] %}
 <figcaption>MSA candidate for Toronto mayor speaks to mass media | © Kiri Vadivelu</figcaption>
 </figure>
+
+The 37-year old tenants' organizer, Socialist Action member, and working class resident of Scarborough submitted the requisite nomination signatures and registration fee to join the instantly crowded race. Surrounded by a team of avid supporters, Vadivelu then faced a phalanx of TV cameras and news reporters to present the following statement:
 
 "Good morning. My name is Kiri Vadivelu and I’m running to be the next mayor of Toronto. I am a social justice activist and a member of the Municipal Socialist Alliance which ran 10 candidates across southern Ontario last October, receiving about 15,000 votes. I was the MSA candidate in Scarborough Centre Ward 21 gaining 1,800 votes. I am the first Tamil-Canadian to seek the mayor’s office in Toronto.
 

@@ -5,7 +5,7 @@ date: 2023-01-15
 author: "Beau du'Quesnay"
 ---
 
-In response to recent public safety incidents Toronto Mayor John Tory used his authority to inject millions of tax-payer dollars into the police department, which has already seen major budget increases while medical and education budgets are slashed. During a news conference, Tory admitted that he had intended to “address the issue of violence on Toronto streets” before the stabbing incidents and it seems that the recent incidents are just an opportunity to push more aggressive policing.
+In response to recent public safety incidents Toronto Mayor John Tory used his authority to inject millions of tax-payer dollars into the police department, which has already seen major budget increases while medical and education budgets are slashed.
 
 <!-- excerpt -->
 
@@ -13,6 +13,8 @@ In response to recent public safety incidents Toronto Mayor John Tory used his a
 {% image "src/assets/images/news-ttc-police.jpg", "TTC Constables will not Increase Public Safety", "image", [540, 1080] %}
 <figcaption>TTC Constables will not Increase Public Safety | © Kiri Vadivelu</figcaption>
 </figure>
+
+During a news conference, Tory admitted that he had intended to “address the issue of violence on Toronto streets” before the stabbing incidents and it seems that the recent incidents are just an opportunity to push more aggressive policing.
 
 The issue of violence on Toronto streets, as seen through the eyes of police, politicians, and big media companies, obscures the true nature of what is happening. Rarely does their reportage spotlight the aggressive policing on Toronto streets that target the poor, homeless and marginalized peoples -- those treated as less than human by authorities. Routinely, adults and children are kicked off public transit vehicles for being short of money to pay fares, even on the coldest days. Who will deal with that social violence? Does the police presence on the TTC further exacerbate the targeting of riders who are part of minorities, low-income folks, and riders suffering mental health issues? The TTC takes no action to prevent riders being assaulted by police.
 

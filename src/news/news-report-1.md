@@ -5,7 +5,7 @@ date: 2023-04-22
 author: "Barry Weisleder"
 ---
 
-The Gardiner Expressway has long been a feature of Toronto' s transportation horror-scape. It blocks Torontonians from enjoying easy access to Lake Ontario and has become a blight on the waterfront. Its very construction was an environmental assault on then-existing parkland. It was a project first built in segments from 1955 until 1964 by the Metropolitan Toronto government to connect the city by expressway along the lake shore. The plan incorporated an elevated portion that obstructed public access to the city's eastern port lands.
+The Gardiner Expressway has long been a feature of Toronto' s transportation horror-scape. It blocks Torontonians from enjoying easy access to Lake Ontario and has become a blight on the waterfront.
 
 <!-- excerpt -->
 
@@ -15,6 +15,8 @@ The Gardiner Expressway has long been a feature of Toronto' s transportation hor
 </figure>
 
 See leaflet [PDF](https://kiri-vadivelu.ca/assets/docs/socialist_mayor_leaflet_gardiner.pdf)
+
+Its very construction was an environmental assault on then-existing parkland. It was a project first built in segments from 1955 until 1964 by the Metropolitan Toronto government to connect the city by expressway along the lake shore. The plan incorporated an elevated portion that obstructed public access to the city's eastern port lands.
 
 Kiri Vadivelu, the Municipal Socialist Alliance candidate for mayor, says “it is time to tear down this blight and construct a pedestrian and bike friendly boulevard -- instead of investing billions more dollars to repair the Gardiner Expressway. We can follow the example of leading European cities. Toronto needs to reduce its emissions from vehicular traffic and to increase greenspace to fight climate change.”
 

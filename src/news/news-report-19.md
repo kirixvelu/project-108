@@ -5,8 +5,7 @@ date: 2022-10-05
 author: "Wali Abro"
 ---
 
-Protest to take place at Toronto Star, 1 Yonge Street, on Thursday, October 6, 12:15 p.m.
-Why does the Toronto Star fail to report on the campaign and candidates of the Municipal Socialist Alliance?
+Protest to take place at Toronto Star, 1 Yonge Street, on Thursday, October 6, 12:15 p.m. Why did the Toronto Star fail to report on the campaign and candidates of the Municipal Socialist Alliance?
 
 <!-- excerpt -->
 

@@ -5,7 +5,7 @@ date: 2023-01-28
 author: "Multiple"
 ---
 
-The country's government says it saves approximately $21K on each person housed.
+The country's government says it saves approximately $21K on each person housed. A successful Finnish plan to eradicate homelessness is one London may want to consider as it works to redesign housing and health services.
 
 <!-- excerpt -->
 
@@ -15,8 +15,6 @@ The country's government says it saves approximately $21K on each person housed.
 </figure>
 
 [See CBC Report](https://cbc.ca/news/canada/london/london-wants-to-eradicate-homelessness-here-s-how-finland-is-doing-it-1.6728398#:~:text=Since%20several%20years%2C%20homelessness%20has,our%20own%20housing%2Dfirst%20model.)
-
-A successful Finnish plan to eradicate homelessness is one London may want to consider as it works to redesign housing and health services.
 
 This past week, participants from more than 60 community groups in London wrapped up the last of three housing summits that will lead to a new plan to help the city's nearly 1,900 unhoused. That count was done in the fall and has nearly doubled in two years.
 

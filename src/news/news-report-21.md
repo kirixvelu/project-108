@@ -5,7 +5,7 @@ date: 2022-09-21
 author: "Daniel Tarade"
 ---
 
-The Toronto District School Board (TDSB) quietly adopted the International Holocaust Remembrance Alliance (IHRA) defintion of antisemitism in 2018. Since then, the state of Israel bombed Gaza multiple times, destroyed hundred of Palestinian settlements, and murdered both children and journalists. But the mass struggle to smash Israeli settler-colonialism and to win the liberation of Palestinians grew manyfold.
+The Toronto District School Board (TDSB) quietly adopted the International Holocaust Remembrance Alliance (IHRA) defintion of antisemitism in 2018. Since then, the state of Israel bombed Gaza multiple times, destroyed hundred of Palestinian settlements, and murdered both children and journalists.
 
 <!-- excerpt -->
 
@@ -13,6 +13,8 @@ The Toronto District School Board (TDSB) quietly adopted the International Holoc
 {% image "src/assets/images/news-no-zionism.jpg", "MSA Saying Zionism is Racism", "image", [540, 1080] %}
 <figcaption>MSA Saying Zionism is Racism | © Kiri Vadivelu</figcaption>
 </figure>
+
+But the mass struggle to smash Israeli settler-colonialism and to win the liberation of Palestinians grew manyfold.
 
 Major human rights organizations released landmark reports labeling Israel as an apartheid state. International pressure to lift the siege of Gaza, to tear down the apartheid wall, and for the right of Palestinians to return home continues to mount. So when the question of adopting the IHRA definition of antisemitism came to the York Region District School Board (YRDSB) in 2022, popular support for the Palestinian struggle forced elected school board trustees to question the dominant narrative of Israel — they voted not to adopt the IHRA definition of antisemitism.
 

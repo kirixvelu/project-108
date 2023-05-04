@@ -5,7 +5,7 @@ date: 2023-01-07
 author: "Corey David"
 ---
 
-Until recently, for a motion to carry at Toronto city council, a majority vote is required. But with the Better Municipal Governance Act, mayors like Toronto’s John Tory now can pass bylaws with the support of just one third of council. It gives the mayor powers to veto budgets, committee decisions and By-Laws. Council will require a 2/3 vote to overcome the mayor’s veto. This Act passed, despite reservations, identified in an open letter from the majority of Toronto’s city councilors. Does this negatively impact local democracy? Might it help to achieve its stated purpose — quickly getting house-less persons into homes?
+Until recently, for a motion to carry at Toronto city council, a majority vote is required. But with the Better Municipal Governance Act, mayors like Toronto’s John Tory now can pass bylaws with the support of just one third of council. It gives the mayor powers to veto budgets, committee decisions and By-Laws.
 
 <!-- excerpt -->
 
@@ -13,6 +13,8 @@ Until recently, for a motion to carry at Toronto city council, a majority vote i
 {% image "src/assets/images/news-strong-mayor.jpg", "More Workers' Power, Not Strong Mayor", "image", [540, 1080] %}
 <figcaption>More Workers' Power, Not Strong Mayor | © Kiri Vadivelu</figcaption>
 </figure>
+
+Council will require a 2/3 vote to overcome the mayor’s veto. This Act passed, despite reservations, identified in an open letter from the majority of Toronto’s city councilors. Does this negatively impact local democracy? Might it help to achieve its stated purpose — quickly getting house-less persons into homes?
 
 The Municipal Socialist Alliance contends that the threat to democracy is greater than the chance that the Act will result in less homelessness. The Act takes power away from duly elected City Councilors, giving it to the mayor and his supporters. It allows the mayor to appoint managers (who may be his cronies), rather than council choosing from well trained public service employees.
 
