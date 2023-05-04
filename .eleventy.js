@@ -30,10 +30,6 @@ module.exports = function (eleventyConfig) {
     require("./src/_11ty/imageShortcode").imageShortcode
   );
 
-  eleventyConfig.addFilter("uppercase", function (string) {
-    return string.toUpperCase();
-  });
-
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "LLL dd, yyyy"
@@ -46,6 +42,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("iso8601", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
+  });
+
+  eleventyConfig.addCollection("tagGroup", function (collectionApi) {
+    return collectionApi.getFilteredByTags("news", "priority");
   });
 
   eleventyConfig.addCollection("blog", (collectionApi) => {
