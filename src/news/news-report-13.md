@@ -2,7 +2,7 @@
 title: May Day Rally Shines on a Rainy April 30 in Toronto
 description: May Day Rally Shines on a Rainy April 30 in Toronto
 date: 2023-04-30
-author: "Multiple"
+author: "Barry Weisleder"
 tags: featured
 ---
 

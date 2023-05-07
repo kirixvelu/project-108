@@ -2,7 +2,7 @@
 title: MSA candidate for Toronto mayor speaks to mass media
 description: MSA candidate for Toronto mayor speaks to mass media
 date: 2023-04-03
-author: "Kiri Vadivelu"
+author: Barry Weisleder
 tags: featured
 ---
 

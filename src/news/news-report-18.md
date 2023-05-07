@@ -3,6 +3,7 @@ title: Toronto Police Services Budget Needs to be Slashed not Increased
 description: Toronto Police Services Budget Needs to be Slashed not Increased
 date: 2023-01-15
 author: "Daniel Tarade"
+tags: featured
 ---
 
 On the first Monday of 2023, Jan. 9, the Toronto Police Services Board (TPSB) held a special meeting to discuss and vote upon a proposed $48.3 million CAD increase to the Toronto Police Services (TPS) operating budget in 2023, which represents a 4.3% increase over the bloated 2022 operating budget.

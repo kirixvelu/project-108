@@ -3,7 +3,6 @@ title: MSA Says No to Proposed Increase to the Toronto Police Budget
 description: MSA Says No to Proposed Increase to the Toronto Police Budget
 date: 2023-01-16
 author: "Peter D'Gama"
-tags: featured
 ---
 
 The Municipal Socialist Alliance says 'NO' to the proposed increase to the Toronto police budget. The notion that the hike is a step towards enhanced public safety is completely ill-conceived.
