@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Kiri Vadivelu | News Releases"
-description: "Latest News of Municipal Socialist Alliance & more"
+description: "Latest News of Toronto Municipal Socialist Alliance & more"
 eleventyNavigation:
   key: news
   order: 4
 pagination:
   data: collections.news
-  size: 5
+  size: 15
   alias: articles
 ---
 
@@ -21,5 +21,18 @@ pagination:
     </p>
   </div>
   <br />
-  {% include "./_includes/components/newsList.njk" %}
+  <ul>
+    {%- for post in collections.featured | reverse -%}
+    <li>
+      <a href="{{ post.url }}"
+        ><p class="heading">
+          <i class="text-thin">{{ post.data.date | readableDate }}</i>
+          <span class="accent-clr">&#10162;</span>
+          <strong>{{ post.data.title }}</strong>
+        </p></a
+      >
+      <p>{{ post.data.excerpt }}</p>
+    </li>
+    {%- endfor -%}
+  </ul>
 </article>
