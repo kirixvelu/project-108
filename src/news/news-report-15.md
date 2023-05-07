@@ -3,6 +3,7 @@ title: More Police and TTC Constables will not Increase Public Safety
 description: More Police and TTC Constables will not Increase Public Safety
 date: 2023-01-15
 author: "Beau du'Quesnay"
+tags: featured
 ---
 
 In response to recent public safety incidents Toronto Mayor John Tory used his authority to inject millions of tax-payer dollars into the police department, which has already seen major budget increases while medical and education budgets are slashed.

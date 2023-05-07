@@ -44,10 +44,6 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toISO();
   });
 
-  eleventyConfig.addCollection("tagGroup", function (collectionApi) {
-    return collectionApi.getFilteredByTags("news", "priority");
-  });
-
   eleventyConfig.addCollection("blog", (collectionApi) => {
     return collectionApi.getFilteredByGlob("./src/blog/*.md").reverse();
   });

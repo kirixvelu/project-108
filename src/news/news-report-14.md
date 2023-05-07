@@ -3,6 +3,7 @@ title: More Workers' Power, Not Strong Mayor
 description: More Workers' Power, Not Strong Mayor
 date: 2023-01-07
 author: "Corey David"
+tags: featured
 ---
 
 Until recently, for a motion to carry at Toronto city council, a majority vote is required. But with the Better Municipal Governance Act, mayors like Toronto’s John Tory now can pass bylaws with the support of just one third of council. It gives the mayor powers to veto budgets, committee decisions and By-Laws.

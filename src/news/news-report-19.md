@@ -3,6 +3,7 @@ title: Protest at Toronto Star over Municipal Campaign Blackout of Socialist Can
 description: Protest at Toronto Star over Municipal Campaign Blackout of Socialist Candidates
 date: 2022-10-05
 author: "Wali Abro"
+tags: featured
 ---
 
 Protest to take place at Toronto Star, 1 Yonge Street, on Thursday, October 6, 12:15 p.m. Why did the Toronto Star fail to report on the campaign and candidates of the Municipal Socialist Alliance?
