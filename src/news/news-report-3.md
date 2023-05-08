@@ -1,6 +1,6 @@
 ---
-title: Announcing the MSA candidate for mayor of Toronto in the current by-election campaign
-description: Kiri Vadivelu, the MSA candidate for the current mayor of Toronto by-election
+title: Announcing the MSA Candidate for Mayor of Toronto in the Current by-election Campaign
+description: Announcing the MSA Candidate for Mayor of Toronto in the Current by-election Campaign
 date: 2023-03-23
 author: "Barry Weisleder"
 ---

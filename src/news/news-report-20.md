@@ -1,6 +1,6 @@
 ---
-title: MSA Demands Free Public Transit!
-description: MSA Demands Free Public Transit!
+title: MSA Demands Free Public Transit
+description: MSA Demands Free Public Transit
 date: 2022-10-05
 author: "Adam Golding"
 ---

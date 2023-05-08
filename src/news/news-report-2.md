@@ -1,6 +1,6 @@
 ---
-title: MSA candidate for Toronto mayor speaks to mass media
-description: MSA candidate for Toronto mayor speaks to mass media
+title: MSA Candidate for Toronto Mayor Speaks to Mass Media
+description: MSA Candidate for Toronto Mayor Speaks to Mass Media
 date: 2023-04-03
 author: Barry Weisleder
 tags: featured
