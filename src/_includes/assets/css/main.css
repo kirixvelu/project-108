@@ -499,7 +499,7 @@ body {
   --white-clr: hsl(0, 0%, 100%);
   --black-clr: hsl(0, 0%, 0%);
   --text-grade-dark: hsl(0, 0%, 5%);
-  --text-grade-light: hsl(0, 0%, 30%);
+  --text-grade-light: hsl(0, 0%, 25%);
   --neutral-clr: hsl(0, 0%, 65%);
   --neutral-clr-light: hsl(0, 0%, 75%);
   --neutral-clr-dark: hsl(0, 0%, 50%);
@@ -513,7 +513,7 @@ body {
   --theme-clr-dark: hsl(60, 100%, 45%);
   --theme-clr-light: hsl(60, 100%, 55%);
   --accent-clr: hsl(300, 100%, 35%);
-  --accent-clr-dark: hsl(300, 100%, 20%);
+  --accent-clr-dark: hsl(300, 100%, 25%);
   --accent-clr-light: hsl(300, 100%, 50%);
   --link-clr: var(--text-clr);
   --link-clr-after: var(--text-clr);
@@ -545,7 +545,7 @@ body {
   --step-5: clamp(2.8rem, calc(1.8rem + 4.98vw), 5.79rem);
 }
 :root img {
-  filter: brightness(1.01) contrast(1.1);
+  filter: brightness(0.95) contrast(1.15);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -582,7 +582,7 @@ body {
     --mark-clr: hsl(45, 100%, 40%);
   }
   img {
-    filter: brightness(0.9) contrast(1.15);
+    filter: brightness(0.8) contrast(1.2);
   }
 }
 .bg-grey,

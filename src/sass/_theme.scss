@@ -10,7 +10,7 @@
 
   // dynamic gradient color
   --text-grade-dark: hsl(0, 0%, 5%);
-  --text-grade-light: hsl(0, 0%, 30%);
+  --text-grade-light: hsl(0, 0%, 25%);
 
   // grey colors
   --neutral-clr: hsl(0, 0%, 65%);
@@ -48,7 +48,7 @@
   --mark-clr: hsl(45, 100%, 50%); // warning
 
   img {
-    filter: brightness(1.01) contrast(1.1);
+    filter: brightness(0.95) contrast(1.15);
   }
 
   /* Properties */
@@ -131,6 +131,6 @@
   }
 
   img {
-    filter: brightness(0.9) contrast(1.15);
+    filter: brightness(0.8) contrast(1.2);
   }
 }
