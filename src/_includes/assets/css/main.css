@@ -521,11 +521,6 @@ body {
   --fine-clr: hsl(110, 100%, 30%);
   --hint-clr: hsl(0, 100%, 50%);
   --mark-clr: hsl(45, 100%, 50%);
-  /* Properties */
-  --i-shadow: 0px 150px 100px -25px rgba(0, 0, 0, 0.2);
-  --b-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
-  --t-shadow: 0px 12px 12px rgba(0, 0, 0, 0.15);
-  --d-shadow: (0px 0px 10px rgba(0, 0, 0, 0.5));
   /* Spacing */
   --spacing: clamp(1em, 5%, 3em);
   --spacing-lg: clamp(2em, 10%, 6em);
@@ -751,6 +746,11 @@ main {
   flex: 0 1 100%;
 }
 
+footer,
+header {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
 header {
   background: var(--theme-clr);
   padding-inline: 1rem;
@@ -795,10 +795,6 @@ header a:visited {
   display: flex;
   max-width: 1500px;
   justify-content: space-between;
-}
-
-.footer {
-  border-top: 1px solid;
 }
 
 nav ul {

@@ -23,6 +23,11 @@ main {
   flex: 0 1 100%;
 }
 
+footer,
+header {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
 header {
   background: var(--theme-clr);
   padding-inline: 1rem;
@@ -68,10 +73,6 @@ header {
   display: flex;
   max-width: 1500px;
   justify-content: space-between;
-}
-
-.footer {
-  border-top: 1px solid;
 }
 
 // applies to both header nav and main category nav
