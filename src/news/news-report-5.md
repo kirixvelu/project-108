@@ -3,6 +3,8 @@ title: Toronto Public Health 2022 - Deaths of People Experiencing Homelessness
 description: Toronto Public Health 2022 - Deaths of People Experiencing Homelessness
 date: 2023-03-17
 author: "Multiple"
+tags:
+  - local
 ---
 
 Today, Toronto Public Health (TPH) released data related to the deaths of people experiencing homelessness in 2022. Overall, homelessness continues to negatively impact health outcomes of individuals, resulting in 187 reported deaths in 2022. This total is lower than the 223 deaths reported in 2021 but remains higher than the 128 deaths reported before the COVID-19 pandemic in 2019.

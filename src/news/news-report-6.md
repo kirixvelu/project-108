@@ -3,6 +3,8 @@ title: "Toronto’s Population Health Profile Insight in 2023"
 description: "Toronto’s Population Health Profile Insight in 2023"
 date: 2023-04-25
 author: "Multiple"
+tags:
+  - local
 ---
 
 After three years of living with, and responding to, a pandemic, Toronto Public Health is releasing Toronto’s Population Health Profile: Insight on the Health of Our City PDF at a critical time in the City’s history.

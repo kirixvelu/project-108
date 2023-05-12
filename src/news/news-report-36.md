@@ -3,6 +3,8 @@ title: What is Socialism in 21st Century?
 description: What is Socialism in 21st Century?
 date: 2022-01-10
 author: "multiple"
+tags:
+  - international
 ---
 
 Socialists are very concerned about the injustice and social ills in the world today— hunger, poverty, unemployment, illiteracy, disease, war, the exploitation of workers, the oppression of nations, races, women, and gays, the destruction of the environment, and the threat of nuclear annihilation.

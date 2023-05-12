@@ -3,6 +3,8 @@ title: Cops Out of CUPE, Cops Out of Labour
 description: Disaster of CUPE 5089 Endorsement for Mark Saunders for Mayor of Toronto
 date: 2023-05-11
 author: "Jeff Shantz"
+tags:
+  - local
 ---
 
 On May 7, CUPE 5089 announced its endorsement of former Toronto Police Service (TPS) chief Mark Saunders for mayor of Toronto. I consider this an act of working class betrayal, and I write this as a former longtime CUPE member—including CUPE 3903 in Toronto, CUPE 4600 in Ottawa, and delegate to the CUPE-Ontario convention.

@@ -3,7 +3,9 @@ title: Community Safety and the Failure of the Police
 description: Community Safety and the Failure of the Police
 date: 2023-04-13
 author: "Barry Weisleder"
-tags: featured
+tags:
+  - featured
+  - local
 ---
 
 On April 13, Toronto Police marked the second anniversary of the release of the Report of the Independent Civilian Review into Missing Persons Investigations (Missing & Missed Report), which found that systemic discrimination against the LGBTQ, new immigrants and refugees, and other racialized and marginalized communities, led to significant failings of Toronto Police concerning its missing persons investigation.

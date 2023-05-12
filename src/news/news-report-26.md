@@ -3,6 +3,8 @@ title: Dispensing Billions to Corporate Profiteers
 description: The European Investment Bank is a public institution—yet the public good is not its agenda
 date: 2023-05-02
 author: "FRANK VANAERSCHOT"
+tags:
+  - international
 ---
 
 Hidden in the valleys of Luxembourg is a bank Europeans own yet most have never heard of it. What the European Investment Bank (EIB) lacks in profile it however makes up for in financial clout. The lending arm of the European Union, it is the world’s biggest multilateral financial institution, dispensing over €65 billion last year alone and over a trillion euro since its foundation in 1958.

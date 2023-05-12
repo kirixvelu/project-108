@@ -3,6 +3,8 @@ title: Meet the 20-Year-Old Who Unionized a Vancouver Starbucks
 description: Secrecy, suspicion and Steelworkers. Inside an organizing drive at the anti-union coffee chain.
 date: 2023-05-10
 author: "Zak Vescera"
+tags:
+  - national
 ---
 
 It started when Frédérique Martineau had a bad day at work. Frédérique Martineau led the successful campaign to form the only union for Starbucks’ workers in Vancouver.

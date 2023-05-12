@@ -3,6 +3,8 @@ title: "City of Toronto Annual Financial Report 2021"
 description: "City of Toronto Annual Financial Report 2021"
 date: 2022-07-19
 author: "Multiple"
+tags:
+  - local
 ---
 
 The financial reports includes the City’s consolidated financial statements and statistical information. It also includes the financial condition and performance, credit ratings and the performance and benchmarking reports.

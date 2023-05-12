@@ -3,6 +3,8 @@ title: Jordan Neely Was Executed for Being Poor, Black, and Disabled
 description: Jordan Neely was strangled to death in the New York subway during a mental health crisis
 date: 2023-05-03
 author: "Julia Wallace"
+tags:
+  - international
 ---
 
 On Monday, Jordan Neely, a 30-year-old Black man who performed as a Michael Jackson impersonator, was having a mental health crisis on the F train in New York City. According to bystanders, he declared he was hungry, thirsty, and tired, and that he didn’t care if he went to jail that night. He was loud but didn’t touch anyone on the train. Instead of being met with compassion, he was murdered.

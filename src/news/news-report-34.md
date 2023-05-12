@@ -3,6 +3,8 @@ title: Myth-busting Ford’s Healthcare Privatization Agenda
 description: Myth-busting Ford’s Healthcare Privatization Agenda
 date: 2023-02-14
 author: "Jesse McLaren"
+tags:
+  - local
 ---
 
 People across the political spectrum agree that Ontario’s healthcare system is in crisis, but what are the causes and what are the solutions? For the Ford government the cause is public healthcare, and the solution is private healthcare. This is based on a series of old myths that predated the current crisis, and that continue to be reused every time governments want to push further privatization. Here are 7 myths used to justify healthcare privatization, and how to bust them.

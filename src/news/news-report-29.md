@@ -3,6 +3,8 @@ title: End the Economical Blockade against People of Cuba
 description: End the Economical Blockade against People of Cuba
 date: 2021-10-23
 author: "Kiri Vadivelu"
+tags:
+  - international
 ---
 
 I am proud to join Canadian Network for Cuba (CNC) to fight against the United States blockade against Cuba preventing access to basic necessities during the global humanity crisis.

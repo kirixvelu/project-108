@@ -3,6 +3,8 @@ title: Packed House Celebrates 37th Annual SA May Day Show in Toronto
 description: Packed house celebrates 37th Annual SA May Day Show in Toronto
 date: 2023-04-30
 author: "Barry Weisleder"
+tags:
+  - local
 ---
 
 Back again, live and in-person at The Free Times Cafe after a three-year hiatus, the 37th annual Toronto Socialist Action May Day Celebration on April 29 was a resounding success. It was co-sponsored by the NDP Socialist Caucus, the Workers' Action Movement, OPSEU Region 5, and the Municipal Socialist Alliance.

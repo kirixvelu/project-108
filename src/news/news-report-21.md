@@ -3,6 +3,8 @@ title: York Region District School Board Refuses to Adopt the IHRA Defintion of 
 description: York Region District School Board Refuses to Adopt the IHRA Defintion of Antisemitism
 date: 2022-09-21
 author: "Daniel Tarade"
+tags:
+  - local
 ---
 
 The Toronto District School Board (TDSB) quietly adopted the International Holocaust Remembrance Alliance (IHRA) defintion of antisemitism in 2018. Since then, the state of Israel bombed Gaza multiple times, destroyed hundred of Palestinian settlements, and murdered both children and journalists.

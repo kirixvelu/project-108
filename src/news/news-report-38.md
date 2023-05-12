@@ -3,7 +3,9 @@ title: Unlocking Vacant Properties to Tackle Homelessness
 description: Europe’s cities have many social outsiders. Lessons are emerging on how ‘housing first’ can include them
 date: 2023-04-26
 author: "Clotilde Foulquier"
-tags: featured
+tags:
+  - featured
+  - international
 ---
 
 Homelessness is not only about housing, but it is always about housing. And ‘housing first’ has been identified as best practice in dealing with it.

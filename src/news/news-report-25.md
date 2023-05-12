@@ -3,6 +3,8 @@ title: Poem, Justice Must Be a Home
 description: Poem, Justice Must Be a Home
 date: 2023-05-06
 author: "George Laureate"
+tags:
+  - local
 ---
 
 Justice Must Be a Home! A poem by the Canadian parliamentary poet George Elliot Laureate.

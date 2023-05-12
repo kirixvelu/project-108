@@ -3,6 +3,8 @@ title: What is Nakba for the Month of May?
 description: What is Nakba for the Month of May?
 date: 2023-04-26
 author: "Multiple"
+tags:
+  - international
 ---
 
 The Nakba (Arabic for “catastrophe”) is the destruction of Palestinian society and homeland and the permanent dispossession of a majority of the Palestinians living in historic Palestine, beginning in the late 1940s. The term subsumes the events of the late 1940s, as well as the subsequent and ongoing persecution, displacement, and military occupation of the Palestinians.

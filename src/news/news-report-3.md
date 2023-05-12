@@ -3,6 +3,8 @@ title: Announcing the MSA Candidate for Mayor of Toronto in the Current by-elect
 description: Announcing the MSA Candidate for Mayor of Toronto in the Current by-election Campaign
 date: 2023-03-23
 author: "Barry Weisleder"
+tags:
+  - local
 ---
 
 The Municipal Socialist Alliance, at its monthly convention held on March 20, selected Kiri Vadivelu to be its candidate for mayor of Toronto in the current by-election.

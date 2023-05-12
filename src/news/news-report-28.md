@@ -3,6 +3,8 @@ title: Britain’s Royal Rip-off Campaign
 description: Britain’s Royal Rip-off Campaign
 date: 2023-05-06
 author: "Michael Roberts"
+tags:
+  - international
 ---
 
 Today in Britain King Charles III will be crowned in a ‘coronation’. All the other remaining monarchies in Europe (Scandinavia, Netherlands, Belgium, Spain) don’t bother with a coronation, but the British monarchy has had a much more prominent role in helping British state build its huge global empire in the 19th century.

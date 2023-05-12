@@ -3,7 +3,9 @@ title: May Day Rally Shines on a Rainy April 30 in Toronto
 description: May Day Rally Shines on a Rainy April 30 in Toronto
 date: 2023-04-30
 author: "Barry Weisleder"
-tags: featured
+tags:
+  - featured
+  - local
 ---
 
 Hundreds braved persistent cool showers to celebrate International Workers' Day at the south-west corner of Toronto's City Hall Square on Sunday, April 30.

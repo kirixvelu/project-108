@@ -3,7 +3,9 @@ title: Tear Down the Gardiner to Reclaim Public Space and Fight Climate Change
 description: Tear Down the Gardiner to Reclaim Public Space and Fight Climate Change
 date: 2023-04-22
 author: "Barry Weisleder"
-tags: featured
+tags:
+  - featured
+  - local
 ---
 
 The Gardiner Expressway has long been a feature of Toronto' s transportation horror-scape. It blocks Torontonians from enjoying easy access to Lake Ontario and has become a blight on the waterfront.

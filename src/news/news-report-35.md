@@ -3,6 +3,8 @@ title: "Enough is Enough: Channelling Working Class Outrage"
 description: "Enough is Enough: Channelling Working Class Outrage"
 date: 2023-04-24
 author: "Lizzie Houlding"
+tags:
+  - local
 ---
 
 In November, Doug Ford’s Conservative government avoided a potentially fatal confrontation with Ontario’s unions by repealing its anti-union bill. Bill 28, a piece of legislation that stripped 55,000 education workers of their right to strike and would have forced them to accept a contract, was so odious that it moved the entire Ontario labour movement into action. Bill 28 provoked a call for a general strike, which was only called off after Ford backed down entirely on the proposed legislation.

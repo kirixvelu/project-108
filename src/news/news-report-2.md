@@ -3,7 +3,9 @@ title: MSA Candidate for Toronto Mayor Speaks to Mass Media
 description: MSA Candidate for Toronto Mayor Speaks to Mass Media
 date: 2023-04-03
 author: Barry Weisleder
-tags: featured
+tags:
+  - featured
+  - local
 ---
 
 A bevy of bourgeois councilors and wannabees flocked to Toronto City Hall early on April 3 to register as candidates for the municipality's top job in a hastily called by-election. An exception to the Dishonor Roll of 28 servants to the status quo was the Municipal Socialist Alliance candidate for Toronto mayor, Kiri Vadivelu.

@@ -3,7 +3,9 @@ title: Protest Housing Emergency in Toronto at City Hall Square
 description: Protest Housing Emergency in Toronto at City Hall Square
 date: 2023-05-05
 author: "Barry Weisleder"
-tags: featured
+tags:
+  - featured
+  - local
 ---
 
 City of Toronto politicians, senior officials, big landlords, land developers and the construction industry have blood on their hands! The Municipal Socialist Alliance is pouring, onto City Hall Square, a representation of the blood of 187 victims of the worsening houselessness crisis.

@@ -3,6 +3,8 @@ title: Exploring National Plan to Reduce and Prevent Homelessness
 description: Exploring National Plan to Reduce and Prevent Homelessness
 date: 2023-04-09
 author: "Multiple"
+tags:
+  - international
 ---
 
 The strategy focused heavily on long-term homelessness, with targets to halve levels by 2011 and to eliminate long-term homelessness by 2015.

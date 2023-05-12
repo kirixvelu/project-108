@@ -3,7 +3,9 @@ title: Property Taxation should Make the Rich Pay!
 description: Property Taxation should Make the Rich Pay!
 date: 2023-04-24
 author: "Yasin Kaya"
-tags: featured
+tags:
+  - featured
+  - local
 ---
 
 Low-income homeowners pay five times more in property taxes relative to their income compared to high-income homeowners. "This is simply unjust and perpetuates economic inequality," says Kiri Vadivelu, the Municipal Socialist Alliance candidate for Toronto mayor.

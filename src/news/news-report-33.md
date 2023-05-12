@@ -3,6 +3,8 @@ title: "Someone Lives Here: Interview with Khaleel Seivwright"
 description: Taka of new tiny shelter documentary
 date: 2023-05-03
 author: "Tamara Jones"
+tags:
+  - local
 ---
 
 Long before garnering international attention as a “pandemic-era folk hero,” carpenter Khaleel Seivwright built a tiny insulated shelter in a Toronto park with a painted sign boldly stating “Anyone is Welcome.” It would be the first of many.

@@ -3,6 +3,7 @@ title: Leaked Pentagon Documents Reveal Scope of US War Machine
 description: Leaked Pentagon Documents Reveal Scope of US War Machine
 date: 2023-05-07
 author: "Malik Miah"
+tags: international
 ---
 
 The leak of a trove of secret U.S. government documents posted on social media has revealed aspects of how the government and its military is striving to reestablish hegemony in the world by targeting its adversaries (especially Russia and China) and pressuring allies to toe the line or face economic and political retaliations.

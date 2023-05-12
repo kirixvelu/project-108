@@ -3,6 +3,8 @@ title: Reject the Reactionary Hysteria over China’s Election Interference
 description: Reject the Reactionary Hysteria over China’s Election Interference
 date: 2023-03-15
 author: "Peter Hogarth"
+tags:
+  - international
 ---
 
 While workers are in the midst of a cost of living crisis the political and media establishment in Canada have been busy stoking hysteria about Chinese interference in our elections. With little to no actual evidence, the panic emanating from Ottawa serves to whip up reactionary nationalism, while deflecting from the unaccountable and undemocratic corporate influence which is driving the cost of living crisis and undermining our public institutions.

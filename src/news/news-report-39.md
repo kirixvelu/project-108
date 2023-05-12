@@ -3,6 +3,7 @@ title: Hypocrisy of Liberal Democracy at the Expense of Class Struggle
 description: Hypocrisy of Liberal Democracy at the Expense of Class Struggle
 date: 2023-05-12
 author: "John Clark"
+tags: national
 ---
 
 Bureaucracy is not very original but still entirely valid to point out that liberal democracy is the preferred political system for the class rule of the capitalists.

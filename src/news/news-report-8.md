@@ -3,6 +3,8 @@ title: "London Wants to Eradicate Homelessness. Here's How Finland is Doing It"
 description: "London Wants to Eradicate Homelessness. Here's How Finland is Doing It"
 date: 2023-01-28
 author: "Multiple"
+tags:
+  - international
 ---
 
 The country's government says it saves approximately $21K on each person housed. A successful Finnish plan to eradicate homelessness is one London may want to consider as it works to redesign housing and health services.

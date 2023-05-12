@@ -3,6 +3,8 @@ title: "Assets of Billionaires: A Real Threat to Democracy Everywhere"
 description: "Assets of Billionaires: A Real Threat to Democracy Everywhere"
 date: 2023-01-25
 author: "Kiri Vadivelu"
+tags:
+  - international
 ---
 
 Regardless of the position on Russia Ukraine crisis, working class people should be in support of seizing the assets of billionaires. Those billionaires of all stripes massively contribute to inequality and injustice to people and planet everywhere.

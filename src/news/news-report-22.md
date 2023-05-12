@@ -3,6 +3,8 @@ title: "Not My King: Thousands Protest Against Coronation"
 description: Despite police intimidation, opposition to the monarchy was loud and clear in central London on Saturday
 date: 2023-05-06
 author: "Orlando Hill"
+tags:
+  - international
 ---
 
 As Charles III was crowned king in a sickening display of pomp and privilege, thousands of protesters gathered in Trafalgar Square and marched in central London to oppose the coronation and the monarchy. Not that you’d know this from the wall-to-wall coverage of the coronation in the mainstream media.

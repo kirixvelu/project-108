@@ -3,6 +3,8 @@ title: Socialists, Unionists and the United Front of Socialist Action
 description: Socialists, Unionists and the United Front of Socialist Action
 date: 2022-01-25
 author: "multiple"
+tags:
+  - national
 ---
 
 Socialist Action is a nationwide party made up of activists committed to the emancipa- tion of workers and the oppressed. We work to revitalize the anti-war, labor, anti-racist, feminist, student and other social movements, and build a revolutionary workers’ party deeply integrated into all the struggles of working people, that can successfully chal- lenge the wealthy elite.

@@ -3,6 +3,8 @@ title: MSA Demands Free Public Transit
 description: MSA Demands Free Public Transit
 date: 2022-10-05
 author: "Adam Golding"
+tags:
+  - local
 ---
 
 Supporters of the Municipal Socialist Alliance distributed hundreds of pieces of literature to transit riders outside a busy subway station on a sunny Tuesday afternoon. The message "Free Public Transit.

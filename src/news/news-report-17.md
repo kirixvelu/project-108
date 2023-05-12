@@ -3,7 +3,9 @@ title: Socialist Caucus Congratulates Sarah Jama in Hamilton Centre
 description: Socialist Caucus Congratulates Sarah Jama in Hamilton Centre
 date: 2023-03-28
 author: "Tom Baker"
-tags: featured
+tags:
+  - featured
+  - local
 ---
 
 The NDP Socialist Caucus in Ontario congratulates you on your resounding electoral victory, winning with 54 per cent of the votes cast, on March 16 in Hamilton Centre.
