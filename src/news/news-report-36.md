@@ -20,4 +20,4 @@ Socialist Action argues that the wealth and other advances produced by industry,
 
 Therefore, socialism is a political philosophy that advocate for social and economical democracy; instead of hostility and favourability to the few.
 
-Learn more about [socialism](https://kiri-vadivelu.ca/assets/docs/what-is-socialism?)
+Learn more about [socialism](https://kiri-vadivelu.ca/assets/docs/what-is-socialism.pdf)

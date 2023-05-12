@@ -18,4 +18,4 @@ Socialism is the only way to build a truly democratic society organized for the 
 
 We believe that the world is divided into opposing social classes, and that the main dri- ving force of modern history is the struggle between the working class and the capitalist class. We believe in independent working class politics – not alliances with the capital- ists, or any wing of the capitalist class. That is why we call for workers to break with the Democratic Party to build a party of the working class. To do that, we work to raise the class-consciousness of workers and their awareness of the class struggle in society. The interests of the working class are diametrically opposed to those of the capitalists.
 
-Learn more about [Socialist Action](https://kiri-vadivelu.ca/assets/docs/who-are-socialists?)
+Learn more about [Socialist Action](https://kiri-vadivelu.ca/assets/docs/who-are-socialists.pdf)
