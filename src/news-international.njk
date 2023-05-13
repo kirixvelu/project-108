@@ -2,9 +2,6 @@
 layout: page
 title: "Kiri Vadivelu | News Releases"
 description: "Latest News of Municipal Socialist Alliance"
-eleventyNavigation:
-  key: news
-  order: 4
 pagination:
   data: collections.news
   size: 15
@@ -30,7 +27,7 @@ pagination:
 
 <article class="article">
   <ul>
-    {%- for post in collections.featured | reverse -%}
+    {%- for post in collections.international | reverse -%}
     <li>
       <a href="{{ post.url }}"
         ><p class="heading">

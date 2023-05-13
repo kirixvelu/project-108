@@ -8,16 +8,40 @@ pagination:
   alias: articles
 ---
 
-<article class="article">
-  <h1>News Archives</h1>
+<section class="grid-center">
+  <h1>News Releases</h1>
   <i class="text-center text-small">{{ description }}</i>
-  <div class="grid-center">
-    <p>
-      <a href="/news">See Featured News</a> |
-      <a href="/news-search/">Quick Search</a>
-    </p>
-  </div>
   <br />
+  <nav id="sub-nav" role="navigation" aria-label="navigation">
+    <ul>
+      <li class="nav__item">
+        <a href="/news-archive">All News</a>
+      </li>
+      /
+      <li class="nav__item">
+        <a href="/news-local/"><span class="cta">&#128690;</span> Local</a>
+      </li>
+      /
+      <li class="nav__item">
+        <a href="/news-national/"
+          ><span class="cta">&#128646;</span> National</a
+        >
+      </li>
+      /
+      <li class="nav__item">
+        <a href="/news-international/">
+          <span class="cta">&#9992;</span> International</a
+        >
+      </li>
+      /
+      <li class="nav__item">
+        <a href="/news-search/"><span class="cta">&#128269;</span> Search</a>
+      </li>
+    </ul>
+  </nav>
+</section>
+
+<article class="article">
   <ul>
     {%- for post in collections.news | reverse -%}
     <li>
@@ -34,3 +58,16 @@ pagination:
   </ul>
   {# {% include "./_includes/components/newsList.njk" %} #}
 </article>
+
+<script>
+  function setActive() {
+    linkObj = document.getElementById("sub-nav").getElementsByTagName("a");
+    for (i = 0; i < linkObj.length; i++) {
+      if (document.location.href.indexOf(linkObj[i].href) >= 0) {
+        linkObj[i].classList.add("active");
+      }
+    }
+  }
+
+  window.onload = setActive;
+</script>

@@ -1,4 +1,9 @@
 // Decorations & Pseudo Elements
+
+.active {
+  color: red;
+}
+
 ::selection {
   background-color: var(--accent-clr);
   color: var(--text-clr);
