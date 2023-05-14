@@ -12,17 +12,29 @@ pagination:
   <h1>News Releases</h1>
   <i class="text-center text-small">{{ description }}</i>
   <br />
-  <small>
-    <a href="/news-archive"> See All</a> |
-    <a href="/news-local/"><span class="cta">&#128690;</span> Local</a> |
-    <a href="/news-national/"><span class="cta">&#128646;</span> National</a>
-    |
-    <a href="/news-international/">
-      <span class="cta">&#9992;</span> International</a
-    >
-    |
-    <a href="/news-search/"><span class="cta">&#128269;</span> Search</a>
-  </small>
+  <nav id="sub-nav" role="navigation" aria-label="navigation">
+    <ul>
+      <li class="nav__item">
+        <a href="/news-archive">All News</a>
+      </li>
+      <li class="nav__item">
+        <a href="/news-local/"><span class="cta">&#128690;</span> Local</a>
+      </li>
+      <li class="nav__item">
+        <a href="/news-national/"
+          ><span class="cta">&#128646;</span> National</a
+        >
+      </li>
+      <li class="nav__item">
+        <a href="/news-international/">
+          <span class="cta">&#9992;</span> International</a
+        >
+      </li>
+      <li class="nav__item">
+        <a href="/news-search/"><span class="cta">&#128269;</span> Search</a>
+      </li>
+    </ul>
+  </nav>
 </section>
 
 <article class="article">

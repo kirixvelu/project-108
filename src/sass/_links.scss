@@ -15,10 +15,11 @@ a:visited {
     color: var(--accent-clr);
   }
 }
-
+.current,
 [aria-current] {
   font-weight: 700;
-  font-style: italic;
+  text-decoration: underline;
+  color: var(--accent-clr);
 }
 
 .icons {
