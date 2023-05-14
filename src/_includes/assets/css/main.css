@@ -1049,7 +1049,6 @@ a:visited:active {
   color: var(--accent-clr);
 }
 
-.current,
 [aria-current] {
   font-weight: 700;
   text-decoration: underline;
