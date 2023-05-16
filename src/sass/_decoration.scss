@@ -47,11 +47,11 @@ a[href^="https://"]:hover::after
 }
 
 main {
-  a[href^="https://"]::before
-  {
-    content: "\🌐 ";
-    font-size: 0.7em;
-  }
+  // a[href^="https://"]::before
+  // {
+  //   content: "\🌐 ";
+  //   font-size: 0.7em;
+  // }
 
   a[href^="mailto"]::before {
     content: " \📧 ";
