@@ -29,7 +29,7 @@ The Ontario legislature also passed the Tamil Genocide Education Week Act, which
 
 Solidarity with our Tamil-Canadians friends and co-workers requires an understanding of their struggle, and the empathy to make it our own. We must stand up for justice whenever we see the abuse of human rights, whether it is here at home, or anywhere else in the world.
 
-As a socialist candidate for mayor, I ensure all my team members are not only aware about the injustice Tamil community is fighting to recover but be prepared to advocate for the best interest of Tamils and other oppressed and exploited communities in Toronto.
+As a socialist candidate for mayor, I make sure all my team members are not only aware about the injustice Tamil community is fighting to recover but be prepared to advocate for the best interest of Tamils and other oppressed communities in Toronto.
 
 To honour the victims of the Tamil Genocide, light a candle on May 18 at 8:18 pm.
 
