@@ -34,9 +34,3 @@ set nextPost = collections.blog | getNextCollectionItem(page) %}
   {% if nextPost %} <i>Next:</i>
   <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a> {% endif %}
 </p>
-<br />
-<p class="center submenu">
-  <a href="/{{ category }}"> &#9783; List</a> |
-  <a href="/journals"> &#9776; Main</a> |
-  <a href="/assist"> &#8633; Help</a>
-</p>
