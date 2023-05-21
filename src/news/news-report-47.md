@@ -5,7 +5,6 @@ date: 2023-05-17
 author: "Kiri Vadivelu"
 tags:
   - local
-  - featured
 ---
 
 Every year, on May 18, thousands of Tamil-Canadians commemorate the Mullivaikkal Massacre, the mass killing of tens of thousands of Sri Lankan Tamils in 2009 during the closing days of the civil war.
