@@ -17,6 +17,8 @@ No doubt, it is good to see some Canadian political leaders address the sufferin
 <figcaption>The Holocaust of Hitler & Rajapaksa | © Kiri Vadivelu</figcaption>
 </figure>
 
+[10 Stages of Genocide](/assets/docs/ten-stages-genocide.pdf)
+
 From 1983 to 2009, the total loss of Tamil civilians due to political violence exceeded 150,000, not including the injured or those still missing. According to the United Nations, approximately 75,000 Tamils were killed in the final months of the state genocidal war between January and May 2009. Any political advocacy without a meaningful action plan for recovery and justice is simply an insult to the victims.
 
 The Sinhalese Buddhist hypocrites celebrated the Tamil genocide with fireworks across Sri Lanka and continue to destroy Hindu temples, school libraries and Tamil memorial sites. 14 years after the genocide, Tamil people who survived continue to live in deplorable poverty under full state surveillance, aggressive hostility and militarized occupation of the northern province.
