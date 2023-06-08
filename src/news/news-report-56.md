@@ -1,6 +1,6 @@
 ---
-title: From Uninformed, Self Entitled Capitalists to Class Conscious Leadership
-description: From Uninformed, Self Entitled Capitalists to Class Conscious Leadership
+title: Converting Complicity of Capitalism for Class Conscious Leadership
+description: Converting Complicity of Capitalism for Class Conscious Leadership
 date: 2023-05-29
 author: "Kiri Vadivelu"
 tags:
