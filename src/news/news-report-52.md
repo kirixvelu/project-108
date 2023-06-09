@@ -1,6 +1,6 @@
 ---
-title: The Tragedy of the Tamil Genocide in Sri Lanka cries out for Justice!
-description: The Tragedy of the Tamil Genocide in Sri Lanka cries out for Justice!
+title: The Tragedy of the Tamil Genocide in Sri Lanka Cries Out for Justice!
+description: The Tragedy of the Tamil Genocide in Sri Lanka Cries Out for Justice!
 date: 2023-05-20
 author: "Kiri Vadivelu"
 tags:
