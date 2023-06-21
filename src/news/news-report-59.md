@@ -13,8 +13,8 @@ Among the 102 candidates in the June 26 Toronto mayor by-election, former city c
 <!-- excerpt -->
 
 <figure>
-{% image "src/assets/images/news-olivia-kiri-toronto.jpg", "Olivia Chow, Kiri Vadivelu, Who Can Unite Torontonians?", "image", [540, 1080] %}
-<figcaption>Olivia Chow, Kiri Vadivelu, Who Can Unite Torontonians? | © Kiri Vadivelu</figcaption>
+{% image "src/assets/images/news-olivia-kiri-toronto.png", "Olivia Chow, Kiri Vadivelu, Who is Fighting for a Workers' Agenda?", "image", [540, 1080] %}
+<figcaption>Olivia Chow, Kiri Vadivelu, Who is Fighting for a Workers' Agenda? | © Kiri Vadivelu</figcaption>
 </figure>
 
 Like the legendary Titanic, Toronto is sinking -- in waves of neo-liberal neglect. Its residents are choking on wildfire smoke, traffic congestion, and social decay. The working class majority simply cannot afford to settle for leaders who are content to rearrange the deck chairs on the imperiled ship.
