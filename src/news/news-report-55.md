@@ -8,7 +8,7 @@ tags:
   - featured
 ---
 
-Socialism is a populist economic and political system based on collective, common, or public ownership of the means of production.
+Socialism is an economic and political system based on collective, common, or public ownership of the means of production.
 
 <!-- excerpt -->
 
