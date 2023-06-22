@@ -5,6 +5,7 @@ date: 2023-06-22
 author: "Rubina Chowdhury"
 tags:
   - local
+  - featured
 ---
 
 Homelessness is a situation in which an individual, family or community lacks safe, proper, and stable housing. The reasons behind homelessness are: systematic or societal barriers, financial instability, lack of employment opportunities, lack of affordable housing, mental health and addiction, physical and cognitive disabilities, sexism, racism, and classism.
