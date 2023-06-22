@@ -5,7 +5,6 @@ date: 2022-01-15
 author: "Sam Mitrani"
 tags:
   - local
-  - featured
 ---
 
 In most of the liberal discussions of the recent police killings of unarmed black men, there is an underlying assumption that the police are supposed to protect and serve the population. That is, after all, what they were created to do.

@@ -5,7 +5,6 @@ date: 2023-05-29
 author: "Kiri Vadivelu"
 tags:
   - national
-  - featured
 ---
 
 The brutal enslavement of millions of Africans was not only a moral travesty but a foundational pillar of the American economy and society. From the exploitation of labor to the violent coercion of human beings, the legacy of slavery continues to reverberate through American history.
