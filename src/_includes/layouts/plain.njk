@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="robots"
+      content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    />
+    <!-- generators -->
+    <title>{{ title or meta.title }}</title>
+    <link rel="icon" sizes="48x48" href="{{ '/favicon.ico' | url }}" />
+    <link rel="canonical" href="{{ meta.url + page.url }}" itemprop="url" />
+    <meta name="description" content="{{ description or meta.description }}" />
+    <meta name="generator" content="{{ eleventy.generator }}" />
+
+    <!-- prefetch -->
+    <link rel="dns-prefetch" href="{{ meta.url | url }}" />
+    <link rel="preload" as="image" href="/kiri-vadivelu.jpg" />
+
+    <!-- schema for website -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "Person",
+        "name": "Kiri Vadivelu",
+        "url": "https://kiri-vadivelu.ca",
+        "image": "https://kiri-vadivelu.ca/kiri-vadivelu.jpg",
+        "sameAs": [
+          "https://facebook.com/kiri.vadivelu",
+          "https://twitter.com/kiri_vadivelu",
+          "https://instagram.com/kiri_vadivelu",
+          "https://linkedin.com/in/kiri-vadivelu",
+          "https://about.me/kiri_vadivelu"
+        ],
+        "jobTitle": "Webmaster",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Digital Designers"
+        }
+      }
+    </script>
+
+    <!-- feed xml/ json -->
+    <link
+      rel="alternate"
+      href="{{ meta.feed.path | url }}"
+      type="application/atom+xml"
+      title="{{ meta.title }}"
+    />
+    <link
+      rel="alternate"
+      href="{{ meta.jsonfeed.path | url }}"
+      type="application/json"
+      title="{{ meta.title }}"
+    />
+
+    <!-- 11ty (11ty.dev) -->
+    {% include "../components/meta.njk" %}
+
+    <!-- analytics -->
+    <script defer src="{{ '/assets/js/metric.js' | url }}"></script>
+
+    <!-- styles -->
+    {% set css %} {% include "assets/css/main.css" %} {% endset %}
+    <style>
+      {{ css | safe }}
+    </style>
+
+    <!-- verification -->
+    <meta name="yandex-verification" content="0e5a7d1a39fc2791" />
+    <meta
+      name="google-site-verification"
+      content="T-DI1gm3vZcLXPw35OnTPl7Ke7am206654WrBQBdzXo"
+    />
+    <meta name="p:domain_verify" content="dcbdfe521eb082dbb108a118efdbdde3" />
+  </head>
+
+  <body>
+    <main role="main">
+      <div class="main">
+        {{ content | safe }}
+      </div>
+    </main>
+    {% include "../components/footer.njk" %}
+  </body>
+</html>

@@ -11,6 +11,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addLayoutAlias("main", "layouts/main");
   eleventyConfig.addLayoutAlias("base", "layouts/base");
+  eleventyConfig.addLayoutAlias("plain", "layouts/plain");
   eleventyConfig.addLayoutAlias("page", "layouts/page");
   eleventyConfig.addLayoutAlias("search", "layouts/search");
   eleventyConfig.addLayoutAlias("article", "layouts/article");
@@ -21,7 +22,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu.jpg");
-  eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu-for-mayor.jpg");
+  eleventyConfig.addPassthroughCopy("./src/kiri-vadivelu-small.jpg");
+  eleventyConfig.addPassthroughCopy("./src/friends-forever-piano.mp3");
 
   eleventyConfig.addFilter("search", searchFilter);
 
