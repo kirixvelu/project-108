@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
 descriptions: Procedures on collection and disclosure of personal information
+permalink: /privacy/
 ---
 
 # {{ title }}

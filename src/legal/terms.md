@@ -1,6 +1,7 @@
 ---
 title: "Terms and Conditions"
 description: The policy outlines the rules of engagement and compliance with local laws
+permalink: /terms/
 ---
 
 # {{ title }}

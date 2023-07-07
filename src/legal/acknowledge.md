@@ -1,6 +1,7 @@
 ---
 title: "Land Acknowledgement"
 description: "Recognizing the history of Indigenous people and their role in protecting the land and natural resources for human existence"
+permalink: /acknowledge/
 ---
 
 # {{ title }}

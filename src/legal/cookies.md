@@ -1,6 +1,7 @@
 ---
 title: "Cookies Policy"
 description: "Cookies policy explains privacy and consent related expectations when accessing contents of the website"
+permalink: /cookies/
 ---
 
 # Cookies Policy

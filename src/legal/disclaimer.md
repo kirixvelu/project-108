@@ -1,6 +1,7 @@
 ---
 title: "Disclaimer Notice"
 description: Disclaimer explains the limitations and liabilities of web contents for consumers
+permalink: /disclaimer/
 ---
 
 # {{ title }}
