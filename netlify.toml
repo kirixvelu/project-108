@@ -5,7 +5,7 @@
 
 # Security policy
 [[headers]]
-for = "/*"
+  for = "/*"
 
 [headers.values]
   X-Frame-Options = "DENY"
@@ -18,90 +18,90 @@ for = "/*"
 
 # page routes
 [[redirects]]
-from = "/blog"
-to = "/journals"
-status = 301
-force = true
+  from = "/blog"
+  to = "/journals"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/support"
-to = "/assist"
-status = 301
-force = true
+  from = "/support"
+  to = "/assist"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/post"
-to = "/archives"
-status = 301
-force = true
+  from = "/post"
+  to = "/archives"
+  status = 301
+  force = true
 
 [[redirects]]
 from = "/feed"
-to = "/feed.xml"
-status = 301
-force = true
+  to = "/feed.xml"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/rss"
-to = "/rss.xml"
-status = 301
-force = true
+  from = "/rss"
+  to = "/rss.xml"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/sitemap"
-to = "/sitemap.xml"
-status = 301
-force = true
+  from = "/sitemap"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
 
 
 # social media 
 [[redirects]]
-from = "/twitter"
-to = "https://twitter.com/kiri_vadivelu"
-status = 301
-force = true
+  from = "/twitter"
+  to = "https://twitter.com/kiri_vadivelu"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/instagram"
-to = "https://instagram.com/kiri_vadivelu"
-status = 301
-force = true
+  from = "/instagram"
+  to = "https://instagram.com/kiri_vadivelu"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/facebook"
-to = "https://facebook.com/kiri.vadivelu"
-status = 301
-force = true
+  from = "/facebook"
+  to = "https://facebook.com/kiri.vadivelu"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/linkedin"
-to = "https://linkedin.com/in/kiri-vadivelu"
-status = 301
-force = true
+  from = "/linkedin"
+  to = "https://linkedin.com/in/kiri-vadivelu"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/github"
-to = "https://github.com/kiri-vadivelu"
-status = 301
-force = true
+  from = "/github"
+  to = "https://github.com/kiri-vadivelu"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/hashnode"
-to = "https://scarborough.hashnode.dev"
-status = 301
-force = true
+  from = "/hashnode"
+  to = "https://scarborough.hashnode.dev"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/substack"
-to = "https://scarborough.substack.com"
-status = 301
-force = true
+  from = "/substack"
+  to = "https://scarborough.substack.com"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/tealfeed"
-to = "https://tealfeed.com/scarborough"
-status = 301
-force = true
+  from = "/tealfeed"
+  to = "https://tealfeed.com/scarborough"
+  status = 301
+  force = true
 
 # netlify redirect
 [[redirects]]
